@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>ares (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Tetris (U) [!].nes</path>
+		<name>Tetris</name>
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900223T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<playcount>7</playcount>
+		<lastplayed>20240807T171244</lastplayed>
+	</game>
+</gameList>
