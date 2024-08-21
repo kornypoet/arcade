@@ -28,30 +28,6 @@ As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks 
 		<lastplayed>20240529T184523</lastplayed>
 	</game>
 	<game>
-		<path>./1944.zip</path>
-		<name>1944 : The Loop Master</name>
-		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
-		<rating>0.9</rating>
-		<releasedate>20000620T000000</releasedate>
-		<developer>8ing</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-		<playcount>100</playcount>
-		<lastplayed>20240604T175215</lastplayed>
-	</game>
-	<game>
-		<path>./19xx.zip</path>
-		<name>19XX : The War Against Destiny</name>
-		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./excitebk.zip</path>
 		<name>Excite Bike (PlayChoice-10)</name>
 		<desc>Race by yourself against the clock or compete with other motocross riders on 5 tracks full of long straights, large jumps and obstacles to win the Excitebike championship.
@@ -440,17 +416,6 @@ Hidden bonus items have also been added to the game; two examples are an item th
 		<players>1-3</players>
 	</game>
 	<game>
-		<path>./slrasslt.zip</path>
-		<name>Solar Assault</name>
-		<desc>The game play is similar to other 3D shooters like Star Fox, where the player must move both horizontally and vertically. Like the other games in the Gradius series, there is no health bar, meaning one hit ends up in death; however, this time the player may be able to collect a "shield" power up which can take one hit or two hits before the ship's destruction. The other major gameplay change is the ability to adjust the speed, which is necessary to time the avoidance of certain obstacles and enemies.</desc>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./sfa.zip</path>
 		<name>Street Fighter Alpha : Warriors' Dreams</name>
 		<desc>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</desc>
@@ -545,20 +510,6 @@ Final Fight consists of six stages or "rounds", as well as two bonus rounds. Eac
 		<lastplayed>20240611T232826</lastplayed>
 	</game>
 	<game>
-		<path>./1943u.zip</path>
-		<name>1943: The Battle of Midway</name>
-		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
-As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240529T213149</lastplayed>
-	</game>
-	<game>
 		<path>./bublboblr.zip</path>
 		<name>Bubble Bobble</name>
 		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
@@ -572,23 +523,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<players>1-2</players>
 		<playcount>1</playcount>
 		<lastplayed>20240613T155340</lastplayed>
-	</game>
-	<game>
-		<path>./1941.zip</path>
-		<name>1941: Counter Attack</name>
-		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
-
-The game consists of six levels.
-
-It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
-		<rating>0.8</rating>
-		<releasedate>19900201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20240612T222606</lastplayed>
 	</game>
 	<game>
 		<path>./tmnta.zip</path>
@@ -739,17 +673,6 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<lastplayed>20240624T171411</lastplayed>
 	</game>
 	<game>
-		<path>./aerofgt.zip</path>
-		<name>Aero Fighters</name>
-		<desc>A superb vertically scrolling shoot-em-up in which the player chooses an ace fighter pilot from a selection of 4 countries (USA, Japan, Sweden and Britain) and takes to the skies to destroy enemy jets, boats, helicopt</desc>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>Video System</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./garou.zip</path>
 		<name>Garou: Mark of the Wolves</name>
 		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
@@ -817,17 +740,6 @@ The player chooses a team of two fighters, each sporting their own life gauge; a
 		<players>1-2</players>
 		<playcount>1</playcount>
 		<lastplayed>20240718T184837</lastplayed>
-	</game>
-	<game>
-		<path>./sonicwi3.zip</path>
-		<name>Aero Fighters 3</name>
-		<desc>Aero Fighters 3 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 10 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 8 stages placed on several countries (Japan, Germany, Libya, Egypt, Pacific, U.S.A., England, France, Panama, Thailand, Ukraine, Atlantic and Space), all of them with a boss battle.</desc>
-		<rating>0.8</rating>
-		<releasedate>19951117T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./samsho2.zip</path>
@@ -909,17 +821,6 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
 		<publisher>Capcom</publisher>
 		<genre>Beat'em Up</genre>
 		<players>1-3</players>
-	</game>
-	<game>
-		<path>./sonicwi2.zip</path>
-		<name>Aero Fighters 2</name>
-		<desc>Aero Fighters 2 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 8 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 10 stages (Japan, Brazil, Atlantic, U.S.A., France, Australia, Himalayas, Mexico, Hawaii and Space), all of them with a boss battle.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940826T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./turfmast.zip</path>
@@ -1095,17 +996,6 @@ Also included are new audible calls and voice-overs, smoother animations and new
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./tektagt.zip</path>
-		<name>Tekken Tag Tournament</name>
-		<desc>Tekken Tag Tournament is a 'Dream Match' Iron Fist Tournament, and it does not have a plot fitting within the Tekken story timeline. The game is an enhanced version of Tekken 3 including a new Tag feature - where the player selects two fighters and can change between characters during gameplay, and perform tag-team combos. The first side to have a character to be knocked out is the loser. The character list includes almost (if not all) characters from all 3 previous games.</desc>
-		<rating>0.9</rating>
-		<releasedate>19990701T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./gtfore03.zip</path>
 		<name>Golden Tee Fore! 2003</name>
 		<rating>0.8</rating>
@@ -1143,28 +1033,6 @@ Annihilate your competition and claim the right to test your skills against the 
 		<lastplayed>20240722T182731</lastplayed>
 	</game>
 	<game>
-		<path>./brvblade.zip</path>
-		<name>Brave Blade</name>
-		<desc>A 3-D vertically scrolling shoot'em up.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Eighting</developer>
-		<publisher>Eighting</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./cyvern.zip</path>
-		<name>Cyvern - The Dragon Weapons</name>
-		<desc>Take control of 3 artificially enhanced elemental dragons and battle against tons of enemy airships and hulking bosses in this excellent overhead shooter. Features awesome graphics &amp; sound effects as well as responsive controls and a high level of challenge.</desc>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./dstlk.zip</path>
 		<name>Darkstalkers: The Night Warriors</name>
 		<desc>People tremble in fear of these monsters. A mysterious force awakens them from their long slumber. 'Arise and show your fangs!' The silence of the night is broken by the growls and roars of these evil spirits which have been summoned from beyond. They are coming... tonight! DarkStalkers - the warriors of the night!
@@ -1180,17 +1048,6 @@ The unimaginable secret power of the dark is unleashed!</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./doa2.zip</path>
-		<name>Dead or Alive 2</name>
-		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
-		<rating>0.9</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./deathsml.zip</path>
 		<name>Deathsmiles</name>
 		<desc>Windia, a young girl living in London, mysteriously vanishes after being drawn into a flash of light.
@@ -1200,28 +1057,6 @@ Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the
 		<developer>Cave</developer>
 		<publisher>AMI</publisher>
 		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./dragnblz.zip</path>
-		<name>Dragon Blaze</name>
-		<desc>In a distant land, four brave dragonriders must make use of every trick in the book to survive wave after wave of powerful monsters and hulking bosses in this Psikyo shoot'em up masterpiece. Features some truly beautiful graphics &amp; sound, excellent control that features some interesting gameplay mechanics and tons of challenge.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000501T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./dspirit.zip</path>
-		<name>Dragon Spirit</name>
-		<desc>Dragon Spirit scorches the screen with a mythical fantasy theme hot enough to thrill players throughout the land. Come with us, and journey to a time long ago when prehistoric beings populated the globe. Where after a millennium of captivity, an ugly serpent demon named 'Zawell' escapes imprisonment and kidnaps Alicia, princess to the kingdom of Mitgult. A young, crafty soldier Amul is selected to rescue the princess and destroy Zawell. In praying to the gods for strength and courage, he points his sword high toward the heavens. Suddenly he is transformed into an all-powerful blue dragon, bestowed with special powers. Though gifted with a lethal air and ground attack, this is not enough. He must locate and obtain extra powers along the way. The demon has instructed nine of the mightiest beasts to stop Amul before reaching his goal. Do not underestimate this soldier, he has the Dragon Spirit!</desc>
-		<rating>0.5</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -1247,17 +1082,6 @@ Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./guwange.zip</path>
-		<name>Guwange</name>
-		<desc>The story of Guwange is set during the Muromachi period of Japan. During this time, increasing numbers of people suffer possession by shikigami. Although the shikigami grant great spiritual powers, the strain inflicted on the host causes them to die exactly one year after possession. However, a legend has sprung up regarding Guwange, the malevolent god trapped in Mt. Gokumon (i.e. Hell Gate). If one possessed by a shikigami can gather talismans of the five Chinese elements?wood, fire, earth, metal, water?from five demons serving Guwange, then infiltrate Gokumon and slay Guwange, the shikigami will be destroyed and the one possessed will not suffer a premature death.</desc>
-		<rating>0.9</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>Atlus</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./illvelo.zip</path>
 		<name>Illmatic Envelope</name>
 		<desc>Illmatic Envelope, commonly abbreviated Illvelo, is a 2008 cartoon style shoot-'em-up for the Sega NAOMI arcade platform by Milestone. They ported it to the Nintendo Wii later that year as Illvelo Wii, with Sega partnering in its release.</desc>
@@ -1265,21 +1089,6 @@ Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the
 		<releasedate>20080101T000000</releasedate>
 		<developer>Milestone</developer>
 		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./lwings.zip</path>
-		<name>Legendary Wings</name>
-		<desc>The human race was about to achieve the evolution from an ancient civilization to a state of millennium with the help of DARK, a super powerful computer left by spacemen long ago. DARK suddenly began to malfunction.
-
-The world was in a panic. The human race was on the brink of extinction.
-
-ARES, god of war, gave two young men Wings of Love and Courage and entrusted them with the survival and future of the human race. Time is of the essence. Destroy DARK Take wings, legendary soldiers.</desc>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
 		<genre>Shoot'em Up / Vertical</genre>
 		<players>1-2</players>
 	</game>
@@ -1374,50 +1183,6 @@ The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./rsgun.zip</path>
-		<name>Radiant Silvergun</name>
-		<desc>Sometime in the future, scientists have discovered a diamond-shaped alien device deep in space. The mysterious alien device detonates while being probed, starting a chain reaction which destroys the entire planet. Fortunately, there's a group of slap-happy space cadets who are up in orbit who aren't affected by the explosion, but witness it, so they decide to do something about it - which means finding a way to travel back in time to avert the catastrophe before it happens!
-
-Radiant Silvergun is a vertically scrolling shoot-em-up rendered with a superb mix of 2 &amp; 3-D graphics, and is widely considered to be the finest ever game of its type in what is a very crowded genre.
-
-Part of the reason for the game's huge success is in the implementation of its weapons system. Unlike other shoot-em-ups, all of the game's weapons are available to the player from the very beginning. Silvergun's control panel consists of 3 different fire buttons, each of which activates a different weapon; either 'Vulcan', 'Homing' or 'Spread'. In addition, players can activate 4 extra weapons using a combination of the t3 fire buttons. These are:
-
-A + B = Homing Plasma 
-A + C = Backwards Wide Shot 
-B + C = Homing Spread 
-A + B + C = Radiant Sword
-
-At the start of a game, the player's weapons are very weak, but they can be 'powered-up' by shooting same-coloured enemies (chaining), in a fashion similar to gaining experience for a weapon in a role playing game.</desc>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./raiden.zip</path>
-		<name>Raiden</name>
-		<desc>In the year 2090, Earth has suddenly become the target of deranged aliens. Following the invasion, a new cutting-edge weapon, the Raiden Supersonic Attack Fighter, based on the destroyed alien craft, is created for humanity's hope for survival.</desc>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Seibu Kaihatsu</developer>
-		<publisher>Fabtek</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./raiden2.zip</path>
-		<name>Raiden II</name>
-		<desc>Excellent sequel to the classic original "Raiden". As in the original, players control a fighter jet/spaceship through various levels while shooting down other planes and bombing tanks on the ground.</desc>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Seibu Kaihatsu</developer>
-		<publisher>Seibu Kaihatsu</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./redearth.zip</path>
 		<name>Red Earth</name>
 		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
@@ -1425,19 +1190,6 @@ At the start of a game, the player's weapons are very weak, but they can be 'pow
 		<releasedate>19960101T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./soulclbr.zip</path>
-		<name>Soul Calibur</name>
-		<desc>The mystical sword of the legends, the "Soul Edge", ended up in the hands of the dreaded pirate Cervantes de Leon of Spain. For the next 25 years he stayed dormant on the remnants of a Spanish port town, taking the souls of those who reached him during their search of the sword. His reign of terror was soon to start, but through the joined efforts of Greek divine warrior Sophitia Alexandra and Japanese kunoichi Taki, he was stopped and killed, with one of the twin Soul Edge blades being shattered in the process. As it was about to tear itself apart, young Prussian knight Siegfried Schtauffen approached the port town and battled Cervantes, whose corpse had been momentarily reanimated through Soul Edge's will. After emerging victorious, Siegfried's attention turned unto the sword. The moment he took the hilt of the cursed blade, Soul Edge released a bright column of light into the sky. This was known as the "Evil Seed", bound to bring calamity and death in its wake.
-
-Three years after those events, Soul Edge uses Siegfried as its host, and now Siegfried is Nightmare, a knight wearing azure armor and sporting a hideously deformed right arm. Europe plunges into a vortex of slaughters as he and his followers claim souls to strengthen the blade in its weakened state. Unknown to them, a group of warriors met on their journey to stop Soul Edge, and with them three sacred weapons join once again.</desc>
-		<rating>0.6</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
 		<genre>Fighting</genre>
 		<players>1-2</players>
 	</game>
@@ -1455,23 +1207,6 @@ During a bout, players will be able to release coloured gems from successful att
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./terracren.zip</path>
-		<name>Terra Cresta</name>
-		<desc>Terra Cresta is a vertically-scrolling shoot-em-up set over a constantly scrolling landscape of islands and enemy installations. The player is under constant attack from enemy spaceship waves, ground-based guns and turrets, dinosaurs and three different mothercraft ships. 
-
-The levels are littered with ground-based silos bearing numbers between 2 and 5. These can be shot to release a player ship component, which then attaches to the player's current ship, increasing both its size and firepower. Power-ups available are 2-Wide shot, 3-Rear Shot, 4-Front cannon and 5-Rear shield. 
-
-Using the 'Formation' button splits the ship parts into a formation for limited time, giving increased fire power. The number of parts acquired determines the formation. For example, if the player has picked up two ship parts then a triangle is formed, with the player's main ship at the rear of the formation, with additional two ship components positioned at the front edge of the triangle. 
-
-When all four numbered parts have been collected, the player's ship transforms into a flaming Phoenix, and is indestructible for a limited time.</desc>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./outfxies.zip</path>
 		<name>The Outfoxies</name>
 		<desc>A platform 'versus' shoot'em up in which either one player (playing against the computer) or two players (playing against each other) attempt to destroy each other by any means necessary. The levels themselves are interesting and varied, with airships, planes etc. providing a detailed and highly interactive backdrop in which the players do battle. That interactivity is increased further with the introduction of destructible sections which, when blown up, can often open up new areas or rooms. Each level is littered with a variety of weapons that can be picked up and utilized by the player(s). Graphically, Outfoxies employed superb sprite scale and rotation techniques that elevated the already fun gameplay still further. The aeroplane level, for instance, dips and sways, bringing problems of inertia and gravity to the platform action. Also; the in-game camera zooms in and out of the level, depending on how far away the two opponents are from each other. Playable characters range from a monkey to a pair of psychotic school children, with each character choice offering the player different aptitudes (the monkey can jump higher, for example). A fun enough game in one-player mode, Outfoxies really came into its own when two human protagonists took part.</desc>
@@ -1483,17 +1218,6 @@ When all four numbered parts have been collected, the player's ship transforms i
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./twinspri.zip</path>
-		<name>Twinkle Star Sprites</name>
-		<desc>Competitive shooter with flavors of Galaga, Fighting Games, and Sailor Moon.</desc>
-		<rating>0.7</rating>
-		<releasedate>19970131T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./vsav.zip</path>
 		<name>Vampire Savior: The Lord of Vampire</name>
 		<desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
@@ -1502,17 +1226,6 @@ When all four numbered parts have been collected, the player's ship transforms i
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./zerogu2.zip</path>
-		<name>Zero Gunner 2</name>
-		<desc>Zero Gunner 2 is an arcade shoot-'em-up game developed by Psikyo as the direct sequel to Zero Gunner. It was released for Sega NAOMI hardware before being ported to the Sega Dreamcast. No versions have left Japan.</desc>
-		<rating>0.8</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shoot'em Up</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -1948,32 +1661,6 @@ Each player character has a different weapon or power that can be used throughou
 		<players>1-4</players>
 		<playcount>1</playcount>
 		<lastplayed>20240728T104333</lastplayed>
-	</game>
-	<game>
-		<path>./galaga88.zip</path>
-		<name>Galaga '88</name>
-		<desc>Galaga '88 is an updated version of the old favorite, "Galaga", with more invaders and more player firepower. Galaga '88 gives players a chance to once again repel the invaders from the Galagan Kingdom. One or two players can try their hand at fighting the invaders. This time the Galagans have four more allies, each with unique weapons and defenses that a player must overcome. 
-
-By destroying special enemies or obstacles the player can get 'items'. When a player has two items, they can warp to another dimension to confront more Galagan ships with new strategies. In the Challenging Stages (labelled in this game as 'That's Galactic Dancin'), the player shoots down as many invaders as possible as the Galagans dance to a waltz, tango, march or jazz tune. 
-
-The player selects single or dual ship power. The objective is to destroy all the Galagan foes in each of the 29 sectors of the galaxy, with each sector more difficult than the last. 
-
-Unique Features: 
-More opponents. In addition to Boss, Goei and Zako, the original Galagan crew, Don, Nin, Ban, and Gan have been added. Each of the Galagans has a unique way of challenging the players. 
-Different types of ships. Players can choose single or dual ships (if the game option is set for dual and single). When the player retrieves a dual ship from the Boss's tractor beam, it turns into a triple ship with ten times the power of a single ship. 
-Challenging Stages. In the 'That's Galactic Dancin' stages, the Galagan invaders dance to a waltz, tango, Sousa march or jazz tune, while the player shoots down Galagans to earn bonus points. 
-Warping to a new dimension. By destroying particular enemies or obstacles and capturing two of their items, the player can warp to the next dimension. 
-Player challenge. Each dimension has different mix of Galagans with different strategies to be overcome. 
-Win back captured ships. The player can win back ships captured in the Boss Galaga's tractor beam. When the player destroys the Boss, the ships are released. If the player retrieves them, the ships become dual ships if they were single and triple if they were dual. 
-High Score Mode. Upon completing a game, a player can enter his initials if they are among the top eight scorers on the game.</desc>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20240728T145359</lastplayed>
 	</game>
 	<game>
 		<path>./88games.zip</path>
@@ -2893,19 +2580,6 @@ The basic play mechanic of collecting objects to clear a level, as well as the p
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20240802T183101</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore06.zip</path>
-		<name>Golden Tee Fore! 2006 Complete</name>
-		<desc>Golden Tee Fore! Complete is a golf game and part on a long series, whose signature feature is the use of a trackball to determine the power, direction and curve of the player's golf shot. Play modes include casual 18-hole golf, closest to the pin, and online tournaments.
-
-As with most golfing games, players have a full selection of clubs from which to choose, although the game will always suggest a club for each shot. Wind strength and direction must be accounted for when choosing the club and making the shot. The game also has dynamic weather in the form of light rain showers, these affect both the way the courses play and visibility. An on-screen indicator shows both the direction and strength of the wind during open play, with another indictor showing the angle and elevation of the putting green once the player has reached it.</desc>
-		<rating>0.8</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Sports / Golf</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20240802T183455</lastplayed>
 	</game>
 	<game>
 		<path>./quarth.zip</path>
@@ -4278,42 +3952,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<lastplayed>20240815T224145</lastplayed>
 	</game>
 	<game>
-		<path>./1942.zip</path>
-		<name>1942</name>
-		<desc>"1942" is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet. 
-
-The player pilots a plane dubbed the "Super Ace" (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots. 
-
-During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points.
-
-At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. "1942" differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.</desc>
-		<rating>0.7</rating>
-		<releasedate>19841201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-		<playcount>10</playcount>
-		<controller>joystick_arcade_6_buttons</controller>
-		<lastplayed>20240815T225422</lastplayed>
-	</game>
-	<game>
-		<path>./phoenix.zip</path>
-		<name>Phoenix</name>
-		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
-
-According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japanese developer." Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
-		<rating>0.7</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Amstar</developer>
-		<publisher>Centuri</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>20</playcount>
-		<lastplayed>20240812T172951</lastplayed>
-	</game>
-	<game>
 		<path>./cotton.zip</path>
 		<name>Cotton - Fantastic Night Dreams</name>
 		<desc>Cotton is a shooter starring a cute, moderately psychotic witch and a fairy. It was originally an arcade game, released in Japan in 1991; it was ported to many other platforms.</desc>
@@ -4488,19 +4126,6 @@ The Arcade mode offers a no-frills competition against the computerized AI. If p
 		<lastplayed>20240816T153710</lastplayed>
 	</game>
 	<game>
-		<path>./cairblad.zip</path>
-		<name>Change Air Blade</name>
-		<desc>Change Air Blade is a 2D vertical scrolling shooter, based on a "boss rush" idea. The player can select one from eight different ships (each ship has its own special form), and fights against another ships. Basically, each normal enemy is boss, with a long life bar, and has support from smaller minions. The player has the main gun and several bombs to use, and must win an air duel with the boss to progress.</desc>
-		<rating>0.7</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Aisystem Tokyo</developer>
-		<publisher>Sammy Corporation</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240816T153842</lastplayed>
-	</game>
-	<game>
 		<path>./gnbarich.zip</path>
 		<name>Gunbarich</name>
 		<desc>Shoot back the enemy bullets! The breakout-like shooter with a variety of items and gimmicks!
@@ -4522,19 +4147,6 @@ Be the world's best GUNBARICH!</desc>
 		<players>1</players>
 		<playcount>2</playcount>
 		<lastplayed>20240816T153957</lastplayed>
-	</game>
-	<game>
-		<path>./kingdmgp.zip</path>
-		<name>Kingdom Grandprix</name>
-		<desc>A vertically scrolling shooter with a racing theme. You have the choice of either firing (when the button is pressed) or boosting (when the button is held).</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Raizing</developer>
-		<publisher>Raizing</publisher>
-		<genre>Shoot'em Up / Vertical</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240816T154202</lastplayed>
 	</game>
 	<game>
 		<path>./knights.zip</path>
@@ -4855,5 +4467,462 @@ By the mid-80s, power-ups were popular in most types of arcade games, and Arkano
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240819T091104</lastplayed>
+	</game>
+	<game>
+		<path>./phoenix.zip</path>
+		<name>Phoenix</name>
+		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
+
+According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japanese developer." Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Amstar</developer>
+		<publisher>Centuri</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>23</playcount>
+		<lastplayed>20240820T084210</lastplayed>
+	</game>
+	<game>
+		<path>./tektagt.zip</path>
+		<name>Tekken Tag Tournament</name>
+		<desc>Tekken Tag Tournament is a 'Dream Match' Iron Fist Tournament, and it does not have a plot fitting within the Tekken story timeline. The game is an enhanced version of Tekken 3 including a new Tag feature - where the player selects two fighters and can change between characters during gameplay, and perform tag-team combos. The first side to have a character to be knocked out is the loser. The character list includes almost (if not all) characters from all 3 previous games.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20240820T194611</lastplayed>
+	</game>
+	<game>
+		<path>./doa2.zip</path>
+		<name>Dead or Alive 2</name>
+		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20240820T194632</lastplayed>
+	</game>
+	<game>
+		<path>./soulclbr.zip</path>
+		<name>Soul Calibur</name>
+		<desc>The mystical sword of the legends, the "Soul Edge", ended up in the hands of the dreaded pirate Cervantes de Leon of Spain. For the next 25 years he stayed dormant on the remnants of a Spanish port town, taking the souls of those who reached him during their search of the sword. His reign of terror was soon to start, but through the joined efforts of Greek divine warrior Sophitia Alexandra and Japanese kunoichi Taki, he was stopped and killed, with one of the twin Soul Edge blades being shattered in the process. As it was about to tear itself apart, young Prussian knight Siegfried Schtauffen approached the port town and battled Cervantes, whose corpse had been momentarily reanimated through Soul Edge's will. After emerging victorious, Siegfried's attention turned unto the sword. The moment he took the hilt of the cursed blade, Soul Edge released a bright column of light into the sky. This was known as the "Evil Seed", bound to bring calamity and death in its wake.
+
+Three years after those events, Soul Edge uses Siegfried as its host, and now Siegfried is Nightmare, a knight wearing azure armor and sporting a hideously deformed right arm. Europe plunges into a vortex of slaughters as he and his followers claim souls to strengthen the blade in its weakened state. Unknown to them, a group of warriors met on their journey to stop Soul Edge, and with them three sacred weapons join once again.</desc>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20240820T195518</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore06.zip</path>
+		<name>Golden Tee Fore! 2006 Complete</name>
+		<desc>Golden Tee Fore! Complete is a golf game and part on a long series, whose signature feature is the use of a trackball to determine the power, direction and curve of the player's golf shot. Play modes include casual 18-hole golf, closest to the pin, and online tournaments.
+
+As with most golfing games, players have a full selection of clubs from which to choose, although the game will always suggest a club for each shot. Wind strength and direction must be accounted for when choosing the club and making the shot. The game also has dynamic weather in the form of light rain showers, these affect both the way the courses play and visibility. An on-screen indicator shows both the direction and strength of the wind during open play, with another indictor showing the angle and elevation of the putting green once the player has reached it.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Sports / Golf</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<lastplayed>20240820T200717</lastplayed>
+	</game>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>"1942" is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet. 
+
+The player pilots a plane dubbed the "Super Ace" (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots. 
+
+During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points.
+
+At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. "1942" differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.</desc>
+		<rating>0.8</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<lastplayed>20240820T201657</lastplayed>
+	</game>
+	<game>
+		<path>./lwings.zip</path>
+		<name>Legendary Wings</name>
+		<desc>The human race was about to achieve the evolution from an ancient civilization to a state of millennium with the help of DARK, a super powerful computer left by spacemen long ago. DARK suddenly began to malfunction.
+
+The world was in a panic. The human race was on the brink of extinction.
+
+ARES, god of war, gave two young men Wings of Love and Courage and entrusted them with the survival and future of the human race. Time is of the essence. Destroy DARK Take wings, legendary soldiers.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240820T203624</lastplayed>
+	</game>
+	<game>
+		<path>./terracren.zip</path>
+		<name>Terra Cresta</name>
+		<desc>Terra Cresta is a vertically-scrolling shoot-em-up set over a constantly scrolling landscape of islands and enemy installations. The player is under constant attack from enemy spaceship waves, ground-based guns and turrets, dinosaurs and three different mothercraft ships. 
+
+The levels are littered with ground-based silos bearing numbers between 2 and 5. These can be shot to release a player ship component, which then attaches to the player's current ship, increasing both its size and firepower. Power-ups available are 2-Wide shot, 3-Rear Shot, 4-Front cannon and 5-Rear shield. 
+
+Using the 'Formation' button splits the ship parts into a formation for limited time, giving increased fire power. The number of parts acquired determines the formation. For example, if the player has picked up two ship parts then a triangle is formed, with the player's main ship at the rear of the formation, with additional two ship components positioned at the front edge of the triangle. 
+
+When all four numbered parts have been collected, the player's ship transforms into a flaming Phoenix, and is indestructible for a limited time.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Altr • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T202526</lastplayed>
+	</game>
+	<game>
+		<path>./1943u.zip</path>
+		<name>1943: The Battle of Midway</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T204005</lastplayed>
+	</game>
+	<game>
+		<path>./dspirit.zip</path>
+		<name>Dragon Spirit</name>
+		<desc>Dragon Spirit scorches the screen with a mythical fantasy theme hot enough to thrill players throughout the land. Come with us, and journey to a time long ago when prehistoric beings populated the globe. Where after a millennium of captivity, an ugly serpent demon named 'Zawell' escapes imprisonment and kidnaps Alicia, princess to the kingdom of Mitgult. A young, crafty soldier Amul is selected to rescue the princess and destroy Zawell. In praying to the gods for strength and courage, he points his sword high toward the heavens. Suddenly he is transformed into an all-powerful blue dragon, bestowed with special powers. Though gifted with a lethal air and ground attack, this is not enough. He must locate and obtain extra powers along the way. The demon has instructed nine of the mightiest beasts to stop Amul before reaching his goal. Do not underestimate this soldier, he has the Dragon Spirit!</desc>
+		<rating>0.5</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shoot'em Up / Vertical</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20240820T204708</lastplayed>
+	</game>
+	<game>
+		<path>./galaga88.zip</path>
+		<name>Galaga '88</name>
+		<desc>Galaga '88 is an updated version of the old favorite, "Galaga", with more invaders and more player firepower. Galaga '88 gives players a chance to once again repel the invaders from the Galagan Kingdom. One or two players can try their hand at fighting the invaders. This time the Galagans have four more allies, each with unique weapons and defenses that a player must overcome. 
+
+By destroying special enemies or obstacles the player can get 'items'. When a player has two items, they can warp to another dimension to confront more Galagan ships with new strategies. In the Challenging Stages (labelled in this game as 'That's Galactic Dancin'), the player shoots down as many invaders as possible as the Galagans dance to a waltz, tango, march or jazz tune. 
+
+The player selects single or dual ship power. The objective is to destroy all the Galagan foes in each of the 29 sectors of the galaxy, with each sector more difficult than the last. 
+
+Unique Features: 
+More opponents. In addition to Boss, Goei and Zako, the original Galagan crew, Don, Nin, Ban, and Gan have been added. Each of the Galagans has a unique way of challenging the players. 
+Different types of ships. Players can choose single or dual ships (if the game option is set for dual and single). When the player retrieves a dual ship from the Boss's tractor beam, it turns into a triple ship with ten times the power of a single ship. 
+Challenging Stages. In the 'That's Galactic Dancin' stages, the Galagan invaders dance to a waltz, tango, Sousa march or jazz tune, while the player shoots down Galagans to earn bonus points. 
+Warping to a new dimension. By destroying particular enemies or obstacles and capturing two of their items, the player can warp to the next dimension. 
+Player challenge. Each dimension has different mix of Galagans with different strategies to be overcome. 
+Win back captured ships. The player can win back ships captured in the Boss Galaga's tractor beam. When the player destroys the Boss, the ships are released. If the player retrieves them, the ships become dual ships if they were single and triple if they were dual. 
+High Score Mode. Upon completing a game, a player can enter his initials if they are among the top eight scorers on the game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20240820T205156</lastplayed>
+	</game>
+	<game>
+		<path>./raiden.zip</path>
+		<name>Raiden</name>
+		<desc>In the year 2090, Earth has suddenly become the target of deranged aliens. Following the invasion, a new cutting-edge weapon, the Raiden Supersonic Attack Fighter, based on the destroyed alien craft, is created for humanity's hope for survival.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Fabtek</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240820T205534</lastplayed>
+	</game>
+	<game>
+		<path>./1941.zip</path>
+		<name>1941: Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<rating>0.8</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T205658</lastplayed>
+	</game>
+	<game>
+		<path>./aerofgt.zip</path>
+		<name>Aero Fighters</name>
+		<desc>A superb vertically scrolling shoot-em-up in which the player chooses an ace fighter pilot from a selection of 4 countries (USA, Japan, Sweden and Britain) and takes to the skies to destroy enemy jets, boats, helicopt</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240820T205849</lastplayed>
+	</game>
+	<game>
+		<path>./raiden2.zip</path>
+		<name>Raiden II</name>
+		<desc>Excellent sequel to the classic original "Raiden". As in the original, players control a fighter jet/spaceship through various levels while shooting down other planes and bombing tanks on the ground.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Seibu Kaihatsu</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20240820T210620</lastplayed>
+	</game>
+	<game>
+		<path>./kingdmgp.zip</path>
+		<name>Kingdom Grandprix</name>
+		<desc>A vertically scrolling shooter with a racing theme. You have the choice of either firing (when the button is pressed) or boosting (when the button is held).</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Raizing</developer>
+		<publisher>Raizing</publisher>
+		<genre>Comp • Shooter / Racing</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T211223</lastplayed>
+	</game>
+	<game>
+		<path>./sonicwi2.zip</path>
+		<name>Aero Fighters 2</name>
+		<desc>Aero Fighters 2 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 8 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 10 stages (Japan, Brazil, Atlantic, U.S.A., France, Australia, Himalayas, Mexico, Hawaii and Space), all of them with a boss battle.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940826T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240820T211419</lastplayed>
+	</game>
+	<game>
+		<path>./sonicwi3.zip</path>
+		<name>Aero Fighters 3</name>
+		<desc>Aero Fighters 3 is a vertically-scrolling shooter in the same vein as 1942 and similar games. It supports up to two players and  has 10 different aircraft to choose from, each equipped with unique primary and secondary weapons. Power-ups upgrade the look, power, size and shape of the shots. Bombs activate a special power that usually wipes off the enemies on the screen. The game has a total of 8 stages placed on several countries (Japan, Germany, Libya, Egypt, Pacific, U.S.A., England, France, Panama, Thailand, Ukraine, Atlantic and Space), all of them with a boss battle.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951117T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240820T211608</lastplayed>
+	</game>
+	<game>
+		<path>./19xx.zip</path>
+		<name>19XX : The War Against Destiny</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T211904</lastplayed>
+	</game>
+	<game>
+		<path>./slrasslt.zip</path>
+		<name>Solar Assault</name>
+		<desc>The game play is similar to other 3D shooters like Star Fox, where the player must move both horizontally and vertically. Like the other games in the Gradius series, there is no health bar, meaning one hit ends up in death; however, this time the player may be able to collect a "shield" power up which can take one hit or two hits before the ship's destruction. The other major gameplay change is the ability to adjust the speed, which is necessary to time the avoidance of certain obstacles and enemies.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20240820T212105</lastplayed>
+	</game>
+	<game>
+		<path>./twinspri.zip</path>
+		<name>Twinkle Star Sprites</name>
+		<desc>Competitive shooter with flavors of Galaga, Fighting Games, and Sailor Moon.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970131T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Shooter / Puzzle</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240820T212944</lastplayed>
+	</game>
+	<game>
+		<path>./cyvern.zip</path>
+		<name>Cyvern - The Dragon Weapons</name>
+		<desc>Take control of 3 artificially enhanced elemental dragons and battle against tons of enemy airships and hulking bosses in this excellent overhead shooter. Features awesome graphics &amp; sound effects as well as responsive controls and a high level of challenge.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T213338</lastplayed>
+	</game>
+	<game>
+		<path>./rsgun.zip</path>
+		<name>Radiant Silvergun</name>
+		<desc>Sometime in the future, scientists have discovered a diamond-shaped alien device deep in space. The mysterious alien device detonates while being probed, starting a chain reaction which destroys the entire planet. Fortunately, there's a group of slap-happy space cadets who are up in orbit who aren't affected by the explosion, but witness it, so they decide to do something about it - which means finding a way to travel back in time to avert the catastrophe before it happens!
+
+Radiant Silvergun is a vertically scrolling shoot-em-up rendered with a superb mix of 2 &amp; 3-D graphics, and is widely considered to be the finest ever game of its type in what is a very crowded genre.
+
+Part of the reason for the game's huge success is in the implementation of its weapons system. Unlike other shoot-em-ups, all of the game's weapons are available to the player from the very beginning. Silvergun's control panel consists of 3 different fire buttons, each of which activates a different weapon; either 'Vulcan', 'Homing' or 'Spread'. In addition, players can activate 4 extra weapons using a combination of the t3 fire buttons. These are:
+
+A + B = Homing Plasma 
+A + C = Backwards Wide Shot 
+B + C = Homing Spread 
+A + B + C = Radiant Sword
+
+At the start of a game, the player's weapons are very weak, but they can be 'powered-up' by shooting same-coloured enemies (chaining), in a fashion similar to gaining experience for a weapon in a role playing game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T214051</lastplayed>
+	</game>
+	<game>
+		<path>./cairblad.zip</path>
+		<name>Change Air Blade</name>
+		<desc>Change Air Blade is a 2D vertical scrolling shooter, based on a "boss rush" idea. The player can select one from eight different ships (each ship has its own special form), and fights against another ships. Basically, each normal enemy is boss, with a long life bar, and has support from smaller minions. The player has the main gun and several bombs to use, and must win an air duel with the boss to progress.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Aisystem Tokyo</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Comp • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20240820T214528</lastplayed>
+	</game>
+	<game>
+		<path>./guwange.zip</path>
+		<name>Guwange</name>
+		<desc>The story of Guwange is set during the Muromachi period of Japan. During this time, increasing numbers of people suffer possession by shikigami. Although the shikigami grant great spiritual powers, the strain inflicted on the host causes them to die exactly one year after possession. However, a legend has sprung up regarding Guwange, the malevolent god trapped in Mt. Gokumon (i.e. Hell Gate). If one possessed by a shikigami can gather talismans of the five Chinese elements?wood, fire, earth, metal, water?from five demons serving Guwange, then infiltrate Gokumon and slay Guwange, the shikigami will be destroyed and the one possessed will not suffer a premature death.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240820T215249</lastplayed>
+	</game>
+	<game>
+		<path>./brvblade.zip</path>
+		<name>Brave Blade</name>
+		<desc>A 3-D vertically scrolling shoot'em up.</desc>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Eighting</developer>
+		<publisher>Eighting</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240820T215620</lastplayed>
+	</game>
+	<game>
+		<path>./dragnblz.zip</path>
+		<name>Dragon Blaze</name>
+		<desc>In a distant land, four brave dragonriders must make use of every trick in the book to survive wave after wave of powerful monsters and hulking bosses in this Psikyo shoot'em up masterpiece. Features some truly beautiful graphics &amp; sound, excellent control that features some interesting gameplay mechanics and tons of challenge.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000501T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240820T215935</lastplayed>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944 : The Loop Master</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<rating>0.9</rating>
+		<releasedate>20000620T000000</releasedate>
+		<developer>8ing</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>101</playcount>
+		<lastplayed>20240820T220033</lastplayed>
+	</game>
+	<game>
+		<path>./zerogu2.zip</path>
+		<name>Zero Gunner 2</name>
+		<desc>Zero Gunner 2 is an arcade shoot-'em-up game developed by Psikyo as the direct sequel to Zero Gunner. It was released for Sega NAOMI hardware before being ported to the Sega Dreamcast. No versions have left Japan.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<altemulator>Naomi</altemulator>
+		<lastplayed>20240820T220313</lastplayed>
 	</game>
 </gameList>

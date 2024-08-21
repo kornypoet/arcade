@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<alternativeEmulator>
-	<label>ares (Standalone)</label>
-</alternativeEmulator>
 <gameList>
 	<game>
 		<path>./Tetris (U) [!].nes</path>
@@ -15,7 +12,7 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
 		<publisher>Nintendo</publisher>
 		<genre>Puzzle-Game</genre>
 		<players>1</players>
-		<playcount>7</playcount>
-		<lastplayed>20240807T171244</lastplayed>
+		<playcount>13</playcount>
+		<lastplayed>20240820T111022</lastplayed>
 	</game>
 </gameList>
