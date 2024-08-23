@@ -21,11 +21,11 @@ Other modes include classic Puyo Puyo and a battle mode for up to four players.<
 
 Story Mode features different rules per level (ex. Point Puyo can drop instead of Nuisance Puyo, a certain number of colors can be used, etc.) and special attacks that can be engaged with multiple chains.
 Other modes include classic Puyo Puyo and a battle mode for up to four players.</desc>
-		<rating>0.8</rating>
+		<rating>0.9</rating>
 		<releasedate>19990304T000000</releasedate>
 		<developer>Compile</developer>
 		<publisher>SEGA</publisher>
-		<genre>Puzzle</genre>
+		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-4</players>
 	</game>
 	<game>
@@ -35,11 +35,11 @@ Other modes include classic Puyo Puyo and a battle mode for up to four players.<
 
 Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners. 
 Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
-		<rating>1</rating>
+		<rating>0.8</rating>
 		<releasedate>20000908T000000</releasedate>
 		<developer>Hitmaker</developer>
 		<publisher>SEGA</publisher>
-		<genre>Sports / Tennis</genre>
+		<genre>Comp • Sports / Tennis</genre>
 		<players>1-4</players>
 		<playcount>1</playcount>
 		<lastplayed>20240820T194232</lastplayed>
@@ -52,11 +52,13 @@ Virtua Tennis, so realistic you can almost taste the strawberries and cream.</de
 All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
 
 In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
-		<rating>1</rating>
+		<rating>0.8</rating>
 		<releasedate>19991126T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
+		<genre>Comp • VS / Weapon</genre>
 		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20240822T205716</lastplayed>
 	</game>
 </gameList>

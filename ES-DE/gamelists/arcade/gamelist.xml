@@ -41,19 +41,6 @@ Create your own tracks by placing jumps and obstacles of all different sizes and
 		<players>1</players>
 	</game>
 	<game>
-		<path>./goldnaxe.zip</path>
-		<name>Golden Axe</name>
-		<desc>Golden Axe is a sideways scrolling beat-em-up set in a traditional fantasy world, in which up to three warriors take up arms to rescue the kidnapped King and his Queen from the evil Death Adder.
-
-The game's three different playable characters are an Amazonian warrior named Tyris Flare, a Barbarian hero named Ax Battler, and a Viking dwarf named Gilius Thunderhead. Each character has a special attack move that is activated by pressing both JUMP and ATTACK at the same time. Also, double-tapping the joystick right or left will make the character charge and smash into opponents.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Team Shinobi</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./kinst2.zip</path>
 		<name>Killer Instinct 2</name>
 		<desc>A great sequel of the previous game include new features and new characters. 
@@ -148,19 +135,6 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./tmnt2.zip</path>
-		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
-		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
-
-Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
-		<rating>0.9</rating>
-		<releasedate>19910918T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./tekken3.zip</path>
 		<name>Tekken 3</name>
 		<desc>
@@ -170,19 +144,6 @@ The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in or
 		<publisher>Namco</publisher>
 		<genre>Fighting</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./simpsons.zip</path>
-		<name>The Simpsons</name>
-		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
-
-The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
-		<rating>0.9</rating>
-		<releasedate>19910403T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fighting / 2.5D</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./wboy.zip</path>
@@ -244,141 +205,6 @@ Follow the arrow to find the exit to the next level. Before you can exit, you mu
 		<players>1</players>
 	</game>
 	<game>
-		<path>./ddragon3.zip</path>
-		<name>Double Dragon 3 - The Rosetta Stone</name>
-		<desc>A mysterious fortune teller warns Billy &amp; Jimmy Lee about the rise of a powerful enemy in Egypt. Since the Lee brothers are looking for a true challenge to put their martial arts skills to the ultimate test, they agree to face this mysterious new enemy. They embark on a world quest - joining up with new allies in the process - and try to lay claim to the famous 'Rosetta Stone'.
-
-The 3rd and final arcade entry of the Double Dragon series (not counting the later Neo-Geo fighting game based on the movie) features a completely gameplay system and graphics from the first two installments. The game can played by up to 2 or 3 players, depending on the cabinet and settings. The 3rd player takes control of a yellow-clad Lee brother named Sonny, who is exclusive to this game. Techniques from the previous games such as the hair grab and the elbow punch are gone, but new ones are added such as the belly-to-back throw and the back-to-back hurricane kick, as well as the ability to dash by tapping the joystick left or right twice.
-
-The game features weapon shops that allows the player to purchase power-ups by inserting additional tokens. The power-ups differ between stages differ between stages and are available as followed.
-Extra Guys - Allows the player to control a new character who replaces the current fighter when he dies. There are three character types in addition to the Lee brothers.
-The Urquidez Brothers (Roney, Sunny, Jonny) -  Tall European grapplers. They have the most energy of the four character types.  Up to three fighters can be have in reserve.
-The Chin Brothers (Seimei, Taimei, Sinmei) - Chubby Chinese men with powerful attacks.
-The Oyama Brothers (Masao, Kunio, Akira) - Japanese karate masters dressed in gis specializing in speedy attacks.
-? Tricks - The hurricane kick and the one-armed stand head butt are added to the player's move set. If the player's current character dies, then the new techniques will be inherited by the next character in reserve, if there is one.
-Weapons - A nunchaku or sword are given player. Only the Lees can have purchase and wield weapons.
-Energy - Restores the current character's life to 150%.
-Power-Up - Increases the character's agility.
-
-There are 5 stages in the game:
-
-Mission 1 - America - The enemies in this stage are typical thugs and bikers. The first area takes place in a downtown area of city. After defeating the first wave of enemies, the player will enter a warehouse, where they encounter bikers that will try to run over them with their bike. The boss in this is Jim, a red-haired biker wearing a leather jacket.
-
-Mission 2 - China - The enemies are martial artists that specialize in flying kicks. The stage takes place in a single level set in a countryside near the Great Wall of China. The boss at the end of level is Li Cheng-Long, a Shaolin Martial Arts expert who resembles Bruce Lee. When he's down in life, he will wield out his club.
-
-Mission 3 - Japan - The enemies are samurai swordsmen. The first area takes place outside a castle, with bamboo traps and enemies coming out of walls. The second area takes place inside a castle, where the player will face a few more swordsmen before taking out on the boss, Ranzou, a ninja. He attacks with throwing stars and smoke bombs and splits into three forms when he's down on his life.
-
-Mission 4 - Italy - Consists of a single level set in the ruins of a coliseum. The enemies are roman archers. After defeating most of the archers, the boss Giuliano, a man decked in gladiator armor, will attempt to run the player over with his horse. After defeating all the archers, Giuliano will dismount at the end of the level and fight the player. He wields a long hand spear and can block attacks with his shield.
-
-Mission 5 - Egypt - The final stage is composed of seven levels, which includes a desert field, an underground forest, a trap room with stone pillars and giant hands emerging from the floor, a hall with a flying disc. Enemies include living tree men and rock creatures.</desc>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Technos Japan</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./ddsom.zip</path>
-		<name>Dungeons &amp; Dragons: Shadow over Mystara</name>
-		<desc>Dungeons &amp; Dragons: Shadow over Mystara is an arcade game developed and published by Capcom in 1996 as a sequel to Dungeons &amp; Dragons: Tower of Doom. It was also released on the Sega Saturn, packaged with Tower of Doom, under the title Dungeons &amp; Dragons Collection. The game is set in the Dungeons &amp; Dragons campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.</desc>
-		<rating>0.6</rating>
-		<releasedate>19960619T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./gauntlet.zip</path>
-		<name>Gauntlet</name>
-		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons. 
-
-Each of Gauntlet's four characters have different strengths and weaknesses: Thyra has the strongest armour, Thor is best at hand-to-hand combat, Questor has the fastest speed and Merlin has the most powerful magic attacks. The object of the game is simply to survive as long as possible while exploring Gauntlet's mazes in search of treasure, food, magic potions and, ultimately, the exit that leads to the next dungeon. 
-
-The potions - shown as blue bottles - that litter the levels offer either improved character abilities (such as 'speed' or 'extra shot power') or can be used as a 'smart bomb', destroying some or all of the on-screen monsters. Potions are also the only way to kill the game's 'Death' character that appears in many of the stages. Magic potions can be kept and used at the player's discretion by pressing 'Magic' button, although each potion can only be used once. 
-
-The first seven mazes are always the same, but from level 8 onwards, players will find themselves on any one of over a hundred different mazes. If players survive for long enough, the mazes will be repeated in a different order. How long a player lasts depends upon the player's 'health' level. Health continually depletes as time progresses and further health is lost by contact with various monsters or their projectiles. Health can be replenished by consuming the food found in the mazes or by inserting more credits. The many treasure chests that litter the levels can be plundered for points, and collecting treasure increases a player's score multiplier when two or more players are playing the game.</desc>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./gauntdl.zip</path>
-		<name>Gauntlet Dark Legacy</name>
-		<desc>Step into the world of of Gauntlet Dark Legacy and prepare for an adventure. Built on the strength of "Gauntlet Legends", Dark Legacy takes the action to a new dimension with new characters, new realms, new combos and improved graphics. Four new characters join forces with the original four Legends characters to explore and battle their way through eight realms of gameplay. The Mountain, Desert, Forest and Castle Realms have been updated to match the depth and complexity of the four new realms... Ice, Town, Sky and Dream. There is also a bonus Battlefield Realm. Multi-player gameplay has been enhanced by allowing two players to work together to activate special moves with new combos. In addition, Dark Legacy is full of secret codes and passwords that give special access to alternate characters and many other surprises (see 'Tips And Tricks' section for more information).</desc>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./gaunt2.zip</path>
-		<name>Gauntlet II</name>
-		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
-
-As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
-
-Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
-
-Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
-
-Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
-
-New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./gauntleg.zip</path>
-		<name>Gauntlet Legends</name>
-		<desc>Gauntlet Legends is a fantasy themed action game, a sequel to 1985's popular "Gauntlet" and 1986's "Gauntlet II". Its unusual features for an arcade game included passwords and characters that could be saved, enabling players to play over the course of a long period of time. It was a role-playing game, though with very limited role-playing.
-
-The simplicity of the original Gauntlet series is still here: You have to find your way out of a maze using keys, secret passages, and switches. In your way are hordes and hordes of enemies, endlessly reproducing themselves from generators painfully spread around the gigantic, menacing levels.</desc>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./nbbatman.zip</path>
-		<name>Ninja Baseball Bat Man</name>
-		<desc>Ninja Baseball Batman is an abstract, horizontally-scrolling beat-em-up for in which up to four players control a team of robotic baseball-star ninjas who must fight their way through a variety of levels, defeating the game's many enemies. 
-
-The object of the game is to recover a number of artifacts stolen from the Baseball Hall of Fame, a task prescribed to them by the Commissioner of Baseball. Each stage takes place in several parts of the United States, with a boss character appears at the end of each stage.
-
-The game's enemies are themed entirely around the sport of Baseball; taking the form of Baseballs, Catcher's mitts, bats etc. The game also allows players to perform combos, throws and dash attacks against multiple enemies. When a player's health bar flashes red, more moves can be performed as long as the player does not restore or completely lose health. 
-
-Health restoring food and drink items appear throughout the game, as well as throwable weapon pick-ups, including baseballs and shuriken. Occasionally players will find a pink heart, collecting this summons cheerleaders who either damage all on-screen enemies or drop a large amount of food.
-
-The four characters of "Ninja Baseball Batman" and their traits are:
-
-Captain Jose - Head of the team and technician. Well-balanced and a good choice for beginners. 
-    
-Twinbats Ryno - Very fast and wields two bats, but is the weakest of the four.
-    
-Beanball Roger - He is a powerful buster, but not as fast as others. 
-    
-Stick Straw - A long-reach hitter, making him the best choice for long-range moves.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Fighting</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./pkunwar.zip</path>
 		<name>Penguin-kun Wars</name>
 		<desc>A timed game where a penguin rolls spheres across a table attempting to hit its opponent for points. The character with the fewest spheres on its side of the table at the end of the match is the winner.</desc>
@@ -388,32 +214,6 @@ Stick Straw - A long-reach hitter, making him the best choice for long-range mov
 		<publisher>UPL</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./rampage.zip</path>
-		<name>Rampage</name>
-		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
-
-Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human.</desc>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Barcrest / Red Gaming</publisher>
-		<genre>Fighting</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./rmpgwt.zip</path>
-		<name>Rampage: World Tour</name>
-		<desc>A sequel to the 1986 original, Rampage World Tour once again has George, Lizzie, and Ralph bent on a trail of destruction. The 'World Tour' of the title refers to the fact that the action now takes place around the entire world, instead of just North America. Graphics are much improved and a kick button has been added to allow even more chaos.
-
-Hidden bonus items have also been added to the game; two examples are an item that allows any player character to transport to almost any location in the game instantly. A second gives the players more destructive power. Some stages have a vat of toxic chemicals that can mutate any player character into a huge purple bat-like creature called V.E.R.N (Violently Enraged Radioactive Nemesis) for the duration of the stage.</desc>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Game Refuge</developer>
-		<publisher>Midway</publisher>
-		<genre>Platform</genre>
-		<players>1-3</players>
 	</game>
 	<game>
 		<path>./sfa.zip</path>
@@ -482,34 +282,6 @@ Battles are fought over the best of three rounds. At the end of a battle, a voic
 		<nomultiscrape>true</nomultiscrape>
 	</game>
 	<game>
-		<path>./ffight.zip</path>
-		<name>Final Fight</name>
-		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
-
-Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240611T112510</lastplayed>
-	</game>
-	<game>
-		<path>./ddtod.zip</path>
-		<name>Dungeons &amp; Dragons: Tower of Doom</name>
-		<desc>Dungeons &amp; Dragons: Tower of Doom is the first of two video games created by Capcom based on the Dungeons &amp; Dragons tabletop role-playing game. The game was also released on the Sega Saturn, packaged with its sequel, Dungeons &amp; Dragons: Shadow over Mystara, under the title Dungeons &amp; Dragons Collection, although the Saturn version limited the gameplay to only 2 players. The game is set in the Mystara campaign setting.</desc>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20240611T232826</lastplayed>
-	</game>
-	<game>
 		<path>./bublboblr.zip</path>
 		<name>Bubble Bobble</name>
 		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
@@ -549,69 +321,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<players>1-2</players>
 		<playcount>1</playcount>
 		<lastplayed>20240616T123246</lastplayed>
-	</game>
-	<game>
-		<path>./ddragonu.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240616T123305</lastplayed>
-	</game>
-	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20240616T123310</lastplayed>
-	</game>
-	<game>
-		<path>./bladestl.zip</path>
-		<name>Blades Of Steel</name>
-		<desc>Blades Of Steel is an arcade ice hockey game (the gameplay doesn't require you to worry about statistics or customising teams). From time to time, a fight may break out, allowing both players to be seen up close. The player is in control during the miniature fight sequence, with the loser having to spend time in the penalty box. The referee interrupts fights when they last too long.</desc>
-		<rating>0.5</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./hstennis.zip</path>
@@ -685,31 +394,6 @@ Now Rock is a teenager, and Terry is a man in his 30s, and both are about to com
 		<publisher>SNK</publisher>
 		<genre>Fighting</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./xmen.zip</path>
-		<name>X-Men</name>
-		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
-
-Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.
-
-The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.
-
-Players can chose from 6 X-Men characters, they are:
-Cyclops 
-Colossus 
-Wolverine 
-Storm 
-Nightcrawler 
-Dazzler</desc>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fighting</genre>
-		<players>1-6</players>
-		<playcount>1</playcount>
-		<lastplayed>20240717T165458</lastplayed>
 	</game>
 	<game>
 		<path>./sf.zip</path>
@@ -810,17 +494,6 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
 		<publisher>SNK</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./dino.zip</path>
-		<name>Cadillacs and Dinosaurs</name>
-		<desc>The plot is based on the comic Cadillacs and Dinosaurs and takes place in the "City In The Sea" and its neighboring nearby jungle. The story starts 500 years from the 20th century, when an ensemble gang called the Black Marketeers begin hunting the dinosaurs to serve their unknown purpose. The continuous hunting process has made the dinosaurs violent and now they have started attacking villages and people. In order to get things sorted again, mechanic and shaman Jack Tenrec, diplomat and explorer by profession Hannah Dundee, friend and engineer Mustapha Cairo, and mysterious Mess O'Bradovich have decided to teamp up against the evil deeds of the Black Marketeer. The protagonists reach "the City in the Sea" where they suspect the whole hunting network being operating from.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
 	</game>
 	<game>
 		<path>./turfmast.zip</path>
@@ -1331,32 +1004,6 @@ The standard rules of baseball still apply, but it adds power-ups that the playe
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./cyberbal.zip</path>
-		<name>Cyberball</name>
-		<desc>Head to Head... Metal on Metal... It's a Fight to the Finish!! Cyberball is an extremely violent futuristic football game full of colliding metal and exploding shrapnel. Players select from over 100 offensive and defensive plays.</desc>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./hyperspt.zip</path>
-		<name>Hyper Sports</name>
-		<desc>Hyper Sports is a multi-event sports game and is the sequel to 1983's seminal "Track and Field". As with "Track and Field", the game supports up to four players and is controlled by two RUN buttons (renamed GO for this sequel) and one action - or UP - button. 
-
-Tap GO and player will accelerate, shoot or lift. Push UP and player will jump or shoot. The game offers seven different Olympic-based events, and players must achieve qualification in each event in order to progress to the next. Game is over if you fail to qualify in an event.
-
-</desc>
-		<rating>0.9</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./nagano98.zip</path>
 		<name>Nagano Winter Olympics '98</name>
 		<desc>Another superb multi-event sports game from Konami, following on from 1996's incredible update of 'International Track and Field'. Nagano is based around the Winter Olympics of 1998 and features ten Olympic events cased around skating, skiing, luge, bobsleigh, slalom and curling.</desc>
@@ -1366,17 +1013,6 @@ Tap GO and player will accelerate, shoot or lift. Push UP and player will jump o
 		<publisher>Konami</publisher>
 		<genre>Sports</genre>
 		<players>1-4</players>
-	</game>
-	<game>
-		<path>./tbowl.zip</path>
-		<name>Tecmo Bowl</name>
-		<desc>TECMO BOWL - The game of guts and glory! Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl!</desc>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./rampart.zip</path>
@@ -1400,194 +1036,6 @@ Once the battle is over the players must repair their castles, again using tetri
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Sports</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./astorm.zip</path>
-		<name>Alien Storm</name>
-		<desc>Alien Storm is a side-scrolling beat-em-up in which up to 3 players take on the role of one of 3 futuristic warriors. The game heroes are charged with destroying the hoards of repulsive aliens who are invading the Earth. Many of the aliens are disguised as a variety of everyday street objects; such as telephone booths, oil cans, trash cans and mailboxes. The aliens reveal their true forms as the warriors approach.
-
-Each of the 3 heroes carries their own individual weapon; Gordon has his plasma gun, Karla has a flamethrower and Scooter has an electric whip. At the end of each level, the warriors will enter a building and the shoot-em-up action will switch to a first-person perspective.</desc>
-		<rating>0.4</rating>
-		<releasedate>19900425T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./avsp.zip</path>
-		<name>Alien vs. Predator</name>
-		<desc>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
-
-The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940520T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./armwar.zip</path>
-		<name>Armored Warriors</name>
-		<desc>In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
-
-But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become "the perfect warrior", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.
-
-The United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called "Bloody Armor", to eradicate the enemy forces and rescue the civilians.
-
-And so, in October 2282, the United World Forces begin to launch its attack upon the planet Raia.
-
-The most intense battle in human history is about to begin...</desc>
-		<rating>0.7</rating>
-		<releasedate>19940916T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./batcir.zip</path>
-		<name>Battle Circuit</name>
-		<desc>Battle Circuit take place in an alternate future earth, the game revolves around a group of bounty hunters who must capture the mad scientist Doctor Saturn and secure a sophisticated computer disc carrying a program known as the "Shiva System". Battle Circuit, which was Capcom's last beat 'em game for the arcades, contains comic-like characters in a futuristic science fiction setting and is considered by some to be a cult classic.</desc>
-		<rating>0.7</rating>
-		<releasedate>19970319T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fighting</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./dungeonm.zip</path>
-		<name>Dungeon Magic</name>
-		<desc>Four mythical heroes traverse dungeons and castles to find and defeat the source of evil corruptive power that is threatening their land. Gameplay is refreshingly less linear than most beat'em ups.</desc>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./gaia.zip</path>
-		<name>Gaia Crusaders</name>
-		<desc>Gaia Crusaders is a one or two-player side-scrolling beat-em-up in which players must battle Satan and his army of demons that have captured and taken over the world. Players select a character from a choice of five combatants known as 'Elemental Warriors'. Each of the characters possesses either Wind strength, Fire strength, or a mix of the two. 
-
-The game has the standard punch and kick attack moves as well as magical special moves. Combos can be strung together by switching quickly between kicking and punching. Players can also perform a 'super attack' by pressing the jump, punch and kick buttons simultaneously, this hits many enemies at once but costs the player character some health. It's also possible to raise a shield by pressing jump and kick simultaneously.
-
-At regular intervals coloured spheres appear, players can pick these up to gain a magical attack. The effects of the magic attack differs depending on the player character. If the magic matches the character's elemental attribute (fire, wind or both), they will gain a special, screen-clearing attack. Otherwise, they earn a powerful special attack. 
-
-In addition to the elemental spheres, there are two types of bombs that also appear, both of which detonate immediately once picked up. The first is an earthquake that hits all on-screen enemies and inflicts a large amount of damage. The second is a random bomb that sends out pillars of fire, hurting any enemies they come into contact with. There are also explosive boxes that can be kicked at enemies to keep them at bay. One last notable item is the sword, which functions much like weapons that can be found on the ground in many other beat 'em ups. A boss battle awaits players at the end of each stage.
-
-Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1989 classic, Final Fight and also, to a lesser degree, by Sega's Golden Axe (the latter being the use of the Magical Attack acting as a smart bomb).
-
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Noise Factory</developer>
-		<publisher>Noise Factory</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./gatedoom.zip</path>
-		<name>Dark Seal</name>
-		<desc>Fantasy hack and slash game in which up to four people can play at the same time, choosing from three stock fantasy characters (Knight, Wizard and Bard) and, for some reason, a Ninja. Players must then fight their way through enemy-packed levels, plundering treasure and avoiding the game's many traps. Gameplay is highly reminiscent of Atari's legendary 1985 classic, "Gauntlet".</desc>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./mwalk.zip</path>
-		<name>Michael Jackson's Moonwalker</name>
-		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./kod.zip</path>
-		<name>The King of Dragons</name>
-		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
-
-The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./punisher.zip</path>
-		<name>The Punisher</name>
-		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./vamphalf.zip</path>
-		<name>Vamf x1/2</name>
-		<desc>On a peaceful day, some strange energy suddenly emanates from the sky. All of a sudden, people become restless and the neighborhood becomes desolate.
-
-Four boys, O'Hara from the wolf clan, Kang Chihwan from the bear clan, Sonic from the leopard clan, and Wang Kanghan from the human clan think what has happened is strange and set out on a journey to find out just what is going on.</desc>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Danbi</developer>
-		<publisher>Danbi</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./ganryu.zip</path>
-		<name>Ganryu</name>
-		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
-
-You must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.</desc>
-		<rating>0.5</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform / Fighter Scrolling</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./ga2.zip</path>
-		<name>Golden Axe: The Revenge of Death Adder</name>
-		<desc>Like its legendary prequel, 1989's "Golden Axe"; 'Revenge' is sideways scrolling beat-em-up set in a traditional fantasy world, in which the evil 'Death Adder' has arisen to take over the lands. The game supports simultaneous four-player gameplay, with each player taking on one of the game's characters. The four available characters are 'Sternblade' (a barbarian warrior), 'Dora' (a female centaurian), 'Goah' (a giant with a dwarf sitting atop his shoulders) and 'Little Trix' (an agile, oriental-style warrior).</desc>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fighting</genre>
 		<players>1-4</players>
 	</game>
 	<game>
@@ -1633,60 +1081,6 @@ Killer Instinct introduced incredibly complex combos to the fighting genre, as w
 		<players>1-2</players>
 		<playcount>5</playcount>
 		<lastplayed>20240728T104145</lastplayed>
-	</game>
-	<game>
-		<path>./tmnt.zip</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-		<playcount>3</playcount>
-		<lastplayed>20240728T104238</lastplayed>
-	</game>
-	<game>
-		<path>./spidman.zip</path>
-		<name>Spider-Man: The Videogame</name>
-		<desc>Spider-man - The Video Game is a sideways scrolling beat-em-up for 1 to 4 players; choosing from Spider-Man, Black-Cat, Hawkeye or Sub-Mariner. The heroes must fight their way through four levels of Dr. Doom's villains; including Venom, The Scorpion, The Lizard, The Green Goblin, The Sandman, The Kingpin, The Hobgoblin, Electro, Dr. Octopus and, of course, Dr. Doom himself.
-
-Each player character has a different weapon or power that can be used throughout the game while fighting. Spider-Man uses his webs, The Black Cat uses her 'cat's claw' grappling hook and cable, Hawkeye uses his bow and arrows and The Sub-Mariner uses his hydro-electric charges. The game's viewpoint pans in and out between alternate large and small scale (4-way scrolling) sections. The game's 'camera' zooms out on alternate levels with the zoomed-out view introducing four-way scrolling platform sections to the gameplay. The game ends when the fourth and final chapter has been completed.</desc>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20240728T104333</lastplayed>
-	</game>
-	<game>
-		<path>./88games.zip</path>
-		<name>'88 Games</name>
-		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240728T145701</lastplayed>
-	</game>
-	<game>
-		<path>./lbowling.zip</path>
-		<name>League Bowling</name>
-		<desc>The lanes are crowded every night with Big Time Pin Slammin' action! You call the shots selecting a right or left handed bowler. Determine ball weight, and develop the skills of the pro's as you skillfully throw a variety of shots that you control. So pop some refreshments and settle into this indoor sport like you've never seen before!</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports / Bowling</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20240728T145946</lastplayed>
 	</game>
 	<game>
 		<path>./carket.zip</path>
@@ -2038,22 +1432,6 @@ To complete a stage, players must pick up a set number of fallen airmen from the
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240729T212437</lastplayed>
-	</game>
-	<game>
-		<path>./timeplt.zip</path>
-		<name>Time Pilot</name>
-		<desc>Time Pilot is a multi-directionally scrolling shoot-em-up in which the player controls a futuristic jet fighter and takes on the role of pilot trying to rescue fellow pilots who are trapped in different time eras. The game consists of five different stages of play, each of which is set in a different time period.
-
-</desc>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Shooter / Multidirectional</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240729T215805</lastplayed>
 	</game>
 	<game>
 		<path>./mrdo.zip</path>
@@ -3242,105 +2620,6 @@ Monkey Ball itself was not ported to consoles. Instead, an upgraded version titl
 		<lastplayed>20240806T213825</lastplayed>
 	</game>
 	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.</desc>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Team Shinobi</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240806T214551</lastplayed>
-	</game>
-	<game>
-		<path>./baddudes.zip</path>
-		<name>Bad Dudes vs. Dragonninja</name>
-		<desc>The game starts in New York City, where President Ronnie has been kidnapped by the nefarious DragonNinja. The game's intro begins with the following introduction: "Rampant ninja related crimes these days... Whitehouse is not the exception...". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, named Blade and Striker: "President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?". 
-
-After hearing that, the Bad Dudes pursue the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base in order to save President Ronnie.</desc>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240806T214649</lastplayed>
-	</game>
-	<game>
-		<path>./ddragon2.zip</path>
-		<name>Double Dragon 2 - The Revenge</name>
-		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
-
-The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game "Renegade". Many of the attacks and combos from the original "Double Dragon" are retained, as well as new techniques including the invincible Cyclone Kick.
-
-The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
-
-Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
-Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
-Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
-Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
-Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
-Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
-Jeff - Same as his original self, but now carries grenades.
-Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
-Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
-Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
-Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
-The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Technos Japan</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240806T214734</lastplayed>
-	</game>
-	<game>
-		<path>./splatter.zip</path>
-		<name>Splatter House</name>
-		<desc>In a dark and stormy night, Rick and his girlfriend Jeniffer take refuge in the creepy West mansion, only to find himself dead and Jeniffer missing! Now, a mysterious sacrificial mask with amazing powers brings him back from the dead and in order to free himself from its curse, he must destroy the evil lurking deep within the mansion and save Jennifer in the process! Features some of the goriest graphics ever seen at its release date, awesome music &amp; sound effects, lots of the typical toys seen in horror flicks (knives, etc.) as well as lots of challenge!</desc>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240806T214827</lastplayed>
-	</game>
-	<game>
-		<path>./vigilant.zip</path>
-		<name>Vigilante</name>
-		<desc>A sequel to Irem's legendary 1984 beat-em-up, "Kung-Fu Master", Vigilante sees the hero's girlfriend, Madonna, kidnapped by a gang of thugs and driven away in the back of their van. The vigilante must fight through five enemy-packed levels to rescue his girlfriend. As with "Kung-Fu Master", a tough guardian enemy awaits the player at the end of each level. The guardians must be defeated as quickly as possible as their energy bars will replenish in between the player's attacks.
-
-A weapon, in the form of Nunchakas, can occasionally be found and picked-up; adding to the player's 'kick' and 'punch' fighting moves. Some of the game's many enemies are also armed, with either clubs, chains, knives or guns. The game ends once Madonna is rescued.</desc>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240806T214951</lastplayed>
-	</game>
-	<game>
-		<path>./bigfight.zip</path>
-		<name>Big Fight - Big Trouble In The Atlantic Ocean</name>
-		<desc>Big Fight: Big Trouble in the Atlantic Ocean, is fighting game / belt scrolling beat 'em up-hybrid arcade game developed and published by Tatsumi, and is one of their last arcade games before focusing on novelty sticker printing business. Tatsumi added two different modes to Big Fight: a beat 'em up mode and a versus fighting game mode.</desc>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Tatsumi</developer>
-		<publisher>Tatsumi</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240806T215121</lastplayed>
-	</game>
-	<game>
 		<path>./pbobblen.zip</path>
 		<name>Puzzle Bobble</name>
 		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
@@ -4149,19 +3428,6 @@ Be the world's best GUNBARICH!</desc>
 		<lastplayed>20240816T153957</lastplayed>
 	</game>
 	<game>
-		<path>./knights.zip</path>
-		<name>Knights of the Round</name>
-		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
-		<playcount>1</playcount>
-		<lastplayed>20240816T154306</lastplayed>
-	</game>
-	<game>
 		<path>./neodrift.zip</path>
 		<name>Neo Drift Out - New Technology</name>
 		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
@@ -4298,22 +3564,6 @@ If a player earns at least 60,000 points, two things happen to increase the chal
 		<playcount>8</playcount>
 		<controller>trackball_generic</controller>
 		<lastplayed>20240816T172237</lastplayed>
-	</game>
-	<game>
-		<path>./galaga.zip</path>
-		<name>Galaga</name>
-		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
-
-Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Midway</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>13</playcount>
-		<lastplayed>20240816T172735</lastplayed>
 	</game>
 	<game>
 		<path>./mspacman.zip</path>
@@ -4467,22 +3717,6 @@ By the mid-80s, power-ups were popular in most types of arcade games, and Arkano
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240819T091104</lastplayed>
-	</game>
-	<game>
-		<path>./phoenix.zip</path>
-		<name>Phoenix</name>
-		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
-
-According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japanese developer." Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
-		<rating>0.7</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Amstar</developer>
-		<publisher>Centuri</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>23</playcount>
-		<lastplayed>20240820T084210</lastplayed>
 	</game>
 	<game>
 		<path>./tektagt.zip</path>
@@ -4924,5 +4158,921 @@ At the start of a game, the player's weapons are very weak, but they can be 'pow
 		<playcount>2</playcount>
 		<altemulator>Naomi</altemulator>
 		<lastplayed>20240820T220313</lastplayed>
+	</game>
+	<game>
+		<path>./gaunt2.zip</path>
+		<name>Gauntlet II</name>
+		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
+
+As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
+
+Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
+
+Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
+
+Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
+
+New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Coop • Action / Labyrinth</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240821T091230</lastplayed>
+	</game>
+	<game>
+		<path>./gauntlet.zip</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons. 
+
+Each of Gauntlet's four characters have different strengths and weaknesses: Thyra has the strongest armour, Thor is best at hand-to-hand combat, Questor has the fastest speed and Merlin has the most powerful magic attacks. The object of the game is simply to survive as long as possible while exploring Gauntlet's mazes in search of treasure, food, magic potions and, ultimately, the exit that leads to the next dungeon. 
+
+The potions - shown as blue bottles - that litter the levels offer either improved character abilities (such as 'speed' or 'extra shot power') or can be used as a 'smart bomb', destroying some or all of the on-screen monsters. Potions are also the only way to kill the game's 'Death' character that appears in many of the stages. Magic potions can be kept and used at the player's discretion by pressing 'Magic' button, although each potion can only be used once. 
+
+The first seven mazes are always the same, but from level 8 onwards, players will find themselves on any one of over a hundred different mazes. If players survive for long enough, the mazes will be repeated in a different order. How long a player lasts depends upon the player's 'health' level. Health continually depletes as time progresses and further health is lost by contact with various monsters or their projectiles. Health can be replenished by consuming the food found in the mazes or by inserting more credits. The many treasure chests that litter the levels can be plundered for points, and collecting treasure increases a player's score multiplier when two or more players are playing the game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Coop • Action / Labyrinth</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T090953</lastplayed>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20240821T091728</lastplayed>
+	</game>
+	<game>
+		<path>./ddragonu.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T093215</lastplayed>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Team Shinobi</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240821T093528</lastplayed>
+	</game>
+	<game>
+		<path>./rampage.zip</path>
+		<name>Rampage</name>
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
+
+Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Barcrest / Red Gaming</publisher>
+		<genre>Coop • Action</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240821T091622</lastplayed>
+	</game>
+	<game>
+		<path>./baddudes.zip</path>
+		<name>Bad Dudes vs. Dragonninja</name>
+		<desc>The game starts in New York City, where President Ronnie has been kidnapped by the nefarious DragonNinja. The game's intro begins with the following introduction: "Rampant ninja related crimes these days... Whitehouse is not the exception...". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, named Blade and Striker: "President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?". 
+
+After hearing that, the Bad Dudes pursue the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base in order to save President Ronnie.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T093911</lastplayed>
+	</game>
+	<game>
+		<path>./ddragon2.zip</path>
+		<name>Double Dragon 2 - The Revenge</name>
+		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
+
+The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game "Renegade". Many of the attacks and combos from the original "Double Dragon" are retained, as well as new techniques including the invincible Cyclone Kick.
+
+The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
+
+Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
+Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
+Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
+Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
+Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
+Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
+Jeff - Same as his original self, but now carries grenades.
+Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
+Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
+Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
+Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
+The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Technos Japan</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T094053</lastplayed>
+	</game>
+	<game>
+		<path>./splatter.zip</path>
+		<name>Splatter House</name>
+		<desc>In a dark and stormy night, Rick and his girlfriend Jeniffer take refuge in the creepy West mansion, only to find himself dead and Jeniffer missing! Now, a mysterious sacrificial mask with amazing powers brings him back from the dead and in order to free himself from its curse, he must destroy the evil lurking deep within the mansion and save Jennifer in the process! Features some of the goriest graphics ever seen at its release date, awesome music &amp; sound effects, lots of the typical toys seen in horror flicks (knives, etc.) as well as lots of challenge!</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T100832</lastplayed>
+	</game>
+	<game>
+		<path>./vigilant.zip</path>
+		<name>Vigilante</name>
+		<desc>A sequel to Irem's legendary 1984 beat-em-up, "Kung-Fu Master", Vigilante sees the hero's girlfriend, Madonna, kidnapped by a gang of thugs and driven away in the back of their van. The vigilante must fight through five enemy-packed levels to rescue his girlfriend. As with "Kung-Fu Master", a tough guardian enemy awaits the player at the end of each level. The guardians must be defeated as quickly as possible as their energy bars will replenish in between the player's attacks.
+
+A weapon, in the form of Nunchakas, can occasionally be found and picked-up; adding to the player's 'kick' and 'punch' fighting moves. Some of the game's many enemies are also armed, with either clubs, chains, knives or guns. The game ends once Madonna is rescued.</desc>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Solo • Beat'em Up</genre>
+		<players>1</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T101112</lastplayed>
+	</game>
+	<game>
+		<path>./ffight.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T101432</lastplayed>
+	</game>
+	<game>
+		<path>./goldnaxe.zip</path>
+		<name>Golden Axe</name>
+		<desc>Golden Axe is a sideways scrolling beat-em-up set in a traditional fantasy world, in which up to three warriors take up arms to rescue the kidnapped King and his Queen from the evil Death Adder.
+
+The game's three different playable characters are an Amazonian warrior named Tyris Flare, a Barbarian hero named Ax Battler, and a Viking dwarf named Gilius Thunderhead. Each character has a special attack move that is activated by pressing both JUMP and ATTACK at the same time. Also, double-tapping the joystick right or left will make the character charge and smash into opponents.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Team Shinobi</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Hack &amp; Slash</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T101648</lastplayed>
+	</game>
+	<game>
+		<path>./tmnt.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240821T162532</lastplayed>
+	</game>
+	<game>
+		<path>./gatedoom.zip</path>
+		<name>Dark Seal</name>
+		<desc>Fantasy hack and slash game in which up to four people can play at the same time, choosing from three stock fantasy characters (Knight, Wizard and Bard) and, for some reason, a Ninja. Players must then fight their way through enemy-packed levels, plundering treasure and avoiding the game's many traps. Gameplay is highly reminiscent of Atari's legendary 1985 classic, "Gauntlet".</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Coop • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T163206</lastplayed>
+	</game>
+	<game>
+		<path>./mwalk.zip</path>
+		<name>Michael Jackson's Moonwalker</name>
+		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Action / Labyrinth</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T164009</lastplayed>
+	</game>
+	<game>
+		<path>./ddragon3.zip</path>
+		<name>Double Dragon 3 - The Rosetta Stone</name>
+		<desc>A mysterious fortune teller warns Billy &amp; Jimmy Lee about the rise of a powerful enemy in Egypt. Since the Lee brothers are looking for a true challenge to put their martial arts skills to the ultimate test, they agree to face this mysterious new enemy. They embark on a world quest - joining up with new allies in the process - and try to lay claim to the famous 'Rosetta Stone'.
+
+The 3rd and final arcade entry of the Double Dragon series (not counting the later Neo-Geo fighting game based on the movie) features a completely gameplay system and graphics from the first two installments. The game can played by up to 2 or 3 players, depending on the cabinet and settings. The 3rd player takes control of a yellow-clad Lee brother named Sonny, who is exclusive to this game. Techniques from the previous games such as the hair grab and the elbow punch are gone, but new ones are added such as the belly-to-back throw and the back-to-back hurricane kick, as well as the ability to dash by tapping the joystick left or right twice.
+
+The game features weapon shops that allows the player to purchase power-ups by inserting additional tokens. The power-ups differ between stages differ between stages and are available as followed.
+Extra Guys - Allows the player to control a new character who replaces the current fighter when he dies. There are three character types in addition to the Lee brothers.
+The Urquidez Brothers (Roney, Sunny, Jonny) -  Tall European grapplers. They have the most energy of the four character types.  Up to three fighters can be have in reserve.
+The Chin Brothers (Seimei, Taimei, Sinmei) - Chubby Chinese men with powerful attacks.
+The Oyama Brothers (Masao, Kunio, Akira) - Japanese karate masters dressed in gis specializing in speedy attacks.
+? Tricks - The hurricane kick and the one-armed stand head butt are added to the player's move set. If the player's current character dies, then the new techniques will be inherited by the next character in reserve, if there is one.
+Weapons - A nunchaku or sword are given player. Only the Lees can have purchase and wield weapons.
+Energy - Restores the current character's life to 150%.
+Power-Up - Increases the character's agility.
+
+There are 5 stages in the game:
+
+Mission 1 - America - The enemies in this stage are typical thugs and bikers. The first area takes place in a downtown area of city. After defeating the first wave of enemies, the player will enter a warehouse, where they encounter bikers that will try to run over them with their bike. The boss in this is Jim, a red-haired biker wearing a leather jacket.
+
+Mission 2 - China - The enemies are martial artists that specialize in flying kicks. The stage takes place in a single level set in a countryside near the Great Wall of China. The boss at the end of level is Li Cheng-Long, a Shaolin Martial Arts expert who resembles Bruce Lee. When he's down in life, he will wield out his club.
+
+Mission 3 - Japan - The enemies are samurai swordsmen. The first area takes place outside a castle, with bamboo traps and enemies coming out of walls. The second area takes place inside a castle, where the player will face a few more swordsmen before taking out on the boss, Ranzou, a ninja. He attacks with throwing stars and smoke bombs and splits into three forms when he's down on his life.
+
+Mission 4 - Italy - Consists of a single level set in the ruins of a coliseum. The enemies are roman archers. After defeating most of the archers, the boss Giuliano, a man decked in gladiator armor, will attempt to run the player over with his horse. After defeating all the archers, Giuliano will dismount at the end of the level and fight the player. He wields a long hand spear and can block attacks with his shield.
+
+Mission 5 - Egypt - The final stage is composed of seven levels, which includes a desert field, an underground forest, a trap room with stone pillars and giant hands emerging from the floor, a hall with a flying disc. Enemies include living tree men and rock creatures.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Technos Japan</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T164130</lastplayed>
+	</game>
+	<game>
+		<path>./astorm.zip</path>
+		<name>Alien Storm</name>
+		<desc>Alien Storm is a side-scrolling beat-em-up in which up to 3 players take on the role of one of 3 futuristic warriors. The game heroes are charged with destroying the hoards of repulsive aliens who are invading the Earth. Many of the aliens are disguised as a variety of everyday street objects; such as telephone booths, oil cans, trash cans and mailboxes. The aliens reveal their true forms as the warriors approach.
+
+Each of the 3 heroes carries their own individual weapon; Gordon has his plasma gun, Karla has a flamethrower and Scooter has an electric whip. At the end of each level, the warriors will enter a building and the shoot-em-up action will switch to a first-person perspective.</desc>
+		<rating>0.4</rating>
+		<releasedate>19900425T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1-3</players>
+		<playcount>2</playcount>
+		<lastplayed>20240821T164154</lastplayed>
+	</game>
+	<game>
+		<path>./astormu.zip</path>
+		<name>Alien Storm</name>
+		<desc>Alien Storm is a side-scrolling beat-em-up in which up to 3 players take on the role of one of 3 futuristic warriors. The game heroes are charged with destroying the hoards of repulsive aliens who are invading the Earth. Many of the aliens are disguised as a variety of everyday street objects; such as telephone booths, oil cans, trash cans and mailboxes. The aliens reveal their true forms as the warriors approach.
+
+Each of the 3 heroes carries their own individual weapon; Gordon has his plasma gun, Karla has a flamethrower and Scooter has an electric whip. At the end of each level, the warriors will enter a building and the shoot-em-up action will switch to a first-person perspective.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900425T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240821T164611</lastplayed>
+	</game>
+	<game>
+		<path>./knights.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Hack &amp; Slash</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T164942</lastplayed>
+	</game>
+	<game>
+		<path>./spidman.zip</path>
+		<name>Spider-Man: The Videogame</name>
+		<desc>Spider-man - The Video Game is a sideways scrolling beat-em-up for 1 to 4 players; choosing from Spider-Man, Black-Cat, Hawkeye or Sub-Mariner. The heroes must fight their way through four levels of Dr. Doom's villains; including Venom, The Scorpion, The Lizard, The Green Goblin, The Sandman, The Kingpin, The Hobgoblin, Electro, Dr. Octopus and, of course, Dr. Doom himself.
+
+Each player character has a different weapon or power that can be used throughout the game while fighting. Spider-Man uses his webs, The Black Cat uses her 'cat's claw' grappling hook and cable, Hawkeye uses his bow and arrows and The Sub-Mariner uses his hydro-electric charges. The game's viewpoint pans in and out between alternate large and small scale (4-way scrolling) sections. The game's 'camera' zooms out on alternate levels with the zoomed-out view introducing four-way scrolling platform sections to the gameplay. The game ends when the fourth and final chapter has been completed.</desc>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T165249</lastplayed>
+	</game>
+	<game>
+		<path>./kod.zip</path>
+		<name>The King of Dragons</name>
+		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Hack &amp; Slash</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240821T165756</lastplayed>
+	</game>
+	<game>
+		<path>./simpsons.zip</path>
+		<name>The Simpsons</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
+
+The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910403T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240821T170023</lastplayed>
+	</game>
+	<game>
+		<path>./bigfight.zip</path>
+		<name>Big Fight - Big Trouble In The Atlantic Ocean</name>
+		<desc>Big Fight: Big Trouble in the Atlantic Ocean, is fighting game / belt scrolling beat 'em up-hybrid arcade game developed and published by Tatsumi, and is one of their last arcade games before focusing on novelty sticker printing business. Tatsumi added two different modes to Big Fight: a beat 'em up mode and a versus fighting game mode.</desc>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tatsumi</developer>
+		<publisher>Tatsumi</publisher>
+		<genre>Comp • Beat'em Up</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240821T231140</lastplayed>
+	</game>
+	<game>
+		<path>./ga2.zip</path>
+		<name>Golden Axe: The Revenge of Death Adder</name>
+		<desc>Like its legendary prequel, 1989's "Golden Axe"; 'Revenge' is sideways scrolling beat-em-up set in a traditional fantasy world, in which the evil 'Death Adder' has arisen to take over the lands. The game supports simultaneous four-player gameplay, with each player taking on one of the game's characters. The four available characters are 'Sternblade' (a barbarian warrior), 'Dora' (a female centaurian), 'Goah' (a giant with a dwarf sitting atop his shoulders) and 'Little Trix' (an agile, oriental-style warrior).</desc>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<playcount>5</playcount>
+		<lastplayed>20240821T232446</lastplayed>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X-Men</name>
+		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
+
+Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.
+
+The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.
+
+Players can chose from 6 X-Men characters, they are:
+Cyclops 
+Colossus 
+Wolverine 
+Storm 
+Nightcrawler 
+Dazzler</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T083403</lastplayed>
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>The plot is based on the comic Cadillacs and Dinosaurs and takes place in the "City In The Sea" and its neighboring nearby jungle. The story starts 500 years from the 20th century, when an ensemble gang called the Black Marketeers begin hunting the dinosaurs to serve their unknown purpose. The continuous hunting process has made the dinosaurs violent and now they have started attacking villages and people. In order to get things sorted again, mechanic and shaman Jack Tenrec, diplomat and explorer by profession Hannah Dundee, friend and engineer Mustapha Cairo, and mysterious Mess O'Bradovich have decided to teamp up against the evil deeds of the Black Marketeer. The protagonists reach "the City in the Sea" where they suspect the whole hunting network being operating from.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240822T083735</lastplayed>
+	</game>
+	<game>
+		<path>./dungeonm.zip</path>
+		<name>Dungeon Magic</name>
+		<desc>Four mythical heroes traverse dungeons and castles to find and defeat the source of evil corruptive power that is threatening their land. Gameplay is refreshingly less linear than most beat'em ups.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<playcount>3</playcount>
+		<lastplayed>20240822T084713</lastplayed>
+	</game>
+	<game>
+		<path>./ga2u.zip</path>
+		<name>Golden Axe: The Revenge of Death Adder</name>
+		<desc>Like its legendary prequel, 1989's "Golden Axe"; 'Revenge' is sideways scrolling beat-em-up set in a traditional fantasy world, in which the evil 'Death Adder' has arisen to take over the lands. The game supports simultaneous four-player gameplay, with each player taking on one of the game's characters. The four available characters are 'Sternblade' (a barbarian warrior), 'Dora' (a female centaurian), 'Goah' (a giant with a dwarf sitting atop his shoulders) and 'Little Trix' (an agile, oriental-style warrior).</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Hack &amp; Slash</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T084732</lastplayed>
+	</game>
+	<game>
+		<path>./dungeonmu.zip</path>
+		<name>Dungeon Magic</name>
+		<desc>Four mythical heroes traverse dungeons and castles to find and defeat the source of evil corruptive power that is threatening their land. Gameplay is refreshingly less linear than most beat'em ups.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Hack &amp; Slash / RPG</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240822T084824</lastplayed>
+	</game>
+	<game>
+		<path>./ddtod.zip</path>
+		<name>Dungeons &amp; Dragons: Tower of Doom</name>
+		<desc>Dungeons &amp; Dragons: Tower of Doom is the first of two video games created by Capcom based on the Dungeons &amp; Dragons tabletop role-playing game. The game was also released on the Sega Saturn, packaged with its sequel, Dungeons &amp; Dragons: Shadow over Mystara, under the title Dungeons &amp; Dragons Collection, although the Saturn version limited the gameplay to only 2 players. The game is set in the Mystara campaign setting.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Hack &amp; Slash / RPG</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T092041</lastplayed>
+	</game>
+	<game>
+		<path>./nbbatman.zip</path>
+		<name>Ninja Baseball Bat Man</name>
+		<desc>Ninja Baseball Batman is an abstract, horizontally-scrolling beat-em-up for in which up to four players control a team of robotic baseball-star ninjas who must fight their way through a variety of levels, defeating the game's many enemies. 
+
+The object of the game is to recover a number of artifacts stolen from the Baseball Hall of Fame, a task prescribed to them by the Commissioner of Baseball. Each stage takes place in several parts of the United States, with a boss character appears at the end of each stage.
+
+The game's enemies are themed entirely around the sport of Baseball; taking the form of Baseballs, Catcher's mitts, bats etc. The game also allows players to perform combos, throws and dash attacks against multiple enemies. When a player's health bar flashes red, more moves can be performed as long as the player does not restore or completely lose health. 
+
+Health restoring food and drink items appear throughout the game, as well as throwable weapon pick-ups, including baseballs and shuriken. Occasionally players will find a pink heart, collecting this summons cheerleaders who either damage all on-screen enemies or drop a large amount of food.
+
+The four characters of "Ninja Baseball Batman" and their traits are:
+
+Captain Jose - Head of the team and technician. Well-balanced and a good choice for beginners. 
+    
+Twinbats Ryno - Very fast and wields two bats, but is the weakest of the four.
+    
+Beanball Roger - He is a powerful buster, but not as fast as others. 
+    
+Stick Straw - A long-reach hitter, making him the best choice for long-range moves.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T093351</lastplayed>
+	</game>
+	<game>
+		<path>./punisher.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T153017</lastplayed>
+	</game>
+	<game>
+		<path>./avsp.zip</path>
+		<name>Alien vs. Predator</name>
+		<desc>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
+
+The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940520T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20240822T163606</lastplayed>
+	</game>
+	<game>
+		<path>./armwar.zip</path>
+		<name>Armored Warriors</name>
+		<desc>In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
+
+But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become "the perfect warrior", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.
+
+The United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called "Bloody Armor", to eradicate the enemy forces and rescue the civilians.
+
+And so, in October 2282, the United World Forces begin to launch its attack upon the planet Raia.
+
+The most intense battle in human history is about to begin...</desc>
+		<rating>0.7</rating>
+		<releasedate>19940916T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T163915</lastplayed>
+	</game>
+	<game>
+		<path>./ddsom.zip</path>
+		<name>Dungeons &amp; Dragons: Shadow over Mystara</name>
+		<desc>Dungeons &amp; Dragons: Shadow over Mystara is an arcade game developed and published by Capcom in 1996 as a sequel to Dungeons &amp; Dragons: Tower of Doom. It was also released on the Sega Saturn, packaged with Tower of Doom, under the title Dungeons &amp; Dragons Collection. The game is set in the Dungeons &amp; Dragons campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960619T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Hack &amp; Slash / RPG</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240822T164341</lastplayed>
+	</game>
+	<game>
+		<path>./batcir.zip</path>
+		<name>Battle Circuit</name>
+		<desc>Battle Circuit take place in an alternate future earth, the game revolves around a group of bounty hunters who must capture the mad scientist Doctor Saturn and secure a sophisticated computer disc carrying a program known as the "Shiva System". Battle Circuit, which was Capcom's last beat 'em game for the arcades, contains comic-like characters in a futuristic science fiction setting and is considered by some to be a cult classic.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970319T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<lastplayed>20240822T183231</lastplayed>
+	</game>
+	<game>
+		<path>./phoenix.zip</path>
+		<name>Phoenix</name>
+		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
+
+According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japanese developer." Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Amstar</developer>
+		<publisher>Centuri</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>25</playcount>
+		<lastplayed>20240822T183308</lastplayed>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
+
+Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>14</playcount>
+		<lastplayed>20240822T183343</lastplayed>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240822T164108</lastplayed>
+	</game>
+	<game>
+		<path>./tmnt2.zip</path>
+		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
+		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
+
+Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910918T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<lastplayed>20240822T195340</lastplayed>
+	</game>
+	<game>
+		<path>./rmpgwt.zip</path>
+		<name>Rampage: World Tour</name>
+		<desc>A sequel to the 1986 original, Rampage World Tour once again has George, Lizzie, and Ralph bent on a trail of destruction. The 'World Tour' of the title refers to the fact that the action now takes place around the entire world, instead of just North America. Graphics are much improved and a kick button has been added to allow even more chaos.
+
+Hidden bonus items have also been added to the game; two examples are an item that allows any player character to transport to almost any location in the game instantly. A second gives the players more destructive power. Some stages have a vat of toxic chemicals that can mutate any player character into a huge purple bat-like creature called V.E.R.N (Violently Enraged Radioactive Nemesis) for the duration of the stage.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Game Refuge</developer>
+		<publisher>Midway</publisher>
+		<genre>Coop • Action</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T182917</lastplayed>
+	</game>
+	<game>
+		<path>./gauntleg.zip</path>
+		<name>Gauntlet Legends</name>
+		<desc>Gauntlet Legends is a fantasy themed action game, a sequel to 1985's popular "Gauntlet" and 1986's "Gauntlet II". Its unusual features for an arcade game included passwords and characters that could be saved, enabling players to play over the course of a long period of time. It was a role-playing game, though with very limited role-playing.
+
+The simplicity of the original Gauntlet series is still here: You have to find your way out of a maze using keys, secret passages, and switches. In your way are hordes and hordes of enemies, endlessly reproducing themselves from generators painfully spread around the gigantic, menacing levels.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Coop • Action / Labyrinth</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240822T201541</lastplayed>
+	</game>
+	<game>
+		<path>./gaia.zip</path>
+		<name>Gaia Crusaders</name>
+		<desc>Gaia Crusaders is a one or two-player side-scrolling beat-em-up in which players must battle Satan and his army of demons that have captured and taken over the world. Players select a character from a choice of five combatants known as 'Elemental Warriors'. Each of the characters possesses either Wind strength, Fire strength, or a mix of the two. 
+
+The game has the standard punch and kick attack moves as well as magical special moves. Combos can be strung together by switching quickly between kicking and punching. Players can also perform a 'super attack' by pressing the jump, punch and kick buttons simultaneously, this hits many enemies at once but costs the player character some health. It's also possible to raise a shield by pressing jump and kick simultaneously.
+
+At regular intervals coloured spheres appear, players can pick these up to gain a magical attack. The effects of the magic attack differs depending on the player character. If the magic matches the character's elemental attribute (fire, wind or both), they will gain a special, screen-clearing attack. Otherwise, they earn a powerful special attack. 
+
+In addition to the elemental spheres, there are two types of bombs that also appear, both of which detonate immediately once picked up. The first is an earthquake that hits all on-screen enemies and inflicts a large amount of damage. The second is a random bomb that sends out pillars of fire, hurting any enemies they come into contact with. There are also explosive boxes that can be kicked at enemies to keep them at bay. One last notable item is the sword, which functions much like weapons that can be found on the ground in many other beat 'em ups. A boss battle awaits players at the end of each stage.
+
+Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1989 classic, Final Fight and also, to a lesser degree, by Sega's Golden Axe (the latter being the use of the Magical Attack acting as a smart bomb).
+
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>Noise Factory</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T201848</lastplayed>
+	</game>
+	<game>
+		<path>./ganryu.zip</path>
+		<name>Ganryu</name>
+		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
+
+You must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240822T202736</lastplayed>
+	</game>
+	<game>
+		<path>./gauntdl.zip</path>
+		<name>Gauntlet Dark Legacy</name>
+		<desc>Step into the world of of Gauntlet Dark Legacy and prepare for an adventure. Built on the strength of "Gauntlet Legends", Dark Legacy takes the action to a new dimension with new characters, new realms, new combos and improved graphics. Four new characters join forces with the original four Legends characters to explore and battle their way through eight realms of gameplay. The Mountain, Desert, Forest and Castle Realms have been updated to match the depth and complexity of the four new realms... Ice, Town, Sky and Dream. There is also a bonus Battlefield Realm. Multi-player gameplay has been enhanced by allowing two players to work together to activate special moves with new combos. In addition, Dark Legacy is full of secret codes and passwords that give special access to alternate characters and many other surprises (see 'Tips And Tricks' section for more information).</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Coop • Action / Labyrinth</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T203509</lastplayed>
+	</game>
+	<game>
+		<path>./vamphalf.zip</path>
+		<name>Vamf x1/2</name>
+		<desc>On a peaceful day, some strange energy suddenly emanates from the sky. All of a sudden, people become restless and the neighborhood becomes desolate.
+
+Four boys, O'Hara from the wolf clan, Kang Chihwan from the bear clan, Sonic from the leopard clan, and Wang Kanghan from the human clan think what has happened is strange and set out on a journey to find out just what is going on.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Danbi</developer>
+		<publisher>Danbi</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20240822T204407</lastplayed>
+	</game>
+	<game>
+		<path>./timeplt.zip</path>
+		<name>Time Pilot</name>
+		<desc>Time Pilot is a multi-directionally scrolling shoot-em-up in which the player controls a futuristic jet fighter and takes on the role of pilot trying to rescue fellow pilots who are trapped in different time eras. The game consists of five different stages of play, each of which is set in a different time period.
+
+</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Shooter / Multidirectional</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240822T205851</lastplayed>
+	</game>
+	<game>
+		<path>./hyperspt.zip</path>
+		<name>Hyper Sports</name>
+		<desc>Hyper Sports is a multi-event sports game and is the sequel to 1983's seminal "Track and Field". As with "Track and Field", the game supports up to four players and is controlled by two RUN buttons (renamed GO for this sequel) and one action - or UP - button. 
+
+Tap GO and player will accelerate, shoot or lift. Push UP and player will jump or shoot. The game offers seven different Olympic-based events, and players must achieve qualification in each event in order to progress to the next. Game is over if you fail to qualify in an event.
+
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<lastplayed>20240822T210631</lastplayed>
+	</game>
+	<game>
+		<path>./tbowl.zip</path>
+		<name>Tecmo Bowl</name>
+		<desc>TECMO BOWL - The game of guts and glory! Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl!</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Comp • Sports / Football</genre>
+		<players>1-4</players>
+		<playcount>4</playcount>
+		<lastplayed>20240822T214703</lastplayed>
+	</game>
+	<game>
+		<path>./bladestl.zip</path>
+		<name>Blades Of Steel</name>
+		<desc>Blades Of Steel is an arcade ice hockey game (the gameplay doesn't require you to worry about statistics or customising teams). From time to time, a fight may break out, allowing both players to be seen up close. The player is in control during the miniature fight sequence, with the loser having to spend time in the penalty box. The referee interrupts fights when they last too long.</desc>
+		<rating>0.5</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20240822T215327</lastplayed>
+	</game>
+	<game>
+		<path>./88games.zip</path>
+		<name>'88 Games</name>
+		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20240822T215702</lastplayed>
+	</game>
+	<game>
+		<path>./cyberbal.zip</path>
+		<name>Cyberball</name>
+		<desc>Head to Head... Metal on Metal... It's a Fight to the Finish!! Cyberball is an extremely violent futuristic football game full of colliding metal and exploding shrapnel. Players select from over 100 offensive and defensive plays.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20240822T215903</lastplayed>
+	</game>
+	<game>
+		<path>./lbowling.zip</path>
+		<name>League Bowling</name>
+		<desc>The lanes are crowded every night with Big Time Pin Slammin' action! You call the shots selecting a right or left handed bowler. Determine ball weight, and develop the skills of the pro's as you skillfully throw a variety of shots that you control. So pop some refreshments and settle into this indoor sport like you've never seen before!</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Bowling</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<lastplayed>20240822T220124</lastplayed>
 	</game>
 </gameList>
