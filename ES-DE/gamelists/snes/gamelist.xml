@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Clay Fighter (U) [!].smc</path>
-		<name>Clay Fighter</name>
-		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
+		<path>./Super Mario Kart (U) [!].smc</path>
+		<name>Super Mario Kart</name>
+		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
+
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
 		<rating>0.8</rating>
-		<releasedate>19940526T000000</releasedate>
-		<developer>Visual Concepts</developer>
-		<publisher>Interplay</publisher>
-		<genre>Fighting</genre>
+		<releasedate>19930121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Comp • Racing / Battle</genre>
 		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20240805T211026</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>12</playcount>
+		<lastplayed>20240825T183505</lastplayed>
 	</game>
 	<game>
 		<path>./Micro Machines (U) [!].smc</path>
@@ -23,29 +26,29 @@ These levels were packed with variation. The Snooker tables has the track painte
 Viewed from overhead with small graphics, the races include up to 4 cars. In one player challenge mode you race through the 21 tracks in a set order, selecting your 3 opponents as you go along (adding a fair amount of strategy - ideally you should aim to eliminate the better CPU cars early on), eliminating one after every third race (assuming that you can finish in the top 2 of a race within your 3 lives). If you win 3 races in a row without using a continue you get a time-trial race which can earn you an extra life.
 
 The real innovation of the game was in the multiplayer modes. You started with 4 points each, and when one car gets far enough ahead to force the other car off-screen, the slider moves in their favour. Once it reached the end (which involved beating them 4 times more than they beat you) you win the level, although if 3 laps were completed, the person leading at that point is declared the winner - with a sudden death play off if scores are level. 9 of the tracks are available in this mode, although you can also play this Head to Head system as a 1-player game across all the tracks.</desc>
-		<rating>0.9</rating>
+		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Merit</developer>
 		<publisher>Ocean</publisher>
-		<genre>Racing, Driving</genre>
+		<genre>Comp • Racing</genre>
 		<players>1-4</players>
-		<playcount>3</playcount>
-		<lastplayed>20240820T152902</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>14</playcount>
+		<lastplayed>20240825T183834</lastplayed>
 	</game>
 	<game>
-		<path>./Super Mario Kart (U) [!].smc</path>
-		<name>Super Mario Kart</name>
-		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
-
-There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930121T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Racing TPV</genre>
+		<path>./Clay Fighter (U) [!].smc</path>
+		<name>Clay Fighter</name>
+		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
+		<rating>0.5</rating>
+		<releasedate>19940526T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>Interplay</publisher>
+		<genre>Comp • Fighting</genre>
 		<players>1-2</players>
-		<playcount>7</playcount>
-		<lastplayed>20240820T155749</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20240825T184416</lastplayed>
 	</game>
 	<game>
 		<path>./Super Tetris 3 (Japan) (En).sfc</path>
@@ -55,14 +58,15 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 The most unique mode is Magicaliss, which has never shown up on any other version of Tetris. In Magicaliss, pieces come in three basic colors, and by rotating the piece, the player can choose between them. Creating a line entirely out of one color will clear all blocks on the screen of that color. There are also grey pieces, which can only be cleared by creating a line made entirely from one color, which will cause all grey blocks on screen to become that color. There are also rare rainbow pieces which will act as any color. Besides these additions, the game itself is basic Tetris.
 
 Tetris Classic, Sparkliss, and Magicaliss can also be played in a two-player battle mode, besides the four-player Familiss mode.</desc>
-		<rating>1</rating>
+		<rating>0.9</rating>
 		<releasedate>19941216T000000</releasedate>
 		<developer>TOSE</developer>
 		<publisher>Bullet Proof Software</publisher>
-		<genre>Fighting / Versus</genre>
+		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-4</players>
-		<playcount>2</playcount>
-		<lastplayed>20240820T192635</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<lastplayed>20240825T184724</lastplayed>
 	</game>
 	<game>
 		<path>./Super Bomberman 3 (E).smc</path>
@@ -78,5 +82,8 @@ Players are also not limited to the traditional Bomberman.  There is a wide sele
 		<publisher>Hudson</publisher>
 		<genre>Action</genre>
 		<players>1-5</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20240825T185044</lastplayed>
 	</game>
 </gameList>

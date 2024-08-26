@@ -6,13 +6,35 @@
 		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
 
 The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
-		<rating>0.8</rating>
+		<rating>0.9</rating>
 		<releasedate>19900223T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Puzzle-Game</genre>
+		<genre>Solo • Puzzle / Falling Block</genre>
 		<players>1</players>
-		<playcount>14</playcount>
-		<lastplayed>20240822T204651</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>15</playcount>
+		<lastplayed>20240825T144350</lastplayed>
+	</game>
+	<game>
+		<path>./Mike Tyson's Punch-Out!! (U) (PRG1).nes</path>
+		<name>Mike Tyson's Punch-Out!!</name>
+		<desc>Mike Tyson's Punch-Out is one of the most popular and biggest selling video games of all time. Step into the ring as Little Mac, a 17-year-old fighter from the Bronx, ranked number three in the minor circuit. Your goal is to work your way up through the rankings so that you can challenge Mike Tyson, Kid Dynamite, in a dream fight. 
+
+But the road to the championship is long and hard. You'll have to work your way up through the minor, major, and world circuits by winning against tough contestants like Piston Honda, Glass Joe, Super Macho Man and many, many more! Defeat all your opponents and meet the ultimate challenge against the World Heavyweight Champion Mike Tyson in the greatest fight of all - The Dream Bout! Knockout Tyson and you can become WVBA (World Video Boxing Association) Champ!
+
+The rules of the World Video Boxing Association govern your bouts. Each match is three three-minute rounds long. Any boxer knocked down for a 10 count is Knocked Out (KO). If a boxer goes down three times, he'll find himself a Technical Knock Out (TKO). If both boxers make it to the end of the third round, the ref determines the winner. 
+
+Once you're in the ring you'll have to beat your opponent with smart fighting. Use left and right punches, as well as uppercuts to knock your opponent to the mat. Dodge your opponent's blows with some fancy footwork. Dazzle them with your brilliance and you'll be the World Video Boxing Association Champion. On the other hand, you might find yourself down for the count.
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19871115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Solo • Sports / Boxing</genre>
+		<players>1</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240826T085335</lastplayed>
 	</game>
 </gameList>

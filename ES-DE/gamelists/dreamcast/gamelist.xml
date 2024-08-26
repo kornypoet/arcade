@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <gameList>
-	<folder>
-		<path>./Puyo Puyo 4</path>
-		<name>Puyo Puyo~n</name>
-		<desc>Puyo Puyo~n (also called Puyo Puyo 4, based on a Japanese playword), is the fourth installment of the Puyo Puyo puzzle game series. It features a three-stage beginner mode and a single player story mode, where the main character (Arle) and (in console versions) the allies she meets along the way encounter different characters in a circus setting, and engage them in a Puyo Puyo puzzle battle.
-
-Story Mode features different rules per level (ex. Point Puyo can drop instead of Nuisance Puyo, a certain number of colors can be used, etc.) and special attacks that can be engaged with multiple chains.
-Other modes include classic Puyo Puyo and a battle mode for up to four players.</desc>
+	<game>
+		<path>./Dead or Alive 2 (USA).cue</path>
+		<name>Dead or Alive 2</name>
+		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
 		<rating>0.8</rating>
-		<releasedate>19990304T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>SEGA</publisher>
-		<genre>Puzzle</genre>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Comp • Fighting / Team</genre>
 		<players>1-4</players>
-	</folder>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20240825T161637</lastplayed>
+	</game>
 	<game>
 		<path>./puyo-puyo-4.gdi</path>
 		<name>Puyo Puyo~n</name>
@@ -27,6 +27,39 @@ Other modes include classic Puyo Puyo and a battle mode for up to four players.<
 		<publisher>SEGA</publisher>
 		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240825T163118</lastplayed>
+	</game>
+	<game>
+		<path>./Power Stone (USA).cue</path>
+		<name>Power Stone</name>
+		<desc>The creators of Street Fighter add a new dimension to 3D fighting. In Power Stone, 2 fighters take to multi-level arenas with Power Stones and other weapons lying around for use.
+
+Each game contains Power Stones. When you have enough stones (between three to five), your character transforms into an almost unbeatable warrior, with an all-new range of moves (although this does not last for long).</desc>
+		<rating>0.7</rating>
+		<releasedate>19991014T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Comp • Fighting / Brawl</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<lastplayed>20240825T163641</lastplayed>
+	</game>
+	<game>
+		<path>./Power Stone 2 (USA).cue</path>
+		<name>Power Stone 2</name>
+		<desc>The world's most revolutionary fighting game does it again! Power Stone 2 takes go-anywhere, grab-anything combat, and introduces awesome new innovations to the hit arcade fighting series. Now, up to four players wage insane battles in fully interactive, multi-level stages. Master over 120 different items used in battle - weapons, vehicles traps, power-upsand more! As if chaotic swashbuckling battles weren't enough, combine forces with other players to battle monstrous bosses to win the game!</desc>
+		<rating>0.8</rating>
+		<releasedate>20000824T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Comp • Fighting / Brawl</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240825T163947</lastplayed>
 	</game>
 	<game>
 		<path>./Virtua Tennis (USA).cue</path>
@@ -41,8 +74,28 @@ Virtua Tennis, so realistic you can almost taste the strawberries and cream.</de
 		<publisher>SEGA</publisher>
 		<genre>Comp • Sports / Tennis</genre>
 		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20240820T194232</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20240825T164212</lastplayed>
+	</game>
+	<game>
+		<path>./Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da).cue</path>
+		<name>Worms Armageddon</name>
+		<desc>The final sequel (at least using the present engine) to the strategy game Worms, Worms Armageddon expands on Worms 2 by improving quite a few facets of gameplay and including play over the Internet through Team 17's WORMNET. 
+
+For those who've never played Worms, it's at heart similar to the old game Artillery, which you control an artillery piece. In essence, you give it a shot angle and shot power, and try to hit your enemy, despite wind effects and the enemy firing back at you. Worms puts you in command of a team of Worms, but not only can you move around the landscape, you can use many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. 
+
+Everything is presented in a humorous cartoonish style, from the landscapes to the worms themselves and their cries of triumph or despair, depending on how you do.
+
+Armageddon uses an enhanced version of the Worms 2 engine, and while an improvement over Worms 2, it's not a huge change.</desc>
+		<rating>0.9</rating>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+		<playcount>3</playcount>
+		<lastplayed>20240825T173815</lastplayed>
 	</game>
 	<game>
 		<path>./Soulcalibur (USA).cue</path>
@@ -56,9 +109,10 @@ In addition to several locales in which to fight and alternate models/costumes p
 		<releasedate>19991126T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Comp • VS / Weapon</genre>
+		<genre>Comp • Fighting / Weapon</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240822T205716</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240825T173936</lastplayed>
 	</game>
 </gameList>
