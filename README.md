@@ -29,3 +29,10 @@ Timesplitters (or any first person shooter) - requires analog joysticks
 Super Mario Strikers - requires analog joystick + more buttons
 Mario Golf Toadstool Tour - ""
 Twisted Metal - ""
+Hot Shots Tennis - confused with the ps2 series Hot shots; not as good
+Cyberball - multiplayer is meant to be split screens not shared
+9 Ball Shootout - Just kinda sucks
+Pebble Beach - out in favor of neo turf masters
+Carket Ball - too obscure?
+Virtual Pool - too hard to control
+Nfl Blitz 2000 - coin issues
