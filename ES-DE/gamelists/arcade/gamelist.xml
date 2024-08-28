@@ -2112,17 +2112,6 @@ R Type Leo consists of 6 stages and is the first game in the series to allow 2 p
 		<lastplayed>20240816T152550</lastplayed>
 	</game>
 	<game>
-		<path>./atompunk.zip</path>
-		<name>Dynablaster</name>
-		<desc>In the future, fight competitions among robots are the most popular event. Bomber Man &amp; King Bomber are the supreme champions, however King Bomber turns evil and attacks mankind with his loyal minions. Bomber Man &amp; his brother Bomber Man 2 must defeat these henchmen and show King Bomber that crime just doesn't pay! Features cute graphics &amp; music and insanely addictive gameplay. Have a blast, but don't get blasted yourself!</desc>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./gnbarich.zip</path>
 		<name>Gunbarich</name>
 		<desc>Shoot back the enemy bullets! The breakout-like shooter with a variety of items and gimmicks!
@@ -2146,17 +2135,6 @@ Be the world's best GUNBARICH!</desc>
 		<lastplayed>20240816T153957</lastplayed>
 	</game>
 	<game>
-		<path>./newapunk.zip</path>
-		<name>New Dyna Blaster - Global Quest</name>
-		<desc>Bomber Man World is a strategic maze-based action game for up to four players in which the aim is to plant bombs to kill all of the enemies on the stage. Each of the game's grid-based stages are littered with both destructible and indestructible blocks, destructible blocks can be blown up to clear a path as well as to reveal a variety of different power-ups. </desc>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Irem</publisher>
-		<genre>Action / Labyrinth</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./kamikcab.zip</path>
 		<name>Kamikaze Cabbie</name>
 		<desc>The game has the player collecting a fare at a taxi stop and taking that passenger to the desired location. The amount of money the fare grants is indicated as score points. Along the way, the player is free to crash into other vehicles for extra points. Dropping a passenger off successfully will complete the stage and proceed to a newer and harder one. If the player completes the stage fast enough, tips are awarded for additional points. The player gets a bonus for the first 20,000 points and every 30,000 points after that. The fuel gauge acts as a health meter which depletes over time and even more when the taxi cab collides. Fuel can be recharged at a gas station. The game is over if the player runs out of fuel.</desc>
@@ -2169,21 +2147,6 @@ Be the world's best GUNBARICH!</desc>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
 		<lastplayed>20240816T155821</lastplayed>
-	</game>
-	<game>
-		<path>./foodf.zip</path>
-		<name>Food Fight</name>
-		<desc>Food Fight © 1982 Atari.
-
-The player, as Charley Chuck, must dodge all kinds of flying fruit and vegetables and try to eat an ice cream cone before it melts. How many ice cream cones can he eat? Your players will soon find out in this incredible video feast. As an ice cream cone melts on the other side of the screen, Charley Chuck just naturally has to go for it, But he must get past Oscar, Angelo, Jacques and Zorba, four chefs who unexpectedly pop out of holes, chase Charley Chuck and throw food at him. They all have different personalities and they're all out to stop Charley Chuck if he isn't fast enough. There are piles of tomatoes, peas, bananas, pies and watermelon Charley Chuck can use to defend himself from the persistent chefs. The player controls Charley Chuck with an analog joystick which allows 360 degree movement on the playfield, and a Throw button, used when Charley Chuck needs to throw food at one of the chefs.</desc>
-		<rating>0.5</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Altr • Action</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20240816T161111</lastplayed>
 	</game>
 	<game>
 		<path>./gtfore04.zip</path>
