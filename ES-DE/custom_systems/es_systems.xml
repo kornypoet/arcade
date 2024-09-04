@@ -9,4 +9,15 @@
         <platform>arcade</platform>
         <theme>arcade</theme>
     </system>
+
+    <system>
+        <name>music</name>
+        <fullname>Music</fullname>
+        <path>~/ROMs/standalone</path>
+        <extension>.AppImage</extension>
+        <command label="Clone Hero">~/clonehero-linux/clonehero</command>
+	<command label="Outfox">~/outfox/Outfox</command>
+        <platform>music</platform>
+        <theme>music</theme>
+    </system>
 </systemList>

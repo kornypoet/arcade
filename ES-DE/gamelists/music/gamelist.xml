@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./clonehero.AppImage</path>
+		<name>Clone Hero</name>
+		<desc>Clone Hero, as it name suggests, is a free Guitar Hero clone for PC which allows players to play custom songs. The game supports both 5-note and 6-note tracks.</desc>
+		<rating>1</rating>
+		<releasedate>20170404T000000</releasedate>
+		<publisher>Ryan Foster</publisher>
+		<genre>Coop • Rhythm</genre>
+		<players>1-4</players>
+		<playcount>4</playcount>
+		<lastplayed>20240829T162332</lastplayed>
+	</game>
+	<game>
+		<path>./outfox.AppImage</path>
+		<name>StepMania</name>
+		<desc>StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers. It is customizable with user-made add-ons such as themes, and provides an integrated editor for creating your own simfiles.
+
+StepMania can also be used with dance game cabinets, and has been used as the basis for several major commercial products including Pump it Up Infinity and StepManiaX.</desc>
+		<genre>Rhythm</genre>
+	</game>
+</gameList>
