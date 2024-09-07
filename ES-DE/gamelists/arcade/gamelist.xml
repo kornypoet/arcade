@@ -905,22 +905,6 @@ Throughout the game, letters of the alphabet randomly appear in bubbles. These c
 		<lastplayed>20240806T205241</lastplayed>
 	</game>
 	<game>
-		<path>./bublbobl.zip</path>
-		<name>Bubble Bobble</name>
-		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
-
-Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points. </desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<playcount>4</playcount>
-		<lastplayed>20240806T211211</lastplayed>
-	</game>
-	<game>
 		<path>./bublbob2.zip</path>
 		<name>Bubble Bobble II</name>
 		<desc>Bubble Bobble II, also known as Bubble Symphony, is the first direct sequel to Taito's 1986 platform classic, "Bubble Bobble" ('Rainbow Islands' was the first official sequel, but played very differently) in which one or two players take on the role of the infamous bubble-blowing dinosaurs who must once again fight their way through a large number of single-screen platform-based levels, trapping monsters with their bubbles before bursting them to destroy the trapped enemies. 
@@ -2676,31 +2660,6 @@ The simplicity of the original Gauntlet series is still here: You have to find y
 		<lastplayed>20240822T201541</lastplayed>
 	</game>
 	<game>
-		<path>./gaia.zip</path>
-		<name>Gaia Crusaders</name>
-		<desc>Gaia Crusaders is a one or two-player side-scrolling beat-em-up in which players must battle Satan and his army of demons that have captured and taken over the world. Players select a character from a choice of five combatants known as 'Elemental Warriors'. Each of the characters possesses either Wind strength, Fire strength, or a mix of the two. 
-
-The game has the standard punch and kick attack moves as well as magical special moves. Combos can be strung together by switching quickly between kicking and punching. Players can also perform a 'super attack' by pressing the jump, punch and kick buttons simultaneously, this hits many enemies at once but costs the player character some health. It's also possible to raise a shield by pressing jump and kick simultaneously.
-
-At regular intervals coloured spheres appear, players can pick these up to gain a magical attack. The effects of the magic attack differs depending on the player character. If the magic matches the character's elemental attribute (fire, wind or both), they will gain a special, screen-clearing attack. Otherwise, they earn a powerful special attack. 
-
-In addition to the elemental spheres, there are two types of bombs that also appear, both of which detonate immediately once picked up. The first is an earthquake that hits all on-screen enemies and inflicts a large amount of damage. The second is a random bomb that sends out pillars of fire, hurting any enemies they come into contact with. There are also explosive boxes that can be kicked at enemies to keep them at bay. One last notable item is the sword, which functions much like weapons that can be found on the ground in many other beat 'em ups. A boss battle awaits players at the end of each stage.
-
-Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1989 classic, Final Fight and also, to a lesser degree, by Sega's Golden Axe (the latter being the use of the Magical Attack acting as a smart bomb).
-
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Noise Factory</developer>
-		<publisher>Noise Factory</publisher>
-		<genre>Coop • Beat'em Up</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240822T201848</lastplayed>
-	</game>
-	<game>
 		<path>./ganryu.zip</path>
 		<name>Ganryu</name>
 		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
@@ -3366,40 +3325,6 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<playcount>5</playcount>
 		<altemulator>Naomi</altemulator>
 		<lastplayed>20240825T183054</lastplayed>
-	</game>
-	<game>
-		<path>./kinst.zip</path>
-		<name>Killer Instinct</name>
-		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.
-
-Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.
-
-Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20240825T211603</lastplayed>
-	</game>
-	<game>
-		<path>./ssf2t.zip</path>
-		<name>Super Street Fighter II Turbo</name>
-		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
-
-Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940223T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>10</playcount>
-		<lastplayed>20240825T212007</lastplayed>
 	</game>
 	<game>
 		<path>./umk3.zip</path>
@@ -4644,20 +4569,6 @@ Player control consists of a Midi Trak-Ball control and a FIRE button. The Arche
 		<lastplayed>20240902T143108</lastplayed>
 	</game>
 	<game>
-		<path>./pbobblen.zip</path>
-		<name>Puzzle Bobble</name>
-		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
-		<rating>0.9</rating>
-		<releasedate>19941221T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Comp • Puzzle / Matching</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>9</playcount>
-		<lastplayed>20240902T143628</lastplayed>
-	</game>
-	<game>
 		<path>./galaga.zip</path>
 		<name>Galaga</name>
 		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
@@ -4672,5 +4583,94 @@ Galagans fly onto the screen in a variety of formations before forming troop lin
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>18</playcount>
 		<lastplayed>20240903T213117</lastplayed>
+	</game>
+	<game>
+		<path>./bublbobl.zip</path>
+		<name>Bubble Bobble</name>
+		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
+
+Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points. </desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>5</playcount>
+		<lastplayed>20240903T213408</lastplayed>
+	</game>
+	<game>
+		<path>./pbobblen.zip</path>
+		<name>Puzzle Bobble</name>
+		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
+		<rating>0.9</rating>
+		<releasedate>19941221T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Comp • Puzzle / Matching</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<lastplayed>20240903T213721</lastplayed>
+	</game>
+	<game>
+		<path>./kinst.zip</path>
+		<name>Killer Instinct</name>
+		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.
+
+Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.
+
+Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<lastplayed>20240903T214434</lastplayed>
+	</game>
+	<game>
+		<path>./ssf2t.zip</path>
+		<name>Super Street Fighter II Turbo</name>
+		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940223T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<lastplayed>20240903T214609</lastplayed>
+	</game>
+	<game>
+		<path>./gaia.zip</path>
+		<name>Gaia Crusaders</name>
+		<desc>Gaia Crusaders is a one or two-player side-scrolling beat-em-up in which players must battle Satan and his army of demons that have captured and taken over the world. Players select a character from a choice of five combatants known as 'Elemental Warriors'. Each of the characters possesses either Wind strength, Fire strength, or a mix of the two. 
+
+The game has the standard punch and kick attack moves as well as magical special moves. Combos can be strung together by switching quickly between kicking and punching. Players can also perform a 'super attack' by pressing the jump, punch and kick buttons simultaneously, this hits many enemies at once but costs the player character some health. It's also possible to raise a shield by pressing jump and kick simultaneously.
+
+At regular intervals coloured spheres appear, players can pick these up to gain a magical attack. The effects of the magic attack differs depending on the player character. If the magic matches the character's elemental attribute (fire, wind or both), they will gain a special, screen-clearing attack. Otherwise, they earn a powerful special attack. 
+
+In addition to the elemental spheres, there are two types of bombs that also appear, both of which detonate immediately once picked up. The first is an earthquake that hits all on-screen enemies and inflicts a large amount of damage. The second is a random bomb that sends out pillars of fire, hurting any enemies they come into contact with. There are also explosive boxes that can be kicked at enemies to keep them at bay. One last notable item is the sword, which functions much like weapons that can be found on the ground in many other beat 'em ups. A boss battle awaits players at the end of each stage.
+
+Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1989 classic, Final Fight and also, to a lesser degree, by Sega's Golden Axe (the latter being the use of the Magical Attack acting as a smart bomb).
+
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>Noise Factory</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20240904T121131</lastplayed>
 	</game>
 </gameList>

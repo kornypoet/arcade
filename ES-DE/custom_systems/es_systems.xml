@@ -1,23 +1,23 @@
 <systemList>
-    <system>
-        <name>arcade</name>
-        <fullname>Arcade</fullname>
-        <path>~/mame/roms</path>
-        <extension>.smc .SMC .sfc .SFC .swc .SWC .fig .FIG .bs .BS .bin .BIN .mgd .MGD .7z .7Z .zip .ZIP</extension>
-        <command label="MAME Standalone">~/mame/mame %ROM% %STARTDIR%=~/mame</command>
-	<command label="Naomi">~/Applications/flycast.AppImage -config window:fullscreen=yes %ROM%</command>
-        <platform>arcade</platform>
-        <theme>arcade</theme>
-    </system>
-
-    <system>
-        <name>music</name>
-        <fullname>Music</fullname>
-        <path>~/ROMs/standalone</path>
-        <extension>.AppImage</extension>
-        <command label="Clone Hero">~/clonehero-linux/clonehero</command>
-	<command label="Outfox">~/outfox/Outfox</command>
-        <platform>music</platform>
-        <theme>music</theme>
-    </system>
+  <system>
+    <name>arcade</name>
+    <fullname>Arcade</fullname>
+    <path>~/mame/roms</path>
+    <extension>.smc .SMC .sfc .SFC .swc .SWC .fig .FIG .bs .BS .bin .BIN .mgd .MGD .7z .7Z .zip .ZIP</extension>
+    <command label="MAME Standalone">~/mame/mame %ROM% %STARTDIR%=~/mame</command>
+    <command label="Naomi">~/Applications/flycast.AppImage -config window:fullscreen=yes %ROM%</command>
+    <platform>arcade</platform>
+    <theme>arcade</theme>
+  </system>
+  
+  <system>
+    <name>music</name>
+    <fullname>Music</fullname>
+    <path>%ROMPATH%/standalone</path>
+    <extension>.AppImage</extension>
+    <!-- <command label="Standalone">%RUNINBACKGROUND% %EMULATOR_OS-SHELL% -c "%ROM%"</command> -->
+    <command label="Standalone">%STARTDIR%=%GAMEDIR% %EMULATOR_OS-SHELL% -c "%ROM%"</command>
+    <platform>music</platform>
+    <theme>music</theme>
+  </system>
 </systemList>
