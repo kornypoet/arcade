@@ -17,12 +17,6 @@ StepMania can also be used with dance game cabinets, and has been used as the ba
 		<lastplayed>20240906T231034</lastplayed>
 	</game>
 	<game>
-		<path>./clonehero.sh</path>
-		<name>clonehero</name>
-		<playcount>8</playcount>
-		<lastplayed>20240906T234954</lastplayed>
-	</game>
-	<game>
 		<path>./Outfox.sh</path>
 		<name>Outfox</name>
 		<playcount>1</playcount>
@@ -35,14 +29,16 @@ StepMania can also be used with dance game cabinets, and has been used as the ba
 		<lastplayed>20240906T235043</lastplayed>
 	</game>
 	<game>
-		<path>./OutFox.AppImage</path>
-		<name>StepMania</name>
-		<desc>StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers. It is customizable with user-made add-ons such as themes, and provides an integrated editor for creating your own simfiles.
-
-StepMania can also be used with dance game cabinets, and has been used as the basis for several major commercial products including Pump it Up Infinity and StepManiaX.</desc>
-		<genre>Rhythm</genre>
-		<playcount>1</playcount>
-		<lastplayed>20240907T083512</lastplayed>
+		<path>./clonehero.sh</path>
+		<name>clonehero</name>
+		<playcount>9</playcount>
+		<lastplayed>20241208T103329</lastplayed>
+	</game>
+	<game>
+		<path>./stepmania.sh</path>
+		<name>stepmania</name>
+		<playcount>9</playcount>
+		<lastplayed>20241208T115634</lastplayed>
 	</game>
 	<game>
 		<path>./clonehero.AppImage</path>
@@ -53,7 +49,17 @@ StepMania can also be used with dance game cabinets, and has been used as the ba
 		<publisher>Ryan Foster</publisher>
 		<genre>Rhythm</genre>
 		<players>1-4</players>
-		<playcount>10</playcount>
-		<lastplayed>20240907T083458</lastplayed>
+		<playcount>62</playcount>
+		<lastplayed>20250306T163604</lastplayed>
+	</game>
+	<game>
+		<path>./OutFox.AppImage</path>
+		<name>StepMania</name>
+		<desc>StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers. It is customizable with user-made add-ons such as themes, and provides an integrated editor for creating your own simfiles.
+
+StepMania can also be used with dance game cabinets, and has been used as the basis for several major commercial products including Pump it Up Infinity and StepManiaX.</desc>
+		<genre>Rhythm</genre>
+		<playcount>26</playcount>
+		<lastplayed>20250312T094924</lastplayed>
 	</game>
 </gameList>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./House of the Dead, The (USA).cue</path>
+		<name>The House of the Dead</name>
+		<desc>House of the Dead is your basic rail shooter. Go through the branching levels and kill all the zombies, avoid killing the humans and rescue the girl.  Shooting various special targets along the way or in a certain time period give you temporary health and weapon upgrades.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980410T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20250209T102008</lastplayed>
+	</game>
+</gameList>

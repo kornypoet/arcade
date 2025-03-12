@@ -1,20 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Dead or Alive 2 (USA).cue</path>
-		<name>Dead or Alive 2</name>
-		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000229T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240825T161637</lastplayed>
-	</game>
-	<game>
 		<path>./puyo-puyo-4.gdi</path>
 		<name>Puyo Puyo~n</name>
 		<desc>Puyo Puyo~n (also called Puyo Puyo 4, based on a Japanese playword), is the fourth installment of the Puyo Puyo puzzle game series. It features a three-stage beginner mode and a single player story mode, where the main character (Arle) and (in console versions) the allies she meets along the way encounter different characters in a circus setting, and engage them in a Puyo Puyo puzzle battle.
@@ -114,5 +100,32 @@ Armageddon uses an enhanced version of the Worms 2 engine, and while an improvem
 		<players>1-4</players>
 		<playcount>4</playcount>
 		<lastplayed>20240826T152046</lastplayed>
+	</game>
+	<game>
+		<path>./Dead or Alive 2 (USA).cue</path>
+		<name>Dead or Alive 2</name>
+		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20241208T161115</lastplayed>
+	</game>
+	<game>
+		<path>./House of the Dead 2, The (USA).cue</path>
+		<name>The House of the Dead 2</name>
+		<desc>The House of The Dead 2 is a conversion of Sega's popular light gun arcade game. In this game you play the role of a detective out to stop a madman who has unleashed zombies and other horrid creatures on an Italian city. You have to kill the monsters, save people and find out the plans behind this mayhem. The game uses a auto game camera which pans around in a preset manner as you venture through the city killing the creatures and rescuing people. Extra modes like training and time trial are included for replayability.</desc>
+		<rating>0.9</rating>
+		<releasedate>19991105T000000</releasedate>
+		<developer>CRI</developer>
+		<publisher>SEGA</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20250312T094538</lastplayed>
 	</game>
 </gameList>

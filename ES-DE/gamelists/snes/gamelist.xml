@@ -51,24 +51,6 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<lastplayed>20240825T184416</lastplayed>
 	</game>
 	<game>
-		<path>./Super Tetris 3 (Japan) (En).sfc</path>
-		<name>Super Tetris 3</name>
-		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic, of course, is the basic version of the game, which comes with an endless mode and a 25-line "standard" mode. Familiss, as the name might suggest, is a family mode for up to four players simultaneously. Sparkliss, meanwhile, is very similar to Bombliss from Super Tetris 2, only with a medieval fantasy theme and different explosion patterns. Sparkliss includes both a stage mode and a puzzle mode.
-
-The most unique mode is Magicaliss, which has never shown up on any other version of Tetris. In Magicaliss, pieces come in three basic colors, and by rotating the piece, the player can choose between them. Creating a line entirely out of one color will clear all blocks on the screen of that color. There are also grey pieces, which can only be cleared by creating a line made entirely from one color, which will cause all grey blocks on screen to become that color. There are also rare rainbow pieces which will act as any color. Besides these additions, the game itself is basic Tetris.
-
-Tetris Classic, Sparkliss, and Magicaliss can also be played in a two-player battle mode, besides the four-player Familiss mode.</desc>
-		<rating>0.9</rating>
-		<releasedate>19941216T000000</releasedate>
-		<developer>TOSE</developer>
-		<publisher>Bullet Proof Software</publisher>
-		<genre>Comp • Puzzle / Falling Block</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20240825T184724</lastplayed>
-	</game>
-	<game>
 		<path>./Super Bomberman 3 (E).smc</path>
 		<name>Super Bomberman 3</name>
 		<desc>The third bomberman game in the SNES series.  This game was an overhaul of the entire system of bombermans from before.  Again there are new levels and a new story but there are also a lot of new features.
@@ -85,5 +67,36 @@ Players are also not limited to the traditional Bomberman.  There is a wide sele
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>6</playcount>
 		<lastplayed>20240825T185044</lastplayed>
+	</game>
+	<game>
+		<path>./Super Tetris 3 (Japan) (En).sfc</path>
+		<name>Super Tetris 3</name>
+		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic, of course, is the basic version of the game, which comes with an endless mode and a 25-line "standard" mode. Familiss, as the name might suggest, is a family mode for up to four players simultaneously. Sparkliss, meanwhile, is very similar to Bombliss from Super Tetris 2, only with a medieval fantasy theme and different explosion patterns. Sparkliss includes both a stage mode and a puzzle mode.
+
+The most unique mode is Magicaliss, which has never shown up on any other version of Tetris. In Magicaliss, pieces come in three basic colors, and by rotating the piece, the player can choose between them. Creating a line entirely out of one color will clear all blocks on the screen of that color. There are also grey pieces, which can only be cleared by creating a line made entirely from one color, which will cause all grey blocks on screen to become that color. There are also rare rainbow pieces which will act as any color. Besides these additions, the game itself is basic Tetris.
+
+Tetris Classic, Sparkliss, and Magicaliss can also be played in a two-player battle mode, besides the four-player Familiss mode.</desc>
+		<rating>0.9</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Comp • Puzzle / Falling Block</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<lastplayed>20241123T200454</lastplayed>
+	</game>
+	<game>
+		<path>./WeaponLord (USA).sfc</path>
+		<name>WeaponLord</name>
+		<desc>A barbarian battleground. Seven different warriors, eached armed with a unique weapon set forth on a fighting game quest where they will clash and conflict with one another in this fighting game from Namco. Their ultimate foe is the mysterious Demonlord. An early relative of the popular Soul Calibur series, the main claim to fame of this game is the weapon play. Blocking and combos are present along with special "frenzies" of increased attack and death combos. The backgrounds are all hand drawn and meticulously detailed. Each character carries their own storyline with them between arenas, jungles and firey mountains on a quest to oppose the Demonlord.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20241202T182438</lastplayed>
 	</game>
 </gameList>

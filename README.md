@@ -36,3 +36,13 @@ Pebble Beach - out in favor of neo turf masters
 Carket Ball - too obscure?
 Virtual Pool - too hard to control
 Nfl Blitz 2000 - coin issues
+Scramble
+Afterburner
+Crush Roller
+Ladybug
+Tank Battalion
+Super Cobra
+Hustler
+Space Panic
+Juno First
+Town and Country
