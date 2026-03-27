@@ -1,23 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./puyo-puyo-4.gdi</path>
-		<name>Puyo Puyo~n</name>
-		<desc>Puyo Puyo~n (also called Puyo Puyo 4, based on a Japanese playword), is the fourth installment of the Puyo Puyo puzzle game series. It features a three-stage beginner mode and a single player story mode, where the main character (Arle) and (in console versions) the allies she meets along the way encounter different characters in a circus setting, and engage them in a Puyo Puyo puzzle battle.
-
-Story Mode features different rules per level (ex. Point Puyo can drop instead of Nuisance Puyo, a certain number of colors can be used, etc.) and special attacks that can be engaged with multiple chains.
-Other modes include classic Puyo Puyo and a battle mode for up to four players.</desc>
-		<rating>0.9</rating>
-		<releasedate>19990304T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>SEGA</publisher>
-		<genre>Comp • Puzzle / Falling Block</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240825T163118</lastplayed>
-	</game>
-	<game>
 		<path>./Power Stone (USA).cue</path>
 		<name>Power Stone</name>
 		<desc>The creators of Street Fighter add a new dimension to 3D fighting. In Power Stone, 2 fighters take to multi-level arenas with Power Stones and other weapons lying around for use.
@@ -127,5 +110,22 @@ Armageddon uses an enhanced version of the Worms 2 engine, and while an improvem
 		<players>1-2</players>
 		<playcount>2</playcount>
 		<lastplayed>20250312T094538</lastplayed>
+	</game>
+	<game>
+		<path>./puyo-puyo-4.gdi</path>
+		<name>Puyo Puyo~n</name>
+		<desc>Puyo Puyo~n (also called Puyo Puyo 4, based on a Japanese playword), is the fourth installment of the Puyo Puyo puzzle game series. It features a three-stage beginner mode and a single player story mode, where the main character (Arle) and (in console versions) the allies she meets along the way encounter different characters in a circus setting, and engage them in a Puyo Puyo puzzle battle.
+
+Story Mode features different rules per level (ex. Point Puyo can drop instead of Nuisance Puyo, a certain number of colors can be used, etc.) and special attacks that can be engaged with multiple chains.
+Other modes include classic Puyo Puyo and a battle mode for up to four players.</desc>
+		<rating>0.9</rating>
+		<releasedate>19990304T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SEGA</publisher>
+		<genre>Comp • Puzzle / Falling Block</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20251205T235236</lastplayed>
 	</game>
 </gameList>

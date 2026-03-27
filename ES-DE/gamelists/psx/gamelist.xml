@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<gameList>
+	<folder>
+		<path>./Hot Shots Golf 2</path>
+		<name>Everybody's Golf 2</name>
+		<desc>Everybody's Golf 2 (GOLF2 Minna no Golf 2?) (Hot Shots Golf 2 in North America) is the second game in the Everybody's Golf series and the second game released for PlayStation. It was released on 29 July 1999 in Japan, 29 February 2000 in North America and 2000 in Europe.</desc>
+		<rating>0.9</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<folderlink>Hot Shots Golf 2 (USA).cue</folderlink>
+		<lastplayed>20250823T162159</lastplayed>
+	</folder>
+	<game>
+		<path>./Hot Shots Golf 2/Hot Shots Golf 2 (USA).cue</path>
+		<name>Everybody's Golf 2</name>
+		<desc>Everybody's Golf 2 (GOLF2 Minna no Golf 2?) (Hot Shots Golf 2 in North America) is the second game in the Everybody's Golf series and the second game released for PlayStation. It was released on 29 July 1999 in Japan, 29 February 2000 in North America and 2000 in Europe.</desc>
+		<rating>0.9</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+		<playcount>2</playcount>
+		<altemulator>SwanStation</altemulator>
+		<lastplayed>20250823T162159</lastplayed>
+	</game>
+	<folder>
+		<path>./Twisted Metal</path>
+		<name>Twisted Metal III</name>
+		<desc>In an apocalyptic future, the mysterious and powerful Calypso offers one wish to the winner of the Twisted Metal competition.
+
+The Twisted Metal competition consists of vehicular combat between souped-up and weaponed-out machines such as a motorcycle, police car, ice cream truck, and even a man with wheels for arms.  The battles take place in locations from around the world, including London and Tokyo.</desc>
+		<rating>0.7</rating>
+		<releasedate>19981111T000000</releasedate>
+		<developer>989</developer>
+		<publisher>989</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+		<folderlink>Twisted Metal III (USA).cue</folderlink>
+		<lastplayed>20250823T162722</lastplayed>
+	</folder>
+	<game>
+		<path>./Twisted Metal/Twisted Metal III (USA).cue</path>
+		<name>Twisted Metal III (USA)</name>
+		<playcount>1</playcount>
+		<altemulator>SwanStation</altemulator>
+		<lastplayed>20250823T162722</lastplayed>
+	</game>
+</gameList>

@@ -41,6 +41,17 @@ StepMania can also be used with dance game cabinets, and has been used as the ba
 		<lastplayed>20241208T115634</lastplayed>
 	</game>
 	<game>
+		<path>./OutFox.AppImage</path>
+		<name>StepMania</name>
+		<desc>StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers. It is customizable with user-made add-ons such as themes, and provides an integrated editor for creating your own simfiles.
+
+StepMania can also be used with dance game cabinets, and has been used as the basis for several major commercial products including Pump it Up Infinity and StepManiaX.</desc>
+		<genre>Rhythm</genre>
+		<playcount>32</playcount>
+		<playtime>22</playtime>
+		<lastplayed>20260327T104629</lastplayed>
+	</game>
+	<game>
 		<path>./clonehero.AppImage</path>
 		<name>Clone Hero</name>
 		<desc>Clone Hero, as it name suggests, is a free Guitar Hero clone for PC which allows players to play custom songs. The game supports both 5-note and 6-note tracks.</desc>
@@ -49,17 +60,8 @@ StepMania can also be used with dance game cabinets, and has been used as the ba
 		<publisher>Ryan Foster</publisher>
 		<genre>Rhythm</genre>
 		<players>1-4</players>
-		<playcount>62</playcount>
-		<lastplayed>20250306T163604</lastplayed>
-	</game>
-	<game>
-		<path>./OutFox.AppImage</path>
-		<name>StepMania</name>
-		<desc>StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers. It is customizable with user-made add-ons such as themes, and provides an integrated editor for creating your own simfiles.
-
-StepMania can also be used with dance game cabinets, and has been used as the basis for several major commercial products including Pump it Up Infinity and StepManiaX.</desc>
-		<genre>Rhythm</genre>
-		<playcount>26</playcount>
-		<lastplayed>20250312T094924</lastplayed>
+		<playcount>73</playcount>
+		<playtime>3122</playtime>
+		<lastplayed>20260327T105914</lastplayed>
 	</game>
 </gameList>

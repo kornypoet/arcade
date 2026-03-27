@@ -20,4 +20,14 @@
     <platform>music</platform>
     <theme>music</theme>
   </system>
+ 
+  <system>
+    <name>pcarcade</name>
+    <fullname>PCArcade</fullname>
+    <path>%ROMPATH%/pcarcade</path>
+    <extension>.exe</extension>
+    <command label="Wine">/usr/bin/wine %ROM%</command>
+    <platform>pcarcade</platform>
+    <theme>pcarcade</theme>
+  </system> 
 </systemList>

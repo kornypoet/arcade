@@ -1,6 +1,12 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./Mario Golf - Toadstool Tour (USA).rvz</path>
+		<name>Mario Golf - Toadstool Tour (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20250907T111940</lastplayed>
+	</game>
+	<game>
 		<path>./Soulcalibur II (USA).rvz</path>
 		<name>SoulCalibur II</name>
 		<desc>The quest for the all-powerful sword known as Soul Edge continues in Soulcalibur II, as old favorites and exciting new characters compete for the right to wield its power. Featuring seven game modes including Arcade, Time Attack, Survival Mode, Versus Mode, and Team Battle. Unlock and use over 200 different weapons and items in the updated Weapon Master Mode. Exclusive console-specific characters are in different versions of Soulcalibur II. The GameCube version boasts Nintendo's Link, of The Legend of Zelda fame.</desc>
@@ -11,7 +17,7 @@
 		<genre>Comp • Fighting / Weapon</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20241123T175836</lastplayed>
+		<playcount>15</playcount>
+		<lastplayed>20250907T112341</lastplayed>
 	</game>
 </gameList>

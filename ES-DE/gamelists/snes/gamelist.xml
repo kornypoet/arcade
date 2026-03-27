@@ -17,26 +17,6 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<lastplayed>20240825T183505</lastplayed>
 	</game>
 	<game>
-		<path>./Micro Machines (U) [!].smc</path>
-		<name>Micro Machines</name>
-		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on.
-
-These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you. The desktop levels include binders to jump across, pencil-sharpeners to avoid, and lots of visual jokes in the open homework.
-
-Viewed from overhead with small graphics, the races include up to 4 cars. In one player challenge mode you race through the 21 tracks in a set order, selecting your 3 opponents as you go along (adding a fair amount of strategy - ideally you should aim to eliminate the better CPU cars early on), eliminating one after every third race (assuming that you can finish in the top 2 of a race within your 3 lives). If you win 3 races in a row without using a continue you get a time-trial race which can earn you an extra life.
-
-The real innovation of the game was in the multiplayer modes. You started with 4 points each, and when one car gets far enough ahead to force the other car off-screen, the slider moves in their favour. Once it reached the end (which involved beating them 4 times more than they beat you) you win the level, although if 3 laps were completed, the person leading at that point is declared the winner - with a sudden death play off if scores are level. 9 of the tracks are available in this mode, although you can also play this Head to Head system as a 1-player game across all the tracks.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Merit</developer>
-		<publisher>Ocean</publisher>
-		<genre>Comp • Racing</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>14</playcount>
-		<lastplayed>20240825T183834</lastplayed>
-	</game>
-	<game>
 		<path>./Clay Fighter (U) [!].smc</path>
 		<name>Clay Fighter</name>
 		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
@@ -69,6 +49,19 @@ Players are also not limited to the traditional Bomberman.  There is a wide sele
 		<lastplayed>20240825T185044</lastplayed>
 	</game>
 	<game>
+		<path>./WeaponLord (USA).sfc</path>
+		<name>WeaponLord</name>
+		<desc>A barbarian battleground. Seven different warriors, eached armed with a unique weapon set forth on a fighting game quest where they will clash and conflict with one another in this fighting game from Namco. Their ultimate foe is the mysterious Demonlord. An early relative of the popular Soul Calibur series, the main claim to fame of this game is the weapon play. Blocking and combos are present along with special "frenzies" of increased attack and death combos. The backgrounds are all hand drawn and meticulously detailed. Each character carries their own storyline with them between arenas, jungles and firey mountains on a quest to oppose the Demonlord.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20241202T182438</lastplayed>
+	</game>
+	<game>
 		<path>./Super Tetris 3 (Japan) (En).sfc</path>
 		<name>Super Tetris 3</name>
 		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic, of course, is the basic version of the game, which comes with an endless mode and a 25-line "standard" mode. Familiss, as the name might suggest, is a family mode for up to four players simultaneously. Sparkliss, meanwhile, is very similar to Bombliss from Super Tetris 2, only with a medieval fantasy theme and different explosion patterns. Sparkliss includes both a stage mode and a puzzle mode.
@@ -83,20 +76,27 @@ Tetris Classic, Sparkliss, and Magicaliss can also be played in a two-player bat
 		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-4</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>9</playcount>
-		<lastplayed>20241123T200454</lastplayed>
+		<playcount>12</playcount>
+		<lastplayed>20250606T213245</lastplayed>
 	</game>
 	<game>
-		<path>./WeaponLord (USA).sfc</path>
-		<name>WeaponLord</name>
-		<desc>A barbarian battleground. Seven different warriors, eached armed with a unique weapon set forth on a fighting game quest where they will clash and conflict with one another in this fighting game from Namco. Their ultimate foe is the mysterious Demonlord. An early relative of the popular Soul Calibur series, the main claim to fame of this game is the weapon play. Blocking and combos are present along with special "frenzies" of increased attack and death combos. The backgrounds are all hand drawn and meticulously detailed. Each character carries their own storyline with them between arenas, jungles and firey mountains on a quest to oppose the Demonlord.</desc>
+		<path>./Micro Machines (U) [!].smc</path>
+		<name>Micro Machines</name>
+		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on.
+
+These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you. The desktop levels include binders to jump across, pencil-sharpeners to avoid, and lots of visual jokes in the open homework.
+
+Viewed from overhead with small graphics, the races include up to 4 cars. In one player challenge mode you race through the 21 tracks in a set order, selecting your 3 opponents as you go along (adding a fair amount of strategy - ideally you should aim to eliminate the better CPU cars early on), eliminating one after every third race (assuming that you can finish in the top 2 of a race within your 3 lives). If you win 3 races in a row without using a continue you get a time-trial race which can earn you an extra life.
+
+The real innovation of the game was in the multiplayer modes. You started with 4 points each, and when one car gets far enough ahead to force the other car off-screen, the slider moves in their favour. Once it reached the end (which involved beating them 4 times more than they beat you) you win the level, although if 3 laps were completed, the person leading at that point is declared the winner - with a sudden death play off if scores are level. 9 of the tracks are available in this mode, although you can also play this Head to Head system as a 1-player game across all the tracks.</desc>
 		<rating>0.8</rating>
-		<releasedate>19950901T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20241202T182438</lastplayed>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Merit</developer>
+		<publisher>Ocean</publisher>
+		<genre>Comp • Racing</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>15</playcount>
+		<lastplayed>20250704T150854</lastplayed>
 	</game>
 </gameList>

@@ -148,21 +148,6 @@ Gyruss' superb gameplay, in which the player ship rotates around the edges of th
 		<lastplayed>20240730T173047</lastplayed>
 	</game>
 	<game>
-		<path>./ccastles.zip</path>
-		<name>Crystal Castles</name>
-		<desc>Bentley Bear is trapped in the crystal castles! To get out, he must collect all the gems located in each castle. The game is played in a false 3D isometric view through multi-platform castles. When Bentley collects all the gems in the level, he moves on to the next, more difficult castle. Bentley will have to avoid a wide variety of dangerous creatures that roam the levels. Occasionally a magic hat will appear. If Bentley collects the hat, he will be temporarily invincible.</desc>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240730T173104</lastplayed>
-	</game>
-	<game>
 		<path>./zaxxon.zip</path>
 		<name>Zaxxon</name>
 		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot. </desc>
@@ -205,22 +190,6 @@ Gyruss' superb gameplay, in which the player ship rotates around the edges of th
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
 		<lastplayed>20240731T163203</lastplayed>
-	</game>
-	<game>
-		<path>./kungfum.zip</path>
-		<name>Kung-fu Master</name>
-		<desc>Regarded as the first beat 'em up brawler, Kung-Fu Master, known as Spartan X in Japan, is a side-scrolling game developed by Irem for arcades in 1984.
-Designed by Takashi Nishiyama, the game is loosely based on Jackie Chan and Bruce Lee martial arts films.
-The player controls Thomas, the titular Kung-Fu Master, as he fights his way through the five levels of the Devil's Temple to rescue his girlfriend Sylvia from the crime boss Mr. X.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Data East</publisher>
-		<genre>Altr • Beat'em Up</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240731T164922</lastplayed>
 	</game>
 	<game>
 		<path>./ldrun.zip</path>
@@ -341,20 +310,6 @@ The basic play mechanic of collecting objects to clear a level, as well as the p
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20240802T183101</lastplayed>
-	</game>
-	<game>
-		<path>./blockhl.zip</path>
-		<name>Block Hole</name>
-		<desc>A puzzle game that is a combination of Tetris-style gameplay and a fixed shooter in the Space Invaders tradition. Rather than arranging the blocks together to make a row of disappearing blocks, a spaceship positioned at the bottom of the screen shoots blocks upwards to make the falling block pattern into squares or rectangles. Once the blocks have been arranged properly, the shape is destroyed and the player is awarded points based on the shape's size. The blocks continue to drop from the top of the screen in various incomplete shapes.</desc>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Puzzle / Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T114913</lastplayed>
 	</game>
 	<game>
 		<path>./blockout.zip</path>
@@ -684,32 +639,6 @@ Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who 
 		<lastplayed>20240806T204433</lastplayed>
 	</game>
 	<game>
-		<path>./snowbros.zip</path>
-		<name>Snow Bros. - Nick &amp; Tom</name>
-		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
-
-The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
-
-If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
-
-When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
-Yellow = Long shot
-Red = Speed up
-Blue = Bigger snowballs (encases monsters quicker)
-Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
-
-Every 10th level features a battle with a large end-of-level boss.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Toaplan</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240806T204932</lastplayed>
-	</game>
-	<game>
 		<path>./tumblep.zip</path>
 		<name>Tumble Pop</name>
 		<desc>Tumble Pop is a platform game for one or two players in which the aim is to clear each level of enemies by sucking them into - then ejecting them from - a portable vacuum-cleaner. 
@@ -729,23 +658,6 @@ Throughout the game, letters of the alphabet randomly appear in bubbles. These c
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240806T205241</lastplayed>
-	</game>
-	<game>
-		<path>./bublbob2.zip</path>
-		<name>Bubble Bobble II</name>
-		<desc>Bubble Bobble II, also known as Bubble Symphony, is the first direct sequel to Taito's 1986 platform classic, "Bubble Bobble" ('Rainbow Islands' was the first official sequel, but played very differently) in which one or two players take on the role of the infamous bubble-blowing dinosaurs who must once again fight their way through a large number of single-screen platform-based levels, trapping monsters with their bubbles before bursting them to destroy the trapped enemies. 
-
-While the game plays identically to its predecessor, several new changes and additions have been made to breathe new life into the classic gameplay. As well as new bonuses, weapons, enemies and characters, players can now create 'Multiple Bubbles'; if the player holds the button down for a few seconds before releasing, up to three bubbles are produced at once. </desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T211233</lastplayed>
 	</game>
 	<game>
 		<path>./snowbro2.zip</path>
@@ -833,27 +745,6 @@ Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20240808T173022</lastplayed>
-	</game>
-	<game>
-		<path>./contra.zip</path>
-		<name>Contra</name>
-		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
-
-'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
-
-Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.
-
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240808T220803</lastplayed>
 	</game>
 	<game>
 		<path>./ghostb3.zip</path>
@@ -979,25 +870,6 @@ Players choose to play as either Blinky (a one-eyed android), Bucky (the heroic 
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
 		<lastplayed>20240812T162224</lastplayed>
-	</game>
-	<game>
-		<path>./mystwarr.zip</path>
-		<name>Mystic Warriors</name>
-		<desc>Mystic Warriors is a horizontally-scrolling platform beat-em-up for up to four players, in which the evil 'SKULL' organisation has taken over the world and driven its terrified civilians into hiding. Five Ninja warriors set about destroying SKULL and freeing the World from its grip.
-
-Mystic Warriors features five selectable characters, one of which is shown being kidnapped by SKULL once players have made their character choices. What follows is eight levels of platform 'run-and-gun' action, with an end-of-level boss waiting at the end of each stage.
-
-Players are armed with both Shuriken throwing stars and with a sword for close encounters. Numerous boxes are scattered throughout the levels (or are being carried by enemies), all of which contain bonus items such as weapon power-ups or energy-replenishing food. Other power-ups include an invulnerability shield (known as the "Shinobi Shield") which lasts a few seconds and a "Smart Bomb" power-up, which destroys all on-screen enemies. Some boxes also contain points-giving items, such as bags of money, jewellery and gold.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240812T163049</lastplayed>
 	</game>
 	<game>
 		<path>./shocktr2.zip</path>
@@ -1634,20 +1506,6 @@ At the start of a game, the player's weapons are very weak, but they can be 'pow
 		<lastplayed>20240820T215935</lastplayed>
 	</game>
 	<game>
-		<path>./1944.zip</path>
-		<name>1944 : The Loop Master</name>
-		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
-		<rating>0.9</rating>
-		<releasedate>20000620T000000</releasedate>
-		<developer>8ing</developer>
-		<publisher>Capcom</publisher>
-		<genre>Coop • Shooter / Vertical</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>101</playcount>
-		<lastplayed>20240820T220033</lastplayed>
-	</game>
-	<game>
 		<path>./gaunt2.zip</path>
 		<name>Gauntlet II</name>
 		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
@@ -1717,20 +1575,6 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
 		<lastplayed>20240821T093215</lastplayed>
-	</game>
-	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.</desc>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Team Shinobi</developer>
-		<publisher>SEGA</publisher>
-		<genre>Coop • Beat'em Up</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240821T093528</lastplayed>
 	</game>
 	<game>
 		<path>./baddudes.zip</path>
@@ -2001,33 +1845,6 @@ The Simpsons was designed to Konami's typically-high production standards and wa
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240821T231140</lastplayed>
-	</game>
-	<game>
-		<path>./xmen.zip</path>
-		<name>X-Men</name>
-		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
-
-Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.
-
-The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.
-
-Players can chose from 6 X-Men characters, they are:
-Cyclops 
-Colossus 
-Wolverine 
-Storm 
-Nightcrawler 
-Dazzler</desc>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Beat'em Up</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240822T083403</lastplayed>
 	</game>
 	<game>
 		<path>./dino.zip</path>
@@ -2443,28 +2260,6 @@ The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
 		<lastplayed>20240823T133442</lastplayed>
 	</game>
 	<game>
-		<path>./mk2.zip</path>
-		<name>Mortal Kombat 2</name>
-		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
-
-As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'. 
-
-Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked. 
-
-Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background). 
-
-Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930625T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20240823T141250</lastplayed>
-	</game>
-	<game>
 		<path>./sfa.zip</path>
 		<name>Street Fighter Alpha : Warriors' Dreams</name>
 		<desc>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</desc>
@@ -2749,21 +2544,6 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<lastplayed>20240825T183054</lastplayed>
 	</game>
 	<game>
-		<path>./pbobble4.zip</path>
-		<name>Puzzle Bobble 4</name>
-		<desc>Shoot colored bubbles towards clusters of other bubbles. When groups of similarly colored bubbles are formed, the bubbles burst.</desc>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Comp • Puzzle / Matching</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240825T215557</lastplayed>
-	</game>
-	<game>
 		<path>./tgm2p.zip</path>
 		<name>Tetris The Absolute The Grand Master 2</name>
 		<desc>Arika's challenging puzzle-action series continues with new game modes, challenges, and mechanics innovations.</desc>
@@ -2777,21 +2557,6 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240825T220055</lastplayed>
-	</game>
-	<game>
-		<path>./1943u.zip</path>
-		<name>1943: The Battle of Midway</name>
-		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
-As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Coop • Shooter / Vertical</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240825T220942</lastplayed>
 	</game>
 	<game>
 		<path>./pbobble2.zip</path>
@@ -2990,20 +2755,6 @@ A racing game featuring classic cars from Ferrari, Alfa Romeo, Mercedes Benz and
 		<lastplayed>20240827T144959</lastplayed>
 	</game>
 	<game>
-		<path>./nbajamte.zip</path>
-		<name>NBA Jam Tournament Edition</name>
-		<desc>An update of the classic 'NBA JAM'. New players, new features but still the same classic gameplay.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Basketball</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240827T145303</lastplayed>
-	</game>
-	<game>
 		<path>./wjammers.zip</path>
 		<name>Windjammers</name>
 		<desc>Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly. There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds. The game is won after two winning sets or sudden death after two draws.</desc>
@@ -3044,20 +2795,6 @@ A racing game featuring classic cars from Ferrari, Alfa Romeo, Mercedes Benz and
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20240827T210507</lastplayed>
-	</game>
-	<game>
-		<path>./turfmast.zip</path>
-		<name>Neo Turf Masters</name>
-		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Nazca</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240827T210831</lastplayed>
 	</game>
 	<game>
 		<path>./wwfmania.zip</path>
@@ -3167,20 +2904,6 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
 		<playcount>5</playcount>
 		<controller>trackball_generic</controller>
 		<lastplayed>20240829T103612</lastplayed>
-	</game>
-	<game>
-		<path>./gt2k.zip</path>
-		<name>Golden Tee 2k</name>
-		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T103638</lastplayed>
 	</game>
 	<game>
 		<path>./gtfore01.zip</path>
@@ -3342,52 +3065,6 @@ To advance through the game, players must fight their way through each room to a
 		<lastplayed>20240902T133159</lastplayed>
 	</game>
 	<game>
-		<path>./defender.zip</path>
-		<name>Defender</name>
-		<desc>Defender is a legendary sideways-scrolling shoot-em-up - the very first of its genre - in which the aim is to pilot a laser-firing spaceship and protect humanoids stranded on the planet's surface from swarms of alien abductors.
-
-A long-range scanner at the top of the screen shows the positions of both the humanoids and the attacking aliens. The ideal strategy is to shoot down the alien ships before they reach the humanoids. If a humanoid is captured, the alien abductor can still be destroyed, but the player must then catch the falling humanoid and return it to the safety of the planet's surface before it falls to its death.
-
-If an alien is allowed to carry its victim to the very top of the screen, the humanoid will mutate, becoming a permanent part of the alien that captured it. This new and deadly mutation will then immediately join in the alien attack.
-
-The challenge becomes more intense as action progresses. Fighter ships and their mines will soon join the abductors. There are also mother ships that must be destroyed; these are particularly difficult as a direct hit smashes the mother ship into a swarming mass of mini-ships that must also be wiped out. Throughout the entire mission, the player must act quickly or face possible destruction by the cosmic baiter, a fast and dangerous enemy.
-
-Players have two escape options to use as a last resort. The first is the 'smart bomb', which destroys all on-screen enemies. The second option is 'hyperspace', which randomly teleports the player's ship to another part of the level. This is highly risky as it may place the player's ship in a position more dangerous than the one it left.
-
-If all humanoids are successfully abducted, the planet will explode in a blinding flash and the waves remaining until the next planet is reached take place in outer space, and consist solely of destroying enemy waves.</desc>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Altr • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240902T133454</lastplayed>
-	</game>
-	<game>
-		<path>./mooncrst.zip</path>
-		<name>Moon Cresta</name>
-		<desc>Moon Cresta is a single screen shoot-em-up with the player controlling an armed ship that moves horizontally along the bottom of the screen and must use their ship to destroy waves of attacking aliens. 
-
-The player begins the game with a small ship armed with a single laser cannon. Upon successful completion of the first four waves of alien attacks, the player's ship will be able to dock with the next 'stage' of fighter ship, although the docking procedure must be completed within a set time. This larger, two-stage ship has increased fire power (three lasers).
-
-After successfully clearing a further two alien waves and surviving a meteor shower, the two-stage ship will be able to dock with the third and final piece, giving the player the largest and most powerful ship, which is now armed with five lasers. Bonus points are awarded depending on how quickly the docking procedures are completed.
-
-If the multi-stage ship is hit, the player continues with whatever stages remain. If players achieve a score of 30,000, they are awarded a free game and their score continues to accumulate.
-
-Upon completion of the first eight screens, the player's ship will revert back to its small, single-stage incarnation and the game begins again with an increased level of difficulty.</desc>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240902T134001</lastplayed>
-	</game>
-	<game>
 		<path>./rallyx.zip</path>
 		<name>Rally X</name>
 		<desc>In Rally-X, the player drives a car around a maze picking up all of the yellow flags, of which there are ten, before the car's fuel runs out. The game-play has a similar feel to another Namco legend, "Pac-Man"; although in Rally-X, the mazes are much larger and, with each maze having only ten flags to collect, is more sparsely populated than Namco's pill-eating legend.
@@ -3405,34 +3082,6 @@ In-game opponents consist of red enemy cars that try to ram into and destroy the
 		<lastplayed>20240902T134626</lastplayed>
 	</game>
 	<game>
-		<path>./bosco.zip</path>
-		<name>Bosconian</name>
-		<desc>Bosconian is a multi-directional space shooter where the player must destroy several enemy bases on each round while evading enemy ships, asteroids and mines. Enemy bases are destroyed either with a shot to the center or by shooting out all six base cannons. The player's ship is always positioned in the center of the screen with everything else scrolling around it as the player flies. A radar map to the right shows the position of the player, enemy bases, and occasional formation attack groups.</desc>
-		<rating>0.6</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Shooter / Multidirectional</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240902T134847</lastplayed>
-	</game>
-	<game>
-		<path>./qix.zip</path>
-		<name>Qix</name>
-		<desc>The objective of Qix is to claim a certain proportion of the playing field as your own. At the start of each level, the playing field is just a large, empty rectangle, containing the Qix - a stick-like entity that performs peculiar, erratic motions within the confines of the rectangle. The player controls a small marker that can move around the edges of the rectangle. To claim an area of the screen, the player must detach from an edge and draw Stix within the rectangle. Stix are simply lines traced out by moving the marker. When the marker traces out a closed shape, the area enclosed by the shape becomes solid and has been claimed. The player may draw either Fast Stix, which appear blue when solid, or Slow Stix, which appear red. Slow Stix take longer to draw, but are worth twice as many points. Once the player has claimed an area, the marker can safely move along the border of that claimed area. To complete a level, the player must claim 75% or more of the rectangle's area.</desc>
-		<rating>0.7</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Action / Puzzle</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20240902T135906</lastplayed>
-	</game>
-	<game>
 		<path>./bagman.zip</path>
 		<name>Bagman</name>
 		<desc>The objective of Bagman is to maneuver Bagman through various mine shafts, picking up money bags and placing them in a wheelbarrow at the surface of the mine. The player must avoid pursuing guards, moving ore carts, and descending elevators. The player may temporarily stun the guards by striking them with a pickaxe or by dropping money bags on them when they are below the player on the same ladder. The player may move between the three screens which make up the level via shafts and on the surface.</desc>
@@ -3445,24 +3094,6 @@ In-game opponents consist of red enemy cars that try to ram into and destroy the
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20240902T140923</lastplayed>
-	</game>
-	<game>
-		<path>./btime.zip</path>
-		<name>BurgerTime</name>
-		<desc>A platform game in which one or two players take on the role of burger chef 'Peter Pepper'. The chef must create a set number of burgers per level by collecting the separate ingredients needed to make each one (two pieces of bun, the burger itself and/or a garnish, such as lettuce or cheese). 
-
-Each screen is made up of platforms joined by connecting ladders. At the bottom of the screen are a number of empty plates while the burger ingredients lay across the platforms directly above the plates. The chef must walk across the entire width of the ingredients to make them drop to the platform below. A burger is only completed once all of its ingredients have been dropped onto the corresponding plate at the bottom of the screen. 
-
-The chef's efforts are hampered by the rogue ingredients that are constantly chasing him. They are called 'Mr. Hot Dog', 'Mr. Egg' and 'Mr. Pickle'. Any contact with them results in the loss of a life. The chef can temporarily freeze the enemies by throwing pepper at them. He only carries a limited amount of pepper but this can be replenished by collecting the bonus food items that randomly appear (ice cream cones, coffee, and fries). In addition to the pepper, any enemies located on a platform below the chef can be killed by dropping an available burger ingredient on top of them. .</desc>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240902T141345</lastplayed>
 	</game>
 	<game>
 		<path>./digdug.zip</path>
@@ -3672,39 +3303,6 @@ The goal of the game is to collect coloured flags, while avoiding the enemy vehi
 		<lastplayed>20240908T184727</lastplayed>
 	</game>
 	<game>
-		<path>./marble.zip</path>
-		<name>Marble Madness</name>
-		<desc>Marble Madness is an abstract maze game for one or two players. The game's goal is to guide a small glass marble over a three-dimensional maze and reach the finish line before the level's timer has expired. Any seconds that remain on the timer when the finish line is crossed are carried over to the next level. 
-
-As well as having to negotiate the marble over treacherous walkways and ramps, numerous obstacles and unfriendly creatures will try to slow the marble's progress or knock it over the edge of a platform, wasting yet more precious seconds until a replacement marble appears. The two-player game has players competing to reach the goal first. 
-
-Marble Madness features six different mazes.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Comp • Racing / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240908T185037</lastplayed>
-	</game>
-	<game>
-		<path>./pacman.zip</path>
-		<name>Pac-Man</name>
-		<desc>Export release by Bally/Midway for North America. Game developed by Namco and originally known as Puckman in Japan. For more information about the game itself, please see the original Japanese release entry, "Puckman [Upright model]".</desc>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Coleco Industries</developer>
-		<publisher>Coleco Industries</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>9</playcount>
-		<lastplayed>20240912T211759</lastplayed>
-	</game>
-	<game>
 		<path>./galaxian.zip</path>
 		<name>Galaxian</name>
 		<desc>Galaxian is a legendary single-screen shoot-em-up that took everything that made Taito's ground-breaking "Space Invaders" so good, and improved upon it on every level. Each screen starts with a wave of multi-colored aliens moving left and right at the top of the screen; the aliens quickly break ranks and start dive-bombing the Galaxip (player's ship) - either in single units or in groups of 3 - dropping multiple missiles as they descend. All of the aliens need to be destroyed before the player can progress to the next wave. </desc>
@@ -3733,20 +3331,6 @@ Marble Madness features six different mazes.</desc>
 		<lastplayed>20240912T213821</lastplayed>
 	</game>
 	<game>
-		<path>./nbajam.zip</path>
-		<name>NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Basketball</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240912T214903</lastplayed>
-	</game>
-	<game>
 		<path>./simpbowl.zip</path>
 		<name>Simpsons Bowling</name>
 		<desc>The Simpsons Bowling places the Simpson universe into an arcade bowling video game. It plays like standard bowling game, but with a little Simpson charm.</desc>
@@ -3763,65 +3347,6 @@ Marble Madness features six different mazes.</desc>
 		<lastplayed>20240912T215937</lastplayed>
 	</game>
 	<game>
-		<path>./mspacman.zip</path>
-		<name>Ms. Pac-Man</name>
-		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
-
-Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
-
-Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
-
-Ms Pac-Man features four different maze layouts, which alternate every two to four rounds: 
-</desc>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Coleco Industries</developer>
-		<publisher>Coleco Industries</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>13</playcount>
-		<lastplayed>20240916T200130</lastplayed>
-	</game>
-	<game>
-		<path>./qbert.zip</path>
-		<name>Q*bert</name>
-		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>D. Gottlieb &amp; Co.</developer>
-		<publisher>D. Gottlieb &amp; Co.</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240916T200435</lastplayed>
-	</game>
-	<game>
-		<path>./robotron.zip</path>
-		<name>Robotron: 2084</name>
-		<desc>
-Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
-
-The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
-
-At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
-
-MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.
-
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Vid Kidz</developer>
-		<publisher>Vid Kidz</publisher>
-		<genre>Altr • Shooter / Twin Stick</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240916T200635</lastplayed>
-	</game>
-	<game>
 		<path>./timeplt.zip</path>
 		<name>Time Pilot</name>
 		<desc>Time Pilot is a multi-directionally scrolling shoot-em-up in which the player controls a futuristic jet fighter and takes on the role of pilot trying to rescue fellow pilots who are trapped in different time eras. The game consists of five different stages of play, each of which is set in a different time period.
@@ -3836,77 +3361,6 @@ MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth.
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
 		<lastplayed>20240916T201012</lastplayed>
-	</game>
-	<game>
-		<path>./xevious.zip</path>
-		<name>Xevious</name>
-		<desc>It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
-
-Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
-
-Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
-
-The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
-
-One small problem. We still need a pilot. Any volunteers?</desc>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Shooter / Vertical</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240916T201325</lastplayed>
-	</game>
-	<game>
-		<path>./elevator.zip</path>
-		<name>Elevator Action</name>
-		<desc>Agent 17 (code name 'Otto') is to secure the top secret documents from the security building. The enemy spies are in pursuit and their orders are to stop him at any cost. Having made it to the top of a 30 story building, Agent 17 has to make his way down to the basement to get to the getaway car and save the documents. Enemy spies are everywhere and the documents are hidden behind the red doors (bonus points awarded). He has to open the door and keep moving. If either of them shoots the lights out there will be a temporary blackout. If Otto finds himself on top of the elevator the player will not be able to control the elevator. If he gets caught in the elevator he is a sitting duck and cannot duck the bullets. By using the escalator he can reach the basement quicker. Otto can defeat his enemy by jump kicking or firing at them. Help Otto to grab all the documents and escape the spies.</desc>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20240916T201712</lastplayed>
-	</game>
-	<game>
-		<path>./tapper.zip</path>
-		<name>Tapper</name>
-		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:
-Cowboys
-Athletes
-Punk Rockers
-Aliens</desc>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Altr • Action</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20240916T203012</lastplayed>
-	</game>
-	<game>
-		<path>./arkanoid.zip</path>
-		<name>Arkanoid</name>
-		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
-The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
-By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Action / Block Breaker</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>13</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240916T203534</lastplayed>
 	</game>
 	<game>
 		<path>./gngt.zip</path>
@@ -3941,59 +3395,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<lastplayed>20240916T210213</lastplayed>
 	</game>
 	<game>
-		<path>./pbobblen.zip</path>
-		<name>Puzzle Bobble</name>
-		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
-		<rating>0.9</rating>
-		<releasedate>19941221T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Comp • Puzzle / Matching</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>11</playcount>
-		<lastplayed>20240916T210642</lastplayed>
-	</game>
-	<game>
-		<path>./mslug.zip</path>
-		<name>Metal Slug</name>
-		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.
-
-The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss. 
-
-The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Nazca</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240916T212018</lastplayed>
-	</game>
-	<game>
-		<path>./rtype.zip</path>
-		<name>R-Type</name>
-		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
-
-The game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R?Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.
-
-The most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R?Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.
-
-R?Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Altr • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240916T212245</lastplayed>
-	</game>
-	<game>
 		<path>./blazstar.zip</path>
 		<name>Blazing Star</name>
 		<desc>The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).</desc>
@@ -4006,79 +3407,6 @@ R?Type's levels are designed to make full use of its unique weapons system, maki
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>5</playcount>
 		<lastplayed>20240916T212948</lastplayed>
-	</game>
-	<game>
-		<path>./missile.zip</path>
-		<name>Missile Command</name>
-		<desc>Missile Command is a one or two-player game depicting the outbreak of a nuclear war. Players must defend six cities from waves of incoming nuclear missiles by launching their own anti-ballistic missiles (ABMs) from one of three missile batteries. 
-
-The game is played by moving a cross-hair across the sky and pressing one of three buttons to launch an ABM from the corresponding battery (either Alpha Base, Delta Base or Omega Base). Upon reaching the cross-hair the player's ABM explodes, creating a fireball that lasts for several seconds and destroys any enemy missiles that enter it. Each battery is initially armed with ten anti-ballistic missiles and becomes useless when either all of its missiles have been fired or it's been destroyed by enemy missiles. 
-
-</desc>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Altr • Shooter / Defense</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240921T154533</lastplayed>
-	</game>
-	<game>
-		<path>./frogger.zip</path>
-		<name>Frogger</name>
-		<desc>Frogger is a one or two-player game in which players must overcome a number of hazards to safely guide the green amphibian from the bottom of the screen to one of five home bases situated at the top of the screen.
-
-A round is completed once five frogs have been guided safely home, after which the next round begins with an increased level of difficulty. This includes faster-moving vehicles on the road section and new, deadly hazards on the river section, including crocodiles, otters and snakes.</desc>
-		<rating>0.7</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Action</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240921T154900</lastplayed>
-	</game>
-	<game>
-		<path>./dkong.zip</path>
-		<name>Donkey Kong</name>
-		<desc>EVERYONE'S GOING APE OVER DONKEY KONG!
-
-"HELP! HELP!" cries the beautiful maiden as she is dragged up a labyrinth of structural beams by the ominous Donkey Kong. "SNORT. SNORT" Foreboding music warns of the eventual doom that awaits the poor girl, lest she somehow be miraculously rescued. "But, wait! Fear not, fair maiden. Little Mario, the carpenter, is in hot pursuit of you this very moment"
-
-Throwing fate to the wind, risking life and limb, or worse, little Mario tries desperately to climb the mighty fortress of steel, to save the lovely lady from the evil Mr. Kong. Little Mario must dodge all manner of obstacles - fireballs, plummeting beams and a barrage of exploding barrels fired at him by Donkey Kong.
-
-Amidst me beautiful girl's constant pleas for help, your challenge is to maneuver little Mario up the steel structure, while helping him to avoid the rapid-fire succession of hazards that come his way.
-
-As little Mario gallantly battles his way up the barriers, he is taunted and teased by Donkey Kong, who brazenly struts back and forth, beating his chest in joyful exuberance at the prospect of having the beautiful girl all to himself. It is your job to get little Mario to the top. For it is there, and only there, that he can send the mighty Donkey Kong to hit mortal doom. Leaving little Mario and the beautiful girl to live happily ever after. "SIGH. SIGH.”
-
-So, if you want the most exciting, most fun-filled, most talked about family video game on the market, don't monkey around with anything but the original Donkey Kong.</desc>
-		<rating>0.8</rating>
-		<releasedate>19811130T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20240921T160629</lastplayed>
-	</game>
-	<game>
-		<path>./tmnt.zip</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.</desc>
-		<rating>0.9</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Beat'em Up</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>9</playcount>
-		<lastplayed>20241122T152516</lastplayed>
 	</game>
 	<game>
 		<path>./aerofgt.zip</path>
@@ -4140,24 +3468,6 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20241123T174839</lastplayed>
-	</game>
-	<game>
-		<path>./kinst.zip</path>
-		<name>Killer Instinct</name>
-		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.
-
-Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.
-
-Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>9</playcount>
-		<lastplayed>20241123T180647</lastplayed>
 	</game>
 	<game>
 		<path>./primrage.zip</path>
@@ -4232,21 +3542,6 @@ The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in or
 		<lastplayed>20241123T190122</lastplayed>
 	</game>
 	<game>
-		<path>./tektagt.zip</path>
-		<name>Tekken Tag Tournament</name>
-		<desc>Tekken Tag Tournament is a 'Dream Match' Iron Fist Tournament, and it does not have a plot fitting within the Tekken story timeline. The game is an enhanced version of Tekken 3 including a new Tag feature - where the player selects two fighters and can change between characters during gameplay, and perform tag-team combos. The first side to have a character to be knocked out is the loser. The character list includes almost (if not all) characters from all 3 previous games.</desc>
-		<rating>0.8</rating>
-		<releasedate>19990701T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20241123T191644</lastplayed>
-	</game>
-	<game>
 		<path>./tmnt2.zip</path>
 		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
 		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
@@ -4262,24 +3557,6 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 		<lastplayed>20241123T205001</lastplayed>
 	</game>
 	<game>
-		<path>./smashtv.zip</path>
-		<name>Smash T.V.</name>
-		<desc>Smash TV is a single-screen shoot-em-up for one or two players and is set in a futuristic game show in the year 1999. Contestants must enter enclosed arenas and compete to collect prizes, money and keys, while fighting to stay alive as they are attacked on all sides by waves of enemies.
-The game is a sequel to the legendary "Robotron: 2084" and like its prequel, utilises a dual joystick control system, with the left stick controlling player movement and the right controlling the direction of fire.
-Enemy waves enter each arena from four directions via open doorways and all must be killed before players can progress to the next stage. Some arenas feature static gun emplacements set into a wall that must also be destroyed. Power-ups that improve weapons, speed and armour appear at regular intervals, although each only lasts for a limited time.
-Smash TV is broken down into stages, each with a set number of arenas. Tough end-of-level bosses await at the end of each stage.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Coop • Run &amp; Gun / Twin Stick</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20241123T213247</lastplayed>
-	</game>
-	<game>
 		<path>./tbowl.zip</path>
 		<name>Tecmo Bowl</name>
 		<desc>TECMO BOWL - The game of guts and glory! Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl!</desc>
@@ -4291,52 +3568,6 @@ Smash TV is broken down into stages, each with a set number of arenas. Tough end
 		<players>1-4</players>
 		<playcount>6</playcount>
 		<lastplayed>20241203T102715</lastplayed>
-	</game>
-	<game>
-		<path>./phoenix.zip</path>
-		<name>Phoenix</name>
-		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
-
-According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japanese developer." Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
-		<rating>0.7</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Amstar</developer>
-		<publisher>Centuri</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>33</playcount>
-		<lastplayed>20241203T171613</lastplayed>
-	</game>
-	<game>
-		<path>./machbrkr.zip</path>
-		<name>Mach Breakers</name>
-		<desc>Futuristic Competitions sports game with seven selectable characters and fun challenge.</desc>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Sports / Olympics</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20241206T100632</lastplayed>
-	</game>
-	<game>
-		<path>./ssf2t.zip</path>
-		<name>Super Street Fighter II Turbo</name>
-		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
-
-Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940223T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>12</playcount>
-		<lastplayed>20241208T161232</lastplayed>
 	</game>
 	<game>
 		<path>./ggx.zip</path>
@@ -4381,20 +3612,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>5</playcount>
 		<lastplayed>20241208T163119</lastplayed>
-	</game>
-	<game>
-		<path>./umk3.zip</path>
-		<name>Ultimate Mortal Kombat 3</name>
-		<desc>This game is the same as Mortal Kombat 3 except for the inclusion of new backgrounds and more charactors (22 playable in all). This version marks the return of Scorpion, Reptile, Kitana and Jade (not to mention the endurance rounds). Hidden characters include Human Smoke, Classic Sub-Zero, Mileena, Ermac, Rain and Noob Saibot (Rain and Noob Saibot are not selectable in any way).</desc>
-		<rating>0.9</rating>
-		<releasedate>19951106T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting / Tag</genre>
-		<players>1-8</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20241208T202410</lastplayed>
 	</game>
 	<game>
 		<path>./samsho3.zip</path>
@@ -4557,105 +3774,6 @@ Super Joe carries only two weapons: a limited-range machine gun with unlimited s
 		<lastplayed>20241213T202143</lastplayed>
 	</game>
 	<game>
-		<path>./1942.zip</path>
-		<name>1942</name>
-		<desc>"1942" is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet. 
-
-The player pilots a plane dubbed the "Super Ace" (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots. 
-
-During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points.
-
-At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. "1942" differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.</desc>
-		<rating>0.8</rating>
-		<releasedate>19841201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Altr • Shooter / Vertical</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>13</playcount>
-		<lastplayed>20241213T202337</lastplayed>
-	</game>
-	<game>
-		<path>./invaders.zip</path>
-		<name>Space Invaders</name>
-		<desc>The most influential video game of all time. A single player moves an armed 'base' to the left or right along the bottom of the screen and fires at the endless waves of aliens that tirelessly parade across the screen towards earth.
-There are 4 buildings (shields) at the bottom of the screen behind which the player can hide, but these will eventually be destroyed by enemy missiles or by direct contact with the invaders themselves. Player shots will also destroy shields.
-The descent of the aliens accelerates as they are eliminated, making them more difficult to hit. A flying saucer will fly across the top of the screen at regular intervals and can be fired for extra points.</desc>
-		<rating>0.8</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>20</playcount>
-		<lastplayed>20250111T211814</lastplayed>
-	</game>
-	<game>
-		<path>./galaga.zip</path>
-		<name>Galaga</name>
-		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
-
-Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Midway</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>33</playcount>
-		<lastplayed>20250111T212351</lastplayed>
-	</game>
-	<game>
-		<path>./sf2.zip</path>
-		<name>Street Fighter II : The World Warrior</name>
-		<desc>GET READY TO RUMBLE!
-
-From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
-
-Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20250124T162853</lastplayed>
-	</game>
-	<game>
-		<path>./centiped3.zip</path>
-		<name>Centipede</name>
-		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
-
-The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
-
-Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
-
-Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
-
-Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
-
-A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
-
-When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
-
-If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>16</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20250124T163346</lastplayed>
-	</game>
-	<game>
 		<path>./mario.zip</path>
 		<name>Mario Bros.</name>
 		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
@@ -4700,5 +3818,906 @@ The game is divided into 4 chapters; Armored Giant, Man-Bat, Giant Spider, and '
 		<publisher>SEGA</publisher>
 		<genre>Shooter</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./pbobble4.zip</path>
+		<name>Puzzle Bobble 4</name>
+		<desc>Shoot colored bubbles towards clusters of other bubbles. When groups of similarly colored bubbles are formed, the bubbles burst.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Comp • Puzzle / Matching</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20250606T172249</lastplayed>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Basketball</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20250606T174539</lastplayed>
+	</game>
+	<game>
+		<path>./sf2.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<lastplayed>20250606T174739</lastplayed>
+	</game>
+	<game>
+		<path>./mk2.zip</path>
+		<name>Mortal Kombat 2</name>
+		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
+
+As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'. 
+
+Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked. 
+
+Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background). 
+
+Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<lastplayed>20250606T214600</lastplayed>
+	</game>
+	<game>
+		<path>./contra.zip</path>
+		<name>Contra</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.
+
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20250606T215448</lastplayed>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944 : The Loop Master</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<rating>0.9</rating>
+		<releasedate>20000620T000000</releasedate>
+		<developer>8ing</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>102</playcount>
+		<lastplayed>20250606T220146</lastplayed>
+	</game>
+	<game>
+		<path>./nbajamte.zip</path>
+		<name>NBA Jam Tournament Edition</name>
+		<desc>An update of the classic 'NBA JAM'. New players, new features but still the same classic gameplay.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Basketball</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20250606T222636</lastplayed>
+	</game>
+	<game>
+		<path>./missile.zip</path>
+		<name>Missile Command</name>
+		<desc>Missile Command is a one or two-player game depicting the outbreak of a nuclear war. Players must defend six cities from waves of incoming nuclear missiles by launching their own anti-ballistic missiles (ABMs) from one of three missile batteries. 
+
+The game is played by moving a cross-hair across the sky and pressing one of three buttons to launch an ABM from the corresponding battery (either Alpha Base, Delta Base or Omega Base). Upon reaching the cross-hair the player's ABM explodes, creating a fireball that lasts for several seconds and destroys any enemy missiles that enter it. Each battery is initially armed with ten anti-ballistic missiles and becomes useless when either all of its missiles have been fired or it's been destroyed by enemy missiles. 
+
+</desc>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Altr • Shooter / Defense</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<controller>trackball_generic</controller>
+		<lastplayed>20250606T223140</lastplayed>
+	</game>
+	<game>
+		<path>./qix.zip</path>
+		<name>Qix</name>
+		<desc>The objective of Qix is to claim a certain proportion of the playing field as your own. At the start of each level, the playing field is just a large, empty rectangle, containing the Qix - a stick-like entity that performs peculiar, erratic motions within the confines of the rectangle. The player controls a small marker that can move around the edges of the rectangle. To claim an area of the screen, the player must detach from an edge and draw Stix within the rectangle. Stix are simply lines traced out by moving the marker. When the marker traces out a closed shape, the area enclosed by the shape becomes solid and has been claimed. The player may draw either Fast Stix, which appear blue when solid, or Slow Stix, which appear red. Slow Stix take longer to draw, but are worth twice as many points. Once the player has claimed an area, the marker can safely move along the border of that claimed area. To complete a level, the player must claim 75% or more of the rectangle's area.</desc>
+		<rating>0.7</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Puzzle</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<lastplayed>20250606T223235</lastplayed>
+	</game>
+	<game>
+		<path>./marble.zip</path>
+		<name>Marble Madness</name>
+		<desc>Marble Madness is an abstract maze game for one or two players. The game's goal is to guide a small glass marble over a three-dimensional maze and reach the finish line before the level's timer has expired. Any seconds that remain on the timer when the finish line is crossed are carried over to the next level. 
+
+As well as having to negotiate the marble over treacherous walkways and ramps, numerous obstacles and unfriendly creatures will try to slow the marble's progress or knock it over the edge of a platform, wasting yet more precious seconds until a replacement marble appears. The two-player game has players competing to reach the goal first. 
+
+Marble Madness features six different mazes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Comp • Racing / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<controller>trackball_generic</controller>
+		<lastplayed>20250606T233438</lastplayed>
+	</game>
+	<game>
+		<path>./phoenix.zip</path>
+		<name>Phoenix</name>
+		<desc>Phoenix is a classic vertical shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian", but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
+
+According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japanese developer." Amstar Electronics licensed the game to Centuri for manufacture in the United States. Taito released the game in Japan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Amstar</developer>
+		<publisher>Centuri</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>36</playcount>
+		<lastplayed>20250610T184133</lastplayed>
+	</game>
+	<game>
+		<path>./mooncrst.zip</path>
+		<name>Moon Cresta</name>
+		<desc>Moon Cresta is a single screen shoot-em-up with the player controlling an armed ship that moves horizontally along the bottom of the screen and must use their ship to destroy waves of attacking aliens. 
+
+The player begins the game with a small ship armed with a single laser cannon. Upon successful completion of the first four waves of alien attacks, the player's ship will be able to dock with the next 'stage' of fighter ship, although the docking procedure must be completed within a set time. This larger, two-stage ship has increased fire power (three lasers).
+
+After successfully clearing a further two alien waves and surviving a meteor shower, the two-stage ship will be able to dock with the third and final piece, giving the player the largest and most powerful ship, which is now armed with five lasers. Bonus points are awarded depending on how quickly the docking procedures are completed.
+
+If the multi-stage ship is hit, the player continues with whatever stages remain. If players achieve a score of 30,000, they are awarded a free game and their score continues to accumulate.
+
+Upon completion of the first eight screens, the player's ship will revert back to its small, single-stage incarnation and the game begins again with an increased level of difficulty.</desc>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20250610T184957</lastplayed>
+	</game>
+	<game>
+		<path>./bosco.zip</path>
+		<name>Bosconian</name>
+		<desc>Bosconian is a multi-directional space shooter where the player must destroy several enemy bases on each round while evading enemy ships, asteroids and mines. Enemy bases are destroyed either with a shot to the center or by shooting out all six base cannons. The player's ship is always positioned in the center of the screen with everything else scrolling around it as the player flies. A radar map to the right shows the position of the player, enemy bases, and occasional formation attack groups.</desc>
+		<rating>0.6</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Shooter / Multidirectional</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20250610T185508</lastplayed>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<desc>EVERYONE'S GOING APE OVER DONKEY KONG!
+
+"HELP! HELP!" cries the beautiful maiden as she is dragged up a labyrinth of structural beams by the ominous Donkey Kong. "SNORT. SNORT" Foreboding music warns of the eventual doom that awaits the poor girl, lest she somehow be miraculously rescued. "But, wait! Fear not, fair maiden. Little Mario, the carpenter, is in hot pursuit of you this very moment"
+
+Throwing fate to the wind, risking life and limb, or worse, little Mario tries desperately to climb the mighty fortress of steel, to save the lovely lady from the evil Mr. Kong. Little Mario must dodge all manner of obstacles - fireballs, plummeting beams and a barrage of exploding barrels fired at him by Donkey Kong.
+
+Amidst me beautiful girl's constant pleas for help, your challenge is to maneuver little Mario up the steel structure, while helping him to avoid the rapid-fire succession of hazards that come his way.
+
+As little Mario gallantly battles his way up the barriers, he is taunted and teased by Donkey Kong, who brazenly struts back and forth, beating his chest in joyful exuberance at the prospect of having the beautiful girl all to himself. It is your job to get little Mario to the top. For it is there, and only there, that he can send the mighty Donkey Kong to hit mortal doom. Leaving little Mario and the beautiful girl to live happily ever after. "SIGH. SIGH.”
+
+So, if you want the most exciting, most fun-filled, most talked about family video game on the market, don't monkey around with anything but the original Donkey Kong.</desc>
+		<rating>0.8</rating>
+		<releasedate>19811130T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<lastplayed>20250610T191753</lastplayed>
+	</game>
+	<game>
+		<path>./ncv1.zip</path>
+		<name>Namco Classic Collection Vol.1</name>
+		<playcount>1</playcount>
+		<lastplayed>20250620T223052</lastplayed>
+	</game>
+	<game>
+		<path>./ncv2.zip</path>
+		<name>Namco Classic Collection Vol.2</name>
+		<playcount>1</playcount>
+		<lastplayed>20250620T223230</lastplayed>
+	</game>
+	<game>
+		<path>./mspacman.zip</path>
+		<name>Ms. Pac-Man</name>
+		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
+
+Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
+
+Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
+
+Ms Pac-Man features four different maze layouts, which alternate every two to four rounds: 
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Coleco Industries</developer>
+		<publisher>Coleco Industries</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>15</playcount>
+		<lastplayed>20250620T223939</lastplayed>
+	</game>
+	<game>
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Co.</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20250620T224118</lastplayed>
+	</game>
+	<game>
+		<path>./robotron.zip</path>
+		<name>Robotron: 2084</name>
+		<desc>
+Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
+
+The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
+
+At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
+
+MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.
+
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Vid Kidz</publisher>
+		<genre>Altr • Shooter / Twin Stick</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20250620T224434</lastplayed>
+	</game>
+	<game>
+		<path>./xevious.zip</path>
+		<name>Xevious</name>
+		<desc>It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
+
+Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
+
+Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
+
+The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
+
+One small problem. We still need a pilot. Any volunteers?</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20250620T224730</lastplayed>
+	</game>
+	<game>
+		<path>./smashtv.zip</path>
+		<name>Smash T.V.</name>
+		<desc>Smash TV is a single-screen shoot-em-up for one or two players and is set in a futuristic game show in the year 1999. Contestants must enter enclosed arenas and compete to collect prizes, money and keys, while fighting to stay alive as they are attacked on all sides by waves of enemies.
+The game is a sequel to the legendary "Robotron: 2084" and like its prequel, utilises a dual joystick control system, with the left stick controlling player movement and the right controlling the direction of fire.
+Enemy waves enter each arena from four directions via open doorways and all must be killed before players can progress to the next stage. Some arenas feature static gun emplacements set into a wall that must also be destroyed. Power-ups that improve weapons, speed and armour appear at regular intervals, although each only lasts for a limited time.
+Smash TV is broken down into stages, each with a set number of arenas. Tough end-of-level bosses await at the end of each stage.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Coop • Run &amp; Gun / Twin Stick</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<lastplayed>20250620T230501</lastplayed>
+	</game>
+	<game>
+		<path>./invaders.zip</path>
+		<name>Space Invaders</name>
+		<desc>The most influential video game of all time. A single player moves an armed 'base' to the left or right along the bottom of the screen and fires at the endless waves of aliens that tirelessly parade across the screen towards earth.
+There are 4 buildings (shields) at the bottom of the screen behind which the player can hide, but these will eventually be destroyed by enemy missiles or by direct contact with the invaders themselves. Player shots will also destroy shields.
+The descent of the aliens accelerates as they are eliminated, making them more difficult to hit. A flying saucer will fly across the top of the screen at regular intervals and can be fired for extra points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>22</playcount>
+		<lastplayed>20250622T201047</lastplayed>
+	</game>
+	<game>
+		<path>./kinst.zip</path>
+		<name>Killer Instinct</name>
+		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.
+
+Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.
+
+Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<lastplayed>20250622T202453</lastplayed>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Team Shinobi</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20250704T145949</lastplayed>
+	</game>
+	<game>
+		<path>./ssf2t.zip</path>
+		<name>Super Street Fighter II Turbo</name>
+		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940223T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>14</playcount>
+		<lastplayed>20250704T181411</lastplayed>
+	</game>
+	<game>
+		<path>./rtype.zip</path>
+		<name>R-Type</name>
+		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
+
+The game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R?Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.
+
+The most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R?Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.
+
+R?Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<lastplayed>20250815T122533</lastplayed>
+	</game>
+	<game>
+		<path>./frogger.zip</path>
+		<name>Frogger</name>
+		<desc>Frogger is a one or two-player game in which players must overcome a number of hazards to safely guide the green amphibian from the bottom of the screen to one of five home bases situated at the top of the screen.
+
+A round is completed once five frogs have been guided safely home, after which the next round begins with an increased level of difficulty. This includes faster-moving vehicles on the road section and new, deadly hazards on the river section, including crocodiles, otters and snakes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Action</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<lastplayed>20250815T193555</lastplayed>
+	</game>
+	<game>
+		<path>./snowbros.zip</path>
+		<name>Snow Bros. - Nick &amp; Tom</name>
+		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
+
+The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
+
+If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
+
+When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
+Yellow = Long shot
+Red = Speed up
+Blue = Bigger snowballs (encases monsters quicker)
+Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
+
+Every 10th level features a battle with a large end-of-level boss.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20250815T194332</lastplayed>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X-Men</name>
+		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
+
+Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.
+
+The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.
+
+Players can chose from 6 X-Men characters, they are:
+Cyclops 
+Colossus 
+Wolverine 
+Storm 
+Nightcrawler 
+Dazzler</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20250815T200156</lastplayed>
+	</game>
+	<game>
+		<path>./mystwarr.zip</path>
+		<name>Mystic Warriors</name>
+		<desc>Mystic Warriors is a horizontally-scrolling platform beat-em-up for up to four players, in which the evil 'SKULL' organisation has taken over the world and driven its terrified civilians into hiding. Five Ninja warriors set about destroying SKULL and freeing the World from its grip.
+
+Mystic Warriors features five selectable characters, one of which is shown being kidnapped by SKULL once players have made their character choices. What follows is eight levels of platform 'run-and-gun' action, with an end-of-level boss waiting at the end of each stage.
+
+Players are armed with both Shuriken throwing stars and with a sword for close encounters. Numerous boxes are scattered throughout the levels (or are being carried by enemies), all of which contain bonus items such as weapon power-ups or energy-replenishing food. Other power-ups include an invulnerability shield (known as the "Shinobi Shield") which lasts a few seconds and a "Smart Bomb" power-up, which destroys all on-screen enemies. Some boxes also contain points-giving items, such as bags of money, jewellery and gold.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20250815T205106</lastplayed>
+	</game>
+	<game>
+		<path>./machbrkr.zip</path>
+		<name>Mach Breakers</name>
+		<desc>Futuristic Competitions sports game with seven selectable characters and fun challenge.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Sports / Olympics</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20250815T213126</lastplayed>
+	</game>
+	<game>
+		<path>./gt2k.zip</path>
+		<name>Golden Tee 2k</name>
+		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<controller>trackball_generic</controller>
+		<lastplayed>20250815T221742</lastplayed>
+	</game>
+	<game>
+		<path>./turfmast.zip</path>
+		<name>Neo Turf Masters</name>
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<lastplayed>20250907T112626</lastplayed>
+	</game>
+	<game>
+		<path>./pbobblen.zip</path>
+		<name>Puzzle Bobble</name>
+		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
+		<rating>0.9</rating>
+		<releasedate>19941221T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Comp • Puzzle / Matching</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>13</playcount>
+		<lastplayed>20250921T105540</lastplayed>
+	</game>
+	<game>
+		<path>./mslug.zip</path>
+		<name>Metal Slug</name>
+		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.
+
+The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss. 
+
+The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20250921T105839</lastplayed>
+	</game>
+	<game>
+		<path>./pacman.zip</path>
+		<name>Pac-Man</name>
+		<desc>Export release by Bally/Midway for North America. Game developed by Namco and originally known as Puckman in Japan. For more information about the game itself, please see the original Japanese release entry, "Puckman [Upright model]".</desc>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Coleco Industries</developer>
+		<publisher>Coleco Industries</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>12</playcount>
+		<lastplayed>20251018T194303</lastplayed>
+	</game>
+	<game>
+		<path>./ccastles.zip</path>
+		<name>Crystal Castles</name>
+		<desc>Bentley Bear is trapped in the crystal castles! To get out, he must collect all the gems located in each castle. The game is played in a false 3D isometric view through multi-platform castles. When Bentley collects all the gems in the level, he moves on to the next, more difficult castle. Bentley will have to avoid a wide variety of dangerous creatures that roam the levels. Occasionally a magic hat will appear. If Bentley collects the hat, he will be temporarily invincible.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<controller>trackball_generic</controller>
+		<lastplayed>20251018T194546</lastplayed>
+	</game>
+	<game>
+		<path>./elevator.zip</path>
+		<name>Elevator Action</name>
+		<desc>Agent 17 (code name 'Otto') is to secure the top secret documents from the security building. The enemy spies are in pursuit and their orders are to stop him at any cost. Having made it to the top of a 30 story building, Agent 17 has to make his way down to the basement to get to the getaway car and save the documents. Enemy spies are everywhere and the documents are hidden behind the red doors (bonus points awarded). He has to open the door and keep moving. If either of them shoots the lights out there will be a temporary blackout. If Otto finds himself on top of the elevator the player will not be able to control the elevator. If he gets caught in the elevator he is a sitting duck and cannot duck the bullets. By using the escalator he can reach the basement quicker. Otto can defeat his enemy by jump kicking or firing at them. Help Otto to grab all the documents and escape the spies.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<lastplayed>20251018T194830</lastplayed>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>Kung-fu Master</name>
+		<desc>Regarded as the first beat 'em up brawler, Kung-Fu Master, known as Spartan X in Japan, is a side-scrolling game developed by Irem for arcades in 1984.
+Designed by Takashi Nishiyama, the game is loosely based on Jackie Chan and Bruce Lee martial arts films.
+The player controls Thomas, the titular Kung-Fu Master, as he fights his way through the five levels of the Devil's Temple to rescue his girlfriend Sylvia from the crime boss Mr. X.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<lastplayed>20251018T195237</lastplayed>
+	</game>
+	<game>
+		<path>./tmnt.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>14</playcount>
+		<lastplayed>20251018T202959</lastplayed>
+	</game>
+	<game>
+		<path>./tektagt.zip</path>
+		<name>Tekken Tag Tournament</name>
+		<desc>Tekken Tag Tournament is a 'Dream Match' Iron Fist Tournament, and it does not have a plot fitting within the Tekken story timeline. The game is an enhanced version of Tekken 3 including a new Tag feature - where the player selects two fighters and can change between characters during gameplay, and perform tag-team combos. The first side to have a character to be knocked out is the loser. The character list includes almost (if not all) characters from all 3 previous games.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20251025T185950</lastplayed>
+	</game>
+	<game>
+		<path>./umk3.zip</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<desc>This game is the same as Mortal Kombat 3 except for the inclusion of new backgrounds and more charactors (22 playable in all). This version marks the return of Scorpion, Reptile, Kitana and Jade (not to mention the endurance rounds). Hidden characters include Human Smoke, Classic Sub-Zero, Mileena, Ermac, Rain and Noob Saibot (Rain and Noob Saibot are not selectable in any way).</desc>
+		<rating>0.9</rating>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting / Tag</genre>
+		<players>1-8</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<lastplayed>20251025T190446</lastplayed>
+	</game>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>"1942" is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet. 
+
+The player pilots a plane dubbed the "Super Ace" (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots. 
+
+During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points.
+
+At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. "1942" differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.</desc>
+		<rating>0.8</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>17</playcount>
+		<lastplayed>20251128T101742</lastplayed>
+	</game>
+	<game>
+		<path>./defender.zip</path>
+		<name>Defender</name>
+		<desc>Defender is a legendary sideways-scrolling shoot-em-up - the very first of its genre - in which the aim is to pilot a laser-firing spaceship and protect humanoids stranded on the planet's surface from swarms of alien abductors.
+
+A long-range scanner at the top of the screen shows the positions of both the humanoids and the attacking aliens. The ideal strategy is to shoot down the alien ships before they reach the humanoids. If a humanoid is captured, the alien abductor can still be destroyed, but the player must then catch the falling humanoid and return it to the safety of the planet's surface before it falls to its death.
+
+If an alien is allowed to carry its victim to the very top of the screen, the humanoid will mutate, becoming a permanent part of the alien that captured it. This new and deadly mutation will then immediately join in the alien attack.
+
+The challenge becomes more intense as action progresses. Fighter ships and their mines will soon join the abductors. There are also mother ships that must be destroyed; these are particularly difficult as a direct hit smashes the mother ship into a swarming mass of mini-ships that must also be wiped out. Throughout the entire mission, the player must act quickly or face possible destruction by the cosmic baiter, a fast and dangerous enemy.
+
+Players have two escape options to use as a last resort. The first is the 'smart bomb', which destroys all on-screen enemies. The second option is 'hyperspace', which randomly teleports the player's ship to another part of the level. This is highly risky as it may place the player's ship in a position more dangerous than the one it left.
+
+If all humanoids are successfully abducted, the planet will explode in a blinding flash and the waves remaining until the next planet is reached take place in outer space, and consist solely of destroying enemy waves.</desc>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Altr • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<lastplayed>20251128T114220</lastplayed>
+	</game>
+	<game>
+		<path>./centiped3.zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
+
+The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
+
+Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
+
+Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
+
+Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
+
+A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
+
+When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
+
+If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>20</playcount>
+		<controller>trackball_generic</controller>
+		<lastplayed>20251128T114816</lastplayed>
+	</game>
+	<game>
+		<path>./arkanoid.zip</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
+The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
+By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Block Breaker</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>15</playcount>
+		<controller>trackball_generic</controller>
+		<lastplayed>20251128T114937</lastplayed>
+	</game>
+	<game>
+		<path>./1943u.zip</path>
+		<name>1943: The Battle of Midway</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<lastplayed>20251128T120959</lastplayed>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
+
+Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>49</playcount>
+		<lastplayed>20251205T234330</lastplayed>
+	</game>
+	<game>
+		<path>./btime.zip</path>
+		<name>BurgerTime</name>
+		<desc>A platform game in which one or two players take on the role of burger chef 'Peter Pepper'. The chef must create a set number of burgers per level by collecting the separate ingredients needed to make each one (two pieces of bun, the burger itself and/or a garnish, such as lettuce or cheese). 
+
+Each screen is made up of platforms joined by connecting ladders. At the bottom of the screen are a number of empty plates while the burger ingredients lay across the platforms directly above the plates. The chef must walk across the entire width of the ingredients to make them drop to the platform below. A burger is only completed once all of its ingredients have been dropped onto the corresponding plate at the bottom of the screen. 
+
+The chef's efforts are hampered by the rogue ingredients that are constantly chasing him. They are called 'Mr. Hot Dog', 'Mr. Egg' and 'Mr. Pickle'. Any contact with them results in the loss of a life. The chef can temporarily freeze the enemies by throwing pepper at them. He only carries a limited amount of pepper but this can be replenished by collecting the bonus food items that randomly appear (ice cream cones, coffee, and fries). In addition to the pepper, any enemies located on a platform below the chef can be killed by dropping an available burger ingredient on top of them. .</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<lastplayed>20251206T000256</lastplayed>
+	</game>
+	<game>
+		<path>./tapper.zip</path>
+		<name>Tapper</name>
+		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:
+Cowboys
+Athletes
+Punk Rockers
+Aliens</desc>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Altr • Action</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<lastplayed>20251206T002409</lastplayed>
+	</game>
+	<game>
+		<path>./blockhl.zip</path>
+		<name>Block Hole</name>
+		<desc>A puzzle game that is a combination of Tetris-style gameplay and a fixed shooter in the Space Invaders tradition. Rather than arranging the blocks together to make a row of disappearing blocks, a spaceship positioned at the bottom of the screen shoots blocks upwards to make the falling block pattern into squares or rectangles. Once the blocks have been arranged properly, the shape is destroyed and the player is awarded points based on the shape's size. The blocks continue to drop from the top of the screen in various incomplete shapes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Puzzle / Shooter</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>178</playtime>
+		<lastplayed>20260327T081028</lastplayed>
+	</game>
+	<folder>
+		<path>./pacmanbr</path>
+		<name>pacmanbr</name>
+		<lastplayed>20260327T105346</lastplayed>
+	</folder>
+	<game>
+		<path>./bublbob2.zip</path>
+		<name>Bubble Bobble II</name>
+		<desc>Bubble Bobble II, also known as Bubble Symphony, is the first direct sequel to Taito's 1986 platform classic, "Bubble Bobble" ('Rainbow Islands' was the first official sequel, but played very differently) in which one or two players take on the role of the infamous bubble-blowing dinosaurs who must once again fight their way through a large number of single-screen platform-based levels, trapping monsters with their bubbles before bursting them to destroy the trapped enemies. 
+
+While the game plays identically to its predecessor, several new changes and additions have been made to breathe new life into the classic gameplay. As well as new bonuses, weapons, enemies and characters, players can now create 'Multiple Bubbles'; if the player holds the button down for a few seconds before releasing, up to three bubbles are produced at once. </desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>76</playtime>
+		<lastplayed>20260327T105346</lastplayed>
 	</game>
 </gameList>
