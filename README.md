@@ -1,4 +1,72 @@
-# Missing
+# Setup
+
+(re)Install Ubuntu 24.04 from USB
+Enter BIOS and disable NumLock on boot
+Enable Chipset -> State after G3 -> S0 (boot on power on)
+
+sudo apt-get update
+# install
+gparted (if partitioning/dual-booting)
+curl (basic tool)
+git (basic tool)
+awscli
+
+```
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+```
+
+create new aws keys and add to configuration
+
+https://gitlab.com/es-de/emulationstation-de/-/packages/
+Download and unzip
+ln -s arcade/ES-DE ~/ES-DE
+git clone git@github.com:kornypoet/artflix-revisited-es-de.git themes
+
+https://clonehero.net/releases/v1.0.0.4080/
+
+mame deps
+sudo apt-get install git build-essential python3 libsdl2-dev libsdl2-ttf-dev libfontconfig-dev libpulse-dev qtbase5-dev qtbase5-dev-tools qtchooser qt5-qmake
+
+git clone https://github.com/mamedev/mame
+cd mame
+make -j5 # for parallelism
+
+create new ssh key and add to github
+
+git clone git@github.com:kornypoet/arcade.git
+
+aws s3 sync s3://travis.laptop.backup/games/mame-roms/
+
+disable sleep on ubuntu
+
+
+lightgun
+sudo apt install ca-certificates gnupg
+sudo gpg --homedir /tmp --no-default-keyring --keyring gnupg-ring:/usr/share/keyrings/mono-official-archive-keyring.gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+sudo chmod +r /usr/share/keyrings/mono-official-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/mono-official-archive-keyring.gpg] https://download.mono-project.com/repo/ubuntu stable-focal main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+sudo apt install dotnet-runtime-10.0
+sudo apt=get install mono=complete
+sudo apt install v4l-utils libjpeg-dev
+not libsdl2-image-2.0-0
+not libsdl2-2.0-0
+
+libsdl1.2 (yes)
+https://www.sindenlightgun.com/software/SindenLightgunSoftwareReleaseV2.08b.zip
+## Links
+
+[How to prepare a windows USB)[https://nixaid.com/archive/article/bootable-usb-windows-linux?era=ghost]
+
+retroarch
+https://docs.libretro.com/development/retroarch/compilation/ubuntu/
+install dependencies by hand (build-dep doesn't work)
+
+online updater > update assets
+online update > cores info
+
+## Missing
 
 Games that could not be included for various reasons
 
@@ -12,7 +80,7 @@ Primal Rage 2 - MAME support low
 Wonder Boy - is really NES adventure time, not a great arcade fit
 Puzz Loop 2 - not any better than puzz loop 1
 Puyo Puyo 2 - needs translation
-Puyo Puyo fev - replaced wiht puyo puyo n translated w/ 4 players
+Puyo Puyo fev - replaced with puyo puyo and translated w/ 4 players
 Only select versions of Street Fighter
 MK4 - just sucks
 Quarth - replaced by block hole, english translation
@@ -41,10 +109,8 @@ Afterburner
 Crush Roller
 Ladybug
 Tank Battalion
-Super Cobra
 Hustler
 Space Panic
-Juno First
 Town and Country
 
 # Lightgun Links
