@@ -66,6 +66,25 @@ install dependencies by hand (build-dep doesn't work)
 online updater > update assets
 online update > cores info
 
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/autoconfig/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/cheats/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/config .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/database/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/downloads/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/filters .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/overlays/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/playlists/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/records .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/records_config/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/retroarch.cfg .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/saves/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/screenshots/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/shaders/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/states/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/system/ .
+travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/thumbnails/ .
+
+
 ## Missing
 
 Games that could not be included for various reasons
