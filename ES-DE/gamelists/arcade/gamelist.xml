@@ -4720,4 +4720,107 @@ While the game plays identically to its predecessor, several new changes and add
 		<playtime>76</playtime>
 		<lastplayed>20260327T105346</lastplayed>
 	</game>
+	<game>
+		<path>./bbh.zip</path>
+		<name>Big Buck Hunter</name>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Incredible Technologies</developer>
+		<publisher>Incredible Technologies</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./lethalen.zip</path>
+		<name>Lethal Enforcers</name>
+		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
+
+As an undercover police officer the player's mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player's energy level being severely reduced.
+
+Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can't and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>4</playtime>
+		<lastplayed>20260415T081232</lastplayed>
+	</game>
+	<game>
+		<path>./le2.zip</path>
+		<name>Lethal Enforcers II: Gun Fighters</name>
+		<desc>Western style shooting game featuring digitized characters. The game consists of 5 stages: Bank Robbery, Stage Hold-Up, Saloon Showdown, Train Robbery, and Hide-Out. 
+
+The player begins the game holding the rank of Sheriff, but if too many innocents or fellow lawmen are killed, the player can be demoted to Deputy or even Posse member. Complete a stage without killing any innocents, and the player is promoted to Deputy Marshal, further success can eventually lead to the player being promoted to the level of U.S. Marshal.
+
+The player's gun can hold up to 6 bullets at a time. On each stage, there are special items that can be shot to reveal better weaponry, such as double rigs, rifles, 50 caliber sharps, shotguns, gatling guns and cannon. The gatling guns and cannon can only be used once but the double rigs, rifles, 50 caliber sharps and shotguns can be reloaded the same way as your regular 6-gun. Once a life is lost, any additional weapons are lost and the player is once again armed with only a 6-gun.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./timecris.zip</path>
+		<name>Time Crisis</name>
+		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
+
+As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
+
+The game offers the player two different game modes: 
+STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
+TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./ptblank.zip</path>
+		<name>Point Blank</name>
+		<desc>Point Blank is a challenging light gun game where players can select from a variety of target practice mini games.
+
+Many games require skill and accuracy, such as shooting cardboard cutouts of criminals, a one-shot chance at hitting a leaf, aiming for a specific toy from a shelf, and shooting at objects that move across the screen or rush towards the player.
+
+Your 'judgement' is based on your shooting accuracy in some games, and others require you to hit a certain number of targets within the given time.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./hotd2.zip</path>
+		<name>The House of the Dead 2</name>
+		<desc>The Special Agents who were assigned to the original House of the Dead mission, thought they were successful in wiping out the evil that resided in secret laboratories and underground passages: however, they were wrong, Dead Wrong!
+
+In the 1st installment of House of the Dead, the situation was a grave one. However, with new hidden passages, giving the player the opportunity to alter the course of each game. The House of the Dead 2 is sure to create more excitement along with a deadlier outcome.
+
+Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped through hidden passages in the mansion. The lifeless corpses and mutilated specimens terrorize the countryside while heading for the targeted City.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>4</playtime>
+		<lastplayed>20260415T081521</lastplayed>
+	</game>
+	<game>
+		<path>./policetr10.zip</path>
+		<name>Police Trainer</name>
+		<desc>Train to become a police officer in this target shooter.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>P&amp;P Marketing</developer>
+		<publisher>P&amp;P Marketing</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
 </gameList>

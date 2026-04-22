@@ -10,7 +10,7 @@ gparted (if partitioning/dual-booting)
 curl (basic tool)
 git (basic tool)
 awscli
-
+unrar
 ```
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
@@ -55,6 +55,13 @@ not libsdl2-2.0-0
 
 libsdl1.2 (yes)
 https://www.sindenlightgun.com/software/SindenLightgunSoftwareReleaseV2.08b.zip
+
+
+flycast
+https://github.com/flyinghead/flycast
+
+builds
+
 ## Links
 
 [How to prepare a windows USB)[https://nixaid.com/archive/article/bootable-usb-windows-linux?era=ghost]
