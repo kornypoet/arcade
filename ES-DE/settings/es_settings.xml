@@ -121,10 +121,10 @@
 <string name="ApplicationLanguage" value="automatic" />
 <string name="ApplicationUpdaterDownloadDirectory" value="" />
 <string name="ApplicationUpdaterFrequency" value="always" />
-<string name="ApplicationUpdaterLastCheck" value="20260415T081026" />
+<string name="ApplicationUpdaterLastCheck" value="20260425T092937" />
 <string name="CollectionCustomGrouping" value="never" />
 <string name="CollectionSystemsAuto" value="" />
-<string name="CollectionSystemsCustom" value="beat-em-up,classics,platform,puzzle,run-n-gun,shooters-horizontal,shooters-vertical,sports,vs" />
+<string name="CollectionSystemsCustom" value="beat-em-up,classics,lightgun,platform,puzzle,run-n-gun,shooters-horizontal,shooters-vertical,sports,vs" />
 <string name="DefaultSortOrder" value="release date, ascending" />
 <string name="ImporterRemoveEntries" value="never" />
 <string name="ImporterTargetSystem" value="" />

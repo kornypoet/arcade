@@ -4631,22 +4631,6 @@ As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks 
 		<lastplayed>20251128T120959</lastplayed>
 	</game>
 	<game>
-		<path>./galaga.zip</path>
-		<name>Galaga</name>
-		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
-
-Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Midway</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>49</playcount>
-		<lastplayed>20251205T234330</lastplayed>
-	</game>
-	<game>
 		<path>./btime.zip</path>
 		<name>BurgerTime</name>
 		<desc>A platform game in which one or two players take on the role of burger chef 'Peter Pepper'. The chef must create a set number of burgers per level by collecting the separate ingredients needed to make each one (two pieces of bun, the burger itself and/or a garnish, such as lettuce or cheese). 
@@ -4731,24 +4715,6 @@ While the game plays identically to its predecessor, several new changes and add
 		<players>1</players>
 	</game>
 	<game>
-		<path>./lethalen.zip</path>
-		<name>Lethal Enforcers</name>
-		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
-
-As an undercover police officer the player's mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player's energy level being severely reduced.
-
-Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can't and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<playtime>4</playtime>
-		<lastplayed>20260415T081232</lastplayed>
-	</game>
-	<game>
 		<path>./le2.zip</path>
 		<name>Lethal Enforcers II: Gun Fighters</name>
 		<desc>Western style shooting game featuring digitized characters. The game consists of 5 stages: Bank Robbery, Stage Hold-Up, Saloon Showdown, Train Robbery, and Hide-Out. 
@@ -4822,5 +4788,40 @@ Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped th
 		<publisher>P&amp;P Marketing</publisher>
 		<genre>Shooter</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
+
+Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>50</playcount>
+		<playtime>1</playtime>
+		<lastplayed>20260424T164201</lastplayed>
+	</game>
+	<game>
+		<path>./lethalen.zip</path>
+		<name>Lethal Enforcers</name>
+		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
+
+As an undercover police officer the player's mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player's energy level being severely reduced.
+
+Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can't and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>6</playcount>
+		<playtime>234</playtime>
+		<lastplayed>20260424T174616</lastplayed>
 	</game>
 </gameList>

@@ -10,6 +10,7 @@ gparted (if partitioning/dual-booting)
 curl (basic tool)
 git (basic tool)
 awscli
+htop
 unrar
 ```
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
@@ -56,11 +57,24 @@ not libsdl2-2.0-0
 libsdl1.2 (yes)
 https://www.sindenlightgun.com/software/SindenLightgunSoftwareReleaseV2.08b.zip
 
+sinden as a service
+mono lightgun.exe joystick sometimes fails the first couple tries
+
+turn off monodoc
 
 flycast
 https://github.com/flyinghead/flycast
 
 builds
+
+
+# Play!
+pac man battle royale
+sudo apt install libfuse2
+
+## outfox
+download and unzip
+clone https://github.com/MidflightDigital/XX--STARLiGHT--twopointzero.git Appearance/Themes
 
 ## Links
 
@@ -90,6 +104,39 @@ travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/shaders/ .
 travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/states/ .
 travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/system/ .
 travis@travis:~/.config/retroarch$ ln -s ~/arcade/retroarch/thumbnails/ .
+
+## Performance tuning
+mame -bench 60 tekken3
+Average speed: 253.38% (59 seconds)
+mame -bench 60 timecris
+Average speed: 224.14% (59 seconds)
+mame -bench 60 galaga
+Average speed: 2881.14% (59 seconds)
+
+cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+want performance, not powersave (but this may not change)
+
+powerprofilesctl set performance
+
+cat /sys/devices/system/cpu/cpu0/cpufreq/energy_performance_preference
+want performance
+
+apt-get install mesa-utils vulkan-tools
+glxgears (60 fps)
+glxinfo | grep "OpenGL renderer"
+want no llvmpipe
+
+
+## Wine
+sudo mkdir -pm755 /etc/apt/keyrings
+wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo gpg --dearmor -o /etc/apt/keyrings/winehq-archive.key -
+sudo dpkg --add-architecture i386
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/noble/winehq-noble.sources
+apt-get update
+sudo apt install --install-recommends winehq-stable
+
+sudo apt-get install libvulkan1:i386
+sudo apt-get install libegl1:i386
 
 
 ## Missing
