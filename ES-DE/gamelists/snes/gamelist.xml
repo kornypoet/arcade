@@ -1,22 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Super Mario Kart (U) [!].smc</path>
-		<name>Super Mario Kart</name>
-		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
-
-There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930121T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Comp • Racing / Battle</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>12</playcount>
-		<lastplayed>20240825T183505</lastplayed>
-	</game>
-	<game>
 		<path>./Clay Fighter (U) [!].smc</path>
 		<name>Clay Fighter</name>
 		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
@@ -98,5 +82,22 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>15</playcount>
 		<lastplayed>20250704T150854</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Kart (U) [!].smc</path>
+		<name>Super Mario Kart</name>
+		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
+
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Comp • Racing / Battle</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>13</playcount>
+		<playtime>7</playtime>
+		<lastplayed>20260427T131444</lastplayed>
 	</game>
 </gameList>

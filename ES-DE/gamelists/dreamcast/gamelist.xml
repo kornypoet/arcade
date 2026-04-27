@@ -107,8 +107,9 @@ Other modes include classic Puyo Puyo and a battle mode for up to four players.<
 		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-4</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20251205T235236</lastplayed>
+		<playcount>5</playcount>
+		<playtime>13</playtime>
+		<lastplayed>20260427T131507</lastplayed>
 	</game>
 	<game>
 		<path>./Soulcalibur (USA).cue</path>
@@ -125,8 +126,8 @@ In addition to several locales in which to fight and alternate models/costumes p
 		<genre>Comp • Fighting / Weapon</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<playtime>38</playtime>
-		<lastplayed>20260425T143608</lastplayed>
+		<playcount>5</playcount>
+		<playtime>49</playtime>
+		<lastplayed>20260427T131530</lastplayed>
 	</game>
 </gameList>
