@@ -48,24 +48,6 @@ Virtua Tennis, so realistic you can almost taste the strawberries and cream.</de
 		<lastplayed>20240825T164212</lastplayed>
 	</game>
 	<game>
-		<path>./Soulcalibur (USA).cue</path>
-		<name>SoulCalibur</name>
-		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
-
-All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
-
-In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
-		<rating>0.8</rating>
-		<releasedate>19991126T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240825T173936</lastplayed>
-	</game>
-	<game>
 		<path>./Worms Armageddon (USA) (En,Fr,De,Nl,Sv,No,Da).cue</path>
 		<name>Worms Armageddon</name>
 		<desc>The final sequel (at least using the present engine) to the strategy game Worms, Worms Armageddon expands on Worms 2 by improving quite a few facets of gameplay and including play over the Internet through Team 17's WORMNET. 
@@ -127,5 +109,24 @@ Other modes include classic Puyo Puyo and a battle mode for up to four players.<
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20251205T235236</lastplayed>
+	</game>
+	<game>
+		<path>./Soulcalibur (USA).cue</path>
+		<name>SoulCalibur</name>
+		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
+
+All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
+
+In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991126T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>38</playtime>
+		<lastplayed>20260425T143608</lastplayed>
 	</game>
 </gameList>

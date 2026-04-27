@@ -3526,22 +3526,6 @@ Smashing at the edges of the buildings for long enough will make them collapse. 
 		<lastplayed>20241123T184624</lastplayed>
 	</game>
 	<game>
-		<path>./tekken3.zip</path>
-		<name>Tekken 3</name>
-		<desc>
-The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20241123T190122</lastplayed>
-	</game>
-	<game>
 		<path>./tmnt2.zip</path>
 		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
 		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
@@ -4807,6 +4791,23 @@ Galagans fly onto the screen in a variety of formations before forming troop lin
 		<lastplayed>20260424T164201</lastplayed>
 	</game>
 	<game>
+		<path>./tekken3.zip</path>
+		<name>Tekken 3</name>
+		<desc>
+The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>80</playtime>
+		<lastplayed>20260426T173234</lastplayed>
+	</game>
+	<game>
 		<path>./lethalen.zip</path>
 		<name>Lethal Enforcers</name>
 		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
@@ -4820,8 +4821,8 @@ Lethal Enforcers is an on-the-rails light-gun game. The player is initially arme
 		<publisher>Konami</publisher>
 		<genre>Shooter</genre>
 		<players>1-2</players>
-		<playcount>6</playcount>
-		<playtime>234</playtime>
-		<lastplayed>20260424T174616</lastplayed>
+		<playcount>8</playcount>
+		<playtime>310</playtime>
+		<lastplayed>20260427T130501</lastplayed>
 	</game>
 </gameList>

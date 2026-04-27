@@ -138,6 +138,8 @@ sudo apt install --install-recommends winehq-stable
 sudo apt-get install libvulkan1:i386
 sudo apt-get install libegl1:i386
 
+wine regedit
+
 
 ## Missing
 
