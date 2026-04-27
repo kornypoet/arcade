@@ -10,7 +10,8 @@ mame_games=(
 )
 
 retroarch_games=(
-    'Duck Hunt (World).nes'
+    "Duck\ Hunt\ \(World\).nes"
+    "Hogan\'s\ Alley\ \(World\).nes"
 )
 
 cmd="mono /home/travis/Sinden/LightgunMono.exe"

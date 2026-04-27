@@ -10,51 +10,9 @@
 		<publisher>Nintendo</publisher>
 		<genre>Lightgun Shooter</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Duck Hunt (World).nes</path>
-		<name>Duck Hunt</name>
-		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
-
-Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870815T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20250210T183452</lastplayed>
-	</game>
-	<game>
-		<path>./Tetris (U) [!].nes</path>
-		<name>Tetris</name>
-		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
-
-The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
-		<rating>0.9</rating>
-		<releasedate>19900223T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Solo • Puzzle / Falling Block</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>17</playcount>
-		<lastplayed>20250606T212024</lastplayed>
-	</game>
-	<game>
-		<path>./Cyber Stadium Series - Base Wars (USA).nes</path>
-		<name>Cyber Stadium Series : Base Wars</name>
-		<desc>In the 24th century, the game of Baseball is very different. Tired of paying huge players salaries, the team owners got together one weekend and came up with a bold new idea, Robots. Indeed they renamed their league the Cyber League and stocked it with four robot types; Cyborg, Tank, Floater or Motorcycle, to play.  On an orbital stadium in space, these robots all play a slightly different variation of the baseball rules. Hitting the ball and catching pop-flys and making home runs are all the same, but when the call of a play is in dispute, there are no base referees; the robots engage in a one-on-one battle using any weaponry they're carrying.  Of course to make things interesting, weaponry (and other robot parts and equipment) can only be purchased with team funds during a tournament game, and team funds can only be obtained by wins. Thus the series closer is always sure to be a sold out game.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19910602T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Ultra Games</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20250610T203858</lastplayed>
+		<playcount>3</playcount>
+		<playtime>182</playtime>
+		<lastplayed>20260427T142703</lastplayed>
 	</game>
 	<game>
 		<path>./Kings of the Beach - Professional Beach Volleyball (USA).nes</path>
@@ -66,31 +24,77 @@ There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawa
 		<releasedate>19900101T000000</releasedate>
 		<developer>Electronic Arts</developer>
 		<publisher>Ultra Games</publisher>
-		<genre>Sports</genre>
+		<genre>Sports / Volleyball</genre>
 		<players>1-4</players>
-		<playcount>2</playcount>
-		<lastplayed>20250614T162714</lastplayed>
+		<playcount>3</playcount>
+		<playtime>3</playtime>
+		<lastplayed>20260427T141233</lastplayed>
+	</game>
+	<game>
+		<path>./Tetris (U) [!].nes</path>
+		<name>Tetris</name>
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900223T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle / Fall</genre>
+		<players>1</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>19</playcount>
+		<playtime>5</playtime>
+		<lastplayed>20260427T142833</lastplayed>
+	</game>
+	<game>
+		<path>./Duck Hunt (World).nes</path>
+		<name>Duck Hunt</name>
+		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
+
+Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870815T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Hunting</genre>
+		<players>1</players>
+		<playcount>5</playcount>
+		<playtime>171</playtime>
+		<lastplayed>20260427T142448</lastplayed>
 	</game>
 	<game>
 		<path>./Mike Tyson's Punch-Out!! (U) (PRG1).nes</path>
 		<name>Mike Tyson's Punch-Out!!</name>
-		<desc>Mike Tyson's Punch-Out is one of the most popular and biggest selling video games of all time. Step into the ring as Little Mac, a 17-year-old fighter from the Bronx, ranked number three in the minor circuit. Your goal is to work your way up through the rankings so that you can challenge Mike Tyson, Kid Dynamite, in a dream fight. 
+		<desc>Step into the ring as Little Mac, a 17-year-old fighter from the Bronx, ranked number three in the minor circuit. Your goal is to work your way up through the rankings so that you can challenge Mike Tyson, in a dream fight.
 
-But the road to the championship is long and hard. You'll have to work your way up through the minor, major, and world circuits by winning against tough contestants like Piston Honda, Glass Joe, Super Macho Man and many, many more! Defeat all your opponents and meet the ultimate challenge against the World Heavyweight Champion Mike Tyson in the greatest fight of all - The Dream Bout! Knockout Tyson and you can become WVBA (World Video Boxing Association) Champ!
+The rules of the World Video Boxing Association govern your bouts. Each match is three three-minute rounds long. Any boxer knocked down for a 10 count is Knocked Out (KO). If a boxer goes down three times, he'll find himself a Technical Knock Out (TKO). If both boxers make it to the end of the third round, the ref determines the winner.
 
-The rules of the World Video Boxing Association govern your bouts. Each match is three three-minute rounds long. Any boxer knocked down for a 10 count is Knocked Out (KO). If a boxer goes down three times, he'll find himself a Technical Knock Out (TKO). If both boxers make it to the end of the third round, the ref determines the winner. 
-
-Once you're in the ring you'll have to beat your opponent with smart fighting. Use left and right punches, as well as uppercuts to knock your opponent to the mat. Dodge your opponent's blows with some fancy footwork. Dazzle them with your brilliance and you'll be the World Video Boxing Association Champion. On the other hand, you might find yourself down for the count.
-</desc>
+Once you're in the ring you'll have to beat your opponent with smart fighting. Use left and right punches, as well as uppercuts to knock your opponent to the mat. Dodge your opponent's blows with some fancy footwork. Dazzle them with your brilliance and you'll be the World Video Boxing Association Champion. On the other hand, you might find yourself down for the count.</desc>
 		<rating>0.9</rating>
 		<releasedate>19871115T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Solo • Sports / Boxing</genre>
+		<genre>Sports / Boxing</genre>
 		<players>1</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<playtime>80</playtime>
-		<lastplayed>20260427T131412</lastplayed>
+		<playcount>7</playcount>
+		<playtime>86</playtime>
+		<lastplayed>20260427T143029</lastplayed>
+	</game>
+	<game>
+		<path>./Cyber Stadium Series - Base Wars (USA).nes</path>
+		<name>Cyber Stadium SerieS : Base Wars</name>
+		<desc>In the 24th century, the game of Baseball is very different. Tired of paying huge players salaries, the team owners got together one weekend and came up with a bold new idea, Robots. Indeed they renamed their league the Cyber League and stocked it with four robot types; Cyborg, Tank, Floater or Motorcycle, to play.  On an orbital stadium in space, these robots all play a slightly different variation of the baseball rules. Hitting the ball and catching pop-flys and making home runs are all the same, but when the call of a play is in dispute, there are no base referees; the robots engage in a one-on-one battle using any weaponry they're carrying.  Of course to make things interesting, weaponry (and other robot parts and equipment) can only be purchased with team funds during a tournament game, and team funds can only be obtained by wins. Thus the series closer is always sure to be a sold out game.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19910601T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<playtime>30</playtime>
+		<lastplayed>20260427T143157</lastplayed>
 	</game>
 </gameList>

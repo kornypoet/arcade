@@ -9,16 +9,22 @@
 	<game>
 		<path>./Soulcalibur II (USA).rvz</path>
 		<name>SoulCalibur II</name>
-		<desc>The quest for the all-powerful sword known as Soul Edge continues in Soulcalibur II, as old favorites and exciting new characters compete for the right to wield its power. Featuring seven game modes including Arcade, Time Attack, Survival Mode, Versus Mode, and Team Battle. Unlock and use over 200 different weapons and items in the updated Weapon Master Mode. Exclusive console-specific characters are in different versions of Soulcalibur II. The GameCube version boasts Nintendo's Link, of The Legend of Zelda fame.</desc>
-		<rating>0.9</rating>
+		<desc>Open the next chapter in world of Soul Calibur.
+
+Soul Calibur II features seven distinctive gameplay modes including: Arcade, Versus, Time Attack, Survival, Team Battle, Practice, and the console exclusive Weapon Master.
+
+Collect up to 200 different weapons and battle characters with their own styles, strengths, and abilities. In addition to the 13 fighters, each platform has unique special fighters: Link for GameCube, Heihachi for PS2, and Spawn for Xbox.
+
+Prove yourself through soul and sword.</desc>
+		<rating>0.8</rating>
 		<releasedate>20030924T000000</releasedate>
 		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting / 3D</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>17</playcount>
-		<playtime>32</playtime>
-		<lastplayed>20260427T131430</lastplayed>
+		<playcount>20</playcount>
+		<playtime>556</playtime>
+		<lastplayed>20260427T144200</lastplayed>
 	</game>
 </gameList>
