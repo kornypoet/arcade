@@ -9,10 +9,10 @@
   "sort_mode": 2,
   "items": [
     {
-      "path": "/home/travis/ROMs/gc/Soulcalibur II (USA).rvz",
+      "path": "/home/travis/ROMs/nes/Kings of the Beach - Professional Beach Volleyball (USA).nes",
       "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/dolphin_libretro.so",
-      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
       "crc32": "",
       "db_name": ""
     },
@@ -25,7 +25,7 @@
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/nes/Mike Tyson's Punch-Out!! (U) (PRG1).nes",
+      "path": "/home/travis/ROMs/nes/Tetris (U) [!].nes",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
       "core_name": "Nintendo - NES / Famicom (Mesen)",
@@ -33,7 +33,7 @@
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/nes/Tetris (U) [!].nes",
+      "path": "/home/travis/ROMs/nes/Mike Tyson's Punch-Out!! (U) (PRG1).nes",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
       "core_name": "Nintendo - NES / Famicom (Mesen)",
@@ -57,18 +57,58 @@
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/nes/Kings of the Beach - Professional Beach Volleyball (USA).nes",
+      "path": "/home/travis/ROMs/snes/Super Tetris 3 (Japan) (En).sfc",
       "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
-      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "",
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/dreamcast/Soulcalibur (USA).cue/Soulcalibur (USA).cue",
+      "path": "/home/travis/ROMs/snes/Micro Machines (U) [!].smc",
       "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/Super Bomberman 3 (E).smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/Super Mario Kart (U) [!].smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/Tetris Attack (U) [!].smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/WeaponLord (USA).sfc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/Clay Fighter (U) [!].smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "",
       "db_name": ""
     },
@@ -81,10 +121,26 @@
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/snes/Super Mario Kart (U) [!].smc",
+      "path": "/home/travis/ROMs/gc/Mario Golf - Toadstool Tour (USA).rvz",
       "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "core_path": "/home/travis/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/gc/Soulcalibur II (USA).rvz",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Soulcalibur (USA).cue/Soulcalibur (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "",
       "db_name": ""
     },

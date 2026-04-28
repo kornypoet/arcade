@@ -4,33 +4,16 @@
 		<path>./Clay Fighter (U) [!].smc</path>
 		<name>Clay Fighter</name>
 		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
-		<rating>0.5</rating>
+		<rating>0.8</rating>
 		<releasedate>19940526T000000</releasedate>
 		<developer>Visual Concepts</developer>
 		<publisher>Interplay</publisher>
-		<genre>Comp • Fighting</genre>
+		<genre>Fighting</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240825T184416</lastplayed>
-	</game>
-	<game>
-		<path>./Super Bomberman 3 (E).smc</path>
-		<name>Super Bomberman 3</name>
-		<desc>The third bomberman game in the SNES series.  This game was an overhaul of the entire system of bombermans from before.  Again there are new levels and a new story but there are also a lot of new features.
-
-Super Bomberman 3 adds in 5 player support using a multitap and the extra controller slot.  The "revenge" or "miso bomber" feature was introduced in this game.  That is when a player dies they can still throw bombs in from the sidelines in an attempt to swap places with a player that is still alive.  Many new powerups were added in this game including the Kangaroo which in addition to giving a player and extra hit allowed them to have some extra ablity including jumping, laying rows of bombs, and high speed running.
-
-Players are also not limited to the traditional Bomberman.  There is a wide selection of different characters that the player can choose from.</desc>
-		<rating>0.9</rating>
-		<releasedate>19951015T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>1-5</players>
-		<nomultiscrape>true</nomultiscrape>
 		<playcount>6</playcount>
-		<lastplayed>20240825T185044</lastplayed>
+		<playtime>25</playtime>
+		<lastplayed>20260427T202442</lastplayed>
 	</game>
 	<game>
 		<path>./WeaponLord (USA).sfc</path>
@@ -42,46 +25,23 @@ Players are also not limited to the traditional Bomberman.  There is a wide sele
 		<publisher>Namco</publisher>
 		<genre>Fighting</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20241202T182438</lastplayed>
+		<playcount>4</playcount>
+		<playtime>199</playtime>
+		<lastplayed>20260427T203112</lastplayed>
 	</game>
 	<game>
-		<path>./Super Tetris 3 (Japan) (En).sfc</path>
-		<name>Super Tetris 3</name>
-		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic, of course, is the basic version of the game, which comes with an endless mode and a 25-line "standard" mode. Familiss, as the name might suggest, is a family mode for up to four players simultaneously. Sparkliss, meanwhile, is very similar to Bombliss from Super Tetris 2, only with a medieval fantasy theme and different explosion patterns. Sparkliss includes both a stage mode and a puzzle mode.
-
-The most unique mode is Magicaliss, which has never shown up on any other version of Tetris. In Magicaliss, pieces come in three basic colors, and by rotating the piece, the player can choose between them. Creating a line entirely out of one color will clear all blocks on the screen of that color. There are also grey pieces, which can only be cleared by creating a line made entirely from one color, which will cause all grey blocks on screen to become that color. There are also rare rainbow pieces which will act as any color. Besides these additions, the game itself is basic Tetris.
-
-Tetris Classic, Sparkliss, and Magicaliss can also be played in a two-player battle mode, besides the four-player Familiss mode.</desc>
-		<rating>0.9</rating>
-		<releasedate>19941216T000000</releasedate>
-		<developer>TOSE</developer>
-		<publisher>Bullet Proof Software</publisher>
-		<genre>Comp • Puzzle / Falling Block</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>12</playcount>
-		<lastplayed>20250606T213245</lastplayed>
-	</game>
-	<game>
-		<path>./Micro Machines (U) [!].smc</path>
-		<name>Micro Machines</name>
-		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on.
-
-These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you. The desktop levels include binders to jump across, pencil-sharpeners to avoid, and lots of visual jokes in the open homework.
-
-Viewed from overhead with small graphics, the races include up to 4 cars. In one player challenge mode you race through the 21 tracks in a set order, selecting your 3 opponents as you go along (adding a fair amount of strategy - ideally you should aim to eliminate the better CPU cars early on), eliminating one after every third race (assuming that you can finish in the top 2 of a race within your 3 lives). If you win 3 races in a row without using a continue you get a time-trial race which can earn you an extra life.
-
-The real innovation of the game was in the multiplayer modes. You started with 4 points each, and when one car gets far enough ahead to force the other car off-screen, the slider moves in their favour. Once it reached the end (which involved beating them 4 times more than they beat you) you win the level, although if 3 laps were completed, the person leading at that point is declared the winner - with a sudden death play off if scores are level. 9 of the tracks are available in this mode, although you can also play this Head to Head system as a 1-player game across all the tracks.</desc>
+		<path>./Tetris Attack (U) [!].smc</path>
+		<name>Tetris Attack</name>
+		<desc>Tetris Attack throws Yoshi's Island into turmoil – King Bowser has cast a dark spell, turning nearly all its inhabitants into mindless servants. Only Yoshi has escaped, and he must set out to rescue his friends and defeat Bowser. The game blends fast-paced puzzle action with colorful Yoshi's Island charm, as you swap blocks to create rows, trigger combos, and unleash massive garbage blocks on your opponents. Alongside the story mode, you'll find two-player battles, endless play, time trials, and tricky puzzles. Beneath its Western name lies the Japanese original Panel de Pon – now starring Yoshi and his vibrant island crew.</desc>
 		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Merit</developer>
-		<publisher>Ocean</publisher>
-		<genre>Comp • Racing</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>15</playcount>
-		<lastplayed>20250704T150854</lastplayed>
+		<releasedate>19961128T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle / Fall</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<playtime>95</playtime>
+		<lastplayed>20260427T203224</lastplayed>
 	</game>
 	<game>
 		<path>./Super Mario Kart (U) [!].smc</path>
@@ -93,11 +53,66 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<releasedate>19930121T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Comp • Racing / Battle</genre>
+		<genre>Racing TPV</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>13</playcount>
-		<playtime>7</playtime>
-		<lastplayed>20260427T131444</lastplayed>
+		<playcount>16</playcount>
+		<playtime>140</playtime>
+		<lastplayed>20260427T203420</lastplayed>
+	</game>
+	<game>
+		<path>./Super Bomberman 3 (E).smc</path>
+		<name>Super Bomberman 3</name>
+		<desc>The third bomberman game in the SNES series.  This game was an overhaul of the entire system of bombermans from before.  Again there are new levels and a new story but there are also a lot of new features.
+
+Super Bomberman 3 adds in 5 player support using a multitap and the extra controller slot.  The "revenge" or "miso bomber" feature was introduced in this game.  That is when a player dies they can still throw bombs in from the sidelines in an attempt to swap places with a player that is still alive.  Many new powerups were added in this game including the Kangaroo which in addition to giving a player and extra hit allowed them to have some extra ablity including jumping, laying rows of bombs, and high speed running.
+
+Players are also not limited to the traditional Bomberman.  There is a wide selection of different characters that the player can choose from.</desc>
+		<rating>0.9</rating>
+		<releasedate>19951015T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-5</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<playtime>495</playtime>
+		<lastplayed>20260427T204148</lastplayed>
+	</game>
+	<game>
+		<path>./Micro Machines (U) [!].smc</path>
+		<name>Micro Machines</name>
+		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on.
+
+These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you. The desktop levels include binders to jump across, pencil-sharpeners to avoid, and lots of visual jokes in the open homework.
+
+Viewed from overhead with small graphics, the races include up to 4 cars. In one player challenge mode you race through the 21 tracks in a set order, selecting your 3 opponents as you go along (adding a fair amount of strategy - ideally you should aim to eliminate the better CPU cars early on), eliminating one after every third race (assuming that you can finish in the top 2 of a race within your 3 lives). If you win 3 races in a row without using a continue you get a time-trial race which can earn you an extra life.
+
+The real innovation of the game was in the multiplayer modes. You started with 4 points each, and when one car gets far enough ahead to force the other car off-screen, the slider moves in their favour. Once it reached the end (which involved beating them 4 times more than they beat you) you win the level, although if 3 laps were completed, the person leading at that point is declared the winner - with a sudden death play off if scores are level. 9 of the tracks are available in this mode, although you can also play this Head to Head system as a 1-player game across all the tracks.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Merit Software</developer>
+		<publisher>Ocean</publisher>
+		<genre>Racing, Driving</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>17</playcount>
+		<playtime>213</playtime>
+		<lastplayed>20260427T204511</lastplayed>
+	</game>
+	<game>
+		<path>./Super Tetris 3 (Japan) (En).sfc</path>
+		<name>Super Tetris 3</name>
+		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic, of course, is the basic version of the game, which comes with an endless mode and a 25-line "standard" mode. Familiss, as the name might suggest, is a family mode for up to four players simultaneously. Sparkliss, meanwhile, is very similar to Bombliss from Super Tetris 2, only with a medieval fantasy theme and different explosion patterns. Sparkliss includes both a stage mode and a puzzle mode.</desc>
+		<rating>1</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle / Fall</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>15</playcount>
+		<playtime>180</playtime>
+		<lastplayed>20260427T204726</lastplayed>
 	</game>
 </gameList>

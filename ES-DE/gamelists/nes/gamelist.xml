@@ -1,53 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Hogan's Alley (World).nes</path>
-		<name>Hogan's Alley</name>
-		<desc>This game involves the use of the Nintendo Light Zapper, and has, truly, no plot. You are in the police station doing target practice, either with three targets at a time with at least one innocent person, or in an alley with both good and bad targets in windows and walking on the sidewalk. Then there's Trick Shot, where you shoot the cans, trying to make them land in a slot for points, or at least not let them fall to the ground.</desc>
-		<rating>0.7</rating>
-		<releasedate>19871215T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>1</players>
-		<playcount>3</playcount>
-		<playtime>182</playtime>
-		<lastplayed>20260427T142703</lastplayed>
-	</game>
-	<game>
-		<path>./Kings of the Beach - Professional Beach Volleyball (USA).nes</path>
-		<name>Kings of the Beach</name>
-		<desc>Kings of the Beach is a two on two beach volleyball game. You must quickly move your team about on the sand performing serves, thumps, and spikes to not only out-perform but also out-smart the opposing team.
-
-There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawaii and Sydney, in order to be crowned King of the Beach. Both cooperative and competitive multiplayer (non-networked) are also supported.</desc>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Ultra Games</publisher>
-		<genre>Sports / Volleyball</genre>
-		<players>1-4</players>
-		<playcount>3</playcount>
-		<playtime>3</playtime>
-		<lastplayed>20260427T141233</lastplayed>
-	</game>
-	<game>
-		<path>./Tetris (U) [!].nes</path>
-		<name>Tetris</name>
-		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
-
-The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
-		<rating>0.8</rating>
-		<releasedate>19900223T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Puzzle / Fall</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>19</playcount>
-		<playtime>5</playtime>
-		<lastplayed>20260427T142833</lastplayed>
-	</game>
-	<game>
 		<path>./Duck Hunt (World).nes</path>
 		<name>Duck Hunt</name>
 		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
@@ -59,9 +12,23 @@ Mode C features target practice on clay pigeons rather than ducks. The perspecti
 		<publisher>Nintendo</publisher>
 		<genre>Hunting</genre>
 		<players>1</players>
-		<playcount>5</playcount>
-		<playtime>171</playtime>
-		<lastplayed>20260427T142448</lastplayed>
+		<playcount>6</playcount>
+		<playtime>446</playtime>
+		<lastplayed>20260427T205617</lastplayed>
+	</game>
+	<game>
+		<path>./Hogan's Alley (World).nes</path>
+		<name>Hogan's Alley</name>
+		<desc>This game involves the use of the Nintendo Light Zapper, and has, truly, no plot. You are in the police station doing target practice, either with three targets at a time with at least one innocent person, or in an alley with both good and bad targets in windows and walking on the sidewalk. Then there's Trick Shot, where you shoot the cans, trying to make them land in a slot for points, or at least not let them fall to the ground.</desc>
+		<rating>0.7</rating>
+		<releasedate>19871215T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<playcount>4</playcount>
+		<playtime>227</playtime>
+		<lastplayed>20260427T205717</lastplayed>
 	</game>
 	<game>
 		<path>./Mike Tyson's Punch-Out!! (U) (PRG1).nes</path>
@@ -78,9 +45,26 @@ Once you're in the ring you'll have to beat your opponent with smart fighting. U
 		<genre>Sports / Boxing</genre>
 		<players>1</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<playtime>86</playtime>
-		<lastplayed>20260427T143029</lastplayed>
+		<playcount>8</playcount>
+		<playtime>200</playtime>
+		<lastplayed>20260427T205918</lastplayed>
+	</game>
+	<game>
+		<path>./Tetris (U) [!].nes</path>
+		<name>Tetris</name>
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900223T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle / Fall</genre>
+		<players>1</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>20</playcount>
+		<playtime>40</playtime>
+		<lastplayed>20260427T210002</lastplayed>
 	</game>
 	<game>
 		<path>./Cyber Stadium Series - Base Wars (USA).nes</path>
@@ -93,8 +77,24 @@ Once you're in the ring you'll have to beat your opponent with smart fighting. U
 		<publisher>Ultra Games</publisher>
 		<genre>Sports / Baseball</genre>
 		<players>1-2</players>
-		<playcount>3</playcount>
-		<playtime>30</playtime>
-		<lastplayed>20260427T143157</lastplayed>
+		<playcount>4</playcount>
+		<playtime>114</playtime>
+		<lastplayed>20260427T210142</lastplayed>
+	</game>
+	<game>
+		<path>./Kings of the Beach - Professional Beach Volleyball (USA).nes</path>
+		<name>Kings of the Beach</name>
+		<desc>Kings of the Beach is a two on two beach volleyball game. You must quickly move your team about on the sand performing serves, thumps, and spikes to not only out-perform but also out-smart the opposing team.
+
+There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawaii and Sydney, in order to be crowned King of the Beach. Both cooperative and competitive multiplayer (non-networked) are also supported.</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1-4</players>
+		<playcount>4</playcount>
+		<playtime>286</playtime>
+		<lastplayed>20260427T210708</lastplayed>
 	</game>
 </gameList>
