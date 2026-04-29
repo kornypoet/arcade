@@ -9,6 +9,62 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/travis/ROMs/dreamcast/Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da).cue/Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Virtua Tennis (USA).cue/Virtua Tennis (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Power Stone 2 (USA).cue/Power Stone 2 (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Power Stone (USA).cue/Power Stone (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/puyo-puyo-4.gdi/puyo-puyo-4.gdi",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Dead or Alive 2 (USA).cue/Dead or Alive 2 (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Soulcalibur (USA).cue/Soulcalibur (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/travis/ROMs/nes/Kings of the Beach - Professional Beach Volleyball (USA).nes",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
@@ -113,14 +169,6 @@
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/dreamcast/puyo-puyo-4.gdi/puyo-puyo-4.gdi",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
       "path": "/home/travis/ROMs/gc/Mario Golf - Toadstool Tour (USA).rvz",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/dolphin_libretro.so",
@@ -133,14 +181,6 @@
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/dolphin_libretro.so",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
-      "path": "/home/travis/ROMs/dreamcast/Soulcalibur (USA).cue/Soulcalibur (USA).cue",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "",
       "db_name": ""
     },
