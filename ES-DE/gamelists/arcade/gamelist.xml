@@ -3554,21 +3554,6 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 		<lastplayed>20241203T102715</lastplayed>
 	</game>
 	<game>
-		<path>./ggx.zip</path>
-		<name>Guilty Gear X</name>
-		<desc>Guilty Gear X is an outstanding 2-D fighting game developed for Sega's Naomi hardware. The game features an intense fighting experience featuring a pulse pounding heavy metal soundtrack, amazingly detailed high resolution graphics, and smooth gameplay.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000713T000000</releasedate>
-		<developer>Arc System Works</developer>
-		<publisher>SEGA</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>10</playcount>
-		<altemulator>Naomi</altemulator>
-		<lastplayed>20241208T162132</lastplayed>
-	</game>
-	<game>
 		<path>./ggxx.zip</path>
 		<name>Guilty Gear Xx</name>
 		<desc>Guilty Gear X2 is the sequel to Arc System Works' high-resolution fighter, Guilty Gear X. Similar to its predecessor, Guilty Gear X2 offers various tweaks and improvements, along with more tangible additions such as new fighters and extra modes. Gameplay is governed by a multitude of powerful special moves such as Psych Bursts, Roman Cancels, Overdrives, Faultless Defense, Dead Angles, and One-Hit Kills (Sammy Studios nomenclature for a stock selection of, cancels, air juggles and counters). A roster of 23 playable characters (some hidden) awaits players, and features an indiscriminate collection of old and new, though no less quirky, faces. Among the new arrivals are the androgynous, yo-yo wielding Bridget and I-No, a leather-clad woman armed with a guitar.</desc>
@@ -4824,5 +4809,21 @@ Lethal Enforcers is an on-the-rails light-gun game. The player is initially arme
 		<playcount>8</playcount>
 		<playtime>310</playtime>
 		<lastplayed>20260427T130501</lastplayed>
+	</game>
+	<game>
+		<path>./ggx.zip</path>
+		<name>Guilty Gear X</name>
+		<desc>Guilty Gear X is an outstanding 2-D fighting game developed for Sega's Naomi hardware. The game features an intense fighting experience featuring a pulse pounding heavy metal soundtrack, amazingly detailed high resolution graphics, and smooth gameplay.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000713T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<playtime>41</playtime>
+		<altemulator>Naomi</altemulator>
+		<lastplayed>20260501T152723</lastplayed>
 	</game>
 </gameList>
