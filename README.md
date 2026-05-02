@@ -140,6 +140,15 @@ sudo apt-get install libegl1:i386
 
 wine regedit
 
+keyd
+git clone https://github.com/rvaiya/keyd
+cd keyd
+make && sudo make install
+sudo systemctl enable --now keyd
+
+/etc/sudoers.d/keyd
+/etc/keyd/default.conf
+
 
 ## Missing
 

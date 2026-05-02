@@ -4650,11 +4650,6 @@ Aliens</desc>
 		<playtime>178</playtime>
 		<lastplayed>20260327T081028</lastplayed>
 	</game>
-	<folder>
-		<path>./pacmanbr</path>
-		<name>pacmanbr</name>
-		<lastplayed>20260327T105346</lastplayed>
-	</folder>
 	<game>
 		<path>./bublbob2.zip</path>
 		<name>Bubble Bobble II</name>
@@ -4825,5 +4820,17 @@ Lethal Enforcers is an on-the-rails light-gun game. The player is initially arme
 		<playtime>41</playtime>
 		<altemulator>Naomi</altemulator>
 		<lastplayed>20260501T152723</lastplayed>
+	</game>
+	<folder>
+		<path>./pacmanbr</path>
+		<name>pacmanbr</name>
+		<lastplayed>20260502T111943</lastplayed>
+	</folder>
+	<game>
+		<path>./pacmanbr/pacmanbr.zip</path>
+		<name>Pac-Man Battle Royale</name>
+		<playcount>1</playcount>
+		<playtime>26</playtime>
+		<lastplayed>20260502T111943</lastplayed>
 	</game>
 </gameList>

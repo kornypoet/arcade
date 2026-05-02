@@ -1,0 +1,3 @@
+travis ALL=(root) NOPASSWD: /usr/bin/systemctl start keyd
+travis ALL=(root) NOPASSWD: /usr/bin/systemctl stop keyd
+travis ALL=(root) NOPASSWD: /usr/bin/systemctl disable keyd
