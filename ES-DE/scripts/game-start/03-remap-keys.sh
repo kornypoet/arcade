@@ -2,7 +2,7 @@
 
 wine_games=(
     'CrossyRoad.exe'
-    'pacmanbr'
+    'pacmanbr.zip'
     )
 
 name="${1##*/}"

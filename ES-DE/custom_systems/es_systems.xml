@@ -6,7 +6,7 @@
     <extension>.smc .SMC .sfc .SFC .swc .SWC .fig .FIG .bs .BS .bin .BIN .mgd .MGD .7z .7Z .zip .ZIP</extension>
     <command label="MAME Standalone">~/mame/mame %ROM% %STARTDIR%=~/mame</command>
     <command label="Naomi">~/Applications/flycast.AppImage -config window:fullscreen=yes %ROM%</command>
-    <command label="Play!">~/Applications/play.AppImage --fullscreen --arcade %ROM%</command>
+    <command label="Play!">~/Applications/play.AppImage --fullscreen --arcade %BASENAME%</command>
     <platform>arcade</platform>
     <theme>arcade</theme>
   </system>

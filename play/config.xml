@@ -23,7 +23,7 @@
 	<Preference Name="s3.objectstream.accesskeyid" Type="string" Value="" />
 	<Preference Name="s3.objectstream.secretaccesskey" Type="string" Value="" />
 	<Preference Name="system.language" Type="integer" Value="1" />
-	<Preference Name="ui.filterbootabletype" Type="integer" Value="2" />
+	<Preference Name="ui.filterbootabletype" Type="integer" Value="7" />
 	<Preference Name="ui.pausewhenfocuslost" Type="boolean" Value="true" />
 	<Preference Name="ui.showeecpuusage" Type="boolean" Value="false" />
 	<Preference Name="ui.showexitconfirmation" Type="boolean" Value="false" />

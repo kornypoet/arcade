@@ -2,9 +2,11 @@
 
 mame_games=(
     'area51.zip'
+    'bbh.zip'
     'hotd.zip'
     'lethalen.zip'
     'le2.zip'
+    'policetr.zip'
     'ptblank.zip'
     'timecris.zip'
 )
