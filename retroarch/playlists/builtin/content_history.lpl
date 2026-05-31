@@ -9,18 +9,26 @@
   "sort_mode": 2,
   "items": [
     {
-      "path": "/home/travis/mame/roms/jpark.zip",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/fbneo_libretro.so",
-      "core_name": "Arcade (FinalBurn Neo)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
       "path": "/home/travis/mame/roms/hotd2.zip",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/nes/Duck Hunt (World).nes",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Mesen)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/mame/roms/jpark.zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "",
       "db_name": ""
     },
@@ -122,14 +130,6 @@
     },
     {
       "path": "/home/travis/ROMs/nes/Hogan's Alley (World).nes",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
-      "core_name": "Nintendo - NES / Famicom (Mesen)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
-      "path": "/home/travis/ROMs/nes/Duck Hunt (World).nes",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
       "core_name": "Nintendo - NES / Famicom (Mesen)",

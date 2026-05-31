@@ -4641,24 +4641,6 @@ While the game plays identically to its predecessor, several new changes and add
 		<lastplayed>20260327T105346</lastplayed>
 	</game>
 	<game>
-		<path>./hotd2.zip</path>
-		<name>The House of the Dead 2</name>
-		<desc>The Special Agents who were assigned to the original House of the Dead mission, thought they were successful in wiping out the evil that resided in secret laboratories and underground passages: however, they were wrong, Dead Wrong!
-
-In the 1st installment of House of the Dead, the situation was a grave one. However, with new hidden passages, giving the player the opportunity to alter the course of each game. The House of the Dead 2 is sure to create more excitement along with a deadlier outcome.
-
-Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped through hidden passages in the mansion. The lifeless corpses and mutilated specimens terrorize the countryside while heading for the targeted City.</desc>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<playtime>4</playtime>
-		<lastplayed>20260415T081521</lastplayed>
-	</game>
-	<game>
 		<path>./policetr10.zip</path>
 		<name>Police Trainer</name>
 		<desc>Train to become a police officer in this target shooter.</desc>
@@ -4668,19 +4650,6 @@ Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped th
 		<publisher>P&amp;P Marketing</publisher>
 		<genre>Shooter</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./pacmanbr.zip</path>
-		<name>Pac-Man Battle Royale</name>
-		<desc>Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.</desc>
-		<releasedate>20110101T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<players>1-4</players>
-		<playcount>4</playcount>
-		<playtime>210</playtime>
-		<altemulator>Play!</altemulator>
-		<lastplayed>20260502T125123</lastplayed>
 	</game>
 	<game>
 		<path>./galaga.zip</path>
@@ -4782,40 +4751,6 @@ TIME ATTACK: the player selects one of four stages and must defeat all enemies i
 		<lastplayed>20260522T155345</lastplayed>
 	</game>
 	<game>
-		<path>./hotd.zip</path>
-		<name>The House of the Dead</name>
-		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.
-
-The game is divided into 4 chapters; Armored Giant, Man-Bat, Giant Spider, and 'Magician'. The game allows you to aim and destroy specific body parts. (i.e. you can blow off the arms of a chainsaw-wielding undead enemy), although blowing off their heads is the fastest way of killing them. Awesome and one of the best selling modern video games!</desc>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>4</playcount>
-		<playtime>344</playtime>
-		<lastplayed>20260522T165936</lastplayed>
-	</game>
-	<game>
-		<path>./area51.zip</path>
-		<name>Area 51</name>
-		<desc>This game takes the player through several sections of the facility, including a warehouse and underground tunnels. The player is tasked, along with fellow STAAR members, to penetrate Area 51 and activate the nuclear self-destruct sequence. The player must kill all of the genetically altered soldiers and aliens without harming any allied STAAR team members (at the cost of one life point), however if nothing but three STAAR team members are shot, the Kronn Hunter will be started, taking the role of a Hunter, sent by the Kronn to eliminate the rebels. None of the actual aliens will appear until the office level.
-
-There are five types of different weaponry available to the player during the course of the game. While the player is only given a semi-automatic pistol in the beginning, weapon upgrades are available as targets throughout the game. The pistol can be upgraded to an automatic machine gun, a pump shotgun, and finally an automatic shotgun. The shotgun weaponry allows a greater field of error for targeting an enemy in able to kill it. Both the machine gun and automatic shotgun allow the player to keep the trigger pressed down to unleash rounds. If the player is hit by the enemy at any time, the weapon is downgraded back to the pistol. The player will also find grenades in crates and bonus rooms which, when used, destroys most on screen enemies at once. The player can hold a max of 9 grenades. In addition, yellow boxes and barrels marked with flammable warning symbols can be shot to cause fires or explosions that can harm enemies.
-
-The game is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely-contrasting, unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2-D digitized video sprites, the levels and vehicles are pre-rendered in 3-D.</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>5</playcount>
-		<playtime>335</playtime>
-		<lastplayed>20260522T170723</lastplayed>
-	</game>
-	<game>
 		<path>./lethalen.zip</path>
 		<name>Lethal Enforcers</name>
 		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
@@ -4865,22 +4800,6 @@ The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in or
 		<playcount>7</playcount>
 		<playtime>84</playtime>
 		<lastplayed>20260522T182132</lastplayed>
-	</game>
-	<game>
-		<path>./term2.zip</path>
-		<name>Terminator 2 : Judgment Day</name>
-		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
-
-Hasta La Vista, Baby!</desc>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<playtime>79</playtime>
-		<lastplayed>20260531T140148</lastplayed>
 	</game>
 	<game>
 		<path>./bbhsc.zip</path>
@@ -4980,5 +4899,87 @@ Jurassic Park features Sega's often-used and highly effective sprite scaled grap
 		<playcount>1</playcount>
 		<playtime>42</playtime>
 		<lastplayed>20260531T145959</lastplayed>
+	</game>
+	<game>
+		<path>./term2.zip</path>
+		<name>Terminator 2 : Judgment Day</name>
+		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
+
+Hasta La Vista, Baby!</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<playtime>129</playtime>
+		<lastplayed>20260531T151506</lastplayed>
+	</game>
+	<game>
+		<path>./hotd.zip</path>
+		<name>The House of the Dead</name>
+		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.
+
+The game is divided into 4 chapters; Armored Giant, Man-Bat, Giant Spider, and 'Magician'. The game allows you to aim and destroy specific body parts. (i.e. you can blow off the arms of a chainsaw-wielding undead enemy), although blowing off their heads is the fastest way of killing them. Awesome and one of the best selling modern video games!</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>5</playcount>
+		<playtime>399</playtime>
+		<lastplayed>20260531T151746</lastplayed>
+	</game>
+	<game>
+		<path>./area51.zip</path>
+		<name>Area 51</name>
+		<desc>This game takes the player through several sections of the facility, including a warehouse and underground tunnels. The player is tasked, along with fellow STAAR members, to penetrate Area 51 and activate the nuclear self-destruct sequence. The player must kill all of the genetically altered soldiers and aliens without harming any allied STAAR team members (at the cost of one life point), however if nothing but three STAAR team members are shot, the Kronn Hunter will be started, taking the role of a Hunter, sent by the Kronn to eliminate the rebels. None of the actual aliens will appear until the office level.
+
+There are five types of different weaponry available to the player during the course of the game. While the player is only given a semi-automatic pistol in the beginning, weapon upgrades are available as targets throughout the game. The pistol can be upgraded to an automatic machine gun, a pump shotgun, and finally an automatic shotgun. The shotgun weaponry allows a greater field of error for targeting an enemy in able to kill it. Both the machine gun and automatic shotgun allow the player to keep the trigger pressed down to unleash rounds. If the player is hit by the enemy at any time, the weapon is downgraded back to the pistol. The player will also find grenades in crates and bonus rooms which, when used, destroys most on screen enemies at once. The player can hold a max of 9 grenades. In addition, yellow boxes and barrels marked with flammable warning symbols can be shot to cause fires or explosions that can harm enemies.
+
+The game is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely-contrasting, unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2-D digitized video sprites, the levels and vehicles are pre-rendered in 3-D.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>9</playcount>
+		<playtime>536</playtime>
+		<lastplayed>20260531T152123</lastplayed>
+	</game>
+	<game>
+		<path>./hotd2.zip</path>
+		<name>The House of the Dead 2</name>
+		<desc>The Special Agents who were assigned to the original House of the Dead mission, thought they were successful in wiping out the evil that resided in secret laboratories and underground passages: however, they were wrong, Dead Wrong!
+
+In the 1st installment of House of the Dead, the situation was a grave one. However, with new hidden passages, giving the player the opportunity to alter the course of each game. The House of the Dead 2 is sure to create more excitement along with a deadlier outcome.
+
+Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped through hidden passages in the mansion. The lifeless corpses and mutilated specimens terrorize the countryside while heading for the targeted City.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>5</playcount>
+		<playtime>320</playtime>
+		<altemulator>Flycast</altemulator>
+		<lastplayed>20260531T153940</lastplayed>
+	</game>
+	<game>
+		<path>./pacmanbr.zip</path>
+		<name>Pac-Man Battle Royale</name>
+		<desc>Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.</desc>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<players>1-4</players>
+		<playcount>5</playcount>
+		<playtime>309</playtime>
+		<altemulator>Play!</altemulator>
+		<lastplayed>20260531T154346</lastplayed>
 	</game>
 </gameList>

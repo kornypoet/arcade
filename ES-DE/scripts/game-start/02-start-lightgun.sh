@@ -1,7 +1,6 @@
 #!/bin/bash
 
-mame_games=(
-    'alien3.zip'
+joystick_single_games=(
     'area51.zip'
     'bbh.zip'
     'bbhsc.zip'
@@ -15,35 +14,55 @@ mame_games=(
     'policetr.zip'
     'ptblank.zip'
     'ptblank2.zip'
-    'term2.zip'
     'timecris.zip'
 )
 
-retroarch_games=(
+joystick_auto_games=(
+    'alien3.zip'
+    'term2.zip'
+)
+
+mouse_single_games=(
     "Duck\ Hunt\ \(World\).nes"
     "Hogan\'s\ Alley\ \(World\).nes"
     "hotd2.zip"
 )
 
 cmd="mono /home/travis/Sinden/LightgunMono.exe"
+cfg="/home/travis/Sinden/LightgunMono.exe.config"
+single_cfg="/home/travis/Sinden/single.config"
+auto_cfg="/home/travis/Sinden/auto.config"
+
 name="${1##*/}"
 lightgun=false
 
 echo "Checking if ${name} requires lightgun"
 
-for game in "${mame_games[@]}"; do
+for game in "${joystick_single_games[@]}"; do
     if [ "${name}" = "${game}" ]; then
-	echo "Found mame lightgun game"
+	echo "Found joystick single shot lightgun game"
 
+	ln -sf $single_cfg $cfg
 	cmd="${cmd} joystick"
 	lightgun=true
     fi
 done
 
-for game in "${retroarch_games[@]}"; do
+for game in "${joystick_auto_games[@]}"; do
     if [ "${name}" = "${game}" ]; then
-	echo "Found retroarch lightgun game"
+	echo "Found joystick automatic lightgun game"
 
+	ln -sf $auto_cfg $cfg	
+	cmd="${cmd} joystick"
+	lightgun=true
+    fi
+done
+
+for game in "${mouse_single_games[@]}"; do
+    if [ "${name}" = "${game}" ]; then
+	echo "Found mouse single shot lightgun game"
+
+	ln -sf $single_cfg $cfg	
 	lightgun=true
     fi
 done

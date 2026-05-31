@@ -1,22 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Duck Hunt (World).nes</path>
-		<name>Duck Hunt</name>
-		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
-
-Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870815T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Hunting</genre>
-		<players>1</players>
-		<playcount>6</playcount>
-		<playtime>446</playtime>
-		<lastplayed>20260427T205617</lastplayed>
-	</game>
-	<game>
 		<path>./Hogan's Alley (World).nes</path>
 		<name>Hogan's Alley</name>
 		<desc>This game involves the use of the Nintendo Light Zapper, and has, truly, no plot. You are in the police station doing target practice, either with three targets at a time with at least one innocent person, or in an alley with both good and bad targets in windows and walking on the sidewalk. Then there's Trick Shot, where you shoot the cans, trying to make them land in a slot for points, or at least not let them fall to the ground.</desc>
@@ -96,5 +80,21 @@ There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawa
 		<playcount>4</playcount>
 		<playtime>286</playtime>
 		<lastplayed>20260427T210708</lastplayed>
+	</game>
+	<game>
+		<path>./Duck Hunt (World).nes</path>
+		<name>Duck Hunt</name>
+		<desc>Duck Hunt is a shooting simulation where the player goes out with his faithful dogs to hunt ducks. It requires the use of the Zapper light gun. In game modes A and B, players view a swampland from a first-person perspective. The dog scares ducks (one or two at a time) out of the swamp, and they go flying around in the air. The player has three shots and a limited amount of time to shoot the ducks before they fly away. Each round only allows a limited number of misses in order to move on successfully. As the rounds progress, the ducks begin flying faster and faster, and fewer misses are allowed.
+
+Mode C features target practice on clay pigeons rather than ducks. The perspective and rules here are the same, with only three shots to destroy two clay pigeons before they disappear off the horizon. Destroy enough clay pigeons to move on to the next, tougher round.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870815T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Hunting</genre>
+		<players>1</players>
+		<playcount>7</playcount>
+		<playtime>466</playtime>
+		<lastplayed>20260531T151823</lastplayed>
 	</game>
 </gameList>
