@@ -7,6 +7,8 @@
     <command label="MAME Standalone">~/mame/mame %ROM% %STARTDIR%=~/mame</command>
     <command label="Naomi">~/Applications/flycast.AppImage -config window:fullscreen=yes %ROM%</command>
     <command label="Play!">~/Applications/play.AppImage --fullscreen --arcade %BASENAME%</command>
+    <command label="FinalBurn Neo">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/fbneo_libretro.so %ROM%</command>
+    <command label="Flycast">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
     <platform>arcade</platform>
     <theme>arcade</theme>
   </system>

@@ -4866,4 +4866,119 @@ The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in or
 		<playtime>84</playtime>
 		<lastplayed>20260522T182132</lastplayed>
 	</game>
+	<game>
+		<path>./term2.zip</path>
+		<name>Terminator 2 : Judgment Day</name>
+		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
+
+Hasta La Vista, Baby!</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>79</playtime>
+		<lastplayed>20260531T140148</lastplayed>
+	</game>
+	<game>
+		<path>./bbhsc.zip</path>
+		<name>Big Buck Hunter - Shooter's Challenge</name>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<genre>Shooter / FPV</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<playtime>563</playtime>
+		<lastplayed>20260531T141143</lastplayed>
+	</game>
+	<game>
+		<path>./bbh2sp.zip</path>
+		<name>Big Buck Hunter II - Sportsman's Paradise</name>
+		<desc>Big Buck Hunter is an arcade hunting game released by Play Mechanix, Inc..
+The initial series of games operate on a single gun platform and allows four players to compete round robin style through various treks and bonus stages.
+The game centers on a player's ability to shoot up to three bucks a stage without shooting a doe or female animal, thus ending the player's turn prematurely.</desc>
+		<rating>0.6</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shooter / FPV</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<playtime>394</playtime>
+		<lastplayed>20260531T141926</lastplayed>
+	</game>
+	<game>
+		<path>./bbhcotw.zip</path>
+		<name>Big Buck Hunter Call Of The Wild</name>
+		<rating>0.6</rating>
+		<releasedate>20060101T000000</releasedate>
+		<genre>Shooter / FPV</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<playtime>549</playtime>
+		<lastplayed>20260531T142903</lastplayed>
+	</game>
+	<game>
+		<path>./maxforce.zip</path>
+		<name>Maximum Force</name>
+		<desc>This game was the second developed by Mesa Logic for Atari Games and has often been described as an unofficial sequel to "Area 51" (the real sequel being "Area 51 Site 4").
+
+The game shares many similarities with "Area 51" (secret rooms, hard drive etc.) but uses a more sophisticated sprite overlay system, which allowed the interactive element to have the same number of colours as the video. Maximum Force uses a 16Bit stream for the main video (instead of 15bit for "Area 51"). There's about 50 minutes of video on the 2 GB hard drive. However, despite the more realistic sprites, innocents still do not disappear when shot and actual gore content is far less than that of, say, Mortal Kombat - Maximum Force was a product of the era where games such as Doom were still being blamed for violent shootings in America and Atari Games wanted to maintain their 'good guy' image.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>214</playtime>
+		<lastplayed>20260531T143324</lastplayed>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien 3 : The Gun</name>
+		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
+
+One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>68</playtime>
+		<lastplayed>20260531T143525</lastplayed>
+	</game>
+	<game>
+		<path>./jpark.zip</path>
+		<name>Jurassic Park</name>
+		<desc>Jurassic Park is an on-the-rails lightgun game for 1 or 2 players, based on the groundbreaking Steven Spielberg movie of the same name.
+
+Jurassic Park features Sega's often-used and highly effective sprite scaled graphics and is very similar in style to another Sega Lightgun shoot-em-up, 1991's "Rail Chase". For subsequent games in the series, graphics technology had moved on somewhat and scaled sprites were dropped in favour of far superior textured polygons.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>16</playtime>
+		<lastplayed>20260531T143946</lastplayed>
+	</game>
+	<game>
+		<path>./ptblank2.zip</path>
+		<name>Point Blank 2</name>
+		<desc>Dan and Don return for another round of shooting action. This time there are heaps of new mini games, as well as a few that improve on what was available in the first title in the series.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>42</playtime>
+		<lastplayed>20260531T145959</lastplayed>
+	</game>
 </gameList>

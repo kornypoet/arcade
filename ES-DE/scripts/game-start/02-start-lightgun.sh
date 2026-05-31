@@ -1,19 +1,28 @@
 #!/bin/bash
 
 mame_games=(
+    'alien3.zip'
     'area51.zip'
     'bbh.zip'
+    'bbhsc.zip'
+    'bbh2sp.zip'
+    'bbhcotw.zip'
     'hotd.zip'
+    'jpark.zip'
     'lethalen.zip'
     'le2.zip'
+    'maxforce.zip'
     'policetr.zip'
     'ptblank.zip'
+    'ptblank2.zip'
+    'term2.zip'
     'timecris.zip'
 )
 
 retroarch_games=(
     "Duck\ Hunt\ \(World\).nes"
     "Hogan\'s\ Alley\ \(World\).nes"
+    "hotd2.zip"
 )
 
 cmd="mono /home/travis/Sinden/LightgunMono.exe"
