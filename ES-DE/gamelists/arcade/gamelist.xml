@@ -4714,26 +4714,6 @@ Your 'judgement' is based on your shooting accuracy in some games, and others re
 		<lastplayed>20260522T155024</lastplayed>
 	</game>
 	<game>
-		<path>./timecris.zip</path>
-		<name>Time Crisis</name>
-		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
-
-As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
-
-The game offers the player two different game modes: 
-STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
-TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<playcount>1</playcount>
-		<playtime>188</playtime>
-		<lastplayed>20260522T155345</lastplayed>
-	</game>
-	<game>
 		<path>./lethalen.zip</path>
 		<name>Lethal Enforcers</name>
 		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
@@ -4821,22 +4801,6 @@ The game shares many similarities with "Area 51" (secret rooms, hard drive etc.)
 		<lastplayed>20260531T143324</lastplayed>
 	</game>
 	<game>
-		<path>./alien3.zip</path>
-		<name>Alien 3 : The Gun</name>
-		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
-
-One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<playtime>68</playtime>
-		<lastplayed>20260531T143525</lastplayed>
-	</game>
-	<game>
 		<path>./jpark.zip</path>
 		<name>Jurassic Park</name>
 		<desc>Jurassic Park is an on-the-rails lightgun game for 1 or 2 players, based on the groundbreaking Steven Spielberg movie of the same name.
@@ -4915,40 +4879,6 @@ Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped th
 		<lastplayed>20260601T214441</lastplayed>
 	</game>
 	<game>
-		<path>./galaga.zip</path>
-		<name>Galaga</name>
-		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
-
-Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Midway</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>52</playcount>
-		<playtime>47</playtime>
-		<lastplayed>20260601T220635</lastplayed>
-	</game>
-	<game>
-		<path>./tekken3.zip</path>
-		<name>Tekken 3</name>
-		<desc>
-The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
-		<rating>0.9</rating>
-		<releasedate>19970320T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting / 2.5D</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<playtime>143</playtime>
-		<lastplayed>20260601T220748</lastplayed>
-	</game>
-	<game>
 		<path>./term2.zip</path>
 		<name>Terminator 2 : Judgment Day</name>
 		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
@@ -4981,5 +4911,75 @@ The game is notable for its use of digitized video stored on an on-board hard di
 		<playcount>10</playcount>
 		<playtime>633</playtime>
 		<lastplayed>20260601T221040</lastplayed>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
+
+Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>53</playcount>
+		<playtime>82</playtime>
+		<lastplayed>20260601T221919</lastplayed>
+	</game>
+	<game>
+		<path>./tekken3.zip</path>
+		<name>Tekken 3</name>
+		<desc>
+The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970320T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<playtime>198</playtime>
+		<lastplayed>20260601T222024</lastplayed>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien 3 : The Gun</name>
+		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
+
+One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<playtime>122</playtime>
+		<lastplayed>20260601T222149</lastplayed>
+	</game>
+	<game>
+		<path>./timecris.zip</path>
+		<name>Time Crisis</name>
+		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
+
+As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
+
+The game offers the player two different game modes: 
+STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
+TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<playtime>236</playtime>
+		<lastplayed>20260601T222252</lastplayed>
 	</game>
 </gameList>
