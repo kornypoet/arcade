@@ -1550,7 +1550,7 @@ The first seven mazes are always the same, but from level 8 onwards, players wil
 		<lastplayed>20240821T090953</lastplayed>
 	</game>
 	<game>
-		<path>./ddragonu.zip</path>
+		<path>./ddragon.zip</path>
 		<name>Double Dragon</name>
 		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
 
@@ -4866,19 +4866,6 @@ Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped th
 		<lastplayed>20260531T153940</lastplayed>
 	</game>
 	<game>
-		<path>./pacmanbr.zip</path>
-		<name>Pac-Man Battle Royale</name>
-		<desc>Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.</desc>
-		<releasedate>20110101T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<players>1-4</players>
-		<playcount>6</playcount>
-		<playtime>413</playtime>
-		<altemulator>Play!</altemulator>
-		<lastplayed>20260601T214441</lastplayed>
-	</game>
-	<game>
 		<path>./term2.zip</path>
 		<name>Terminator 2 : Judgment Day</name>
 		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
@@ -4981,5 +4968,18 @@ TIME ATTACK: the player selects one of four stages and must defeat all enemies i
 		<playcount>2</playcount>
 		<playtime>236</playtime>
 		<lastplayed>20260601T222252</lastplayed>
+	</game>
+	<game>
+		<path>./pacmanbr.zip</path>
+		<name>Pac-Man Battle Royale</name>
+		<desc>Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.</desc>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<players>1-4</players>
+		<playcount>7</playcount>
+		<playtime>456</playtime>
+		<altemulator>Play!</altemulator>
+		<lastplayed>20260602T084044</lastplayed>
 	</game>
 </gameList>
