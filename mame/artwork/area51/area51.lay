@@ -3,6 +3,9 @@
   <element name="BezelStandard">
     <image file="BezelStandard.png" />
   </element>
+  <element name="whiteborderfull">
+    <image file="whiteborderfull.png" />
+  </element>
   <element name="BezelWide">
     <image file="BezelWide.png" />
   </element>
@@ -46,6 +49,15 @@
       <bounds left="0" top="0" right="1920" bottom="1080" />
     </element>
     <element ref="BorderStandard">
+      <bounds left="0" top="0" right="1920" bottom="1080" />
+    </element>
+    <screen index="0">
+      <bounds left="240" top="12" right="1682" bottom="1068" />
+    </screen>
+  </view>
+
+  <view name="Custom Full Screen">
+    <element ref="whiteborderfull">
       <bounds left="0" top="0" right="1920" bottom="1080" />
     </element>
     <screen index="0">
