@@ -11,6 +11,7 @@ joystick_single_games=(
     'lethalen.zip'
     'le2.zip'
     'maxforce.zip'
+    'opwolf.zip'
     'policetr.zip'
     'ptblank.zip'
     'ptblank2.zip'
