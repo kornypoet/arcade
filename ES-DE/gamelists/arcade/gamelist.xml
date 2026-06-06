@@ -176,224 +176,6 @@ All marbles must be destroyed to complete a level. The game is over once the mar
 		<lastplayed>20240806T162334</lastplayed>
 	</game>
 	<game>
-		<path>./arabian.zip</path>
-		<name>Arabian</name>
-		<desc>You'll have 1001 hours of fun with the ARABIAN upright game! You are the adventurous Arabian prince, and your goal is to rescue the princess from her palace. Use the joystick control and the KICK button to move through perilous passages. Sail the seas, crawl in caves, and fly magic carpets - you'll be challenged by 4 increasingly hard waves of play! Score points on the way for picking up the letters in A-R-A-B-I-A-N, and get a bonus if you pick them up in order!
-
-Arabian is a 'video book' with a happy ending! The attract mode introduces the story, and animated storybook 'pages' let you experience the Arabian Prince's adventures. Use the 8-position joystick to jump, super-jump, walk, crawl, or climb in all directions. Tap either KICK button (are you right- or left-handed?) to kick your enemies out of the way.
-
-The player controls a young Arabian Prince who must rescue his Princess from the castle tower where she is being held prisoner. Evil Genies in brass jugs, swooping Rocs, and purple ghostly creatures called Oscars will try to stop him along the way. The Prince scores points for kicking Oscars or Rocs, picking up lettered jugs, or spelling A-R-A-B-I-A-N. The Prince loses a life when he's hit by a smokeball, falls off a ledge, flying carpet or vine, or gets caught (touched) by a Genie, Oscar, or Roc.
-
-The Prince must successfully complete 4 levels to rescue the Princess (4 levels or 'pages' equals 1 section). Each level is introduced with the turning of a page, which shows a distant view of the upcoming playfield. Each playfield has 7 lettered jugs that must be picked up before the player can advance to the next level, but he must avoid or KICK evil Genies, Oscars, and Rocs that will try to stop him.
-
-</desc>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T173945</lastplayed>
-	</game>
-	<game>
-		<path>./drgnbstr.zip</path>
-		<name>Dragon Buster</name>
-		<desc>Originating in the arcades, Dragon Buster is an action platform game composed out of several large levels, each one containing various stages: a cave, a tower, a castle, etc. The player's goal in every level is to reach the final stage where the protagonist faces the level boss. There are often several ways to reach the final stages, and not all stages are necessary to visit. Equipped with a sword, the player character moves through platform stages, clearing them of diverse monsters, collecting power-ups and trying to stay in good health until the level boss, since it is impossible to heal between the stages. The hero's life meter (called "vitality" in the game) is the first introduction of such a feature to action games.</desc>
-		<rating>0.5</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T175016</lastplayed>
-	</game>
-	<game>
-		<path>./wiz.zip</path>
-		<name>Wiz</name>
-		<desc>As an awesome and fearless wizard named Wiz you must embark on an epic journey through a strange and enchanted wood to battle the evil wizards and then travel up into the skies to continue the fight against evil, using your powerful magic to cast spells on the baddies! Master the dark arts to conjure up amazing spells that will defeat all manner of creatures and rival wizards with ease!</desc>
-		<rating>0.5</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Seibu Kaihatsu</developer>
-		<publisher>Seibu Kaihatsu</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20240806T180433</lastplayed>
-	</game>
-	<game>
-		<path>./rastan.zip</path>
-		<name>Rastan</name>
-		<desc>Rastan saga known in North America simply as Rastan, is a 1987 hack and slash platform arcade game developed and published by Taito.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T200418</lastplayed>
-	</game>
-	<game>
-		<path>./ghouls.zip</path>
-		<name>Ghouls'n Ghosts</name>
-		<desc>Three years have passed since the events of "Ghosts'n Goblins" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.</desc>
-		<rating>0.8</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240806T200938</lastplayed>
-	</game>
-	<game>
-		<path>./cadash.zip</path>
-		<name>Cadash</name>
-		<desc>Four great heroes: a fighter, a wizard, a cleric and a ninja go on a quest to rescue the captured princess. This Taito adventure game feature all the ingredients of a traditional role-playing game (stats, exp, buy upgrade in store...).</desc>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T201439</lastplayed>
-	</game>
-	<game>
-		<path>./rygar.zip</path>
-		<name>Rygar</name>
-		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
-		<rating>0.6</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240806T180910</lastplayed>
-	</game>
-	<game>
-		<path>./strider.zip</path>
-		<name>Strider</name>
-		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
-
-Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race. </desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T203104</lastplayed>
-	</game>
-	<game>
-		<path>./bnzabros.zip</path>
-		<name>Bonanza Bros.</name>
-		<desc>Bonanza Bros. is a strategic platform shoot-em-up with one or two players taking on the roles of Robo and Mobo, two cat-burgling brothers who must negotiate scrolling platform-based levels and steal a set number of valuable items, before making their way to the roof to escape in a waiting airship. The location of the items is highlighted on a cut-away map displayed in the middle of the screen and each stage must be completed within a set time limit.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240806T203435</lastplayed>
-	</game>
-	<game>
-		<path>./msword.zip</path>
-		<name>Magic Sword: Heroic Fantasy</name>
-		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
-
-Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T203846</lastplayed>
-	</game>
-	<game>
-		<path>./maglord.zip</path>
-		<name>Magician Lord</name>
-		<desc>Magician Lord puts you in charge of Elta, a wizard who has the task of collecting eight books of wisdom from the clutches of Az Atorse, the god of destruction. By collecting the right power-ups along the way, you can transform into different characters, including the Rajin, Samurai, Waterman, Shinobi, Poseidon, and Dragon Warrior. Each character has different abilities. There are eight areas in the game, and each stage ends with you trying to defeat both a guardian and the end-of-area boss (which are basically Atorse's incarnations). One of the first games that demonstrated the graphical abilities of the Neo-Geo.</desc>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240806T204433</lastplayed>
-	</game>
-	<game>
-		<path>./tumblep.zip</path>
-		<name>Tumble Pop</name>
-		<desc>Tumble Pop is a platform game for one or two players in which the aim is to clear each level of enemies by sucking them into - then ejecting them from - a portable vacuum-cleaner. 
-
-Holding down the fire button sucks the enemies into the cleaner, releasing the button causes them to be expelled back out. Ejected enemies act as projectiles that can damage and kill any other on-screen enemies that they collide with. All enemies must be killed before players can progress to the next stage. 
-
-Throughout the game, letters of the alphabet randomly appear in bubbles. These can be collected to eventually spell the word "TUMBLEPOP". Once this has been achieved players are transported to a time-limited bonus level, giving them the opportunity to earn bonus points and extra lives. 
-
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240806T205241</lastplayed>
-	</game>
-	<game>
-		<path>./snowbro2.zip</path>
-		<name>Snow Bros. 2 : With New Elves</name>
-		<desc>Snow Bros 2: With New Elves (known as Otenki Paradise in Japan) is a platformer developed by Toaplan and published by Hanafram in April 1994. The game consists of 6 worlds. The player must clear the screen of enemies to advance to the next stage. The game supports 4 players, but requires a 4 player harness for the additional players.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Hanafram</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240806T212517</lastplayed>
-	</game>
-	<game>
-		<path>./nitd.zip</path>
-		<name>Nightmare in the Dark</name>
-		<desc>This was an ancient story when people still believed in witchcraft.
-
-There lived one gravedigger at a very small village in a remote region. He lived a quiet, solitary life in a corner of the cemetery. He kept away from the village people due to his very ugly appearance. One day, he found the graves were ransacked and some corpses were stolen. He didn't want the village people to find out, so he decided to eliminate the grave burglars by himself. Thus, he patrolled the cemetery every night.
-
-There are five stages with five levels each, and each one of them has you throwing fireballs at ghouls, ghosts, goblins, and zombies. When you keep throwing fireballs at these enemies, they will ignite into a giant fireball, which you can throw at other enemies to kill them, and get the remaining treasure before moving on to the next level. At the end of the fifth level, a boss must be defeated in order to continue the game.</desc>
-		<rating>0.6</rating>
-		<releasedate>20010127T000000</releasedate>
-		<developer>AM Factory</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240806T212813</lastplayed>
-	</game>
-	<game>
 		<path>./gberet.zip</path>
 		<name>Green Beret</name>
 		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
@@ -1736,22 +1518,6 @@ The simplicity of the original Gauntlet series is still here: You have to find y
 		<lastplayed>20240822T201541</lastplayed>
 	</game>
 	<game>
-		<path>./ganryu.zip</path>
-		<name>Ganryu</name>
-		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
-
-You must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.</desc>
-		<rating>0.5</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>SNK</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240822T202736</lastplayed>
-	</game>
-	<game>
 		<path>./gauntdl.zip</path>
 		<name>Gauntlet Dark Legacy</name>
 		<desc>Step into the world of of Gauntlet Dark Legacy and prepare for an adventure. Built on the strength of "Gauntlet Legends", Dark Legacy takes the action to a new dimension with new characters, new realms, new combos and improved graphics. Four new characters join forces with the original four Legends characters to explore and battle their way through eight realms of gameplay. The Mountain, Desert, Forest and Castle Realms have been updated to match the depth and complexity of the four new realms... Ice, Town, Sky and Dream. There is also a bonus Battlefield Realm. Multi-player gameplay has been enhanced by allowing two players to work together to activate special moves with new combos. In addition, Dark Legacy is full of secret codes and passwords that give special access to alternate characters and many other surprises (see 'Tips And Tricks' section for more information).</desc>
@@ -2099,20 +1865,6 @@ During a bout, players will be able to release coloured gems from successful att
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20240823T193657</lastplayed>
-	</game>
-	<game>
-		<path>./pang.zip</path>
-		<name>Pang</name>
-		<desc>One or two players control safari-suited characters armed with harpoon guns, who must destroy the numerous different-sized balloons that litter each stage. When hit by a harpoon, the balloons break down into smaller fragments.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Mitchell</developer>
-		<publisher>Mitchell</publisher>
-		<genre>Coop • Action / Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240824T092255</lastplayed>
 	</game>
 	<game>
 		<path>./garou.zip</path>
@@ -2789,38 +2541,6 @@ For the PSX version, the first Magical Drop was included on a separate disc.</de
 		<lastplayed>20240912T215937</lastplayed>
 	</game>
 	<game>
-		<path>./gngt.zip</path>
-		<name>Ghosts'n Goblins</name>
-		<desc>Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.
-
-The player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240916T205814</lastplayed>
-	</game>
-	<game>
-		<path>./bublbobl.zip</path>
-		<name>Bubble Bobble</name>
-		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
-
-Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points. </desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<playcount>6</playcount>
-		<lastplayed>20240916T210213</lastplayed>
-	</game>
-	<game>
 		<path>./blazstar.zip</path>
 		<name>Blazing Star</name>
 		<desc>The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).</desc>
@@ -3354,32 +3074,6 @@ R?Type's levels are designed to make full use of its unique weapons system, maki
 		<lastplayed>20250815T122533</lastplayed>
 	</game>
 	<game>
-		<path>./snowbros.zip</path>
-		<name>Snow Bros. - Nick &amp; Tom</name>
-		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
-
-The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
-
-If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
-
-When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
-Yellow = Long shot
-Red = Speed up
-Blue = Bigger snowballs (encases monsters quicker)
-Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
-
-Every 10th level features a battle with a large end-of-level boss.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Toaplan</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20250815T194332</lastplayed>
-	</game>
-	<game>
 		<path>./xmen.zip</path>
 		<name>X-Men</name>
 		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
@@ -3592,24 +3286,6 @@ As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks 
 		<playcount>3</playcount>
 		<playtime>178</playtime>
 		<lastplayed>20260327T081028</lastplayed>
-	</game>
-	<game>
-		<path>./bublbob2.zip</path>
-		<name>Bubble Bobble II</name>
-		<desc>Bubble Bobble II, also known as Bubble Symphony, is the first direct sequel to Taito's 1986 platform classic, "Bubble Bobble" ('Rainbow Islands' was the first official sequel, but played very differently) in which one or two players take on the role of the infamous bubble-blowing dinosaurs who must once again fight their way through a large number of single-screen platform-based levels, trapping monsters with their bubbles before bursting them to destroy the trapped enemies. 
-
-While the game plays identically to its predecessor, several new changes and additions have been made to breathe new life into the classic gameplay. As well as new bonuses, weapons, enemies and characters, players can now create 'Multiple Bubbles'; if the player holds the button down for a few seconds before releasing, up to three bubbles are produced at once. </desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>76</playtime>
-		<lastplayed>20260327T105346</lastplayed>
 	</game>
 	<game>
 		<path>./policetr10.zip</path>
@@ -4540,22 +4216,6 @@ One small problem. We still need a pilot. Any volunteers?</desc>
 		<lastplayed>20260605T161654</lastplayed>
 	</game>
 	<game>
-		<path>./qbert.zip</path>
-		<name>Q*bert</name>
-		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>D. Gottlieb &amp; Co.</developer>
-		<publisher>D. Gottlieb &amp; Co.</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<playtime>179</playtime>
-		<lastplayed>20260605T161719</lastplayed>
-	</game>
-	<game>
 		<path>./rallyx.zip</path>
 		<name>Rally X</name>
 		<desc>In Rally-X, the player drives a car around a maze picking up all of the yellow flags, of which there are ten, before the car's fuel runs out. The game-play has a similar feel to another Namco legend, "Pac-Man"; although in Rally-X, the mazes are much larger and, with each maze having only ten flags to collect, is more sparsely populated than Namco's pill-eating legend.
@@ -5057,5 +4717,365 @@ The object of Joust 2 is to defeat all winged enemies by colliding with them. To
 		<playcount>5</playcount>
 		<playtime>247</playtime>
 		<lastplayed>20260606T123308</lastplayed>
+	</game>
+	<game>
+		<path>./arabian.zip</path>
+		<name>Arabian</name>
+		<desc>You'll have 1001 hours of fun with the ARABIAN upright game! You are the adventurous Arabian prince, and your goal is to rescue the princess from her palace. Use the joystick control and the KICK button to move through perilous passages. Sail the seas, crawl in caves, and fly magic carpets - you'll be challenged by 4 increasingly hard waves of play! Score points on the way for picking up the letters in A-R-A-B-I-A-N, and get a bonus if you pick them up in order!
+
+Arabian is a 'video book' with a happy ending! The attract mode introduces the story, and animated storybook 'pages' let you experience the Arabian Prince's adventures. Use the 8-position joystick to jump, super-jump, walk, crawl, or climb in all directions. Tap either KICK button (are you right- or left-handed?) to kick your enemies out of the way.
+
+The player controls a young Arabian Prince who must rescue his Princess from the castle tower where she is being held prisoner. Evil Genies in brass jugs, swooping Rocs, and purple ghostly creatures called Oscars will try to stop him along the way. The Prince scores points for kicking Oscars or Rocs, picking up lettered jugs, or spelling A-R-A-B-I-A-N. The Prince loses a life when he's hit by a smokeball, falls off a ledge, flying carpet or vine, or gets caught (touched) by a Genie, Oscar, or Roc.
+
+The Prince must successfully complete 4 levels to rescue the Princess (4 levels or 'pages' equals 1 section). Each level is introduced with the turning of a page, which shows a distant view of the upcoming playfield. Each playfield has 7 lettered jugs that must be picked up before the player can advance to the next level, but he must avoid or KICK evil Genies, Oscars, and Rocs that will try to stop him.
+
+</desc>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>117</playtime>
+		<lastplayed>20260606T134520</lastplayed>
+	</game>
+	<game>
+		<path>./drgnbstr.zip</path>
+		<name>Dragon Buster</name>
+		<desc>Originating in the arcades, Dragon Buster is an action platform game composed out of several large levels, each one containing various stages: a cave, a tower, a castle, etc. The player's goal in every level is to reach the final stage where the protagonist faces the level boss. There are often several ways to reach the final stages, and not all stages are necessary to visit. Equipped with a sword, the player character moves through platform stages, clearing them of diverse monsters, collecting power-ups and trying to stay in good health until the level boss, since it is impossible to heal between the stages. The hero's life meter (called "vitality" in the game) is the first introduction of such a feature to action games.</desc>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>211</playtime>
+		<lastplayed>20260606T134859</lastplayed>
+	</game>
+	<game>
+		<path>./gngt.zip</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.
+
+The player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>171</playtime>
+		<lastplayed>20260606T135210</lastplayed>
+	</game>
+	<game>
+		<path>./wiz.zip</path>
+		<name>Wiz</name>
+		<desc>As an awesome and fearless wizard named Wiz you must embark on an epic journey through a strange and enchanted wood to battle the evil wizards and then travel up into the skies to continue the fight against evil, using your powerful magic to cast spells on the baddies! Master the dark arts to conjure up amazing spells that will defeat all manner of creatures and rival wizards with ease!</desc>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Seibu Kaihatsu</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<playtime>77</playtime>
+		<lastplayed>20260606T135334</lastplayed>
+	</game>
+	<game>
+		<path>./bublbobl.zip</path>
+		<name>Bubble Bobble</name>
+		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
+
+Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points. </desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>7</playcount>
+		<playtime>43</playtime>
+		<lastplayed>20260606T135428</lastplayed>
+	</game>
+	<game>
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Co.</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>179</playtime>
+		<lastplayed>20260605T161719</lastplayed>
+	</game>
+	<game>
+		<path>./rygar.zip</path>
+		<name>Rygar</name>
+		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>105</playtime>
+		<lastplayed>20260606T140058</lastplayed>
+	</game>
+	<game>
+		<path>./rastan.zip</path>
+		<name>Rastan</name>
+		<desc>Rastan saga known in North America simply as Rastan, is a 1987 hack and slash platform arcade game developed and published by Taito.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>109</playtime>
+		<lastplayed>20260606T140308</lastplayed>
+	</game>
+	<game>
+		<path>./ghouls.zip</path>
+		<name>Ghouls'n Ghosts</name>
+		<desc>Three years have passed since the events of "Ghosts'n Goblins" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.</desc>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>144</playtime>
+		<lastplayed>20260606T140545</lastplayed>
+	</game>
+	<game>
+		<path>./cadash.zip</path>
+		<name>Cadash</name>
+		<desc>Four great heroes: a fighter, a wizard, a cleric and a ninja go on a quest to rescue the captured princess. This Taito adventure game feature all the ingredients of a traditional role-playing game (stats, exp, buy upgrade in store...).</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Platform / RPG</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>199</playtime>
+		<lastplayed>20260606T140941</lastplayed>
+	</game>
+	<game>
+		<path>./pang.zip</path>
+		<name>Pang</name>
+		<desc>One or two players control safari-suited characters armed with harpoon guns, who must destroy the numerous different-sized balloons that litter each stage. When hit by a harpoon, the balloons break down into smaller fragments.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Mitchell</developer>
+		<publisher>Mitchell</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>48</playtime>
+		<lastplayed>20260606T141221</lastplayed>
+	</game>
+	<game>
+		<path>./strider.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race. </desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>130</playtime>
+		<lastplayed>20260606T141636</lastplayed>
+	</game>
+	<game>
+		<path>./bnzabros.zip</path>
+		<name>Bonanza Bros.</name>
+		<desc>Bonanza Bros. is a strategic platform shoot-em-up with one or two players taking on the roles of Robo and Mobo, two cat-burgling brothers who must negotiate scrolling platform-based levels and steal a set number of valuable items, before making their way to the roof to escape in a waiting airship. The location of the items is highlighted on a cut-away map displayed in the middle of the screen and each stage must be completed within a set time limit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>87</playtime>
+		<lastplayed>20260606T141825</lastplayed>
+	</game>
+	<game>
+		<path>./msword.zip</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.
+
+Magic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the "Black Orb" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Platform / RPG</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>63</playtime>
+		<lastplayed>20260606T142001</lastplayed>
+	</game>
+	<game>
+		<path>./maglord.zip</path>
+		<name>Magician Lord</name>
+		<desc>Magician Lord puts you in charge of Elta, a wizard who has the task of collecting eight books of wisdom from the clutches of Az Atorse, the god of destruction. By collecting the right power-ups along the way, you can transform into different characters, including the Rajin, Samurai, Waterman, Shinobi, Poseidon, and Dragon Warrior. Each character has different abilities. There are eight areas in the game, and each stage ends with you trying to defeat both a guardian and the end-of-area boss (which are basically Atorse's incarnations). One of the first games that demonstrated the graphical abilities of the Neo-Geo.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>140</playtime>
+		<lastplayed>20260606T142314</lastplayed>
+	</game>
+	<game>
+		<path>./snowbros.zip</path>
+		<name>Snow Bros. - Nick &amp; Tom</name>
+		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
+
+The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
+
+If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
+
+When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
+Yellow = Long shot
+Red = Speed up
+Blue = Bigger snowballs (encases monsters quicker)
+Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
+
+Every 10th level features a battle with a large end-of-level boss.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>55</playtime>
+		<lastplayed>20260606T142628</lastplayed>
+	</game>
+	<game>
+		<path>./tumblep.zip</path>
+		<name>Tumble Pop</name>
+		<desc>Tumble Pop is a platform game for one or two players in which the aim is to clear each level of enemies by sucking them into - then ejecting them from - a portable vacuum-cleaner. 
+
+Holding down the fire button sucks the enemies into the cleaner, releasing the button causes them to be expelled back out. Ejected enemies act as projectiles that can damage and kill any other on-screen enemies that they collide with. All enemies must be killed before players can progress to the next stage. 
+
+Throughout the game, letters of the alphabet randomly appear in bubbles. These can be collected to eventually spell the word "TUMBLEPOP". Once this has been achieved players are transported to a time-limited bonus level, giving them the opportunity to earn bonus points and extra lives. 
+
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>83</playtime>
+		<lastplayed>20260606T142808</lastplayed>
+	</game>
+	<game>
+		<path>./bublbob2.zip</path>
+		<name>Bubble Bobble II</name>
+		<desc>Bubble Bobble II, also known as Bubble Symphony, is the first direct sequel to Taito's 1986 platform classic, "Bubble Bobble" ('Rainbow Islands' was the first official sequel, but played very differently) in which one or two players take on the role of the infamous bubble-blowing dinosaurs who must once again fight their way through a large number of single-screen platform-based levels, trapping monsters with their bubbles before bursting them to destroy the trapped enemies. 
+
+While the game plays identically to its predecessor, several new changes and additions have been made to breathe new life into the classic gameplay. As well as new bonuses, weapons, enemies and characters, players can now create 'Multiple Bubbles'; if the player holds the button down for a few seconds before releasing, up to three bubbles are produced at once. </desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>151</playtime>
+		<lastplayed>20260606T142931</lastplayed>
+	</game>
+	<game>
+		<path>./snowbro2.zip</path>
+		<name>Snow Bros. 2 : With New Elves</name>
+		<desc>Snow Bros 2: With New Elves (known as Otenki Paradise in Japan) is a platformer developed by Toaplan and published by Hanafram in April 1994. The game consists of 6 worlds. The player must clear the screen of enemies to advance to the next stage. The game supports 4 players, but requires a 4 player harness for the additional players.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Hanafram</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>139</playtime>
+		<lastplayed>20260606T143159</lastplayed>
+	</game>
+	<game>
+		<path>./ganryu.zip</path>
+		<name>Ganryu</name>
+		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
+
+You must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.</desc>
+		<rating>0.5</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>146</playtime>
+		<lastplayed>20260606T143441</lastplayed>
+	</game>
+	<game>
+		<path>./nitd.zip</path>
+		<name>Nightmare in the Dark</name>
+		<desc>This was an ancient story when people still believed in witchcraft.
+
+There lived one gravedigger at a very small village in a remote region. He lived a quiet, solitary life in a corner of the cemetery. He kept away from the village people due to his very ugly appearance. One day, he found the graves were ransacked and some corpses were stolen. He didn't want the village people to find out, so he decided to eliminate the grave burglars by himself. Thus, he patrolled the cemetery every night.
+
+There are five stages with five levels each, and each one of them has you throwing fireballs at ghouls, ghosts, goblins, and zombies. When you keep throwing fireballs at these enemies, they will ignite into a giant fireball, which you can throw at other enemies to kill them, and get the remaining treasure before moving on to the next level. At the end of the fifth level, a boss must be defeated in order to continue the game.</desc>
+		<rating>0.6</rating>
+		<releasedate>20010127T000000</releasedate>
+		<developer>AM Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>173</playtime>
+		<lastplayed>20260606T143811</lastplayed>
 	</game>
 </gameList>
