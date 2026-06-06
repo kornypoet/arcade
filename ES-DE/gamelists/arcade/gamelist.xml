@@ -3953,500 +3953,6 @@ In order to complete each stage, the player must shoot as many enemy soldiers an
 		<lastplayed>20260603T103824</lastplayed>
 	</game>
 	<game>
-		<path>./timeplt.zip</path>
-		<name>Time Pilot</name>
-		<desc>Time Pilot is a multi-directionally scrolling shoot-em-up in which the player controls a futuristic jet fighter and takes on the role of pilot trying to rescue fellow pilots who are trapped in different time eras. The game consists of five different stages of play, each of which is set in a different time period.
-
-</desc>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Shooter / Multidirectional</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240916T201012</lastplayed>
-	</game>
-	<game>
-		<path>./xevious.zip</path>
-		<name>Xevious</name>
-		<desc>It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
-
-Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
-
-Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
-
-The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
-
-One small problem. We still need a pilot. Any volunteers?</desc>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Shooter / Vertical</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20250620T224730</lastplayed>
-	</game>
-	<game>
-		<path>./zaxxon.zip</path>
-		<name>Zaxxon</name>
-		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot. </desc>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Altr • Shooter / Isometric</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<playcount>4</playcount>
-		<lastplayed>20240730T174145</lastplayed>
-	</game>
-	<game>
-		<path>./ccastles.zip</path>
-		<name>Crystal Castles</name>
-		<desc>Bentley Bear is trapped in the crystal castles! To get out, he must collect all the gems located in each castle. The game is played in a false 3D isometric view through multi-platform castles. When Bentley collects all the gems in the level, he moves on to the next, more difficult castle. Bentley will have to avoid a wide variety of dangerous creatures that roam the levels. Occasionally a magic hat will appear. If Bentley collects the hat, he will be temporarily invincible.</desc>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20251018T194546</lastplayed>
-	</game>
-	<game>
-		<path>./dkong3.zip</path>
-		<name>Donkey Kong 3</name>
-		<desc>Stanley is a bugman. Donkey Kong has taken refuge in his greenhouse and it is now up to Stanley to stop the ape from stirring up any more insects that will soon destroy his flowers. Stanley saves the flowers by spraying bug spray on Donkey Kong.</desc>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240908T182914</lastplayed>
-	</game>
-	<game>
-		<path>./elevator.zip</path>
-		<name>Elevator Action</name>
-		<desc>Agent 17 (code name 'Otto') is to secure the top secret documents from the security building. The enemy spies are in pursuit and their orders are to stop him at any cost. Having made it to the top of a 30 story building, Agent 17 has to make his way down to the basement to get to the getaway car and save the documents. Enemy spies are everywhere and the documents are hidden behind the red doors (bonus points awarded). He has to open the door and keep moving. If either of them shoots the lights out there will be a temporary blackout. If Otto finds himself on top of the elevator the player will not be able to control the elevator. If he gets caught in the elevator he is a sitting duck and cannot duck the bullets. By using the escalator he can reach the basement quicker. Otto can defeat his enemy by jump kicking or firing at them. Help Otto to grab all the documents and escape the spies.</desc>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20251018T194830</lastplayed>
-	</game>
-	<game>
-		<path>./gyruss.zip</path>
-		<name>Gyruss</name>
-		<desc>Gyruss is a single-player shoot-em-up in which the purpose is to fly through the solar system, destroying waves of alien attackers, before finally reaching Earth. Planets that must be passed before Earth is reached are Neptune, Uranus, Saturn, Jupiter, and Mars. 
-
-It only takes two warps to reach Neptune, but all of the others, including Earth, take three warps to get to. Each time the player reaches a planet, they will be faced with a 'Chance Stage', a bonus stage in which players try to destroy as many aliens as possible to accrue points. After reaching Earth, there is a Chance Stage, followed by a very fast '3 Warps to Neptune' stage. After this, the levels and the background music start over. 
-
-Gyruss' superb gameplay, in which the player ship rotates around the edges of the screen and fires 'inwards', is heavily influenced by Atari's 1981 classic, "Tempest". While the design of the alien ships themselves is similar to those of Namco's also-legendary "Galaga" series.</desc>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Shooter / Tube</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240730T173047</lastplayed>
-	</game>
-	<game>
-		<path>./junofrst.zip</path>
-		<name>Juno First</name>
-		<desc>Juno First a vertically-scrolling shoot-em-up viewed from a third-person perspective in which players must destroy waves of attacking aliens. Unlike other shooters of the time, the game's enemies don't line up in a gallery formation but instead move freely around the screen. Because of this, the player's ship can move both forwards and backwards (in addition to left and right).
-
-As well as the attacking aliens a spherical 'space capsule' occasionally appears on-screen and if shot, it releases an enemy astronaut that can then be captured. This must be done within a set time, however, with the screen having  a red tint for the period in which rescue is possible. During the capture phase, every enemy the player shoots is worth an additional 200 points. 
-
-As a last resort players also have the option to 'warp' to another random part of the play area. This is highly risky as it may place the player's ship in a position more dangerous than the one it left. Players are allowed three warps per level.
-
-Starting formations vary from stage to stage and the aliens mutate into more dangerous forms the longer they survive. To complete a level all aliens must be destroyed.</desc>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240730T171105</lastplayed>
-	</game>
-	<game>
-		<path>./mappy.zip</path>
-		<name>Mappy</name>
-		<desc>You control Mappy a police-mouse whose job is to collect valuables (consumer electronics)from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines.
-Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasures from the Boss cat Goro or dropping cats through a hole in the floor.</desc>
-		<rating>0.4</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240730T171612</lastplayed>
-	</game>
-	<game>
-		<path>./mario.zip</path>
-		<name>Mario Bros.</name>
-		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
-
-Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
-
-As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20250228T154405</lastplayed>
-	</game>
-	<game>
-		<path>./docastle.zip</path>
-		<name>Mr. Do's Castle</name>
-		<desc>The player controls a clown, named “Mr. Do!”. Mr. Do is in his garden, and wants to collect the cherries there. Monsters roam there, and will not let Mr. Do quietly collect. If a monster touches Mr. Do, it dies, and the player loses a life. At each level a path is dug through the garden, going from the bottom to the top of the screen, passing through the center. Monsters can only take paths that have already been dug. Mr. Do is able to dig new paths, at the cost of slower movement speed.</desc>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Universal </developer>
-		<publisher>Universal </publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240730T173009</lastplayed>
-	</game>
-	<game>
-		<path>./pacnpal.zip</path>
-		<name>Pac &amp; Pal</name>
-		<desc>Pac-Man has a new friend named Miru, but she tries to steal stuff and take it to the ghost pen. Pac-Man now not only has to collect the stuff lying around the board, but he must also watch Miru to make sure she doesn't take the stuff for her own use.</desc>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240730T175306</lastplayed>
-	</game>
-	<game>
-		<path>./tapper.zip</path>
-		<name>Tapper</name>
-		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:
-Cowboys
-Athletes
-Punk Rockers
-Aliens</desc>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Altr • Action</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20251206T002409</lastplayed>
-	</game>
-	<game>
-		<path>./trackfld.zip</path>
-		<name>Track &amp; Field</name>
-		<desc>Track &amp; Field © 1983 Konami.
-
-Track &amp; Field is an athletics-themed action game for up to four players, who compete against each other in six track and field-based disciplines. 
-
-The game controls consist of two run buttons (one for each 'leg' of the athlete) and one 'Action' button. Players must hit the two run buttons alternately to build up speed and use action button to jump or throw.
-
-In each event, there is a qualifying time or minimum score threshold that the player must achieve to advance to the next event. failing to qualify (in one heat for track events or in three attempts in the other events) will reduce the players' number of lives by one, the game is over once all lives are lost.
-
-Track &amp; Field can accommodate up to four players, who compete in pairs in the running events and individually in the others. If there are fewer than four players, the remaining slots are played by the computer (or player "CPU"). In all multiplayer heats, however, the relative performance of the players has no effect on the game and advancing is based solely on reaching qualifying times and targets.
-
-The six events are:
-
-100M DASH - Run as fast as possible.
-LONG JUMP - Run to the take-off board then choose angle of jump (42 is the optimum angle).
-JAVELIN - Run to the line then choose angle of throw (43 is the optimum angle).
-110M HURDLES - Run and time jumps over the hurdles.
-HAMMER THROW - As the athlete spins faster and faster, time release of hammer and angle of throw (45 is the optimum angle).
-HIGH JUMP - The athlete will run to the bar; just as he reaches it, use Action button to start the jump and hold down the action button to reduce the angle of climb, i.e. you start going straight up at 90 degrees if you tap the button just once. Use run buttons while in the air to gain extra height.</desc>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Comp • Sports / Olympics</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>10</playcount>
-		<lastplayed>20241208T210043</lastplayed>
-	</game>
-	<game>
-		<path>./upndown.zip</path>
-		<name>Up'n Down</name>
-		<desc>Up'n Down is an abstract racing game viewed in a forced third-person perspective. 
-
-The goal of the game is to collect coloured flags, while avoiding the enemy vehicles and obstacles that litter each course. The flags needed are displayed at the top of the screen and are coloured as follows: Light green, blue, red, olive, dark green, magenta, yellow and black. If the flags are collected quickly enough, bonus points are awarded. Collected flags remain visible on the track but are changed to white in colour.</desc>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Altr • Racing / Labyrinth</genre>
-		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20240908T184113</lastplayed>
-	</game>
-	<game>
-		<path>./bankp.zip</path>
-		<name>Bank Panic</name>
-		<desc>Bank Panic is a reaction-based shoot-em-up in which the player takes on the role of a gun-slinging Deputy, who has been charged with protecting the town bank from outlaws. </desc>
-		<rating>0.8</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Sanritsu Denki</developer>
-		<publisher>SEGA</publisher>
-		<genre>Altr • Action</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20240908T184727</lastplayed>
-	</game>
-	<game>
-		<path>./bombjack.zip</path>
-		<name>Bomb Jack</name>
-		<desc>Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. 
-
-Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. 
-
-A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in "Pac-Man"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. 
-
-Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. 
-
-The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal "Pac-Man".</desc>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Tehkan</developer>
-		<publisher>Tehkan</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240802T183101</lastplayed>
-	</game>
-	<game>
-		<path>./gaplus.zip</path>
-		<name>Gaplus</name>
-		<desc>Gaplus is the third game in Namco's classic "Galaxian" series, Gaplus picks up where 1981's "Galaga" left off. While maintaining the same classic 'look' of its predecessor, Gaplus's graphics are a definite improvement over those of "Galaga"; the game's increased color palette and subtle use of shading making the attacking aliens look rather more solid.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240731T163203</lastplayed>
-	</game>
-	<game>
-		<path>./kamikcab.zip</path>
-		<name>Kamikaze Cabbie</name>
-		<desc>The game has the player collecting a fare at a taxi stop and taking that passenger to the desired location. The amount of money the fare grants is indicated as score points. Along the way, the player is free to crash into other vehicles for extra points. Dropping a passenger off successfully will complete the stage and proceed to a newer and harder one. If the player completes the stage fast enough, tips are awarded for additional points. The player gets a bonus for the first 20,000 points and every 30,000 points after that. The fuel gauge acts as a health meter which depletes over time and even more when the taxi cab collides. Fuel can be recharged at a gas station. The game is over if the player runs out of fuel.</desc>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Altr • Racing / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240816T155821</lastplayed>
-	</game>
-	<game>
-		<path>./kungfum.zip</path>
-		<name>Kung-fu Master</name>
-		<desc>Regarded as the first beat 'em up brawler, Kung-Fu Master, known as Spartan X in Japan, is a side-scrolling game developed by Irem for arcades in 1984.
-Designed by Takashi Nishiyama, the game is loosely based on Jackie Chan and Bruce Lee martial arts films.
-The player controls Thomas, the titular Kung-Fu Master, as he fights his way through the five levels of the Devil's Temple to rescue his girlfriend Sylvia from the crime boss Mr. X.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Data East</publisher>
-		<genre>Altr • Beat'em Up</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20251018T195237</lastplayed>
-	</game>
-	<game>
-		<path>./ldrun.zip</path>
-		<name>Lode Runner</name>
-		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
-
-The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240731T165515</lastplayed>
-	</game>
-	<game>
-		<path>./marble.zip</path>
-		<name>Marble Madness</name>
-		<desc>Marble Madness is an abstract maze game for one or two players. The game's goal is to guide a small glass marble over a three-dimensional maze and reach the finish line before the level's timer has expired. Any seconds that remain on the timer when the finish line is crossed are carried over to the next level. 
-
-As well as having to negotiate the marble over treacherous walkways and ramps, numerous obstacles and unfriendly creatures will try to slow the marble's progress or knock it over the edge of a platform, wasting yet more precious seconds until a replacement marble appears. The two-player game has players competing to reach the goal first. 
-
-Marble Madness features six different mazes.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Comp • Racing / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20250606T233438</lastplayed>
-	</game>
-	<game>
-		<path>./dowild.zip</path>
-		<name>Mr. Do's Wild Ride</name>
-		<desc>Mr Do's third arcade outing is another platform game, following on from the superb "Mr. Do's Castle", released a year earlier. The synonymous Mr. Do! cherries are present and correct, but are not used in the same way as in other games in the series. In both "Mr Do!" and "Mr. Do's Castle", collecting all of the cherries available was a way of completing a level. In Wild Ride, however, collecting them merely changes the 'prize' awarded upon reaching the level's goal. This can be one or two letters from EXTRA, or other items which simply award bonus points. When Mr. Do reaches his goal, he waves a flag while the bonus counter is added to his score.
-
-The gameplay is similar to that of Nintendo's legendary "Donkey Kong", with Mr. Do starting each level at the bottom of the screen, trying to make his way to the exit at the very top. Mr. Do doesn't have either his Powerball or mallet in this game, but holding the ACTION button makes him run faster along the track. The trade-off of this is that his bonus points deplete much quicker. When all of the EXTRA letters are collected, the player is awarded with an extra life.
-
-Each of the game's six levels is set on a roller coaster, with each having its own theme, traps and pitfalls. Wild Ride doesn't feature the intermission screens that appear in previous Mr.Do games.
-
-The levels are:
-Level 1, Roller Coaster. 
-Level 2, Pirate Ship. 
-Level 3, Three Elevators. 
-Level 4, Castle on Screen. 
-Level 5, Multiple Columns. 
-Level 6, Six Rings.
-
-After level six the levels are repeated.</desc>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Universal </developer>
-		<publisher>Universal </publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240731T171339</lastplayed>
-	</game>
-	<game>
-		<path>./sbagman.zip</path>
-		<name>Super Bagman</name>
-		<desc>Prepare yourself to explore the underground tunnels and caverns to uncover and steal the massive bags of cash just laying around in the amazingly fun Super Bagman! Jump down into the tunnels and gather the bags of cash and bring them to the surface to fill your wheelbarrow, before moving on to grab more loot from the tunnels! Avoid the evil baddies who will defeat you on touch, but climb the ladders up and down to grab the booty!</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Valadon Automation</developer>
-		<publisher>Valadon Automation</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240802T175820</lastplayed>
-	</game>
-	<game>
-		<path>./timber.zip</path>
-		<name>Timber</name>
-		<desc>Timber is an abstract action game in which one or two players assume the role of a lumberjack and have a limited amount of time to chop down a given number of trees that pop up from the ground. The game is controlled with two joysticks, with one stick controlling the player's movement and the other corresponding to left or right chops with the player's axe. Difficulty increases with each level, with the number of trees needed to be chopped down gradually increasing (maxing out at 19) and the allotted time decreasing. 
-
-During a round players must avoid beehives that are thrown at them by grizzly bears. The beehives, however, can be destroyed with the player's axe for a 500-point reward. Some trees contain birds that will run around the level after they have been chopped down, awarding 1,000 points if touched by the player.
-
-Every couple of levels players are given the opportunity to amass bonus points. The bonus round begins with the lumberjack standing on a floating log. As the log begins to rotate, players must use their reflexes to stay on top of the log. The first two times this is played, the log is relatively large; on future attempts, the size of the log shrinks considerably. The bonus round ends if the player falls off the log or balances atop it for the duration of the round, in which case 1,000 bonus points are earned.
-
-The two-player simultaneous mode can be played either competitively or cooperatively. In this mode, chopping or pushing down a tree such that it falls on the opponent awards you with 1,000 points.</desc>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Coop • Action</genre>
-		<players>1-2</players>
-		<playcount>5</playcount>
-		<lastplayed>20240807T113738</lastplayed>
-	</game>
-	<game>
-		<path>./digdug2.zip</path>
-		<name>Dig Dug II</name>
-		<desc>For this sequel to the 1982 classic, "Dig Dug", Namco changed the game's perspective from a cutaway side-on viewpoint to an overhead one. The action now takes place on a series of small islands, the gameplay itself retains much from its predecessor, with Dig Dug still being chased by the 'Pookas' (round, goggle-wearing red enemies) and the 'Fygers' (green, fire-breathing dragons).
-
-As with the first game, Dig Dug is still armed with a pump that allows him to inflate and burst the enemies. For the sequel, however, he is also armed with a jackhammer. This can be used at the round ground-pegs scattered around each island to create and connect up fault lines in the ground. If both ends of a system of faults reaches the water, the ground surrounded by them will sink into the ocean killing all creatures on it, including Dig Dug himself if he is standing on the destroyed section of land.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<playcount>1</playcount>
-		<lastplayed>20240802T174929</lastplayed>
-	</game>
-	<game>
-		<path>./arkanoid.zip</path>
-		<name>Arkanoid</name>
-		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
-The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
-By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Action / Block Breaker</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>15</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20251128T114937</lastplayed>
-	</game>
-	<game>
-		<path>./joust2.zip</path>
-		<name>Joust 2: Survival of the Fittest</name>
-		<desc>Joust 2 - Survival of the Fittest © 1986 Williams Electronics, Incorporated.
-
-On the planet of the floating cliffs, society calls upon its wing-mounted Gladiators to solve conflicts. You, the Gladiator, must enter the fray, participating in a challenge of honor, a Joust... where only the fittest survive! 
-
-The legend of "Joust" continues in Joust 2. Players must solve the puzzle of what strategy will be most effective in dealing with the buzzards and other winged enemies on each of Joust 2's 35 different backgrounds. 
-
-The object of Joust 2 is to defeat all winged enemies by colliding with them. To survive a collision (joust), the Gladiator's lance must be higher. 
-
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Coop • Action / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240802T181753</lastplayed>
-	</game>
-	<game>
 		<path>./invaders.zip</path>
 		<name>Space Invaders</name>
 		<desc>The most influential video game of all time. A single player moves an armed 'base' to the left or right along the bottom of the screen and fires at the endless waves of aliens that tirelessly parade across the screen towards earth.
@@ -4565,24 +4071,6 @@ If all humanoids are successfully abducted, the planet will explode in a blindin
 		<playcount>13</playcount>
 		<playtime>109</playtime>
 		<lastplayed>20260604T164205</lastplayed>
-	</game>
-	<game>
-		<path>./rallyx.zip</path>
-		<name>Rally X</name>
-		<desc>In Rally-X, the player drives a car around a maze picking up all of the yellow flags, of which there are ten, before the car's fuel runs out. The game-play has a similar feel to another Namco legend, "Pac-Man"; although in Rally-X, the mazes are much larger and, with each maze having only ten flags to collect, is more sparsely populated than Namco's pill-eating legend.
-
-In-game opponents consist of red enemy cars that try to ram into and destroy the player's car, a problem compounded by the fact that enemy cars are faster than the player's. A smoke screen can be activated which trails behind the player's car and causes any pursuing enemies to crash. Each maze also has rock formations which, if crashed into, will result in the loss of a player car. A radar display to the right hand side of the playing area shows the positions of both the flags, and the enemy vehicles.</desc>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Racing / Labyrinth</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<playtime>273</playtime>
-		<lastplayed>20260604T164710</lastplayed>
 	</game>
 	<game>
 		<path>./phoenix.zip</path>
@@ -4969,22 +4457,6 @@ Ms Pac-Man features four different maze layouts, which alternate every two to fo
 		<lastplayed>20260604T173141</lastplayed>
 	</game>
 	<game>
-		<path>./qbert.zip</path>
-		<name>Q*bert</name>
-		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>D. Gottlieb &amp; Co.</developer>
-		<publisher>D. Gottlieb &amp; Co.</publisher>
-		<genre>Altr • Action / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<playtime>176</playtime>
-		<lastplayed>20260604T173447</lastplayed>
-	</game>
-	<game>
 		<path>./rescue.zip</path>
 		<name>Rescue</name>
 		<desc>The player pilots a rescue helicopter and must try to rescue numerous airmen who have parachuted into the sea below. The rescue chopper is under constant attack from enemy helicopters, while sharks swim in the ocean below and will kill any floating airmen they come across. Later levels also have enemy subs and ships all intent on foiling the rescue mission. Players must be careful to avoid the falling wreckage of any enemy helicopters they have just destroyed, and also need to be wary of hitting any parachuting airmen with their 'copter blades, as this will kill the airmen instantly.
@@ -5026,5 +4498,564 @@ MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth.
 		<playcount>7</playcount>
 		<playtime>221</playtime>
 		<lastplayed>20260604T174107</lastplayed>
+	</game>
+	<game>
+		<path>./timeplt.zip</path>
+		<name>Time Pilot</name>
+		<desc>Time Pilot is a multi-directionally scrolling shoot-em-up in which the player controls a futuristic jet fighter and takes on the role of pilot trying to rescue fellow pilots who are trapped in different time eras. The game consists of five different stages of play, each of which is set in a different time period.
+
+</desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Shooter / Multidirectional</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>114</playtime>
+		<lastplayed>20260605T161317</lastplayed>
+	</game>
+	<game>
+		<path>./xevious.zip</path>
+		<name>Xevious</name>
+		<desc>It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
+
+Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
+
+Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
+
+The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
+
+One small problem. We still need a pilot. Any volunteers?</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>207</playtime>
+		<lastplayed>20260605T161654</lastplayed>
+	</game>
+	<game>
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Co.</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>179</playtime>
+		<lastplayed>20260605T161719</lastplayed>
+	</game>
+	<game>
+		<path>./rallyx.zip</path>
+		<name>Rally X</name>
+		<desc>In Rally-X, the player drives a car around a maze picking up all of the yellow flags, of which there are ten, before the car's fuel runs out. The game-play has a similar feel to another Namco legend, "Pac-Man"; although in Rally-X, the mazes are much larger and, with each maze having only ten flags to collect, is more sparsely populated than Namco's pill-eating legend.
+
+In-game opponents consist of red enemy cars that try to ram into and destroy the player's car, a problem compounded by the fact that enemy cars are faster than the player's. A smoke screen can be activated which trails behind the player's car and causes any pursuing enemies to crash. Each maze also has rock formations which, if crashed into, will result in the loss of a player car. A radar display to the right hand side of the playing area shows the positions of both the flags, and the enemy vehicles.</desc>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Racing / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>277</playtime>
+		<lastplayed>20260605T161733</lastplayed>
+	</game>
+	<game>
+		<path>./zaxxon.zip</path>
+		<name>Zaxxon</name>
+		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot. </desc>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Altr • Shooter / Isometric</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>6</playcount>
+		<playtime>69</playtime>
+		<lastplayed>20260605T161854</lastplayed>
+	</game>
+	<game>
+		<path>./ccastles.zip</path>
+		<name>Crystal Castles</name>
+		<desc>Bentley Bear is trapped in the crystal castles! To get out, he must collect all the gems located in each castle. The game is played in a false 3D isometric view through multi-platform castles. When Bentley collects all the gems in the level, he moves on to the next, more difficult castle. Bentley will have to avoid a wide variety of dangerous creatures that roam the levels. Occasionally a magic hat will appear. If Bentley collects the hat, he will be temporarily invincible.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<playtime>515</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260605T162737</lastplayed>
+	</game>
+	<game>
+		<path>./dkong3.zip</path>
+		<name>Donkey Kong 3</name>
+		<desc>Stanley is a bugman. Donkey Kong has taken refuge in his greenhouse and it is now up to Stanley to stop the ape from stirring up any more insects that will soon destroy his flowers. Stanley saves the flowers by spraying bug spray on Donkey Kong.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>230</playtime>
+		<lastplayed>20260605T163137</lastplayed>
+	</game>
+	<game>
+		<path>./elevator.zip</path>
+		<name>Elevator Action</name>
+		<desc>Agent 17 (code name 'Otto') is to secure the top secret documents from the security building. The enemy spies are in pursuit and their orders are to stop him at any cost. Having made it to the top of a 30 story building, Agent 17 has to make his way down to the basement to get to the getaway car and save the documents. Enemy spies are everywhere and the documents are hidden behind the red doors (bonus points awarded). He has to open the door and keep moving. If either of them shoots the lights out there will be a temporary blackout. If Otto finds himself on top of the elevator the player will not be able to control the elevator. If he gets caught in the elevator he is a sitting duck and cannot duck the bullets. By using the escalator he can reach the basement quicker. Otto can defeat his enemy by jump kicking or firing at them. Help Otto to grab all the documents and escape the spies.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<playtime>101</playtime>
+		<lastplayed>20260605T163323</lastplayed>
+	</game>
+	<game>
+		<path>./gyruss.zip</path>
+		<name>Gyruss</name>
+		<desc>Gyruss is a single-player shoot-em-up in which the purpose is to fly through the solar system, destroying waves of alien attackers, before finally reaching Earth. Planets that must be passed before Earth is reached are Neptune, Uranus, Saturn, Jupiter, and Mars. 
+
+It only takes two warps to reach Neptune, but all of the others, including Earth, take three warps to get to. Each time the player reaches a planet, they will be faced with a 'Chance Stage', a bonus stage in which players try to destroy as many aliens as possible to accrue points. After reaching Earth, there is a Chance Stage, followed by a very fast '3 Warps to Neptune' stage. After this, the levels and the background music start over. 
+
+Gyruss' superb gameplay, in which the player ship rotates around the edges of the screen and fires 'inwards', is heavily influenced by Atari's 1981 classic, "Tempest". While the design of the alien ships themselves is similar to those of Namco's also-legendary "Galaga" series.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Shooter / Tube</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>64</playtime>
+		<lastplayed>20260605T163434</lastplayed>
+	</game>
+	<game>
+		<path>./junofrst.zip</path>
+		<name>Juno First</name>
+		<desc>Juno First a vertically-scrolling shoot-em-up viewed from a third-person perspective in which players must destroy waves of attacking aliens. Unlike other shooters of the time, the game's enemies don't line up in a gallery formation but instead move freely around the screen. Because of this, the player's ship can move both forwards and backwards (in addition to left and right).
+
+As well as the attacking aliens a spherical 'space capsule' occasionally appears on-screen and if shot, it releases an enemy astronaut that can then be captured. This must be done within a set time, however, with the screen having  a red tint for the period in which rescue is possible. During the capture phase, every enemy the player shoots is worth an additional 200 points. 
+
+As a last resort players also have the option to 'warp' to another random part of the play area. This is highly risky as it may place the player's ship in a position more dangerous than the one it left. Players are allowed three warps per level.
+
+Starting formations vary from stage to stage and the aliens mutate into more dangerous forms the longer they survive. To complete a level all aliens must be destroyed.</desc>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Shooter / Vertical</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>127</playtime>
+		<lastplayed>20260605T163651</lastplayed>
+	</game>
+	<game>
+		<path>./mappy.zip</path>
+		<name>Mappy</name>
+		<desc>You control Mappy a police-mouse whose job is to collect valuables (consumer electronics)from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines.
+Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasures from the Boss cat Goro or dropping cats through a hole in the floor.</desc>
+		<rating>0.4</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>178</playtime>
+		<lastplayed>20260605T164248</lastplayed>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
+
+Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
+
+As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<playtime>111</playtime>
+		<lastplayed>20260605T171140</lastplayed>
+	</game>
+	<game>
+		<path>./docastle.zip</path>
+		<name>Mr. Do's Castle</name>
+		<desc>The player controls a clown, named “Mr. Do!”. Mr. Do is in his garden, and wants to collect the cherries there. Monsters roam there, and will not let Mr. Do quietly collect. If a monster touches Mr. Do, it dies, and the player loses a life. At each level a path is dug through the garden, going from the bottom to the top of the screen, passing through the center. Monsters can only take paths that have already been dug. Mr. Do is able to dig new paths, at the cost of slower movement speed.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Universal </publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>156</playtime>
+		<lastplayed>20260605T171432</lastplayed>
+	</game>
+	<game>
+		<path>./pacnpal.zip</path>
+		<name>Pac &amp; Pal</name>
+		<desc>Pac-Man has a new friend named Miru, but she tries to steal stuff and take it to the ghost pen. Pac-Man now not only has to collect the stuff lying around the board, but he must also watch Miru to make sure she doesn't take the stuff for her own use.</desc>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>127</playtime>
+		<lastplayed>20260605T171818</lastplayed>
+	</game>
+	<game>
+		<path>./tapper.zip</path>
+		<name>Tapper</name>
+		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:
+Cowboys
+Athletes
+Punk Rockers
+Aliens</desc>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Altr • Action</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>9</playcount>
+		<playtime>86</playtime>
+		<lastplayed>20260605T171952</lastplayed>
+	</game>
+	<game>
+		<path>./trackfld.zip</path>
+		<name>Track &amp; Field</name>
+		<desc>Track &amp; Field © 1983 Konami.
+
+Track &amp; Field is an athletics-themed action game for up to four players, who compete against each other in six track and field-based disciplines. 
+
+The game controls consist of two run buttons (one for each 'leg' of the athlete) and one 'Action' button. Players must hit the two run buttons alternately to build up speed and use action button to jump or throw.
+
+In each event, there is a qualifying time or minimum score threshold that the player must achieve to advance to the next event. failing to qualify (in one heat for track events or in three attempts in the other events) will reduce the players' number of lives by one, the game is over once all lives are lost.
+
+Track &amp; Field can accommodate up to four players, who compete in pairs in the running events and individually in the others. If there are fewer than four players, the remaining slots are played by the computer (or player "CPU"). In all multiplayer heats, however, the relative performance of the players has no effect on the game and advancing is based solely on reaching qualifying times and targets.
+
+The six events are:
+
+100M DASH - Run as fast as possible.
+LONG JUMP - Run to the take-off board then choose angle of jump (42 is the optimum angle).
+JAVELIN - Run to the line then choose angle of throw (43 is the optimum angle).
+110M HURDLES - Run and time jumps over the hurdles.
+HAMMER THROW - As the athlete spins faster and faster, time release of hammer and angle of throw (45 is the optimum angle).
+HIGH JUMP - The athlete will run to the bar; just as he reaches it, use Action button to start the jump and hold down the action button to reduce the angle of climb, i.e. you start going straight up at 90 degrees if you tap the button just once. Use run buttons while in the air to gain extra height.</desc>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Comp • Sports / Olympics</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>13</playcount>
+		<playtime>289</playtime>
+		<lastplayed>20260605T172531</lastplayed>
+	</game>
+	<game>
+		<path>./upndown.zip</path>
+		<name>Up'n Down</name>
+		<desc>Up'n Down is an abstract racing game viewed in a forced third-person perspective. 
+
+The goal of the game is to collect coloured flags, while avoiding the enemy vehicles and obstacles that litter each course. The flags needed are displayed at the top of the screen and are coloured as follows: Light green, blue, red, olive, dark green, magenta, yellow and black. If the flags are collected quickly enough, bonus points are awarded. Collected flags remain visible on the track but are changed to white in colour.</desc>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Altr • Racing / Labyrinth</genre>
+		<players>1-2</players>
+		<playcount>4</playcount>
+		<playtime>66</playtime>
+		<lastplayed>20260606T115201</lastplayed>
+	</game>
+	<game>
+		<path>./bankp.zip</path>
+		<name>Bank Panic</name>
+		<desc>Bank Panic is a reaction-based shoot-em-up in which the player takes on the role of a gun-slinging Deputy, who has been charged with protecting the town bank from outlaws. </desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sanritsu Denki</developer>
+		<publisher>SEGA</publisher>
+		<genre>Altr • Action</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>224</playtime>
+		<lastplayed>20260606T115558</lastplayed>
+	</game>
+	<game>
+		<path>./bombjack.zip</path>
+		<name>Bomb Jack</name>
+		<desc>Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. 
+
+Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. 
+
+A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in "Pac-Man"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. 
+
+Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. 
+
+The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal "Pac-Man".</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Tehkan</developer>
+		<publisher>Tehkan</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>122</playtime>
+		<lastplayed>20260606T115808</lastplayed>
+	</game>
+	<game>
+		<path>./gaplus.zip</path>
+		<name>Gaplus</name>
+		<desc>Gaplus is the third game in Namco's classic "Galaxian" series, Gaplus picks up where 1981's "Galaga" left off. While maintaining the same classic 'look' of its predecessor, Gaplus's graphics are a definite improvement over those of "Galaga"; the game's increased color palette and subtle use of shading making the attacking aliens look rather more solid.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Shooter / Fixed</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>167</playtime>
+		<lastplayed>20260606T120102</lastplayed>
+	</game>
+	<game>
+		<path>./kamikcab.zip</path>
+		<name>Kamikaze Cabbie</name>
+		<desc>The game has the player collecting a fare at a taxi stop and taking that passenger to the desired location. The amount of money the fare grants is indicated as score points. Along the way, the player is free to crash into other vehicles for extra points. Dropping a passenger off successfully will complete the stage and proceed to a newer and harder one. If the player completes the stage fast enough, tips are awarded for additional points. The player gets a bonus for the first 20,000 points and every 30,000 points after that. The fuel gauge acts as a health meter which depletes over time and even more when the taxi cab collides. Fuel can be recharged at a gas station. The game is over if the player runs out of fuel.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Racing / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>122</playtime>
+		<lastplayed>20260606T120347</lastplayed>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>Kung-fu Master</name>
+		<desc>Regarded as the first beat 'em up brawler, Kung-Fu Master, known as Spartan X in Japan, is a side-scrolling game developed by Irem for arcades in 1984.
+Designed by Takashi Nishiyama, the game is loosely based on Jackie Chan and Bruce Lee martial arts films.
+The player controls Thomas, the titular Kung-Fu Master, as he fights his way through the five levels of the Devil's Temple to rescue his girlfriend Sylvia from the crime boss Mr. X.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Beat 'Em Up</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>118</playtime>
+		<lastplayed>20260606T120839</lastplayed>
+	</game>
+	<game>
+		<path>./ldrun.zip</path>
+		<name>Lode Runner</name>
+		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
+
+The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>123</playtime>
+		<lastplayed>20260606T121221</lastplayed>
+	</game>
+	<game>
+		<path>./marble.zip</path>
+		<name>Marble Madness</name>
+		<desc>Marble Madness is an abstract maze game for one or two players. The game's goal is to guide a small glass marble over a three-dimensional maze and reach the finish line before the level's timer has expired. Any seconds that remain on the timer when the finish line is crossed are carried over to the next level. 
+
+As well as having to negotiate the marble over treacherous walkways and ramps, numerous obstacles and unfriendly creatures will try to slow the marble's progress or knock it over the edge of a platform, wasting yet more precious seconds until a replacement marble appears. The two-player game has players competing to reach the goal first. 
+
+Marble Madness features six different mazes.</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Comp • Racing / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>161</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260606T121522</lastplayed>
+	</game>
+	<game>
+		<path>./dowild.zip</path>
+		<name>Mr. Do's Wild Ride</name>
+		<desc>Mr Do's third arcade outing is another platform game, following on from the superb "Mr. Do's Castle", released a year earlier. The synonymous Mr. Do! cherries are present and correct, but are not used in the same way as in other games in the series. In both "Mr Do!" and "Mr. Do's Castle", collecting all of the cherries available was a way of completing a level. In Wild Ride, however, collecting them merely changes the 'prize' awarded upon reaching the level's goal. This can be one or two letters from EXTRA, or other items which simply award bonus points. When Mr. Do reaches his goal, he waves a flag while the bonus counter is added to his score.
+
+The gameplay is similar to that of Nintendo's legendary "Donkey Kong", with Mr. Do starting each level at the bottom of the screen, trying to make his way to the exit at the very top. Mr. Do doesn't have either his Powerball or mallet in this game, but holding the ACTION button makes him run faster along the track. The trade-off of this is that his bonus points deplete much quicker. When all of the EXTRA letters are collected, the player is awarded with an extra life.
+
+Each of the game's six levels is set on a roller coaster, with each having its own theme, traps and pitfalls. Wild Ride doesn't feature the intermission screens that appear in previous Mr.Do games.
+
+The levels are:
+Level 1, Roller Coaster. 
+Level 2, Pirate Ship. 
+Level 3, Three Elevators. 
+Level 4, Castle on Screen. 
+Level 5, Multiple Columns. 
+Level 6, Six Rings.
+
+After level six the levels are repeated.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Universal </publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>79</playtime>
+		<lastplayed>20260606T121649</lastplayed>
+	</game>
+	<game>
+		<path>./sbagman.zip</path>
+		<name>Super Bagman</name>
+		<desc>Prepare yourself to explore the underground tunnels and caverns to uncover and steal the massive bags of cash just laying around in the amazingly fun Super Bagman! Jump down into the tunnels and gather the bags of cash and bring them to the surface to fill your wheelbarrow, before moving on to grab more loot from the tunnels! Avoid the evil baddies who will defeat you on touch, but climb the ladders up and down to grab the booty!</desc>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Valadon Automation</developer>
+		<publisher>Valadon Automation</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>367</playtime>
+		<lastplayed>20260606T122307</lastplayed>
+	</game>
+	<game>
+		<path>./timber.zip</path>
+		<name>Timber</name>
+		<desc>Timber is an abstract action game in which one or two players assume the role of a lumberjack and have a limited amount of time to chop down a given number of trees that pop up from the ground. The game is controlled with two joysticks, with one stick controlling the player's movement and the other corresponding to left or right chops with the player's axe. Difficulty increases with each level, with the number of trees needed to be chopped down gradually increasing (maxing out at 19) and the allotted time decreasing. 
+
+During a round players must avoid beehives that are thrown at them by grizzly bears. The beehives, however, can be destroyed with the player's axe for a 500-point reward. Some trees contain birds that will run around the level after they have been chopped down, awarding 1,000 points if touched by the player.
+
+Every couple of levels players are given the opportunity to amass bonus points. The bonus round begins with the lumberjack standing on a floating log. As the log begins to rotate, players must use their reflexes to stay on top of the log. The first two times this is played, the log is relatively large; on future attempts, the size of the log shrinks considerably. The bonus round ends if the player falls off the log or balances atop it for the duration of the round, in which case 1,000 bonus points are earned.
+
+The two-player simultaneous mode can be played either competitively or cooperatively. In this mode, chopping or pushing down a tree such that it falls on the opponent awards you with 1,000 points.</desc>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Coop • Action</genre>
+		<players>1-2</players>
+		<playcount>6</playcount>
+		<playtime>53</playtime>
+		<lastplayed>20260606T122410</lastplayed>
+	</game>
+	<game>
+		<path>./digdug2.zip</path>
+		<name>Dig Dug II</name>
+		<desc>For this sequel to the 1982 classic, "Dig Dug", Namco changed the game's perspective from a cutaway side-on viewpoint to an overhead one. The action now takes place on a series of small islands, the gameplay itself retains much from its predecessor, with Dig Dug still being chased by the 'Pookas' (round, goggle-wearing red enemies) and the 'Fygers' (green, fire-breathing dragons).
+
+As with the first game, Dig Dug is still armed with a pump that allows him to inflate and burst the enemies. For the sequel, however, he is also armed with a jackhammer. This can be used at the round ground-pegs scattered around each island to create and connect up fault lines in the ground. If both ends of a system of faults reaches the water, the ground surrounded by them will sink into the ocean killing all creatures on it, including Dig Dug himself if he is standing on the destroyed section of land.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>3</playcount>
+		<playtime>90</playtime>
+		<lastplayed>20260606T122559</lastplayed>
+	</game>
+	<game>
+		<path>./arkanoid.zip</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
+The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
+By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the bolt down.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Block Breaker</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>17</playcount>
+		<playtime>124</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260606T122818</lastplayed>
+	</game>
+	<game>
+		<path>./joust2.zip</path>
+		<name>Joust 2: Survival of the Fittest</name>
+		<desc>Joust 2 - Survival of the Fittest © 1986 Williams Electronics, Incorporated.
+
+On the planet of the floating cliffs, society calls upon its wing-mounted Gladiators to solve conflicts. You, the Gladiator, must enter the fray, participating in a challenge of honor, a Joust... where only the fittest survive! 
+
+The legend of "Joust" continues in Joust 2. Players must solve the puzzle of what strategy will be most effective in dealing with the buzzards and other winged enemies on each of Joust 2's 35 different backgrounds. 
+
+The object of Joust 2 is to defeat all winged enemies by colliding with them. To survive a collision (joust), the Gladiator's lance must be higher. 
+
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Coop • Action / Platform</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>247</playtime>
+		<lastplayed>20260606T123308</lastplayed>
 	</game>
 </gameList>
