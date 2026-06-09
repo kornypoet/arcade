@@ -1,4 +1,4 @@
-# Setup
+\# Setup
 
 (re)Install Ubuntu 24.04 from USB
 Enter BIOS and disable NumLock on boot
@@ -157,16 +157,21 @@ Games that could not be included for various reasons
 Tempest - requires spinner
 Assault - requires twin flight sticks with triggers
 Outrun - requires steering wheel
+Road Blaster - requires steering wheel
 Spy Hunter - requires steering wheel
 Monkey Ball - requires analog joystick
 Food Fight - requires analog joystick
 Primal Rage 2 - MAME support low
 Wonder Boy - is really NES adventure time, not a great arcade fit
+PaperBoy - Needs analog support
+Warlords - 4 player is cocktail mode and needs analog spinner
 Puzz Loop 2 - not any better than puzz loop 1
 Puyo Puyo 2 - needs translation
 Puyo Puyo fev - replaced with puyo puyo and translated w/ 4 players
 Only select versions of Street Fighter
+random selection of King Of Fighters
 MK4 - just sucks
+Indiana Jones and the Temple of Doom - Also sucks
 Quarth - replaced by block hole, english translation
 Solar Assault - requires flight stick
 Death Smiles - not well known or supported by mame
@@ -191,7 +196,6 @@ Nfl Blitz 2000 - coin issues
 Scramble
 Afterburner
 Crush Roller
-Ladybug
 Tank Battalion
 Hustler
 Space Panic

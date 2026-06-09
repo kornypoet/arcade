@@ -4082,28 +4082,6 @@ A level can be completed any one of several different ways: either by collecting
 		<lastplayed>20260604T172505</lastplayed>
 	</game>
 	<game>
-		<path>./mspacman.zip</path>
-		<name>Ms. Pac-Man</name>
-		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
-
-Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
-
-Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
-
-Ms Pac-Man features four different maze layouts, which alternate every two to four rounds: 
-</desc>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Coleco Industries</developer>
-		<publisher>Coleco Industries</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>16</playcount>
-		<playtime>125</playtime>
-		<lastplayed>20260604T172721</lastplayed>
-	</game>
-	<game>
 		<path>./nibbler.zip</path>
 		<name>Nibbler</name>
 		<desc>A maze game where you control Nibbler the snake to eat food around the maze. With each food you eat, Nibbler gets bigger. Complete each level by eating all the food on the screen. You lose a life if Nibbler hits his own body.</desc>
@@ -4789,22 +4767,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<lastplayed>20260606T135428</lastplayed>
 	</game>
 	<game>
-		<path>./qbert.zip</path>
-		<name>Q*bert</name>
-		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>D. Gottlieb &amp; Co.</developer>
-		<publisher>D. Gottlieb &amp; Co.</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<playtime>179</playtime>
-		<lastplayed>20260605T161719</lastplayed>
-	</game>
-	<game>
 		<path>./rygar.zip</path>
 		<name>Rygar</name>
 		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
@@ -5077,5 +5039,154 @@ There are five stages with five levels each, and each one of them has you throwi
 		<playcount>9</playcount>
 		<playtime>238</playtime>
 		<lastplayed>20260606T155352</lastplayed>
+	</game>
+	<game>
+		<path>./ladybug.zip</path>
+		<name>Lady Bug</name>
+		<desc>In Lady Bug you guide a lady bug through a Pac-Man style maze, eating dots, and avoiding enemy insects. You lose a life if you run into a skull or get eaten by an enemy insect. Collect letters to spell EXTRA for a bonus life (just like in Mr. Do!), and SPECIAL for an extra credit. The maze has rotating doors which are just enough to give the game a slightly different feel than the Pac-Man series.</desc>
+		<rating>0.7</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Universal </publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>83</playtime>
+		<lastplayed>20260608T214607</lastplayed>
+	</game>
+	<game>
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Co.</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>189</playtime>
+		<lastplayed>20260608T215636</lastplayed>
+	</game>
+	<game>
+		<path>./mspacman.zip</path>
+		<name>Ms. Pac-Man</name>
+		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
+
+Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
+
+Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
+
+Ms Pac-Man features four different maze layouts, which alternate every two to four rounds: 
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Coleco Industries</developer>
+		<publisher>Coleco Industries</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>17</playcount>
+		<playtime>128</playtime>
+		<lastplayed>20260608T215646</lastplayed>
+	</game>
+	<game>
+		<path>./tutankhm.zip</path>
+		<name>Tutankham</name>
+		<desc>Inside King Tut's tomb are treasures beyond your wildest dreams. They can be yours... if you dare to take them. Supernatural creatures roam the mazes of the tomb guarding the treasures at all costs. Your only defenses against them are your laser gun... and your wits. Blast away, snatch the loot, escape through secret passageway before it's too late! And when you see a key, take that, too. It will unlock the door to the next chamber and the next adventure. Enter King Tut's tomb and see what awaits you... if you dare.</desc>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>6</playcount>
+		<playtime>643</playtime>
+		<lastplayed>20260608T220025</lastplayed>
+	</game>
+	<game>
+		<path>./zookeep.zip</path>
+		<name>Zoo Keeper</name>
+		<desc>Zoo Keeper is a superb, fast-paced arcade game in which the player takes control of Zeke the zookeeper. Many of the animals at Zeke's zoo are running wild and have captured Zeke's girlfriend, Zelda. Zeke must recapture as many animals as possible and rescue his sweetheart from the animals' clutches.
+
+Zoo Keeper features two different, alternating play fields, with each level having its own task to complete; as well as a final 'bonus screen'.</desc>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>192</playtime>
+		<lastplayed>20260608T220350</lastplayed>
+	</game>
+	<game>
+		<path>./dogfgt.zip</path>
+		<name>Acrobatic Dog-Fight</name>
+		<desc>A very funny shoot'em up game.
+
+Hop to New Plane: If your plane becomes damaged, you don't need to waste a parachute to reach the ground for a replacement. You can jump to a new plane by simply flying very close, usually right under or on top of your plane and pressing the jump button. If the other plane is in just the right spot, you'll make it, but otherwise you'll fall.
+
+Destroy UFOs the Easy Way: When you reach the UFO wave of the battle you're in, take your plane down as close to the ground as you can without crashing. Chances are, thanks to the circular pattern of their flight, the UFOs will arc over you and smash themselves into the ground.
+
+Score Big Points: While on the ground, instead of climbing right onto your replacement plane, jump over it. For each time you do this, you'll score 1,000 points. As long as you're careful, you can get a lot of points this way.
+Enemy Ran Away!!: After destroying 20 aircraft in a wave, the enemy retreats and you are awarded with 20,000 points and a free parachute!</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>224</playtime>
+		<lastplayed>20260608T220902</lastplayed>
+	</game>
+	<game>
+		<path>./bnj.zip</path>
+		<name>Bump 'n' Jump</name>
+		<desc>Bump 'n' Jump (Burnin' Rubber in Japan) is an overhead driving game where you jump or bump enemy cars for points.</desc>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Action / Racing</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>2</playcount>
+		<playtime>86</playtime>
+		<lastplayed>20260608T221119</lastplayed>
+	</game>
+	<game>
+		<path>./shinobi.zip</path>
+		<name>Shinobi</name>
+		<desc>Shinobi is a scrolling platform beat-em-up in which the player takes on the role of Joe Musashi, a Shinobi Ninja, who must fight his way through 5 tough missions - each made up of between 3 to 5 stages - in his quest to rescue the kidnapped Ninja children of the Iga clan; now hostages of an evil Ninja syndicate called "Zeed". To complete a mission, the player must rescue all of the kidnapped children on each level, with the number of hostages remaining displayed on a meter in the bottom left corner of the screen.
+
+Shinobi was a huge success for Sega, and deservedly so. Its perfectly realized blend of platform and fighting action and is as fine an exponent of the 'easy to get into, difficult to master' gameplay ethic as video games have seen.</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>3</playtime>
+		<lastplayed>20260608T222815</lastplayed>
+	</game>
+	<game>
+		<path>./hharry.zip</path>
+		<name>Hammerin' Harry</name>
+		<desc>This was released in Japanese Arcade's in 1990, and for the NES on November 15th 1991 and sometime in 1992 in Europe.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Action / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>1</playcount>
+		<playtime>5</playtime>
+		<lastplayed>20260608T222834</lastplayed>
 	</game>
 </gameList>
