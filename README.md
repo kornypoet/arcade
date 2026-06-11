@@ -202,7 +202,7 @@ Space Panic
 Town and Country
 Puzznic - Single Player Only
 Baku Baku Animal - Japanese Only
-
+Rampart - Requires multiple Trackballs
 
 # Lightgun Links
 (https://www.sindenwiki.org/wiki/Mesen#:~:text=In%20the%20left%20task%20pane,pointer%20when%20using%20light%20guns.%22)
