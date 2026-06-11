@@ -1,4 +1,4 @@
-\# Setup
+# Setup
 
 (re)Install Ubuntu 24.04 from USB
 Enter BIOS and disable NumLock on boot
@@ -200,6 +200,9 @@ Tank Battalion
 Hustler
 Space Panic
 Town and Country
+Puzznic - Single Player Only
+Baku Baku Animal - Japanese Only
+
 
 # Lightgun Links
 (https://www.sindenwiki.org/wiki/Mesen#:~:text=In%20the%20left%20task%20pane,pointer%20when%20using%20light%20guns.%22)
