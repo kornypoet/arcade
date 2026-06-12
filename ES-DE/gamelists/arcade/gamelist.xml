@@ -4657,26 +4657,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<lastplayed>20260606T135334</lastplayed>
 	</game>
 	<game>
-		<path>./commando.zip</path>
-		<name>Commando</name>
-		<desc>Commando is a vertically scrolling shoot'em up in which the player takes on the role of a highly trained commando soldier called "Super Joe", who starts the game by being dropped off in a jungle by a helicopter. 
-
-Joe's mission is to rescue captives and destroy the enemy bases and strongholds that appear at the end of each level, killing as many enemy soldiers as possible in the process. 
-
-The end-of-level strongholds see waves of enemy soldiers ordered to attack by a cowardly officer, who immediately runs away. Shooting the fleeing officer earns the player bonus points. Along the way, players can attempt to free prisoners-of-war by shooting their enemy guard escorts as they are transported across the screen.
-
-Super Joe carries only two weapons: a limited-range machine gun with unlimited shots, and a limited supply of hand grenades. Extra grenades can be picked up as the player progresses through the levels.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Data East</publisher>
-		<genre>Altr • Run &amp; Gun / Top Down</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20241213T202143</lastplayed>
-	</game>
-	<game>
 		<path>./clshroad.zip</path>
 		<name>Clash-road</name>
 		<desc>A horizontally scrolling bicycle racing game.</desc>
@@ -4737,42 +4717,6 @@ The power-up system of Darius II was changed from that of its parent game, with 
 		<lastplayed>20240812T214716</lastplayed>
 	</game>
 	<game>
-		<path>./gberet.zip</path>
-		<name>Green Beret</name>
-		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
-
-There are four distinct sections of gameplay, taking in a Missile Base, a Harbour, a Bridge, and an enemy Prison Camp. Extra weapons with limited ammunition can be collected along the way, which will make the task a lot easier. The level is divided into 3 horizontal levels, which can be moved between either by jumping or using ladders, and this gives a chance to avoid the more threatening mobs of enemy fighters</desc>
-		<rating>0.6</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Run &amp; Gun / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240808T172702</lastplayed>
-	</game>
-	<game>
-		<path>./aliensyn.zip</path>
-		<name>Alien Syndrome</name>
-		<desc>Alien Syndrome is a overhead-view run and gun game for one or two players in which a number of Mankind's space ships and bases have been overrun by an alien race, who have taken the human inhabitants hostage.
-
-Players control two soldiers named Ricky and Mary and must fight their way through large eight-way scrolling levels to rescue their captured comrades. Once a set number of hostages have been rescued, an exit opens and players can pass through it to fight the end-of-level guardian. Once the guardian is defeated, play moves onto the next stage.
-
-A time-bomb is automatically set at the start of each stage, which must then be completed before the bomb's timer runs down. Failure to finish the level in time results in the death of the player characters. Weapon upgrades and maps of the current level are available at certain points and are accessed via hatchways in the wall.
-
-Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting solely of a fight to the death against the game's final, massive guardian.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Coop • Run &amp; Gun / Top Down</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240808T173022</lastplayed>
-	</game>
-	<game>
 		<path>./blazeon.zip</path>
 		<name>Blaze On</name>
 		<desc>The player is set in control of The Garland TFF-01, a sub-standard space fighter ship that is only armed with a semi-auto or rapid fire laser gun known as the Beam Vulcan and the Tranquilander. Some enemy units can be captured and used in play; certain enemy robots, when shot by the player's Tranquilander, will morph into an outline of themselves. The player can then fly into the outline, and take on the form of the enemy robot, taking control of its weapons, abilities and special attacks.
@@ -4828,73 +4772,6 @@ Very similar to a familiar scene in the Superman comic books. You must stop the 
 		<lastplayed>20241208T213443</lastplayed>
 	</game>
 	<game>
-		<path>./bionicc.zip</path>
-		<name>Bionic Commando</name>
-		<desc>Bionic Commando is a scrolling platform shoot-em-up set ten years after the end of World War III, with the player taking on the role of 'Super Joe'; an elite Commando tasked with infiltrating the enemy's heavily defended military base to discover their secrets plans and destroy their missile silos. 
-
-To aid him in his mission, Joe is equipped with a bionic arm; a telescopic grappling hook that is used to traverse the many platforms and ledges that make up the game's levels. The arm can also be used to temporarily stun enemies or knock them from platforms, as well as to retrieve the bonus items, wooden crates and weapons that are occasionally dropped into the war zone by parachute. 
-
-As well as the bionic arm, Joe is armed with a shotgun used to kill enemies and destroy obstructions. The shotgun can only be fired left and right, however, and cannot be used at the same time as the bionic arm. More powerful guns can be picked up throughout the game. </desc>
-		<rating>0.6</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Altr • Run &amp; Gun / Platform</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240811T214910</lastplayed>
-	</game>
-	<game>
-		<path>./contra.zip</path>
-		<name>Contra</name>
-		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
-
-'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
-
-Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.
-
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20250606T215448</lastplayed>
-	</game>
-	<game>
-		<path>./ghostb3.zip</path>
-		<name>The Real Ghostbusters</name>
-		<desc>Adapted from the animated cartoon of the same name. Up to three players, each controlling a Ghostbuster, must run around a top-down universal scrolling terrain, shoot creatures and then try to suck up ghosts with their plasma guns. Players can shoot and then collect various power-ups, including a protective Aura, shot and beam boosters, and a "Green Ghost" Slimer shield satellite. Has interesting screen transition effects and a well-orchestrated version of the movie's popular theme song.</desc>
-		<rating>0.6</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Activision</publisher>
-		<genre>Coop • Run &amp; Gun / Top Down</genre>
-		<players>1-3</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240808T222352</lastplayed>
-	</game>
-	<game>
-		<path>./scontra.zip</path>
-		<name>Super Contra</name>
-		<desc>A year after the battle with the Red Falcon organization, Bill and Lance are sent on another mission. This time, the alien forces have taken over an allied military base somewhere in Africa, possessing most of its troops. Bill and Lance must not only fight against their former comrades-in-arms, but also a new mutated form of the same alien creatures they fought during their previous mission.</desc>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240811T215252</lastplayed>
-	</game>
-	<game>
 		<path>./tmnt2.zip</path>
 		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
 		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
@@ -4939,80 +4816,6 @@ Yet again, Konami's mastery of the genre was in evidence as the manic energy and
 		<lastplayed>20240823T085010</lastplayed>
 	</game>
 	<game>
-		<path>./bucky.zip</path>
-		<name>Bucky O'Hare</name>
-		<desc>Bucky O'Hare is a scrolling shoot-em-up for up to four players based on the TV cartoon series Bucky O'Hare and the Toad Wars. Players must stop the Toad Empire from invading their home planets in the 'Aniverse' and enslaving their people. To achieve their goal they must shoot their way through an army of brainwashed toads to destroy their evil leader, a computer program known as 'KOMPLEX' and release the 'Interplanetary Life Force.'
-
-Players choose to play as either Blinky (a one-eyed android), Bucky (the heroic rabbit captain), Dead-Eye Duck (a four-armed mallard) or Jenny (an 'Aldebaran cat' and telepath). Differences between the characters are purely visual as each plays the same. </desc>
-		<rating>0.8</rating>
-		<releasedate>19920901T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Tatsumi</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240812T162224</lastplayed>
-	</game>
-	<game>
-		<path>./ssriders.zip</path>
-		<name>Sunset Riders</name>
-		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
-
-The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
-
-Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
-
-Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
-
-A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
-
-Sunset Riders features eight stages of play.</desc>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20241208T205936</lastplayed>
-	</game>
-	<game>
-		<path>./smashtv.zip</path>
-		<name>Smash T.V.</name>
-		<desc>Smash TV is a single-screen shoot-em-up for one or two players and is set in a futuristic game show in the year 1999. Contestants must enter enclosed arenas and compete to collect prizes, money and keys, while fighting to stay alive as they are attacked on all sides by waves of enemies.
-The game is a sequel to the legendary "Robotron: 2084" and like its prequel, utilises a dual joystick control system, with the left stick controlling player movement and the right controlling the direction of fire.
-Enemy waves enter each arena from four directions via open doorways and all must be killed before players can progress to the next stage. Some arenas feature static gun emplacements set into a wall that must also be destroyed. Power-ups that improve weapons, speed and armour appear at regular intervals, although each only lasts for a limited time.
-Smash TV is broken down into stages, each with a set number of arenas. Tough end-of-level bosses await at the end of each stage.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Coop • Run &amp; Gun / Twin Stick</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>10</playcount>
-		<lastplayed>20250620T230501</lastplayed>
-	</game>
-	<game>
-		<path>./outzone.zip</path>
-		<name>Out Zone</name>
-		<desc>A vertically scrolling run and gun game, in which the player controls a soldier who must fight his way through 7 increasingly difficult levels. At the end of each level a boss must be defeated before the player can progress any further.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Toaplan</publisher>
-		<genre>Coop • Run &amp; Gun / Top Down</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240811T215608</lastplayed>
-	</game>
-	<game>
 		<path>./samsho2.zip</path>
 		<name>Samurai Shodown II</name>
 		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
@@ -5040,42 +4843,6 @@ Smash TV is broken down into stages, each with a set number of arenas. Tough end
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20240823T191143</lastplayed>
-	</game>
-	<game>
-		<path>./elvactr.zip</path>
-		<name>Elevator Action Returns</name>
-		<desc>Elevator Action Returns is a scrolling platform shoot-em-up for one or two players who each take on the role of a special task force operative and must foil a terrorist group that has planted nuclear bombs in various facilities. Players must also obtain the secret intelligence data scattered throughout each facility in order to disarm the bombs. 
-
-The objective of the game is to enter all of the red-coloured doors in each stage, then proceed to the exit. If players miss one of the red doors, they will be unable to progress beyond a certain point. There are also blue-coloured doors and entering these will award the player a special item, these include health refills, special firearms, sub-weapons and bonus points.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Run &amp; Gun / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240811T220904</lastplayed>
-	</game>
-	<game>
-		<path>./mystwarr.zip</path>
-		<name>Mystic Warriors</name>
-		<desc>Mystic Warriors is a horizontally-scrolling platform beat-em-up for up to four players, in which the evil 'SKULL' organisation has taken over the world and driven its terrified civilians into hiding. Five Ninja warriors set about destroying SKULL and freeing the World from its grip.
-
-Mystic Warriors features five selectable characters, one of which is shown being kidnapped by SKULL once players have made their character choices. What follows is eight levels of platform 'run-and-gun' action, with an end-of-level boss waiting at the end of each stage.
-
-Players are armed with both Shuriken throwing stars and with a sword for close encounters. Numerous boxes are scattered throughout the levels (or are being carried by enemies), all of which contain bonus items such as weapon power-ups or energy-replenishing food. Other power-ups include an invulnerability shield (known as the "Shinobi Shield") which lasts a few seconds and a "Smart Bomb" power-up, which destroys all on-screen enemies. Some boxes also contain points-giving items, such as bags of money, jewellery and gold.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20250815T205106</lastplayed>
 	</game>
 	<game>
 		<path>./sfa2.zip</path>
@@ -5158,96 +4925,250 @@ Four boys, O'Hara from the wolf clan, Kang Chihwan from the bear clan, Sonic fro
 		<lastplayed>20240822T183231</lastplayed>
 	</game>
 	<game>
-		<path>./mslug5.zip</path>
-		<name>Metal Slug 5</name>
-		<desc>The latest installment of the most famous arcade-shooting series brings a lot of changes: this time, you will not face Morden's army like in the previous games, but with a new group of enemies that composes the already mentioned Ptolemaic Army. More content in this title, 3 guns and 2 vehicles from past games were reincorporated, as well as all brand new stuff of 3 vehicles. The most important addition is a sliding move: pressing the B Button when ducking will make your character slide for a short time in the ground. You are not be able to throw grenades, but your gun can be fired normally.</desc>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
+		<path>./commando.zip</path>
+		<name>Commando</name>
+		<desc>Commando is a vertically scrolling shoot'em up in which the player takes on the role of a highly trained commando soldier called "Super Joe", who starts the game by being dropped off in a jungle by a helicopter. 
+
+Joe's mission is to rescue captives and destroy the enemy bases and strongholds that appear at the end of each level, killing as many enemy soldiers as possible in the process. 
+
+The end-of-level strongholds see waves of enemy soldiers ordered to attack by a cowardly officer, who immediately runs away. Shooting the fleeing officer earns the player bonus points. Along the way, players can attempt to free prisoners-of-war by shooting their enemy guard escorts as they are transported across the screen.
+
+Super Joe carries only two weapons: a limited-range machine gun with unlimited shots, and a limited supply of hand grenades. Extra grenades can be picked up as the player progresses through the levels.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Run &amp; Gun / Top Down</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>79</playtime>
+		<lastplayed>20260611T170302</lastplayed>
+	</game>
+	<game>
+		<path>./gberet.zip</path>
+		<name>Green Beret</name>
+		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
+
+There are four distinct sections of gameplay, taking in a Missile Base, a Harbour, a Bridge, and an enemy Prison Camp. Extra weapons with limited ammunition can be collected along the way, which will make the task a lot easier. The level is divided into 3 horizontal levels, which can be moved between either by jumping or using ladders, and this gives a chance to avoid the more threatening mobs of enemy fighters</desc>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Run &amp; Gun / Platform</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
-		<lastplayed>20240908T143421</lastplayed>
+		<playtime>96</playtime>
+		<lastplayed>20260611T170502</lastplayed>
 	</game>
 	<game>
-		<path>./mslug4.zip</path>
-		<name>Metal Slug 4</name>
-		<desc>The 5th episode of the most famous arcade-shooting-series comes bringing the unaltered classic gameplay, a new weapon, 6 new vehicles as well as 2 new soldiers for the pantheon. The most notable introduction to the series is the Metalish System, giving to the player a new possibility to score more points: after pick up certain shield-shape emblems, a timer bar will be displayed at the top of the screen. During this time, you must to shoot rapidly as many enemies as possible and, depending on your acting, you will receive a corresponding badge bonus that will be added to your score after completing it. When you die, the bonus wears off.</desc>
-		<rating>0.8</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>MEGA Enterprise</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
+		<path>./aliensyn.zip</path>
+		<name>Alien Syndrome</name>
+		<desc>Alien Syndrome is a overhead-view run and gun game for one or two players in which a number of Mankind's space ships and bases have been overrun by an alien race, who have taken the human inhabitants hostage.
+
+Players control two soldiers named Ricky and Mary and must fight their way through large eight-way scrolling levels to rescue their captured comrades. Once a set number of hostages have been rescued, an exit opens and players can pass through it to fight the end-of-level guardian. Once the guardian is defeated, play moves onto the next stage.
+
+A time-bomb is automatically set at the start of each stage, which must then be completed before the bomb's timer runs down. Failure to finish the level in time results in the death of the player characters. Weapon upgrades and maps of the current level are available at certain points and are accessed via hatchways in the wall.
+
+Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting solely of a fight to the death against the game's final, massive guardian.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
-		<lastplayed>20240812T164522</lastplayed>
+		<playtime>50</playtime>
+		<lastplayed>20260611T170614</lastplayed>
 	</game>
 	<game>
-		<path>./mslug3.zip</path>
-		<name>Metal Slug 3</name>
-		<desc>In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. You guide one of the heroes: Marco, Tarma, Eri or Fio as they blast their way through sidescrolling levels with a unique theme, filled with countless enemies and difficult bosses. You have to free hostages and you can ride bizarre vehicles such as camels, elephants, tanks and robots.
+		<path>./bionicc.zip</path>
+		<name>Bionic Commando</name>
+		<desc>Bionic Commando is a scrolling platform shoot-em-up set ten years after the end of World War III, with the player taking on the role of 'Super Joe'; an elite Commando tasked with infiltrating the enemy's heavily defended military base to discover their secrets plans and destroy their missile silos. 
 
-In the Xbox version, additional game modes, such as Storming the Mothership and Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A co-op mode has been included, but no online multiplayer. The only Xbox Live feature available allows you to compare singleplayer scores.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240812T164635</lastplayed>
-	</game>
-	<game>
-		<path>./shocktr2.zip</path>
-		<name>Shock Troopers : 2nd Squad</name>
-		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+To aid him in his mission, Joe is equipped with a bionic arm; a telescopic grappling hook that is used to traverse the many platforms and ledges that make up the game's levels. The arm can also be used to temporarily stun enemies or knock them from platforms, as well as to retrieve the bonus items, wooden crates and weapons that are occasionally dropped into the war zone by parachute. 
 
-The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19990624T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun / Top Down</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240812T163545</lastplayed>
-	</game>
-	<game>
-		<path>./shocktro.zip</path>
-		<name>Shock Troopers</name>
-		<desc>Shock Troopers is a 1-2 player game where players select one of eight characters to play as. Each character has their own attack. Players also have to choose one of three routes to take. The object of the game is to go toward the end of the level and defeat the end-of-level boss, which is usually a huge vehicle. Crates that are scattered throughout the levels can be broken into to reveal new weapons and power-ups.
-
-There is a team mode where players have to select three characters. The characters can be switched on-the-fly during gameplay, which is useful if one of them is badly injured. Players can use the other teammates until life-ups can be found.</desc>
-		<rating>0.8</rating>
-		<releasedate>19971111T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun / Top Down</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240811T221507</lastplayed>
-	</game>
-	<game>
-		<path>./mslug2.zip</path>
-		<name>Metal Slug 2</name>
-		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Run &amp; Gun</genre>
+As well as the bionic arm, Joe is armed with a shotgun used to kill enemies and destroy obstructions. The shotgun can only be fired left and right, however, and cannot be used at the same time as the bionic arm. More powerful guns can be picked up throughout the game. </desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr • Run &amp; Gun / Platform</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>5</playcount>
-		<lastplayed>20240811T222021</lastplayed>
+		<playtime>67</playtime>
+		<lastplayed>20260611T170744</lastplayed>
+	</game>
+	<game>
+		<path>./contra.zip</path>
+		<name>Contra</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.
+
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>54</playtime>
+		<lastplayed>20260611T171135</lastplayed>
+	</game>
+	<game>
+		<path>./scontra.zip</path>
+		<name>Super Contra</name>
+		<desc>A year after the battle with the Red Falcon organization, Bill and Lance are sent on another mission. This time, the alien forces have taken over an allied military base somewhere in Africa, possessing most of its troops. Bill and Lance must not only fight against their former comrades-in-arms, but also a new mutated form of the same alien creatures they fought during their previous mission.</desc>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>56</playtime>
+		<lastplayed>20260612T141628</lastplayed>
+	</game>
+	<game>
+		<path>./outzone.zip</path>
+		<name>Out Zone</name>
+		<desc>A vertically scrolling run and gun game, in which the player controls a soldier who must fight his way through 7 increasingly difficult levels. At the end of each level a boss must be defeated before the player can progress any further.</desc>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>70</playtime>
+		<lastplayed>20260612T141746</lastplayed>
+	</game>
+	<game>
+		<path>./smashtv.zip</path>
+		<name>Smash T.V.</name>
+		<desc>Smash TV is a single-screen shoot-em-up for one or two players and is set in a futuristic game show in the year 1999. Contestants must enter enclosed arenas and compete to collect prizes, money and keys, while fighting to stay alive as they are attacked on all sides by waves of enemies.
+The game is a sequel to the legendary "Robotron: 2084" and like its prequel, utilises a dual joystick control system, with the left stick controlling player movement and the right controlling the direction of fire.
+Enemy waves enter each arena from four directions via open doorways and all must be killed before players can progress to the next stage. Some arenas feature static gun emplacements set into a wall that must also be destroyed. Power-ups that improve weapons, speed and armour appear at regular intervals, although each only lasts for a limited time.
+Smash TV is broken down into stages, each with a set number of arenas. Tough end-of-level bosses await at the end of each stage.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Coop • Run &amp; Gun / Twin Stick</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<playtime>118</playtime>
+		<lastplayed>20260612T142003</lastplayed>
+	</game>
+	<game>
+		<path>./mystwarr.zip</path>
+		<name>Mystic Warriors</name>
+		<desc>Mystic Warriors is a horizontally-scrolling platform beat-em-up for up to four players, in which the evil 'SKULL' organisation has taken over the world and driven its terrified civilians into hiding. Five Ninja warriors set about destroying SKULL and freeing the World from its grip.
+
+Mystic Warriors features five selectable characters, one of which is shown being kidnapped by SKULL once players have made their character choices. What follows is eight levels of platform 'run-and-gun' action, with an end-of-level boss waiting at the end of each stage.
+
+Players are armed with both Shuriken throwing stars and with a sword for close encounters. Numerous boxes are scattered throughout the levels (or are being carried by enemies), all of which contain bonus items such as weapon power-ups or energy-replenishing food. Other power-ups include an invulnerability shield (known as the "Shinobi Shield") which lasts a few seconds and a "Smart Bomb" power-up, which destroys all on-screen enemies. Some boxes also contain points-giving items, such as bags of money, jewellery and gold.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>551</playtime>
+		<lastplayed>20260612T143334</lastplayed>
+	</game>
+	<game>
+		<path>./bucky.zip</path>
+		<name>Bucky O'Hare</name>
+		<desc>Bucky O'Hare is a scrolling shoot-em-up for up to four players based on the TV cartoon series Bucky O'Hare and the Toad Wars. Players must stop the Toad Empire from invading their home planets in the 'Aniverse' and enslaving their people. To achieve their goal they must shoot their way through an army of brainwashed toads to destroy their evil leader, a computer program known as 'KOMPLEX' and release the 'Interplanetary Life Force.'
+
+Players choose to play as either Blinky (a one-eyed android), Bucky (the heroic rabbit captain), Dead-Eye Duck (a four-armed mallard) or Jenny (an 'Aldebaran cat' and telepath). Differences between the characters are purely visual as each plays the same. </desc>
+		<rating>0.8</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Tatsumi</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>169</playtime>
+		<lastplayed>20260612T143408</lastplayed>
+	</game>
+	<game>
+		<path>./ghostb3.zip</path>
+		<name>The Real Ghostbusters</name>
+		<desc>Adapted from the animated cartoon of the same name. Up to three players, each controlling a Ghostbuster, must run around a top-down universal scrolling terrain, shoot creatures and then try to suck up ghosts with their plasma guns. Players can shoot and then collect various power-ups, including a protective Aura, shot and beam boosters, and a "Green Ghost" Slimer shield satellite. Has interesting screen transition effects and a well-orchestrated version of the movie's popular theme song.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Activision</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
+		<players>1-3</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>142</playtime>
+		<lastplayed>20260612T143509</lastplayed>
+	</game>
+	<game>
+		<path>./ssriders.zip</path>
+		<name>Sunset Riders</name>
+		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
+
+The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
+
+Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
+
+Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
+
+A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
+
+Sunset Riders features eight stages of play.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>92</playtime>
+		<lastplayed>20260612T143531</lastplayed>
+	</game>
+	<game>
+		<path>./elvactr.zip</path>
+		<name>Elevator Action Returns</name>
+		<desc>Elevator Action Returns is a scrolling platform shoot-em-up for one or two players who each take on the role of a special task force operative and must foil a terrorist group that has planted nuclear bombs in various facilities. Players must also obtain the secret intelligence data scattered throughout each facility in order to disarm the bombs. 
+
+The objective of the game is to enter all of the red-coloured doors in each stage, then proceed to the exit. If players miss one of the red doors, they will be unable to progress beyond a certain point. There are also blue-coloured doors and entering these will award the player a special item, these include health refills, special firearms, sub-weapons and bonus points.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Run &amp; Gun / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>218</playtime>
+		<lastplayed>20260612T143926</lastplayed>
 	</game>
 	<game>
 		<path>./mslug.zip</path>
@@ -5265,7 +5186,106 @@ The PlayStation port introduces some extra features: there is a combat school wh
 		<genre>Coop • Run &amp; Gun</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>97</playtime>
+		<lastplayed>20260612T144122</lastplayed>
+	</game>
+	<game>
+		<path>./shocktro.zip</path>
+		<name>Shock Troopers</name>
+		<desc>Shock Troopers is a 1-2 player game where players select one of eight characters to play as. Each character has their own attack. Players also have to choose one of three routes to take. The object of the game is to go toward the end of the level and defeat the end-of-level boss, which is usually a huge vehicle. Crates that are scattered throughout the levels can be broken into to reveal new weapons and power-ups.
+
+There is a team mode where players have to select three characters. The characters can be switched on-the-fly during gameplay, which is useful if one of them is badly injured. Players can use the other teammates until life-ups can be found.</desc>
+		<rating>0.8</rating>
+		<releasedate>19971111T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>242</playtime>
+		<lastplayed>20260612T144534</lastplayed>
+	</game>
+	<game>
+		<path>./mslug2.zip</path>
+		<name>Metal Slug 2</name>
+		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>217</playtime>
+		<lastplayed>20260612T144922</lastplayed>
+	</game>
+	<game>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers : 2nd Squad</name>
+		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+
+The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
 		<playcount>5</playcount>
-		<lastplayed>20250921T105839</lastplayed>
+		<playtime>133</playtime>
+		<lastplayed>20260612T145203</lastplayed>
+	</game>
+	<game>
+		<path>./mslug3.zip</path>
+		<name>Metal Slug 3</name>
+		<desc>In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. You guide one of the heroes: Marco, Tarma, Eri or Fio as they blast their way through sidescrolling levels with a unique theme, filled with countless enemies and difficult bosses. You have to free hostages and you can ride bizarre vehicles such as camels, elephants, tanks and robots.
+
+In the Xbox version, additional game modes, such as Storming the Mothership and Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A co-op mode has been included, but no online multiplayer. The only Xbox Live feature available allows you to compare singleplayer scores.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>1389</playtime>
+		<lastplayed>20260612T151523</lastplayed>
+	</game>
+	<game>
+		<path>./mslug4.zip</path>
+		<name>Metal Slug 4</name>
+		<desc>The 5th episode of the most famous arcade-shooting-series comes bringing the unaltered classic gameplay, a new weapon, 6 new vehicles as well as 2 new soldiers for the pantheon. The most notable introduction to the series is the Metalish System, giving to the player a new possibility to score more points: after pick up certain shield-shape emblems, a timer bar will be displayed at the top of the screen. During this time, you must to shoot rapidly as many enemies as possible and, depending on your acting, you will receive a corresponding badge bonus that will be added to your score after completing it. When you die, the bonus wears off.</desc>
+		<rating>0.8</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>MEGA Enterprise</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>105</playtime>
+		<lastplayed>20260612T151726</lastplayed>
+	</game>
+	<game>
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>The latest installment of the most famous arcade-shooting series brings a lot of changes: this time, you will not face Morden's army like in the previous games, but with a new group of enemies that composes the already mentioned Ptolemaic Army. More content in this title, 3 guns and 2 vehicles from past games were reincorporated, as well as all brand new stuff of 3 vehicles. The most important addition is a sliding move: pressing the B Button when ducking will make your character slide for a short time in the ground. You are not be able to throw grenades, but your gun can be fired normally.</desc>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>66</playtime>
+		<lastplayed>20260612T151850</lastplayed>
 	</game>
 </gameList>

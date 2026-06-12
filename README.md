@@ -203,7 +203,7 @@ Town and Country
 Puzznic - Single Player Only
 Baku Baku Animal - Japanese Only
 Rampart - Requires multiple Trackballs
-
+Cabal - requires multiple trackballs
 # Lightgun Links
 (https://www.sindenwiki.org/wiki/Mesen#:~:text=In%20the%20left%20task%20pane,pointer%20when%20using%20light%20guns.%22)
 (https://www.reddit.com/r/SindenLightgun/comments/1gidmu3/comment/lv75pwf/)
