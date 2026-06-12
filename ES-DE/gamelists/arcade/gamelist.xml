@@ -5288,4 +5288,106 @@ In the Xbox version, additional game modes, such as Storming the Mothership and 
 		<playtime>66</playtime>
 		<lastplayed>20260612T151850</lastplayed>
 	</game>
+	<game>
+		<path>./rthunder.zip</path>
+		<name>Rolling Thunder</name>
+		<desc>Rolling Thunder is a single-player scrolling platform shoot-em-up in which a James Bond-esque secret agent codenamed 'Albatross' has been ordered by the Rolling Thunder anti-espionage unit to stop the criminal organization known as Geldra. Albatross must also rescue captured field agent, Lelia Blitz and overthrow Geldra's leader, Maboo.</desc>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Run &amp; Gun / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>80</playtime>
+		<lastplayed>20260612T154831</lastplayed>
+	</game>
+	<game>
+		<path>./jackal.zip</path>
+		<name>Top Gunner</name>
+		<desc>Jackal is an overhead view jeep game for up to 2 players. The controller moves in four directions, button A fires your grenades (upgradeable to bazooka) and button B your machine gun which ALWAYS fires to the top of the screen. Your mission is to locate facilities where soldiers are being held prisoner, rescue as many as possible, and escort them to a safe landing zone where they will be air transported away. After that, you'll need to fight a boss battle against the enemy to progress.
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>51</playtime>
+		<lastplayed>20260612T155007</lastplayed>
+	</game>
+	<game>
+		<path>./robocop.zip</path>
+		<name>RoboCop</name>
+		<desc>RoboCop - The Future of Law Enforcement is a single player, side-scrolling platform shoot-em-up based on the 1987 movie of the same name. The game's story mirrors that of the film, with former cop Murphy, now a half-human cyborg called 'RoboCop', on a quest to bring down the evil OCP corporation.
+
+RoboCop features nine levels of action, with two of the game's nine stages being into-the-screen target ranges, in which players can try to accrue bonus points and earn extra health. Wooden crates occasionally bar RoboCop's progress, but these can be punched to remove them. Marked crates can be smashed to reveal one of three Weapon power-ups; Three-way Gun, Dual Laser and the incredibly powerful Cobra Gun.
+
+The film's incidental music plays throughout the game and RoboCop's speech is sampled directly from the original film.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Altr • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>98</playtime>
+		<lastplayed>20260612T155252</lastplayed>
+	</game>
+	<game>
+		<path>./aliens.zip</path>
+		<name>Aliens</name>
+		<desc>Aliens is an arcade game based loosely on the 1986 movie Aliens. You and a friend play female Marines and you must explore and destroy all aliens who have taken over a now abandoned space settlement LV426 Acheron. If you can find any survivors try to rescue them. As well as your normal gun there are other weapons that can be used to help you. A Caterpillar P-5000 can also be found and used. Aliens is mainly a side view horizontal shooter where the screen scrolls as you move from left to right. Some parts of the game require you to look behind the hero firing into the screen as aliens come towards from the distance as well as moving in other directions like in a lift. You can also be driving into the screen trying to shoot aliens.</desc>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>26</playtime>
+		<lastplayed>20260612T155344</lastplayed>
+	</game>
+	<game>
+		<path>./gijoe.zip</path>
+		<name>G.I. Joe</name>
+		<desc>Soldiers fight in a futuristic war against the army of an evil emperor. Unlike most army themed games, even trees and buildings can be destroyed if enough bullets are pumped into them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun / Rail</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>3</playtime>
+		<lastplayed>20260612T155414</lastplayed>
+	</game>
+	<game>
+		<path>./totcarn.zip</path>
+		<name>Total Carnage</name>
+		<desc>A pseudo-sequel to Williams' superb 1990 shoot-em-up, "Smash TV", Total Carnage is set in a futuristic parody of the first Gulf War. General Ahkboob, himself an obvious parody of Sadam Hussein, has set his vast army of infantry, tanks and BioGenetic Mutants onto the world.
+
+1 or 2 players must fight through the enemy-packed levels, rescuing reporters and civilians as they go. Total Carnage retains the dual-joystick control of its predecessor, but introduced new weapons, enemies and large, scrolling levels to the original game-play.
+
+As with "Smash TV", Total Carnage features the infamous 'Pleasuredome'; accessible only if players manage to collect the 220 keys that are hidden throughout the game's levels. Total Carnage has a much higher difficulty level than that of "Smash TV".</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Coop • Run &amp; Gun / Twin Stick</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>7</playtime>
+		<lastplayed>20260612T155445</lastplayed>
+	</game>
 </gameList>
