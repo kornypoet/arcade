@@ -119,266 +119,6 @@ Players can hinder their opponent by forming Puyo combinations; a successfully f
 		<lastplayed>20240806T143519</lastplayed>
 	</game>
 	<game>
-		<path>./choplift.zip</path>
-		<name>Choplifter</name>
-		<desc>The player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in an unnamed enemy country. The player must collect the P.O.W.s, transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants. There are a total of 32 hostages per level. To rescue more than 20 will advance the player to the next level.</desc>
-		<rating>0.5</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Altr • Shooting / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20240812T172037</lastplayed>
-	</game>
-	<game>
-		<path>./gradius.zip</path>
-		<name>Gradius</name>
-		<desc>Gradius / Nemesis is a horizontally-scrolling shoot-em-up in which the player pilots a spacecraft known as the Vic Viper as they search through unexplored galaxies looking for a lost armada. These new galaxies are teaming with alien life set upon destroying the Viper. 
-
-The game features a power-up system based on a selection meter at the bottom of the screen called a 'power meter', this allows players to 'buy' weapons and upgrades. To achieve this, players must destroy special individual enemies - usually red in colour - or enemy waves that then drop orange capsules. These capsules can be collected and used to upgrade the Viper's weapons. Each collected capsule advances the power meter by one step. Players can activate the highlighted item at any point, after which the power meter resets.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Altr • Shooters / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20240812T212438</lastplayed>
-	</game>
-	<game>
-		<path>./darius.zip</path>
-		<name>Darius</name>
-		<desc>Darius is a horizontally scrolling shoot-em-up that was unique at the time for featuring a game screen that was three times wider than the conventional size, with the arcade cabinet utilizing three CRT screens to accommodate it.
-
-In the game, the player flies an ornate fighter craft called a Silver Hawk. The craft is equipped with two attack weapons: Missile (forward-firing standard gun) and Bomb (drops from the bottom of the ship). The Silver Hawk is also equipped with the 'Arm' (armor); a green energy shield that can absorb enemy attacks without harm to the ship.</desc>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240812T212845</lastplayed>
-	</game>
-	<game>
-		<path>./lifefrce.zip</path>
-		<name>Life Force</name>
-		<desc>Salamander is a 1 or 2 player sequel to 1985's superb shoot-em-up, "Nemesis". While it retained the same basic gameplay and feel of its predecessor (particularly the superb and innovative weapons system), Salamander featured both superior graphics and a more imaginative approach to level design. The earliest example of the latter appears towards the end of the very first level, in which imposing, organic obstructions grow before the players' eyes. The game's third level - the infamous 'lava' level - is another good example of Salamander's superb design; with huge solar flares constantly erupting both above and below the player's ship that must be carefully navigated to avoid instant loss of life. Salamander introduced further variety to the action with the introduction vertically-scrolling levels, which alternated with the standard side-scrolling levels.
-
-Salamander's weapon power-up system is as follows:
-SPEED UP: Five speed levels.
-MISSILE: Press missile button to launch.
-LASER: Your forward rockets turn into deadly lasers.
-RIPPLE LASER: Use shoot button to fire.
-FORCE FIELD: Protect your ship with barriers.
-MULTIPLE: Increase your fire power by up to four times.
-
-Multiple special powers can be obtained, but the LASER cannot be used in conjunction with the RIPPLE Laser.</desc>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240812T213738</lastplayed>
-	</game>
-	<game>
-		<path>./dbreed.zip</path>
-		<name>Dragon Breed</name>
-		<desc>Zambaquous has done everything to make life hell for the people of Agamen, and as their King Kayus, the time has come to head out to destroy him. This leads to six levels of horizontally-scrolling shoot 'em up action, although with some vertical movement as well.
-
-The thing which sets the game apart from every other horizontally-scrolling shoot 'em up (except Saint Dragon) is that you are riding on the back of a dragon, called Bahamoot. Both you and the dragon have firepower, and holding down the fire button increases Bahamoot's energy bolt's ferocity. The dragon's tail can be controlled indirectly, and because it is indestructible, it can be used either as a shield, or as a weapon in its own right.
-
-There are power-ups to collect by dismounting from the dragon and walking into them. These include fiery breath, bolts shot from Bahamoot's tail, homing missiles of sorts, and lightning bolts, with only one ever active at a time. Each level has a time limit.</desc>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Altr • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240812T215141</lastplayed>
-	</game>
-	<game>
-		<path>./rtype2.zip</path>
-		<name>R-Type II</name>
-		<desc>The sequel to the hugely successful original finds the evil Bydo Empire once again intent on the destruction of all mankind in this sideways scrolling, six-level shoot-em-up.
-
-The innovative weapons system of the original game - the 'Beam Weapon' and 'Force Pod' - make a welcome return and remain unchanged for the sequel.
-
-The tight, demanding gameplay and high emphasis on correct usage of the weapons system also return - although the sequel is, if anything, even more demanding than its already unforgiving predecessor; with more durable enemies and trickier level design. 
-
-R?Type II features three new weapon shot types: 
-Green - Search Laser - fires semi-homing lasers that can bend at 45Â° angles. 
-Grey - Shotgun Laser - fires large shells that travel a short distance before exploding powerfully. 
-Scatter Bomb - drops bombs to the ground; when these explode, the explosion scatters forwards along the ground. This is a supporting weapon that can be equipped instead of missiles.
-
-In addition to the new weapons, R-type II's Beam Weapon has received an upgrade. As with the first game, holding down the fire button makes a power gauge fill up, releases the button then unleashes a powerful plasma shot. For the sequel, however, continuing to hold down the button causes the gauge to charge up further. This 'double-charged' gauge flashes blue and red and releases an even more powerful plasma burst.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Altr • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240812T215845</lastplayed>
-	</game>
-	<game>
-		<path>./xmultipl.zip</path>
-		<name>X Multiply</name>
-		<desc>The game centers around an unusual alien invasion against a colony planet in the year 2249 the aliens themselves are microscopic creatures that invade, infect, and kill the colonists. Scientists have deployed the microscopic fighter X-002 into the body of the hapless woman whose body has been invaded by the alien queen.
-
-The game itself is a side-scroller like R-Type, albeit with a short vertical-scrolling area towards the end of the sixth level. Instead of the Force pod, however, the main power-up apparatus takes the form of two flexible tentacles. The tentacles are invulnerable to all enemy attacks, and can be positioned with careful maneuvering of the X-002.</desc>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Altr • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240812T220346</lastplayed>
-	</game>
-	<game>
-		<path>./zerowing.zip</path>
-		<name>Zero Wing</name>
-		<desc>The player is a lone hero who will save the universe from an evil force.
-
-It enjoyed a degree of success in arcades and was subsequently ported to the Mega Drive by Toaplan on May 31, 1991, in Japan, and by Sega during the following year in Europe, followed by a Japan-only release by Naxat Soft on September 18, 1992, for the PC Engine's CD-ROM².
-
-The European version of the Mega Drive port was the source for "All your base are belong to us", an Internet meme which plays off the poorly translated English in the game's introduction.
-
-Set in 2101, the game follows the signing of a peace treaty between the United Nations and CATS, an alien cyborg. However, CATS breaks the covenant and takes control of the Japanese space colonies. The protagonist leads the ZIG spacecraft, managed to escape from the mother ship destroyed by CATS, with the aim to defeat enemy forces and liberate the Earth.
-
-As with other scrolling shooters, the aim of the game is to shoot all enemies that appear on screen and avoid getting obliterated by enemy fire, crashing into enemies or into foreground scenery. There are mid-level and end-of-level boss enemies that stay with the player until they are defeated. The game features eight levels.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240812T220936</lastplayed>
-	</game>
-	<game>
-		<path>./cotton.zip</path>
-		<name>Cotton - Fantastic Night Dreams</name>
-		<desc>Cotton is a shooter starring a cute, moderately psychotic witch and a fairy. It was originally an arcade game, released in Japan in 1991; it was ported to many other platforms.</desc>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Altr • Shooter / Cute</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240816T145648</lastplayed>
-	</game>
-	<game>
-		<path>./rohga.zip</path>
-		<name>Rohga Armor Force</name>
-		<desc>A good-looking horizontally scrolling shoot 'em up with a few unique features that make it stand out in the crowd.</desc>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Coop • Shooter / Platform</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240816T150501</lastplayed>
-	</game>
-	<game>
-		<path>./boogwing.zip</path>
-		<name>Boogie Wings</name>
-		<desc>A superbly playable, humourous and utterly unique shoot-em-up from the Date East stable. The player begins each life in control of a bi-plane with a huge metal hook attached to its rear. This hook can be used to pick up enemies, objects, bombs and vehicles which can then be thrown both at other enemies, and at any walls and doorways that may be barring the player's route.
-
-If the bi-plane takes two hits from enemy forces, it will explode and the player is forced to continue on foot. The on-foot sections play in a vaguely similar fashion to SNK's legendary "Metal Slug" series, but while on foot, the player has no protection from enemy hits and is very vulnerable to attack. As such, a replacement vehicle (which appear in the form of tanks, motorbikes, giant robots, elephants etc.) must be found quickly.
-
-Boogie Wings features highly detailed and completely destructible scenery, with a multitude of background animations making the game feel 'alive' and giving it much of its distinctive character. The game's settings are as original as its gameplay; with museums, fairgrounds, the inside of skyscrapers etc. all making an appearance. Boogie Wings soundtrack is also unique to the genre, with a mixture of well-known jazz and blues tunes accompanying the frenetic on-screen action.</desc>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240816T151453</lastplayed>
-	</game>
-	<game>
-		<path>./inthunt.zip</path>
-		<name>In the Hunt</name>
-		<desc>A 2D side scrolling shooter in which you take control of a small attack submarine and engage in underwater combat. The Dark Anarchy Society's forces threaten to destroy the earth's most important cities and only you can get past their defenses and destroy their secret underwater lair.
-
-In the Hunt follows the classic template for 2D shooters, with the added feature of being able to control scrolling speed. Includes seven levels of underwater action (and keep an eye out for threats from above the surface), upgradeable weapons, and two player cooperative gameplay.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240816T151613</lastplayed>
-	</game>
-	<game>
-		<path>./rtypeleo.zip</path>
-		<name>R-Type Leo</name>
-		<desc>R-Type Leo is a horizontally-scrolling shoot-em-up and is the third and final arcade release of this classic series (although numerous console-only sequels would follow, see 'Series' for details).
-
-Mankind are currently at peace with their former adversaries, the Bydo Empire, and have taken the opportunity to undertake a massive project called 'Project Paradise'. This involved the construction of an artificial terrestrial-like planet called 'Eden', created as a safe haven should humanity once again find itself under threat. However, soon after construction is completed, 'Major' - the bio-computer system responsible for maintaining Eden - malfunctions, taking control of the planet's defences and launching an attack on mankind. It is up to the newly-developed 'R-9 Leo' fleet to fly in and stop Major's assault on its creators.
-
-R-Type Leo deviates from the gameplay style of its predecessors by removing the use of both the 'Force Pod' and the 'Wave Cannon'. The new weapons are called 'Force Bits' (later identified in "R-Type Final" as "Psy Bits") and the 'Bit Shot'. The three 'Force Bit' weapon types are:
-Red - Claw Laser: a powerful horizontal laser beam and horizontal traverse wave
-Blue - Mirror Laser: fires multiple, ricocheting lasers.
-Green - Search Laser LRG: fires semi-homing lasers that can bend at 90 degree angles.
-
-Unlike previous 'Bit' devices, the 'Force/Psy Bits' are capable of firing either forwards or backwards (their direction dictated by the movement of the ship itself). Finally, the 'Wave Cannon' is replaced by a 'Bit Shot', in which the Psy Bits detach from the ship and collide with the nearest enemy. The Bits can only do this for a limited time before running out of energy, and must be recalled to the ship to recharge.
-
-R Type Leo consists of 6 stages and is the first game in the series to allow 2 players to play simultaneously.</desc>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240816T152323</lastplayed>
-	</game>
-	<game>
-		<path>./tengai.zip</path>
-		<name>Tengai</name>
-		<desc>Nice horizontal shoot'em up with 5 selectable characters who have their own storyline and ending.</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240816T152550</lastplayed>
-	</game>
-	<game>
 		<path>./lwings.zip</path>
 		<name>Legendary Wings</name>
 		<desc>The human race was about to achieve the evolution from an ancient civilization to a state of millennium with the help of DARK, a super powerful computer left by spacemen long ago. DARK suddenly began to malfunction.
@@ -2064,20 +1804,6 @@ Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1
 		<lastplayed>20240912T215937</lastplayed>
 	</game>
 	<game>
-		<path>./blazstar.zip</path>
-		<name>Blazing Star</name>
-		<desc>The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).</desc>
-		<rating>0.9</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Yumekobo</developer>
-		<publisher>SNK</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240916T212948</lastplayed>
-	</game>
-	<game>
 		<path>./aerofgt.zip</path>
 		<name>Aero Fighters</name>
 		<desc>A superb vertically scrolling shoot-em-up in which the player chooses an ace fighter pilot from a selection of 4 countries (USA, Japan, Sweden and Britain) and takes to the skies to destroy enemy jets, boats, helicopt</desc>
@@ -2410,26 +2136,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>14</playcount>
 		<lastplayed>20250704T181411</lastplayed>
-	</game>
-	<game>
-		<path>./rtype.zip</path>
-		<name>R-Type</name>
-		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
-
-The game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R?Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.
-
-The most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R?Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.
-
-R?Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Altr • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20250815T122533</lastplayed>
 	</game>
 	<game>
 		<path>./xmen.zip</path>
@@ -4700,39 +4406,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<lastplayed>20241203T102715</lastplayed>
 	</game>
 	<game>
-		<path>./darius2.zip</path>
-		<name>Darius II</name>
-		<desc>Darius II is the direct sequel to the 1986 original, Darius II retained the distinctive 3-screen format of the first game.
-
-The power-up system of Darius II was changed from that of its parent game, with players having to destroy complete waves of a particular enemy to earn a power-up. 2 new power-ups were also added; the 1st was a new weapon power-up that gave the player green, vertical lasers, the 2nd power-up was a rainbow-colored item that powered up all of the players weapons.</desc>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240812T214716</lastplayed>
-	</game>
-	<game>
-		<path>./blazeon.zip</path>
-		<name>Blaze On</name>
-		<desc>The player is set in control of The Garland TFF-01, a sub-standard space fighter ship that is only armed with a semi-auto or rapid fire laser gun known as the Beam Vulcan and the Tranquilander. Some enemy units can be captured and used in play; certain enemy robots, when shot by the player's Tranquilander, will morph into an outline of themselves. The player can then fly into the outline, and take on the form of the enemy robot, taking control of its weapons, abilities and special attacks.
-
-There is also addition to the boss battle scoring: similar to some shooters, players have the opportunity to increase their scores by beating the end level bosses within a certain time limit. Every time a boss battle is initiated, a timer will count down and once the boss is destroyed/killed before the timer reaches zero, then the time left will add to the player's end-level score; if the timer runs out, then the score at the end of the level will remain unaffected.</desc>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>A.I</developer>
-		<publisher>Atlus</publisher>
-		<genre>Coop • Shooter / Horizontal</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240816T151109</lastplayed>
-	</game>
-	<game>
 		<path>./numanath.zip</path>
 		<name>Numan Athletics</name>
 		<desc>An athletics game featuring 8 tournaments:
@@ -5389,5 +5062,365 @@ As with "Smash TV", Total Carnage features the infamous 'Pleasuredome'; accessib
 		<playcount>1</playcount>
 		<playtime>7</playtime>
 		<lastplayed>20260612T155445</lastplayed>
+	</game>
+	<game>
+		<path>./choplift.zip</path>
+		<name>Choplifter</name>
+		<desc>The player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in an unnamed enemy country. The player must collect the P.O.W.s, transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants. There are a total of 32 hostages per level. To rescue more than 20 will advance the player to the next level.</desc>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Altr • Shooting / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>139</playtime>
+		<lastplayed>20260613T105356</lastplayed>
+	</game>
+	<game>
+		<path>./gradius.zip</path>
+		<name>Gradius</name>
+		<desc>Gradius / Nemesis is a horizontally-scrolling shoot-em-up in which the player pilots a spacecraft known as the Vic Viper as they search through unexplored galaxies looking for a lost armada. These new galaxies are teaming with alien life set upon destroying the Viper. 
+
+The game features a power-up system based on a selection meter at the bottom of the screen called a 'power meter', this allows players to 'buy' weapons and upgrades. To achieve this, players must destroy special individual enemies - usually red in colour - or enemy waves that then drop orange capsules. These capsules can be collected and used to upgrade the Viper's weapons. Each collected capsule advances the power meter by one step. Players can activate the highlighted item at any point, after which the power meter resets.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Altr • Shooters / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>159</playtime>
+		<lastplayed>20260613T105642</lastplayed>
+	</game>
+	<game>
+		<path>./sectionz.zip</path>
+		<name>Section Z</name>
+		<desc>As a sole astronaut, you must penetrate the Balangool alien spacecraft and destroy the L-Brain.The player maneuvers the space ranger throughout the enemy space station, which consists of 26 alphabetically ordered sections, from A to the titular Section Z. The game is divided into five stages, each consisting of five sections (the final stage having six). The player will fight a boss at the end of each stage. The game's stages alternate between horizontal and vertical-scrolling. The player will lose a life every time they get hit. Additional lives can be obtained if the player achieves a high enough score. The controls consist of two buttons, one for shooting and the other for changing the character's aim to the left or right. This allows the player to shoot in one direction while moving away in the opposite. By destroying certain dome-shaped containers, the player can obtain one of three power-up items represented by letters: S (speed), P (power), and B (bonus points).</desc>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Altr Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>5</playtime>
+		<lastplayed>20260613T105659</lastplayed>
+	</game>
+	<game>
+		<path>./darius.zip</path>
+		<name>Darius</name>
+		<desc>Darius is a horizontally scrolling shoot-em-up that was unique at the time for featuring a game screen that was three times wider than the conventional size, with the arcade cabinet utilizing three CRT screens to accommodate it.
+
+In the game, the player flies an ornate fighter craft called a Silver Hawk. The craft is equipped with two attack weapons: Missile (forward-firing standard gun) and Bomb (drops from the bottom of the ship). The Silver Hawk is also equipped with the 'Arm' (armor); a green energy shield that can absorb enemy attacks without harm to the ship.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>51</playtime>
+		<lastplayed>20260613T105836</lastplayed>
+	</game>
+	<game>
+		<path>./lifefrce.zip</path>
+		<name>Life Force</name>
+		<desc>Salamander is a 1 or 2 player sequel to 1985's superb shoot-em-up, "Nemesis". While it retained the same basic gameplay and feel of its predecessor (particularly the superb and innovative weapons system), Salamander featured both superior graphics and a more imaginative approach to level design. The earliest example of the latter appears towards the end of the very first level, in which imposing, organic obstructions grow before the players' eyes. The game's third level - the infamous 'lava' level - is another good example of Salamander's superb design; with huge solar flares constantly erupting both above and below the player's ship that must be carefully navigated to avoid instant loss of life. Salamander introduced further variety to the action with the introduction vertically-scrolling levels, which alternated with the standard side-scrolling levels.
+
+Salamander's weapon power-up system is as follows:
+SPEED UP: Five speed levels.
+MISSILE: Press missile button to launch.
+LASER: Your forward rockets turn into deadly lasers.
+RIPPLE LASER: Use shoot button to fire.
+FORCE FIELD: Protect your ship with barriers.
+MULTIPLE: Increase your fire power by up to four times.
+
+Multiple special powers can be obtained, but the LASER cannot be used in conjunction with the RIPPLE Laser.</desc>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>39</playtime>
+		<lastplayed>20260613T105947</lastplayed>
+	</game>
+	<game>
+		<path>./rtype.zip</path>
+		<name>R-Type</name>
+		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
+
+The game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R?Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.
+
+The most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R?Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.
+
+R?Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>171</playtime>
+		<lastplayed>20260613T110336</lastplayed>
+	</game>
+	<game>
+		<path>./darius2.zip</path>
+		<name>Darius II</name>
+		<desc>Darius II is the direct sequel to the 1986 original, Darius II retained the distinctive 3-screen format of the first game.
+
+The power-up system of Darius II was changed from that of its parent game, with players having to destroy complete waves of a particular enemy to earn a power-up. 2 new power-ups were also added; the 1st was a new weapon power-up that gave the player green, vertical lasers, the 2nd power-up was a rainbow-colored item that powered up all of the players weapons.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>43</playtime>
+		<lastplayed>20260613T110427</lastplayed>
+	</game>
+	<game>
+		<path>./dbreed.zip</path>
+		<name>Dragon Breed</name>
+		<desc>Zambaquous has done everything to make life hell for the people of Agamen, and as their King Kayus, the time has come to head out to destroy him. This leads to six levels of horizontally-scrolling shoot 'em up action, although with some vertical movement as well.
+
+The thing which sets the game apart from every other horizontally-scrolling shoot 'em up (except Saint Dragon) is that you are riding on the back of a dragon, called Bahamoot. Both you and the dragon have firepower, and holding down the fire button increases Bahamoot's energy bolt's ferocity. The dragon's tail can be controlled indirectly, and because it is indestructible, it can be used either as a shield, or as a weapon in its own right.
+
+There are power-ups to collect by dismounting from the dragon and walking into them. These include fiery breath, bolts shot from Bahamoot's tail, homing missiles of sorts, and lightning bolts, with only one ever active at a time. Each level has a time limit.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>126</playtime>
+		<lastplayed>20260613T110700</lastplayed>
+	</game>
+	<game>
+		<path>./rtype2.zip</path>
+		<name>R-Type II</name>
+		<desc>The sequel to the hugely successful original finds the evil Bydo Empire once again intent on the destruction of all mankind in this sideways scrolling, six-level shoot-em-up.
+
+The innovative weapons system of the original game - the 'Beam Weapon' and 'Force Pod' - make a welcome return and remain unchanged for the sequel.
+
+The tight, demanding gameplay and high emphasis on correct usage of the weapons system also return - although the sequel is, if anything, even more demanding than its already unforgiving predecessor; with more durable enemies and trickier level design. 
+
+R?Type II features three new weapon shot types: 
+Green - Search Laser - fires semi-homing lasers that can bend at 45Â° angles. 
+Grey - Shotgun Laser - fires large shells that travel a short distance before exploding powerfully. 
+Scatter Bomb - drops bombs to the ground; when these explode, the explosion scatters forwards along the ground. This is a supporting weapon that can be equipped instead of missiles.
+
+In addition to the new weapons, R-type II's Beam Weapon has received an upgrade. As with the first game, holding down the fire button makes a power gauge fill up, releases the button then unleashes a powerful plasma shot. For the sequel, however, continuing to hold down the button causes the gauge to charge up further. This 'double-charged' gauge flashes blue and red and releases an even more powerful plasma burst.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>117</playtime>
+		<lastplayed>20260613T110929</lastplayed>
+	</game>
+	<game>
+		<path>./xmultipl.zip</path>
+		<name>X Multiply</name>
+		<desc>The game centers around an unusual alien invasion against a colony planet in the year 2249 the aliens themselves are microscopic creatures that invade, infect, and kill the colonists. Scientists have deployed the microscopic fighter X-002 into the body of the hapless woman whose body has been invaded by the alien queen.
+
+The game itself is a side-scroller like R-Type, albeit with a short vertical-scrolling area towards the end of the sixth level. Instead of the Force pod, however, the main power-up apparatus takes the form of two flexible tentacles. The tentacles are invulnerable to all enemy attacks, and can be positioned with careful maneuvering of the X-002.</desc>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Altr • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>107</playtime>
+		<lastplayed>20260613T111138</lastplayed>
+	</game>
+	<game>
+		<path>./zerowing.zip</path>
+		<name>Zero Wing</name>
+		<desc>The player is a lone hero who will save the universe from an evil force.
+
+It enjoyed a degree of success in arcades and was subsequently ported to the Mega Drive by Toaplan on May 31, 1991, in Japan, and by Sega during the following year in Europe, followed by a Japan-only release by Naxat Soft on September 18, 1992, for the PC Engine's CD-ROM².
+
+The European version of the Mega Drive port was the source for "All your base are belong to us", an Internet meme which plays off the poorly translated English in the game's introduction.
+
+Set in 2101, the game follows the signing of a peace treaty between the United Nations and CATS, an alien cyborg. However, CATS breaks the covenant and takes control of the Japanese space colonies. The protagonist leads the ZIG spacecraft, managed to escape from the mother ship destroyed by CATS, with the aim to defeat enemy forces and liberate the Earth.
+
+As with other scrolling shooters, the aim of the game is to shoot all enemies that appear on screen and avoid getting obliterated by enemy fire, crashing into enemies or into foreground scenery. There are mid-level and end-of-level boss enemies that stay with the player until they are defeated. The game features eight levels.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Taito</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>59</playtime>
+		<lastplayed>20260613T111312</lastplayed>
+	</game>
+	<game>
+		<path>./cotton.zip</path>
+		<name>Cotton - Fantastic Night Dreams</name>
+		<desc>Cotton is a shooter starring a cute, moderately psychotic witch and a fairy. It was originally an arcade game, released in Japan in 1991; it was ported to many other platforms.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Altr • Shooter / Cute</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>92</playtime>
+		<lastplayed>20260613T111508</lastplayed>
+	</game>
+	<game>
+		<path>./rohga.zip</path>
+		<name>Rohga Armor Force</name>
+		<desc>A good-looking horizontally scrolling shoot 'em up with a few unique features that make it stand out in the crowd.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Coop • Shooter / Platform</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>102</playtime>
+		<lastplayed>20260613T111723</lastplayed>
+	</game>
+	<game>
+		<path>./blazeon.zip</path>
+		<name>Blaze On</name>
+		<desc>The player is set in control of The Garland TFF-01, a sub-standard space fighter ship that is only armed with a semi-auto or rapid fire laser gun known as the Beam Vulcan and the Tranquilander. Some enemy units can be captured and used in play; certain enemy robots, when shot by the player's Tranquilander, will morph into an outline of themselves. The player can then fly into the outline, and take on the form of the enemy robot, taking control of its weapons, abilities and special attacks.
+
+There is also addition to the boss battle scoring: similar to some shooters, players have the opportunity to increase their scores by beating the end level bosses within a certain time limit. Every time a boss battle is initiated, a timer will count down and once the boss is destroyed/killed before the timer reaches zero, then the time left will add to the player's end-level score; if the timer runs out, then the score at the end of the level will remain unaffected.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>A.I</developer>
+		<publisher>Atlus</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>44</playtime>
+		<lastplayed>20260613T111927</lastplayed>
+	</game>
+	<game>
+		<path>./boogwing.zip</path>
+		<name>Boogie Wings</name>
+		<desc>A superbly playable, humourous and utterly unique shoot-em-up from the Date East stable. The player begins each life in control of a bi-plane with a huge metal hook attached to its rear. This hook can be used to pick up enemies, objects, bombs and vehicles which can then be thrown both at other enemies, and at any walls and doorways that may be barring the player's route.
+
+If the bi-plane takes two hits from enemy forces, it will explode and the player is forced to continue on foot. The on-foot sections play in a vaguely similar fashion to SNK's legendary "Metal Slug" series, but while on foot, the player has no protection from enemy hits and is very vulnerable to attack. As such, a replacement vehicle (which appear in the form of tanks, motorbikes, giant robots, elephants etc.) must be found quickly.
+
+Boogie Wings features highly detailed and completely destructible scenery, with a multitude of background animations making the game feel 'alive' and giving it much of its distinctive character. The game's settings are as original as its gameplay; with museums, fairgrounds, the inside of skyscrapers etc. all making an appearance. Boogie Wings soundtrack is also unique to the genre, with a mixture of well-known jazz and blues tunes accompanying the frenetic on-screen action.</desc>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>148</playtime>
+		<lastplayed>20260613T112214</lastplayed>
+	</game>
+	<game>
+		<path>./rtypeleo.zip</path>
+		<name>R-Type Leo</name>
+		<desc>R-Type Leo is a horizontally-scrolling shoot-em-up and is the third and final arcade release of this classic series (although numerous console-only sequels would follow, see 'Series' for details).
+
+Mankind are currently at peace with their former adversaries, the Bydo Empire, and have taken the opportunity to undertake a massive project called 'Project Paradise'. This involved the construction of an artificial terrestrial-like planet called 'Eden', created as a safe haven should humanity once again find itself under threat. However, soon after construction is completed, 'Major' - the bio-computer system responsible for maintaining Eden - malfunctions, taking control of the planet's defences and launching an attack on mankind. It is up to the newly-developed 'R-9 Leo' fleet to fly in and stop Major's assault on its creators.
+
+R-Type Leo deviates from the gameplay style of its predecessors by removing the use of both the 'Force Pod' and the 'Wave Cannon'. The new weapons are called 'Force Bits' (later identified in "R-Type Final" as "Psy Bits") and the 'Bit Shot'. The three 'Force Bit' weapon types are:
+Red - Claw Laser: a powerful horizontal laser beam and horizontal traverse wave
+Blue - Mirror Laser: fires multiple, ricocheting lasers.
+Green - Search Laser LRG: fires semi-homing lasers that can bend at 90 degree angles.
+
+Unlike previous 'Bit' devices, the 'Force/Psy Bits' are capable of firing either forwards or backwards (their direction dictated by the movement of the ship itself). Finally, the 'Wave Cannon' is replaced by a 'Bit Shot', in which the Psy Bits detach from the ship and collide with the nearest enemy. The Bits can only do this for a limited time before running out of energy, and must be recalled to the ship to recharge.
+
+R Type Leo consists of 6 stages and is the first game in the series to allow 2 players to play simultaneously.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>65</playtime>
+		<lastplayed>20260613T114118</lastplayed>
+	</game>
+	<game>
+		<path>./inthunt.zip</path>
+		<name>In the Hunt</name>
+		<desc>A 2D side scrolling shooter in which you take control of a small attack submarine and engage in underwater combat. The Dark Anarchy Society's forces threaten to destroy the earth's most important cities and only you can get past their defenses and destroy their secret underwater lair.
+
+In the Hunt follows the classic template for 2D shooters, with the added feature of being able to control scrolling speed. Includes seven levels of underwater action (and keep an eye out for threats from above the surface), upgradeable weapons, and two player cooperative gameplay.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>49</playtime>
+		<lastplayed>20260613T114226</lastplayed>
+	</game>
+	<game>
+		<path>./tengai.zip</path>
+		<name>Tengai</name>
+		<desc>Nice horizontal shoot'em up with 5 selectable characters who have their own storyline and ending.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>48</playtime>
+		<lastplayed>20260613T114348</lastplayed>
+	</game>
+	<game>
+		<path>./blazstar.zip</path>
+		<name>Blazing Star</name>
+		<desc>The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Coop • Shooter / Horizontal</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>97</playtime>
+		<lastplayed>20260613T114554</lastplayed>
 	</game>
 </gameList>
