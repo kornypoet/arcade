@@ -9,6 +9,38 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/travis/mame/roms/ikaruga.zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/Soulcalibur (USA).cue/Soulcalibur (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/mame/roms/zerogu2.zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/Tetris Attack (U) [!].smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/travis/mame/roms/hotd2.zip",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
@@ -89,14 +121,6 @@
       "db_name": ""
     },
     {
-      "path": "/home/travis/ROMs/dreamcast/Soulcalibur (USA).cue/Soulcalibur (USA).cue",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
       "path": "/home/travis/ROMs/nes/Kings of the Beach - Professional Beach Volleyball (USA).nes",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/mesen_libretro.so",
@@ -162,14 +186,6 @@
     },
     {
       "path": "/home/travis/ROMs/snes/Super Mario Kart (U) [!].smc",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "Nintendo - SNES / SFC (Snes9x)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
-      "path": "/home/travis/ROMs/snes/Tetris Attack (U) [!].smc",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
       "core_name": "Nintendo - SNES / SFC (Snes9x)",
