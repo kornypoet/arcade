@@ -8,7 +8,7 @@
 		<releasedate>19871215T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Lightgun Shooter</genre>
+		<genre>Solo • Lightgun / Gallery</genre>
 		<players>1</players>
 		<playcount>4</playcount>
 		<playtime>227</playtime>
@@ -26,7 +26,7 @@ Once you're in the ring you'll have to beat your opponent with smart fighting. U
 		<releasedate>19871115T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Sports / Boxing</genre>
+		<genre>Solo • Sports / Boxing</genre>
 		<players>1</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>8</playcount>
@@ -43,7 +43,7 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
 		<releasedate>19900223T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Puzzle / Fall</genre>
+		<genre>Solo • Puzzle / Falling Block</genre>
 		<players>1</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>20</playcount>
@@ -59,7 +59,7 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
 		<releasedate>19910601T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Ultra Games</publisher>
-		<genre>Sports / Baseball</genre>
+		<genre>Comp • Sports / Baseball</genre>
 		<players>1-2</players>
 		<playcount>4</playcount>
 		<playtime>114</playtime>
@@ -75,7 +75,7 @@ There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawa
 		<releasedate>19900101T000000</releasedate>
 		<developer>Electronic Arts</developer>
 		<publisher>Ultra Games</publisher>
-		<genre>Sports / Volleyball</genre>
+		<genre>Comp • Sports / Volleyball</genre>
 		<players>1-4</players>
 		<playcount>4</playcount>
 		<playtime>286</playtime>
@@ -91,7 +91,7 @@ Mode C features target practice on clay pigeons rather than ducks. The perspecti
 		<releasedate>19870815T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Hunting</genre>
+		<genre>Solo • Lightgun / Gallery</genre>
 		<players>1</players>
 		<playcount>7</playcount>
 		<playtime>466</playtime>

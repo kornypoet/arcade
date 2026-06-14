@@ -1,19 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Mario Golf - Toadstool Tour (USA).rvz</path>
-		<name>Mario Golf : Toadstool Tour</name>
-		<desc>Mario Golf: Toadstool Tour updates the Mario Golf series with more swing control, new courses, and fun side games. Carefully select your club, choose the optimal contact point and trajectory, compensate for wind and green speeds, and then swing away. You'll also have to compensate for each character's weaknesses and for each course's terrain--from beautiful rolling hills to fantastic pipes and sand traps. One to four players can enter a tournament, which rewards skillful play with trophies, badges, prizes, and secrets.</desc>
-		<rating>0.9</rating>
-		<releasedate>20040618T000000</releasedate>
-		<developer>Camelot Software</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports / Golf</genre>
-		<players>1-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20250907T111940</lastplayed>
-	</game>
-	<game>
 		<path>./Soulcalibur II (USA).rvz</path>
 		<name>SoulCalibur II</name>
 		<desc>Open the next chapter in world of Soul Calibur.
@@ -27,7 +14,7 @@ Prove yourself through soul and sword.</desc>
 		<releasedate>20030924T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Fighting / 3D</genre>
+		<genre>Comp • Fighting / 3D</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>22</playcount>

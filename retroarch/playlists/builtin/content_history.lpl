@@ -9,6 +9,30 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/travis/ROMs/dreamcast/Virtua Tennis (USA).cue/Virtua Tennis (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/GigaWing 2 (USA).cue/GigaWing 2 (USA).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/dreamcast/ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).cue/ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).cue",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/travis/mame/roms/ikaruga.zip",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
@@ -82,14 +106,6 @@
     },
     {
       "path": "/home/travis/ROMs/dreamcast/Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da).cue/Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da).cue",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
-      "path": "/home/travis/ROMs/dreamcast/Virtua Tennis (USA).cue/Virtua Tennis (USA).cue",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",

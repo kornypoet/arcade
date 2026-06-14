@@ -8,7 +8,7 @@
 		<releasedate>19940526T000000</releasedate>
 		<developer>Visual Concepts</developer>
 		<publisher>Interplay</publisher>
-		<genre>Fighting</genre>
+		<genre>Comp • Fighting</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>6</playcount>
@@ -23,7 +23,7 @@
 		<releasedate>19950901T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
+		<genre>Comp • Fighting / Weapon</genre>
 		<players>1-2</players>
 		<playcount>4</playcount>
 		<playtime>199</playtime>
@@ -37,7 +37,7 @@
 		<releasedate>19961128T000000</releasedate>
 		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Puzzle / Fall</genre>
+		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-2</players>
 		<playcount>2</playcount>
 		<playtime>95</playtime>
@@ -53,7 +53,7 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<releasedate>19930121T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Racing TPV</genre>
+		<genre>Comp • Racing / Kart</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>16</playcount>
@@ -72,7 +72,7 @@ Players are also not limited to the traditional Bomberman.  There is a wide sele
 		<releasedate>19951015T000000</releasedate>
 		<developer>Hudson Soft</developer>
 		<publisher>Hudson Soft</publisher>
-		<genre>Action / Labyrinth</genre>
+		<genre>Comp • Action / Labyrinth</genre>
 		<players>1-5</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>9</playcount>
@@ -93,7 +93,7 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<releasedate>19940101T000000</releasedate>
 		<developer>Merit Software</developer>
 		<publisher>Ocean</publisher>
-		<genre>Racing, Driving</genre>
+		<genre>Comp • Racing</genre>
 		<players>1-4</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>17</playcount>
@@ -108,7 +108,7 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<releasedate>19941216T000000</releasedate>
 		<developer>TOSE</developer>
 		<publisher>Bullet Proof Software</publisher>
-		<genre>Puzzle / Fall</genre>
+		<genre>Comp • Puzzle / Falling Block</genre>
 		<players>1-4</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>15</playcount>
