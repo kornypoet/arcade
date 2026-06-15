@@ -123,21 +123,6 @@ In addition to several locales in which to fight and alternate models/costumes p
 		<lastplayed>20260427T213141</lastplayed>
 	</game>
 	<game>
-		<path>./Dead or Alive 2 (USA).cue</path>
-		<name>Dead or Alive 2</name>
-		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000229T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Comp • Fighting / 3D</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<playtime>464</playtime>
-		<lastplayed>20260427T214053</lastplayed>
-	</game>
-	<game>
 		<path>./ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).cue</path>
 		<name>ChuChu Rocket!</name>
 		<desc>ChuChu Rocket is an action puzzler, designed predominantly as a multi-player game. You have indirect control over mice, and must guide them to the safety of a rocket, and away from a cat. You do this by placing arrows on the ground, which they will follow. The multi-player game is a frantic all-against-all duel, in which each player's mice will only follow instructions of their own colour. You can play this mode on your own against CPU opponents, or take on a series of predefined puzzles</desc>
@@ -151,5 +136,20 @@ In addition to several locales in which to fight and alternate models/costumes p
 		<playcount>1</playcount>
 		<playtime>265</playtime>
 		<lastplayed>20260614T151325</lastplayed>
+	</game>
+	<game>
+		<path>./Dead or Alive 2 (USA).cue</path>
+		<name>Dead or Alive 2</name>
+		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>464</playtime>
+		<lastplayed>20260427T214053</lastplayed>
 	</game>
 </gameList>
