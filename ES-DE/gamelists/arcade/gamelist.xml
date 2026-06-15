@@ -2784,271 +2784,6 @@ Depending of the originating country, there are different game modes:
 		<lastplayed>20260610T211850</lastplayed>
 	</game>
 	<game>
-		<path>./opwolf.zip</path>
-		<name>Operation Wolf</name>
-		<desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
-
-In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Solo • Lightgun / Rail</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>210</playtime>
-		<lastplayed>20260603T103824</lastplayed>
-	</game>
-	<game>
-		<path>./term2.zip</path>
-		<name>Terminator 2 : Judgment Day</name>
-		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
-
-Hasta La Vista, Baby!</desc>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>171</playtime>
-		<lastplayed>20260601T220854</lastplayed>
-	</game>
-	<game>
-		<path>./lethalen.zip</path>
-		<name>Lethal Enforcers</name>
-		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
-
-As an undercover police officer the player's mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player's energy level being severely reduced.
-
-Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can't and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>11</playcount>
-		<playtime>570</playtime>
-		<lastplayed>20260522T174254</lastplayed>
-	</game>
-	<game>
-		<path>./alien3.zip</path>
-		<name>Alien 3 : The Gun</name>
-		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
-
-One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>122</playtime>
-		<lastplayed>20260601T222149</lastplayed>
-	</game>
-	<game>
-		<path>./le2.zip</path>
-		<name>Lethal Enforcers II: Gun Fighters</name>
-		<desc>Western style shooting game featuring digitized characters. The game consists of 5 stages: Bank Robbery, Stage Hold-Up, Saloon Showdown, Train Robbery, and Hide-Out. 
-
-The player begins the game holding the rank of Sheriff, but if too many innocents or fellow lawmen are killed, the player can be demoted to Deputy or even Posse member. Complete a stage without killing any innocents, and the player is promoted to Deputy Marshal, further success can eventually lead to the player being promoted to the level of U.S. Marshal.
-
-The player's gun can hold up to 6 bullets at a time. On each stage, there are special items that can be shot to reveal better weaponry, such as double rigs, rifles, 50 caliber sharps, shotguns, gatling guns and cannon. The gatling guns and cannon can only be used once but the double rigs, rifles, 50 caliber sharps and shotguns can be reloaded the same way as your regular 6-gun. Once a life is lost, any additional weapons are lost and the player is once again armed with only a 6-gun.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Konami</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>176</playtime>
-		<lastplayed>20260522T142627</lastplayed>
-	</game>
-	<game>
-		<path>./ptblank.zip</path>
-		<name>Point Blank</name>
-		<desc>Point Blank is a challenging light gun game where players can select from a variety of target practice mini games.
-
-Many games require skill and accuracy, such as shooting cardboard cutouts of criminals, a one-shot chance at hitting a leaf, aiming for a specific toy from a shelf, and shooting at objects that move across the screen or rush towards the player.
-
-Your 'judgement' is based on your shooting accuracy in some games, and others require you to hit a certain number of targets within the given time.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Lightgun / Minigame</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<playtime>129</playtime>
-		<lastplayed>20260522T153047</lastplayed>
-	</game>
-	<game>
-		<path>./timecris.zip</path>
-		<name>Time Crisis</name>
-		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
-
-As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
-
-The game offers the player two different game modes: 
-STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
-TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<playtime>236</playtime>
-		<lastplayed>20260601T222252</lastplayed>
-	</game>
-	<game>
-		<path>./area51.zip</path>
-		<name>Area 51</name>
-		<desc>This game takes the player through several sections of the facility, including a warehouse and underground tunnels. The player is tasked, along with fellow STAAR members, to penetrate Area 51 and activate the nuclear self-destruct sequence. The player must kill all of the genetically altered soldiers and aliens without harming any allied STAAR team members (at the cost of one life point), however if nothing but three STAAR team members are shot, the Kronn Hunter will be started, taking the role of a Hunter, sent by the Kronn to eliminate the rebels. None of the actual aliens will appear until the office level.
-
-There are five types of different weaponry available to the player during the course of the game. While the player is only given a semi-automatic pistol in the beginning, weapon upgrades are available as targets throughout the game. The pistol can be upgraded to an automatic machine gun, a pump shotgun, and finally an automatic shotgun. The shotgun weaponry allows a greater field of error for targeting an enemy in able to kill it. Both the machine gun and automatic shotgun allow the player to keep the trigger pressed down to unleash rounds. If the player is hit by the enemy at any time, the weapon is downgraded back to the pistol. The player will also find grenades in crates and bonus rooms which, when used, destroys most on screen enemies at once. The player can hold a max of 9 grenades. In addition, yellow boxes and barrels marked with flammable warning symbols can be shot to cause fires or explosions that can harm enemies.
-
-The game is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely-contrasting, unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2-D digitized video sprites, the levels and vehicles are pre-rendered in 3-D.</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Coop • Lightgun</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>10</playcount>
-		<playtime>633</playtime>
-		<lastplayed>20260601T221040</lastplayed>
-	</game>
-	<game>
-		<path>./maxforce.zip</path>
-		<name>Maximum Force</name>
-		<desc>This game was the second developed by Mesa Logic for Atari Games and has often been described as an unofficial sequel to "Area 51" (the real sequel being "Area 51 Site 4").
-
-The game shares many similarities with "Area 51" (secret rooms, hard drive etc.) but uses a more sophisticated sprite overlay system, which allowed the interactive element to have the same number of colours as the video. Maximum Force uses a 16Bit stream for the main video (instead of 15bit for "Area 51"). There's about 50 minutes of video on the 2 GB hard drive. However, despite the more realistic sprites, innocents still do not disappear when shot and actual gore content is far less than that of, say, Mortal Kombat - Maximum Force was a product of the era where games such as Doom were still being blamed for violent shootings in America and Atari Games wanted to maintain their 'good guy' image.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Coop • Lightgun</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<playtime>217</playtime>
-		<lastplayed>20260610T222423</lastplayed>
-	</game>
-	<game>
-		<path>./policetr.zip</path>
-		<name>Police Trainer</name>
-		<desc>Train to become a police officer in this target shooter.</desc>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>P&amp;P Marketing</developer>
-		<publisher>P&amp;P Marketing</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>133</playtime>
-		<lastplayed>20260522T155024</lastplayed>
-	</game>
-	<game>
-		<path>./hotd.zip</path>
-		<name>The House of the Dead</name>
-		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.
-
-The game is divided into 4 chapters; Armored Giant, Man-Bat, Giant Spider, and 'Magician'. The game allows you to aim and destroy specific body parts. (i.e. you can blow off the arms of a chainsaw-wielding undead enemy), although blowing off their heads is the fastest way of killing them. Awesome and one of the best selling modern video games!</desc>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<playtime>399</playtime>
-		<lastplayed>20260531T151746</lastplayed>
-	</game>
-	<game>
-		<path>./ptblank2.zip</path>
-		<name>Point Blank 2</name>
-		<desc>Dan and Don return for another round of shooting action. This time there are heaps of new mini games, as well as a few that improve on what was available in the first title in the series.</desc>
-		<rating>0.6</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Lightgun / Minigame</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>42</playtime>
-		<lastplayed>20260531T145959</lastplayed>
-	</game>
-	<game>
-		<path>./bbh.zip</path>
-		<name>Big Buck Hunter</name>
-		<rating>0.6</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Incredible Technologies</developer>
-		<publisher>Incredible Technologies</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>313</playtime>
-		<lastplayed>20260522T154523</lastplayed>
-	</game>
-	<game>
-		<path>./bbhsc.zip</path>
-		<name>Big Buck Hunter - Shooter's Challenge</name>
-		<rating>0.6</rating>
-		<releasedate>20020101T000000</releasedate>
-		<genre>Shooter / FPV</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<playtime>563</playtime>
-		<lastplayed>20260531T141143</lastplayed>
-	</game>
-	<game>
-		<path>./bbh2sp.zip</path>
-		<name>Big Buck Hunter II - Sportsman's Paradise</name>
-		<desc>Big Buck Hunter is an arcade hunting game released by Play Mechanix, Inc..
-The initial series of games operate on a single gun platform and allows four players to compete round robin style through various treks and bonus stages.
-The game centers on a player's ability to shoot up to three bucks a stage without shooting a doe or female animal, thus ending the player's turn prematurely.</desc>
-		<rating>0.6</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shooter / FPV</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<playtime>394</playtime>
-		<lastplayed>20260531T141926</lastplayed>
-	</game>
-	<game>
-		<path>./bbhcotw.zip</path>
-		<name>Big Buck Hunter Call Of The Wild</name>
-		<rating>0.6</rating>
-		<releasedate>20060101T000000</releasedate>
-		<genre>Shooter / FPV</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>549</playtime>
-		<lastplayed>20260531T142903</lastplayed>
-	</game>
-	<game>
 		<path>./ladybug.zip</path>
 		<name>Lady Bug</name>
 		<desc>In Lady Bug you guide a lady bug through a Pac-Man style maze, eating dots, and avoiding enemy insects. You lose a life if you run into a skull or get eaten by an enemy insect. Collect letters to spell EXTRA for a bonus life (just like in Mr. Do!), and SPECIAL for an extra credit. The maze has rotating doors which are just enough to give the game a slightly different feel than the Pac-Man series.</desc>
@@ -4737,7 +4472,7 @@ Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped th
 		<releasedate>19980101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
+		<genre>Coop • Lightgun / Rail</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>6</playcount>
@@ -5582,5 +5317,301 @@ You will need to reclaim at least 80% of the game board to complete a level.</de
 		<genre>Altr • Action / Puzzle</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
+	</game>
+	<game>
+		<path>./opwolf.zip</path>
+		<name>Operation Wolf</name>
+		<desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
+
+In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Solo • Lightgun / Rail</genre>
+		<players>1</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>214</playtime>
+		<lastplayed>20260614T211915</lastplayed>
+	</game>
+	<game>
+		<path>./term2.zip</path>
+		<name>Terminator 2 : Judgment Day</name>
+		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
+
+Hasta La Vista, Baby!</desc>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>177</playtime>
+		<lastplayed>20260614T211937</lastplayed>
+	</game>
+	<game>
+		<path>./lethalen.zip</path>
+		<name>Lethal Enforcers</name>
+		<desc>Lethal Enforcers © 1992 Konami Company, Ltd
+
+As an undercover police officer the player's mission is to put a stop to an array of criminals ranging from bank robbers, hijackers and numerous other law breakers. As well as upholding the law, players must also try to protect innocent members of the public from the criminal gangs, being careful not to accidentally shoot them. Shooting innocent victims will result in the player's energy level being severely reduced.
+
+Lethal Enforcers is an on-the-rails light-gun game. The player is initially armed only with a standard issue revolver, but weapon upgrades such as a .357 Magnum, a shotgun and an automatic pistol can be collected by shooting at their on-screen counterparts as the game progresses. While some weapons can be reloaded, others can't and are only useful for a limited time. Any weapon upgrades are lost in the event of a player losing a life.</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>12</playcount>
+		<playtime>575</playtime>
+		<lastplayed>20260614T211951</lastplayed>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien 3 : The Gun</name>
+		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
+
+One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>128</playtime>
+		<lastplayed>20260614T212010</lastplayed>
+	</game>
+	<game>
+		<path>./le2.zip</path>
+		<name>Lethal Enforcers II: Gun Fighters</name>
+		<desc>Western style shooting game featuring digitized characters. The game consists of 5 stages: Bank Robbery, Stage Hold-Up, Saloon Showdown, Train Robbery, and Hide-Out. 
+
+The player begins the game holding the rank of Sheriff, but if too many innocents or fellow lawmen are killed, the player can be demoted to Deputy or even Posse member. Complete a stage without killing any innocents, and the player is promoted to Deputy Marshal, further success can eventually lead to the player being promoted to the level of U.S. Marshal.
+
+The player's gun can hold up to 6 bullets at a time. On each stage, there are special items that can be shot to reveal better weaponry, such as double rigs, rifles, 50 caliber sharps, shotguns, gatling guns and cannon. The gatling guns and cannon can only be used once but the double rigs, rifles, 50 caliber sharps and shotguns can be reloaded the same way as your regular 6-gun. Once a life is lost, any additional weapons are lost and the player is once again armed with only a 6-gun.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>182</playtime>
+		<lastplayed>20260614T212038</lastplayed>
+	</game>
+	<game>
+		<path>./ptblank.zip</path>
+		<name>Point Blank</name>
+		<desc>Point Blank is a challenging light gun game where players can select from a variety of target practice mini games.
+
+Many games require skill and accuracy, such as shooting cardboard cutouts of criminals, a one-shot chance at hitting a leaf, aiming for a specific toy from a shelf, and shooting at objects that move across the screen or rush towards the player.
+
+Your 'judgement' is based on your shooting accuracy in some games, and others require you to hit a certain number of targets within the given time.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Lightgun / Gallery</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>133</playtime>
+		<lastplayed>20260614T212056</lastplayed>
+	</game>
+	<game>
+		<path>./vcop.zip</path>
+		<name>Virtua Cop</name>
+		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<playcount>2</playcount>
+		<playtime>173</playtime>
+		<lastplayed>20260614T212111</lastplayed>
+	</game>
+	<game>
+		<path>./timecris.zip</path>
+		<name>Time Crisis</name>
+		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
+
+As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
+
+The game offers the player two different game modes: 
+STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
+TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Solo • Lightgun / Rail</genre>
+		<players>1</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>242</playtime>
+		<lastplayed>20260614T212137</lastplayed>
+	</game>
+	<game>
+		<path>./area51.zip</path>
+		<name>Area 51</name>
+		<desc>This game takes the player through several sections of the facility, including a warehouse and underground tunnels. The player is tasked, along with fellow STAAR members, to penetrate Area 51 and activate the nuclear self-destruct sequence. The player must kill all of the genetically altered soldiers and aliens without harming any allied STAAR team members (at the cost of one life point), however if nothing but three STAAR team members are shot, the Kronn Hunter will be started, taking the role of a Hunter, sent by the Kronn to eliminate the rebels. None of the actual aliens will appear until the office level.
+
+There are five types of different weaponry available to the player during the course of the game. While the player is only given a semi-automatic pistol in the beginning, weapon upgrades are available as targets throughout the game. The pistol can be upgraded to an automatic machine gun, a pump shotgun, and finally an automatic shotgun. The shotgun weaponry allows a greater field of error for targeting an enemy in able to kill it. Both the machine gun and automatic shotgun allow the player to keep the trigger pressed down to unleash rounds. If the player is hit by the enemy at any time, the weapon is downgraded back to the pistol. The player will also find grenades in crates and bonus rooms which, when used, destroys most on screen enemies at once. The player can hold a max of 9 grenades. In addition, yellow boxes and barrels marked with flammable warning symbols can be shot to cause fires or explosions that can harm enemies.
+
+The game is notable for its use of digitized video stored on an on-board hard disk, and the bizarrely-contrasting, unrealistic gibs into which every enemy blows apart when shot, in exactly the same way. While enemies, innocents, and explosions are 2-D digitized video sprites, the levels and vehicles are pre-rendered in 3-D.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<playtime>637</playtime>
+		<lastplayed>20260614T212200</lastplayed>
+	</game>
+	<game>
+		<path>./maxforce.zip</path>
+		<name>Maximum Force</name>
+		<desc>This game was the second developed by Mesa Logic for Atari Games and has often been described as an unofficial sequel to "Area 51" (the real sequel being "Area 51 Site 4").
+
+The game shares many similarities with "Area 51" (secret rooms, hard drive etc.) but uses a more sophisticated sprite overlay system, which allowed the interactive element to have the same number of colours as the video. Maximum Force uses a 16Bit stream for the main video (instead of 15bit for "Area 51"). There's about 50 minutes of video on the 2 GB hard drive. However, despite the more realistic sprites, innocents still do not disappear when shot and actual gore content is far less than that of, say, Mortal Kombat - Maximum Force was a product of the era where games such as Doom were still being blamed for violent shootings in America and Atari Games wanted to maintain their 'good guy' image.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>221</playtime>
+		<lastplayed>20260614T212211</lastplayed>
+	</game>
+	<game>
+		<path>./policetr.zip</path>
+		<name>Police Trainer</name>
+		<desc>Train to become a police officer in this target shooter.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>P&amp;P Marketing</developer>
+		<publisher>P&amp;P Marketing</publisher>
+		<genre>Comp • Lightgun / Gallery</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>137</playtime>
+		<lastplayed>20260614T212223</lastplayed>
+	</game>
+	<game>
+		<path>./hotd.zip</path>
+		<name>The House of the Dead</name>
+		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.
+
+The game is divided into 4 chapters; Armored Giant, Man-Bat, Giant Spider, and 'Magician'. The game allows you to aim and destroy specific body parts. (i.e. you can blow off the arms of a chainsaw-wielding undead enemy), although blowing off their heads is the fastest way of killing them. Awesome and one of the best selling modern video games!</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Lightgun / Rail</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>406</playtime>
+		<lastplayed>20260614T212236</lastplayed>
+	</game>
+	<game>
+		<path>./ptblank2.zip</path>
+		<name>Point Blank 2</name>
+		<desc>Dan and Don return for another round of shooting action. This time there are heaps of new mini games, as well as a few that improve on what was available in the first title in the series.</desc>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Lightgun / Gallery</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>47</playtime>
+		<lastplayed>20260614T212300</lastplayed>
+	</game>
+	<game>
+		<path>./bbhsc.zip</path>
+		<name>Big Buck Hunter - Shooter's Challenge</name>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Play Mechanix</developer>
+		<publisher>Incredible Technologies</publisher>
+		<genre>Altr • Lightgun / Gallery</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>568</playtime>
+		<lastplayed>20260614T212355</lastplayed>
+	</game>
+	<game>
+		<path>./bbhcotw.zip</path>
+		<name>Big Buck Hunter Call Of The Wild</name>
+		<rating>0.6</rating>
+		<releasedate>20060101T000000</releasedate>
+		<genre>Altr • Lightgun / Gallery</genre>
+		<developer>Play Mechanix</developer>
+		<publisher>Incredible Technologies</publisher>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>553</playtime>
+		<lastplayed>20260614T212506</lastplayed>
+	</game>
+	<game>
+		<path>./bbh2sp.zip</path>
+		<name>Big Buck Hunter II - Sportsman's Paradise</name>
+		<desc>Big Buck Hunter is an arcade hunting game released by Play Mechanix, Inc..
+The initial series of games operate on a single gun platform and allows four players to compete round robin style through various treks and bonus stages.
+The game centers on a player's ability to shoot up to three bucks a stage without shooting a doe or female animal, thus ending the player's turn prematurely.</desc>
+		<rating>0.6</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Altr • Lightgun / Gallery</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<developer>Play Mechanix</developer>
+		<publisher>Incredible Technologies</publisher>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>398</playtime>
+		<lastplayed>20260614T212412</lastplayed>
+	</game>
+	<game>
+		<path>./bbh.zip</path>
+		<name>Big Buck Hunter</name>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Play Mechanix</developer>
+		<publisher>Incredible Technologies</publisher>
+		<genre>Solo • Lightgun / Gallery</genre>
+		<players>1</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>707</playtime>
+		<lastplayed>20260614T220813</lastplayed>
 	</game>
 </gameList>

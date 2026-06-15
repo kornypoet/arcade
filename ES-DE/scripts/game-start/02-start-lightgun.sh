@@ -16,6 +16,7 @@ joystick_single_games=(
     'ptblank.zip'
     'ptblank2.zip'
     'timecris.zip'
+    'vcop.zip'
 )
 
 joystick_auto_games=(
