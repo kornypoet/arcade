@@ -30,20 +30,6 @@
 		<lastplayed>20260427T203112</lastplayed>
 	</game>
 	<game>
-		<path>./Tetris Attack (U) [!].smc</path>
-		<name>Tetris Attack</name>
-		<desc>Tetris Attack throws Yoshi's Island into turmoil – King Bowser has cast a dark spell, turning nearly all its inhabitants into mindless servants. Only Yoshi has escaped, and he must set out to rescue his friends and defeat Bowser. The game blends fast-paced puzzle action with colorful Yoshi's Island charm, as you swap blocks to create rows, trigger combos, and unleash massive garbage blocks on your opponents. Alongside the story mode, you'll find two-player battles, endless play, time trials, and tricky puzzles. Beneath its Western name lies the Japanese original Panel de Pon – now starring Yoshi and his vibrant island crew.</desc>
-		<rating>0.8</rating>
-		<releasedate>19961128T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Comp • Puzzle / Falling Block</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<playtime>95</playtime>
-		<lastplayed>20260427T203224</lastplayed>
-	</game>
-	<game>
 		<path>./Super Mario Kart (U) [!].smc</path>
 		<name>Super Mario Kart</name>
 		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
@@ -114,5 +100,35 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<playcount>15</playcount>
 		<playtime>180</playtime>
 		<lastplayed>20260427T204726</lastplayed>
+	</game>
+	<game>
+		<path>./Zombies Ate My Neighbors (U) [!].smc</path>
+		<name>Zombies Ate My Neighbors</name>
+		<desc>In the game you are a male or female protagonist (Zeke or Julia), fighting the vampires, mummies, zombies, etc. on over 50 levels (not including secrets) and saving all of the people you find. There are defined number of neighbors you save on every level. When they are free then "Exit" door opens and you jump on next level.The levels differ from mall and grocery store to beaches and football fields. Using different weapons such as bazooka or water gun you have to kill the bosses such as huge babies, dragons or ants at the end of levels. You can play the game with two players cooperatively.
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Run &amp; Gun / Top Down</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>285</playtime>
+		<lastplayed>20260615T175047</lastplayed>
+	</game>
+	<game>
+		<path>./Tetris Attack (U) [!].smc</path>
+		<name>Tetris Attack</name>
+		<desc>Tetris Attack throws Yoshi's Island into turmoil – King Bowser has cast a dark spell, turning nearly all its inhabitants into mindless servants. Only Yoshi has escaped, and he must set out to rescue his friends and defeat Bowser. The game blends fast-paced puzzle action with colorful Yoshi's Island charm, as you swap blocks to create rows, trigger combos, and unleash massive garbage blocks on your opponents. Alongside the story mode, you'll find two-player battles, endless play, time trials, and tricky puzzles. Beneath its Western name lies the Japanese original Panel de Pon – now starring Yoshi and his vibrant island crew.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961128T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Comp • Puzzle / Matching</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<playtime>158</playtime>
+		<lastplayed>20260615T221609</lastplayed>
 	</game>
 </gameList>

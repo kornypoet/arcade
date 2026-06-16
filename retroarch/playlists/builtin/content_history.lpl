@@ -9,6 +9,62 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/travis/ROMs/snes/Tetris Attack (U) [!].smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/genesis/Columns III (USA).zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/genesis/Mutant League Hockey (USA, Europe).zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/genesis/Gunstar Heroes (USA).zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/genesis/Mutant League Football (USA, Europe).zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/genesis/Streets of Rage 2 (USA).zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/ROMs/snes/Zombies Ate My Neighbors (U) [!].smc",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/travis/mame/roms/hotd2.zip",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
@@ -61,14 +117,6 @@
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "",
-      "db_name": ""
-    },
-    {
-      "path": "/home/travis/ROMs/snes/Tetris Attack (U) [!].smc",
-      "label": "",
-      "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "",
       "db_name": ""
     },

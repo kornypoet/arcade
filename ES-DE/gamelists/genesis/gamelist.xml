@@ -1,23 +1,93 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Ms. Pac-Man (USA, Europe).md</path>
-		<name>Ms. Pac-Man</name>
-		<desc>In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.
+		<path>./Mutant League Football (USA, Europe).zip</path>
+		<name>Mutant League Football</name>
+		<desc>Futuristic, intergalactic war disguised as American Football, Mutant League Football was one of the most unique football games ever to hit the gaming market. It's a unique blend of sports and sci-fi, and the actual football is the good ol' smash-mouth kind, literally.
 
-Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.
+Dynamite throwing running backs, blitzing trolls, robots that bleed oil, it's all here. Opposing quarterback connecting on too many passes? Blitz him 'til he's dead. Suspect the ref's been bribed by the other side? Call a Kill Ref audible; it's a 5 yard penalty though. 
 
-Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
+Take your pick from nineteen teams, including three All-Star teams. There are five difficulty levels and a slow/fast game speed toggle. A tournament mode awaits those who want something more than a quick game versus the computer or a friend.
 
-Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</desc>
+There are nineteen different fields to play on, all with there own special quirks. The Hellfield is littered with mines and fire pits to put an end to a careless runner, while The Pen is a slippery sheet of ice.</desc>
 		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Innerprise Software</developer>
-		<publisher>Time Warner Interactive</publisher>
-		<genre>Action</genre>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Mutant Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Comp • Sports / Football</genre>
 		<players>1-2</players>
-		<playcount>4</playcount>
-		<playtime>5</playtime>
-		<lastplayed>20260325T143028</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>455</playtime>
+		<lastplayed>20260615T180827</lastplayed>
+	</game>
+	<game>
+		<path>./Gunstar Heroes (USA).zip</path>
+		<name>Gunstar Heroes</name>
+		<desc>Chaos has broken out on the planet Gunstar-9!!
+
+The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
+
+Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!</desc>
+		<rating>0.8</rating>
+		<releasedate>19930909T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Run &amp; Gun</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>110</playtime>
+		<lastplayed>20260615T183614</lastplayed>
+	</game>
+	<game>
+		<path>./Mutant League Hockey (USA, Europe).zip</path>
+		<name>Mutant League Hockey</name>
+		<desc>Mutant League Hockey is a violent hockey game in the same series as Mutant League Football.  There are 23 bizarre hockey teams to choose from, with players consisting of zombies, skeletons, trolls, and robots.  The arenas are equally strange, with hidden bottomless pits, mines placed under the ice, spikes, and a "Demon Net" that functions as a goalie by chomping up and down and devouring the puck.
+The game plays similar to normal hockey, except in this game your players can pick up chainsaws, maces, axes, etc. to use against the competition.  It's a bloody game, with opponents exploding into piles of goo (or circuits if they are a robot) when they become too injured.  The player can call special plays, like an exploding puck or jail break and attack the goalie.  The game also has fighting sequences if two players decide to get into a brawl.  
+The game comes with multiplayer and a playoff series, full stats for your players and instant replays.</desc>
+		<rating>1</rating>
+		<releasedate>19940501T000000</releasedate>
+		<developer>Mutant Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Comp • Sports / Hockey</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>416</playtime>
+		<lastplayed>20260615T184606</lastplayed>
+	</game>
+	<game>
+		<path>./Streets of Rage 2 (USA).zip</path>
+		<name>Streets of Rage 2</name>
+		<desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...
+
+Streets of Rage 2 differs from the previous title in several ways. There are changes in both graphics (characters now are bigger, more detailed and with more animation frames, and scenarios are less grainy) and gameplay (the rocket move was replaced by a special move that doubles in offense and defense along several new moves), along other new features such as life bars (and names) for all enemies and the radically different new characters.</desc>
+		<rating>0.8</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Coop • Beat'em Up</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>542</playtime>
+		<lastplayed>20260615T180034</lastplayed>
+	</game>
+	<game>
+		<path>./Columns III (USA).zip</path>
+		<name>Columns III</name>
+		<desc>Third game in the Columns series. In this fast-paced puzzle mayhem, your goal is to arrange three or more jewels of the same colour horizontally, vertically or diagonally to remove them from the playing screen. While the jewels are falling, you can change the order of their colours. In the Arcade, Versus, and Time Trial modes, you can test your skills against an opponent, a clock, or a specific task such as removing a particular jewel. New features include a rising bar that can be used to annoy opponents and magical items that have strategic value to alter the outcome mid-game.
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tokai Engineering</developer>
+		<publisher>SEGA</publisher>
+		<genre>Comp • Puzzle / Falling Block</genre>
+		<players>1-5</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>1790</playtime>
+		<lastplayed>20260615T221337</lastplayed>
 	</game>
 </gameList>
