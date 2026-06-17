@@ -3,8 +3,18 @@
 	<game>
 		<path>./CrossyRoad.exe</path>
 		<name>Crossy Road</name>
-		<playcount>9</playcount>
-		<playtime>334</playtime>
-		<lastplayed>20260602T082857</lastplayed>
+		<desc>Crossy Road Arcade (not to be confused with Apple Arcade Update 2020 or Crossy Road Castle) is a ticket redemption game created by Adrenaline Amusements and Hipster Whale in late 2016. There have been 2 different versions created so far, one in 2016 and the other in 2017.
+
+It's based on the IOS and Adroid action game Crossy Road, released on 20 November 2014. The name and concept of the game play on the riddle joke "Why did the chicken cross the road?" It has been described as endless runner version of the 1981 video game Frogger</desc>
+		<rating>0.9</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>Hipster Whale</developer>
+		<publisher>Adrenaline Amusements</publisher>
+		<genre>Comp • Action</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<playtime>475</playtime>
+		<lastplayed>20260617T150440</lastplayed>
 	</game>
 </gameList>

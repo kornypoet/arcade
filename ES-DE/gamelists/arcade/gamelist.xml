@@ -1,19 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./rampart.zip</path>
-		<name>Rampart</name>
-		<desc>Rampart is a superb arcade puzzle game in which up to three players must build up a castle using Tetris shaped pieces to form a castle wall and enclose their keep. Each player must then place a limited number of cannons inside their castle wall before the timer expires. Once the cannons have been placed the battle itself begins. Players must target their cannons onto the enemy's castle (or, in the one-player game, enemy ships and peons) and destroy as much of the enemy army as possible before the time limit expires. 
-
-Once the battle is over the players must repair their castles, again using tetris shapes. The players' Keep must be completely encircled with castle wall or the game is over. In the single-player sea attack game, any enemy ships that manage to reach the coast nearest the player will unload peons that will attack the player's castle by land.</desc>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Tengen</developer>
-		<publisher>Tengen</publisher>
-		<genre>Shooter</genre>
-		<players>1-3</players>
-	</game>
-	<game>
 		<path>./blockout.zip</path>
 		<name>Block Out</name>
 		<desc>Block Out is a 1-player or a simultaneous 2 players competitive game of unique dimensional action and strategy.
@@ -5430,21 +5417,6 @@ Your 'judgement' is based on your shooting accuracy in some games, and others re
 		<lastplayed>20260614T212056</lastplayed>
 	</game>
 	<game>
-		<path>./vcop.zip</path>
-		<name>Virtua Cop</name>
-		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Coop • Lightgun / Rail</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<playcount>2</playcount>
-		<playtime>173</playtime>
-		<lastplayed>20260614T212111</lastplayed>
-	</game>
-	<game>
 		<path>./timecris.zip</path>
 		<name>Time Crisis</name>
 		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
@@ -5613,5 +5585,112 @@ The game centers on a player's ability to shoot up to three bucks a stage withou
 		<playcount>8</playcount>
 		<playtime>707</playtime>
 		<lastplayed>20260614T220813</lastplayed>
+	</game>
+	<game>
+		<path>./kof94.zip</path>
+		<name>The King of Fighters '94</name>
+		<desc>The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up "Art of Fighting" style in order to gain access to "Desperation Moves", or "DMs" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vf2.zip</path>
+		<name>Virtua Fighter 2</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting / 3D</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vcop.zip</path>
+		<name>Virtua Cop</name>
+		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>173</playtime>
+		<lastplayed>20260614T212111</lastplayed>
+	</game>
+	<game>
+		<path>./fatfury1.zip</path>
+		<name>Fatal Fury : King of Fighters</name>
+		<desc>Southtown City plays host to the King of Fighters Tournament. Andy &amp; Terry Bogard take part in the tournament cause winning the tournament is the only way they can defeat Geese Howard. Geese Howard controls Southtown City and killed their father several years ago. Also taking part is Joe Higashi, a Japanese kickboxer. Select either Joe, Andy or Terry, visit several locations in Southtown City and win that tournament!
+
+Fatal Fury is a 2D fighter and is the first game in a series of one-on-one fighting games by SNK. It's a conversion of the original Fatal Fury arcade game. This first game does not yet feature the series' trademark pseudo 3D mode (which allows you to move between the foreground &amp; background while fighting). Includes a two-player vs. mode.
+</desc>
+		<rating>0.5</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./fatfury2.zip</path>
+		<name>Fatal Fury 2</name>
+		<desc>Again, the Lone Wolves return!
+
+Geese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930305T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./fatfury3.zip</path>
+		<name>Fatal Fury 3: Road to the Final Victory</name>
+		<desc>An adaptation of the Neo-Geo fighting game.  2-D scrolling one-on-one fighter with pseudo-3D aspects (that allows for players to "escape" holds, throws, and other attacks.)  Part of the incestuously-popular SNK fighting game pantheon...
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kof98.zip</path>
+		<name>The King of Fighters '98 : The Slugfest</name>
+		<desc>For all you King of Fighters fans, SNK offers the ultimate KOF installment! A total of 38 of your favorite fighters from all the characters appearing in the '94 to '97 versions. The nostalgic American Sports team, Lugal, as well as Heidern, Takuma, Saishu Kusanagi and other long-awaited characters are back! The ultimate reunion is about to begin in The King of Fighters '98!</desc>
+		<rating>0.9</rating>
+		<releasedate>19980923T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kof2002.zip</path>
+		<name>The King of Fighters 2002</name>
+		<desc>The second plotless "dream match" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms.
+
+The gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed. In their place are the old-school three man teams and the "Advanced system" from The King of Fighters '97 and The King of Fighters '98.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>20021218T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<playtime>13</playtime>
+		<lastplayed>20260615T223154</lastplayed>
 	</game>
 </gameList>
