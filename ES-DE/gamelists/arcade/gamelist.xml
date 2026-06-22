@@ -471,385 +471,6 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<lastplayed>20240825T224732</lastplayed>
 	</game>
 	<game>
-		<path>./hyperspt.zip</path>
-		<name>Hyper Sports</name>
-		<desc>Hyper Sports is a multi-event sports game and is the sequel to 1983's seminal "Track and Field". As with "Track and Field", the game supports up to four players and is controlled by two RUN buttons (renamed GO for this sequel) and one action - or UP - button. 
-
-Tap GO and player will accelerate, shoot or lift. Push UP and player will jump or shoot. The game offers seven different Olympic-based events, and players must achieve qualification in each event in order to progress to the next. Game is over if you fail to qualify in an event.
-
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Comp • Sports / Olympics</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240826T152736</lastplayed>
-	</game>
-	<game>
-		<path>./pkunwar.zip</path>
-		<name>Penguin-kun Wars</name>
-		<desc>A timed game where a penguin rolls spheres across a table attempting to hit its opponent for points. The character with the fewest spheres on its side of the table at the end of the match is the winner.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>UPL</developer>
-		<publisher>UPL</publisher>
-		<genre>Altr • Sports / Dodgeball</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240826T153410</lastplayed>
-	</game>
-	<game>
-		<path>./bladestl.zip</path>
-		<name>Blades Of Steel</name>
-		<desc>Blades Of Steel is an arcade ice hockey game (the gameplay doesn't require you to worry about statistics or customising teams). From time to time, a fight may break out, allowing both players to be seen up close. The player is in control during the miniature fight sequence, with the loser having to spend time in the penalty box. The referee interrupts fights when they last too long.</desc>
-		<rating>0.6</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Comp • Sports / Hockey</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240826T163948</lastplayed>
-	</game>
-	<game>
-		<path>./88games.zip</path>
-		<name>'88 Games</name>
-		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
-		<rating>0.9</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Comp • Sports / Olympics</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240826T200956</lastplayed>
-	</game>
-	<game>
-		<path>./lbowling.zip</path>
-		<name>League Bowling</name>
-		<desc>The lanes are crowded every night with Big Time Pin Slammin' action! You call the shots selecting a right or left handed bowler. Determine ball weight, and develop the skills of the pro's as you skillfully throw a variety of shots that you control. So pop some refreshments and settle into this indoor sport like you've never seen before!</desc>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Bowling</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20240827T135721</lastplayed>
-	</game>
-	<game>
-		<path>./wwfwfest.zip</path>
-		<name>Wwf Wrestlefest</name>
-		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Comp • Sports / Wrestling</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240827T140557</lastplayed>
-	</game>
-	<game>
-		<path>./bstars2.zip</path>
-		<name>Baseball Stars 2</name>
-		<desc>This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.
-
-The standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.</desc>
-		<rating>0.8</rating>
-		<releasedate>19920428T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Baseball</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240827T142117</lastplayed>
-	</game>
-	<game>
-		<path>./bstars.zip</path>
-		<name>Baseball Stars Professional</name>
-		<desc>Baseball Stars Professional is the follow-up to Baseball Stars for the Nintendo Entertainment System, and features comic-style graphics. Choose from a variety of teams that include Celestial Planets, Heavenly Bodies, Shadow Demons, Battle Knights, Fabulous Superstars, and many others. Then select the field where the game is to be held: The SNK stadium or the SNK dome. Each field has the same dimensions, but their capacity varies. The game is played the same way as normal baseball. Features a VS. mode in which two players can play against each other.</desc>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Baseball</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240827T142226</lastplayed>
-	</game>
-	<game>
-		<path>./2020bb.zip</path>
-		<name>2020 Super Baseball</name>
-		<desc>In the year 2020, baseball finally evolved. There is no longer conventional professional baseball in 2020. Baseball designed by the Super Baseball Association has been very popular and is the best sport.
-
-However, the truth is that the association has used a colossal sum of money to promote Super Baseball as show business. They have manipulated each player's ability using the control computer to secretly decide victory or defeat in every game. The players who knew this removed the connecting parts of the computer to play their own game of baseball. Finally, a fair game is going to be played at Cyber Egg Stadium.
-
-In 2020 Super Baseball is a fast-paced game with new rules, where you can select 1 of 12 individual men, women, or robot players. During play, you can make your team stronger with prizes earned from amazing catches.
-</desc>
-		<rating>0.6</rating>
-		<releasedate>19911025T000000</releasedate>
-		<developer>Pallas</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Baseball</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240827T142307</lastplayed>
-	</game>
-	<game>
-		<path>./gtmr.zip</path>
-		<name>1000 Miglia: Great 1000 Miles Rally</name>
-		<desc>Great 1000 Miles Rally © 1994 Kaneko.
-
-A racing game featuring classic cars from Ferrari, Alfa Romeo, Mercedes Benz and more.</desc>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko</publisher>
-		<genre>Altr • Racing</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240827T144959</lastplayed>
-	</game>
-	<game>
-		<path>./wjammers.zip</path>
-		<name>Windjammers</name>
-		<desc>Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly. There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds. The game is won after two winning sets or sudden death after two draws.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Frisbee</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240827T184849</lastplayed>
-	</game>
-	<game>
-		<path>./openice.zip</path>
-		<name>2 On 2 Open Ice Challenge</name>
-		<desc>A four-player hockey game with 1995 NHL players and teams. Just imagine NBA Jam, then replace basketball with hockey. You pick a team and then play for the Stanley Cup.</desc>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Hockey</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240827T185857</lastplayed>
-	</game>
-	<game>
-		<path>./neodrift.zip</path>
-		<name>Neo Drift Out - New Technology</name>
-		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Solo • Racing</genre>
-		<players>1</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240827T210507</lastplayed>
-	</game>
-	<game>
-		<path>./wwfmania.zip</path>
-		<name>WWF: Wrestlemania</name>
-		<desc>8 selectable wrestlers fights in mayhem with punishing head-to-head and team match-ups and gruelling WWF and Intercontinental title bouts. Features in-ring commentary by Vince McMahon and Jerry 'The King' Lawler.</desc>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Coop • Sports / Wrestling</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240827T191137</lastplayed>
-	</game>
-	<game>
-		<path>./flipshot.zip</path>
-		<name>Battle Flip Shot</name>
-		<desc>Battle Flip Shot is an arcade game that mixes elements of Pong with Japanese character design.</desc>
-		<rating>0.6</rating>
-		<releasedate>19981208T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Pong</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240827T214435</lastplayed>
-	</game>
-	<game>
-		<path>./gt97.zip</path>
-		<name>Golden Tee '97</name>
-		<desc>Golden Tee '97 is a 1997 arcade golf sports video game developed and released by Incredible Technologies in the USA on March 1, 1997.
-
-Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Incredible Technologies, Inc.</developer>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240828T224207</lastplayed>
-	</game>
-	<game>
-		<path>./gt3d.zip</path>
-		<name>Golden Tee 3d Golf</name>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240827T220058</lastplayed>
-	</game>
-	<game>
-		<path>./gt98.zip</path>
-		<name>Golden Tee '98</name>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<publisher>Incredible Technologies Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T103541</lastplayed>
-	</game>
-	<game>
-		<path>./gt99.zip</path>
-		<name>Golden Tee '99</name>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T103612</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore01.zip</path>
-		<name>Golden Tee Fore!</name>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T104019</lastplayed>
-	</game>
-	<game>
-		<path>./gtclassc.zip</path>
-		<name>Golden Tee Classic</name>
-		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies. It has been extremely popular across bars and pubs. Players use a trackball to hit the golf ball over a wide range of challenging courses. The game also has online leaderboards and tournaments.</desc>
-		<rating>0.8</rating>
-		<releasedate>20010101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T104803</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore02.zip</path>
-		<name>Golden Tee Fore! 2002</name>
-		<rating>0.8</rating>
-		<releasedate>20010101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T105105</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore03.zip</path>
-		<name>Golden Tee Fore! 2003</name>
-		<rating>0.8</rating>
-		<releasedate>20020101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T105330</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore04.zip</path>
-		<name>Golden Tee Fore! 2004</name>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T105806</lastplayed>
-	</game>
-	<game>
-		<path>./shuuz.zip</path>
-		<name>Shuuz</name>
-		<desc>A horseshoes game.</desc>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Comp • Sports / Horseshoes</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240829T121013</lastplayed>
-	</game>
-	<game>
-		<path>./crshrace.zip</path>
-		<name>Lethal Crash Race</name>
-		<desc>Lethal Crash Race is, as the title suggests, a racing game. The player chooses one of eight international characters then races one-on-one against the other characters (and the recolor of her/his own). Each race takes place in a different location around the world, and each character has her or his own ending, making the character interaction rather similar to that of Sonic Wings.
-
-Lethal Crash Race marks the first appearance of Ellen and Cincia, who later feature in most of the Sonic Wings games.</desc>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>Video System</publisher>
-		<genre>Comp • Racing</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240829T120742</lastplayed>
-	</game>
-	<game>
 		<path>./atetris.zip</path>
 		<name>Tetris</name>
 		<desc>This shape-based Russian mind-bender set the stage for innumerable puzzle games to follow</desc>
@@ -862,36 +483,6 @@ Lethal Crash Race marks the first appearance of Ellen and Cincia, who later feat
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>5</playcount>
 		<lastplayed>20240902T143108</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore05.zip</path>
-		<name>Golden Tee Fore! 2005</name>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240912T213821</lastplayed>
-	</game>
-	<game>
-		<path>./simpbowl.zip</path>
-		<name>Simpsons Bowling</name>
-		<desc>The Simpsons Bowling places the Simpson universe into an arcade bowling video game. It plays like standard bowling game, but with a little Simpson charm.</desc>
-		<rating>0.5</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Comp • Sports / Bowling</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20240912T215937</lastplayed>
 	</game>
 	<game>
 		<path>./sfiii3.zip</path>
@@ -908,20 +499,6 @@ One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry,
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>4</playcount>
 		<lastplayed>20241123T173345</lastplayed>
-	</game>
-	<game>
-		<path>./nbahangt.zip</path>
-		<name>Nba Hangtime</name>
-		<desc>NBA Hang Time is a 2-on-2 arcade basketball action game following in the footsteps of NBA Jam. All NBA teams, each featuring 4 players to choose from, are included along with fast paced, over-the-top basketball, disregarding the normal rules of the game but including fouls and out of bounds.</desc>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Basketball</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20241123T173934</lastplayed>
 	</game>
 	<game>
 		<path>./primrage.zip</path>
@@ -951,33 +528,6 @@ One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry,
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
 		<lastplayed>20241123T183310</lastplayed>
-	</game>
-	<game>
-		<path>./blitz.zip</path>
-		<name>Nfl Blitz</name>
-		<desc>NFL Blitz is an amplified, exaggerated version of NFL football.</desc>
-		<rating>0.6</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Football</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20241123T183408</lastplayed>
-	</game>
-	<game>
-		<path>./blitz99.zip</path>
-		<name>Nfl Blitz '99</name>
-		<desc>The second arcade installment of NFL Blitz added support for up to four players, additional plays, and 1998 NFL rosters.</desc>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Football</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20241123T184624</lastplayed>
 	</game>
 	<game>
 		<path>./ggxx.zip</path>
@@ -1023,52 +573,6 @@ One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry,
 		<lastplayed>20241208T202719</lastplayed>
 	</game>
 	<game>
-		<path>./minigolf.zip</path>
-		<name>Mini Golf</name>
-		<desc>Mini Golf is a golf arcade game, the players must use a track ball to direct their balls around an eighteen-hole course, featuring things such as: loops, waterfalls, warp holes, electric barriers, spinning triangles and discs, whirlpools, opening trap holes emerging bumpers, and even a giant skull. By finishing the holes which have a small flag beneath their bonus values, you shall earn "extra" holes (as you'll only start out with a certain number at the start of the game and shall have to finish these holes in order to play the others) - and the game also has a single button for positioning the ball on one of the three tees at the start of every hole. Once you've finished the eighteenth hole, you shall receive 1000 bonus points for every extra hole you have remaining and the game will end.</desc>
-		<rating>0.5</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Bally Sente</developer>
-		<publisher>Bally Sente</publisher>
-		<genre>Comp • Sports / Minigolf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20241208T213951</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore06.zip</path>
-		<name>Golden Tee Fore! 2006 Complete</name>
-		<desc>Golden Tee Fore! Complete is a golf game and part on a long series, whose signature feature is the use of a trackball to determine the power, direction and curve of the player's golf shot. Play modes include casual 18-hole golf, closest to the pin, and online tournaments.
-
-As with most golfing games, players have a full selection of clubs from which to choose, although the game will always suggest a club for each shot. Wind strength and direction must be accounted for when choosing the club and making the shot. The game also has dynamic weather in the form of light rain showers, these affect both the way the courses play and visibility. An on-screen indicator shows both the direction and strength of the wind during open play, with another indictor showing the angle and elevation of the putting green once the player has reached it.</desc>
-		<rating>0.8</rating>
-		<releasedate>20050101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20241208T223952</lastplayed>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Basketball</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20250606T174539</lastplayed>
-	</game>
-	<game>
 		<path>./sf2.zip</path>
 		<name>Street Fighter II : The World Warrior</name>
 		<desc>GET READY TO RUMBLE!
@@ -1107,20 +611,6 @@ Each character still shares generic attributes - speed, power, jump height and a
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>7</playcount>
 		<lastplayed>20250606T214600</lastplayed>
-	</game>
-	<game>
-		<path>./nbajamte.zip</path>
-		<name>NBA Jam Tournament Edition</name>
-		<desc>An update of the classic 'NBA JAM'. New players, new features but still the same classic gameplay.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Sports / Basketball</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20250606T222636</lastplayed>
 	</game>
 	<game>
 		<path>./ncv1.zip</path>
@@ -1167,48 +657,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>14</playcount>
 		<lastplayed>20250704T181411</lastplayed>
-	</game>
-	<game>
-		<path>./machbrkr.zip</path>
-		<name>Mach Breakers</name>
-		<desc>Futuristic Competitions sports game with seven selectable characters and fun challenge.</desc>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Sports / Olympics</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20250815T213126</lastplayed>
-	</game>
-	<game>
-		<path>./gt2k.zip</path>
-		<name>Golden Tee 2k</name>
-		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<controller>trackball_generic</controller>
-		<lastplayed>20250815T221742</lastplayed>
-	</game>
-	<game>
-		<path>./turfmast.zip</path>
-		<name>Neo Turf Masters</name>
-		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Nazca</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20250907T112626</lastplayed>
 	</game>
 	<game>
 		<path>./pbobblen.zip</path>
@@ -3031,88 +2479,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<playcount>3</playcount>
 		<playtime>77</playtime>
 		<lastplayed>20260606T135334</lastplayed>
-	</game>
-	<game>
-		<path>./clshroad.zip</path>
-		<name>Clash-road</name>
-		<desc>A horizontally scrolling bicycle racing game.</desc>
-		<rating>0.5</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Wood Place</developer>
-		<publisher>Wood Place</publisher>
-		<genre>Altr • Racing</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240826T163857</lastplayed>
-	</game>
-	<game>
-		<path>./spdodgeb.zip</path>
-		<name>Super Dodge Ball</name>
-		<desc>The player takes control of the American team, who must compete against five other nations in a worldwide dodgeball tournament. In the first match, the player represent the state Dallas and must defeat their rivals from Chicago to represent America in the World Cup. Afterwards, the player will take on England, Iceland, China and Africa before fighting against the champions from Japan.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Technos Japan</publisher>
-		<genre>Comp • Sports / Dodgeball</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240826T164317</lastplayed>
-	</game>
-	<game>
-		<path>./tbowl.zip</path>
-		<name>Tecmo Bowl</name>
-		<desc>TECMO BOWL - The game of guts and glory! Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl!</desc>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Comp • Sports / Football</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20241203T102715</lastplayed>
-	</game>
-	<game>
-		<path>./numanath.zip</path>
-		<name>Numan Athletics</name>
-		<desc>An athletics game featuring 8 tournaments:
-
-Interceptor
-A real life missile defense style-contest as missiles are being launched from a ship, and you must use your mystical powers to stop the oncoming missiles. The outside buttons (1 &amp; 3) make you step to the left or right, and the middle button is fire. Failure to hit the missile results in you being blown up. If you select Sharon from France, most of her clothes would disappear except for the bottom part of her suit.
-
-Niagara Jumps
-The final competition in the tournament. It is also considered to be the most difficult competition in the game. Very similar to the Triple Jump competition in the Olympics. The object is this contest is to make it across the falls. Alternately press buttons 1 and 3 to build up speed, then press button 2 three times. If you don't time yourself properly, you will sink and drown and you will go down the steep falls.
-
-Nonstop Rock Chop
-You must smash as many rocks as you can before time runs out. Rapidly press buttons 1 and 3 alternately until the gauge is full, then press button 2 to smash the rock.
-
-Numan Sniper
-In this contest, monsters will jump out of the sea from three different locations. Your object, destroy them. Press buttons 1, 2 or 3 varying by their location to shoot.
-
-Scud Toss
-Just as in the Javelin competition in the Olympics. Played on a "Track and Field"-like field with an only exception -- a missile. Rapidly and continuously press the two run buttons and then push and hold the middle button to set the angle of which you would throw the missile. Again, like Interceptor, if you select Sharon -- then again if she is faulted, she will be missing most of her clothes.
-
-Tower Topper
-Here you are expected to climb up to the building rooftop with the fastest time possible. Press button 2 repeatedly to scale the side of a building. If you press it too early -- you won't move, but if you press it too late -- you will fall off.
-
-Turbo Dash
-Much like the 100m Dash in the Olympics -- only the core elements have slightly changed. You are racing against a drag racer and another player. Press the two outside buttons (1 &amp; 3) in alternate fashion until your RSI (or 'special speed') sets in.
-
-VS. Express
-Very similar to a familiar scene in the Superman comic books. You must stop the oncoming train using your magical powers and send it in the opposite direction backwards. Press button 2 to stop the train, then hammer the outside buttons to build up power before bunging it back down the track. If you don't time this right -- the train will run you over.</desc>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Sports / Olympics</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>11</playcount>
-		<lastplayed>20241208T213443</lastplayed>
 	</game>
 	<game>
 		<path>./outfxies.zip</path>
@@ -5692,5 +5058,680 @@ The gameplay system has also changed. The striker system and four-character team
 		<playcount>1</playcount>
 		<playtime>13</playtime>
 		<lastplayed>20260615T223154</lastplayed>
+	</game>
+	<game>
+		<path>./hyperspt.zip</path>
+		<name>Hyper Sports</name>
+		<desc>Hyper Sports is a multi-event sports game and is the sequel to 1983's seminal "Track and Field". As with "Track and Field", the game supports up to four players and is controlled by two RUN buttons (renamed GO for this sequel) and one action - or UP - button. 
+
+Tap GO and player will accelerate, shoot or lift. Push UP and player will jump or shoot. The game offers seven different Olympic-based events, and players must achieve qualification in each event in order to progress to the next. Game is over if you fail to qualify in an event.
+
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Comp • Sports / Olympics</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>294</playtime>
+		<lastplayed>20260617T164540</lastplayed>
+	</game>
+	<game>
+		<path>./minigolf.zip</path>
+		<name>Mini Golf</name>
+		<desc>Mini Golf is a golf arcade game, the players must use a track ball to direct their balls around an eighteen-hole course, featuring things such as: loops, waterfalls, warp holes, electric barriers, spinning triangles and discs, whirlpools, opening trap holes emerging bumpers, and even a giant skull. By finishing the holes which have a small flag beneath their bonus values, you shall earn "extra" holes (as you'll only start out with a certain number at the start of the game and shall have to finish these holes in order to play the others) - and the game also has a single button for positioning the ball on one of the three tees at the start of every hole. Once you've finished the eighteenth hole, you shall receive 1000 bonus points for every extra hole you have remaining and the game will end.</desc>
+		<rating>0.5</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Bally Sente</developer>
+		<publisher>Bally Sente</publisher>
+		<genre>Comp • Sports / Minigolf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>191</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260617T164904</lastplayed>
+	</game>
+	<game>
+		<path>./clshroad.zip</path>
+		<name>Clash-road</name>
+		<desc>A horizontally scrolling bicycle racing game.</desc>
+		<rating>0.5</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Wood Place</developer>
+		<publisher>Wood Place</publisher>
+		<genre>Altr • Racing</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>2028</playtime>
+		<lastplayed>20260619T115735</lastplayed>
+	</game>
+	<game>
+		<path>./bladestl.zip</path>
+		<name>Blades Of Steel</name>
+		<desc>Blades Of Steel is an arcade ice hockey game (the gameplay doesn't require you to worry about statistics or customising teams). From time to time, a fight may break out, allowing both players to be seen up close. The player is in control during the miniature fight sequence, with the loser having to spend time in the penalty box. The referee interrupts fights when they last too long.</desc>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Comp • Sports / Hockey</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>161</playtime>
+		<lastplayed>20260619T120030</lastplayed>
+	</game>
+	<game>
+		<path>./spdodgeb.zip</path>
+		<name>Super Dodge Ball</name>
+		<desc>The player takes control of the American team, who must compete against five other nations in a worldwide dodgeball tournament. In the first match, the player represent the state Dallas and must defeat their rivals from Chicago to represent America in the World Cup. Afterwards, the player will take on England, Iceland, China and Africa before fighting against the champions from Japan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Technos Japan</publisher>
+		<genre>Comp • Sports / Dodgeball</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>127</playtime>
+		<lastplayed>20260619T120526</lastplayed>
+	</game>
+	<game>
+		<path>./tbowl.zip</path>
+		<name>Tecmo Bowl</name>
+		<desc>TECMO BOWL - The game of guts and glory! Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl!</desc>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Comp • Sports / Football</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>423</playtime>
+		<lastplayed>20260619T121512</lastplayed>
+	</game>
+	<game>
+		<path>./88games.zip</path>
+		<name>'88 Games</name>
+		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Comp • Sports / Olympics</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>324</playtime>
+		<lastplayed>20260619T122056</lastplayed>
+	</game>
+	<game>
+		<path>./bstars.zip</path>
+		<name>Baseball Stars Professional</name>
+		<desc>Baseball Stars Professional is the follow-up to Baseball Stars for the Nintendo Entertainment System, and features comic-style graphics. Choose from a variety of teams that include Celestial Planets, Heavenly Bodies, Shadow Demons, Battle Knights, Fabulous Superstars, and many others. Then select the field where the game is to be held: The SNK stadium or the SNK dome. Each field has the same dimensions, but their capacity varies. The game is played the same way as normal baseball. Features a VS. mode in which two players can play against each other.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Baseball</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>1204</playtime>
+		<lastplayed>20260619T124117</lastplayed>
+	</game>
+	<game>
+		<path>./lbowling.zip</path>
+		<name>League Bowling</name>
+		<desc>The lanes are crowded every night with Big Time Pin Slammin' action! You call the shots selecting a right or left handed bowler. Determine ball weight, and develop the skills of the pro's as you skillfully throw a variety of shots that you control. So pop some refreshments and settle into this indoor sport like you've never seen before!</desc>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Bowling</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>94</playtime>
+		<lastplayed>20260619T125043</lastplayed>
+	</game>
+	<game>
+		<path>./wwfwfest.zip</path>
+		<name>Wwf Wrestlefest</name>
+		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Comp • Sports / Wrestling</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>179</playtime>
+		<lastplayed>20260619T132057</lastplayed>
+	</game>
+	<game>
+		<path>./2020bb.zip</path>
+		<name>2020 Super Baseball</name>
+		<desc>In the year 2020, baseball finally evolved. There is no longer conventional professional baseball in 2020. Baseball designed by the Super Baseball Association has been very popular and is the best sport.
+
+However, the truth is that the association has used a colossal sum of money to promote Super Baseball as show business. They have manipulated each player's ability using the control computer to secretly decide victory or defeat in every game. The players who knew this removed the connecting parts of the computer to play their own game of baseball. Finally, a fair game is going to be played at Cyber Egg Stadium.
+
+In 2020 Super Baseball is a fast-paced game with new rules, where you can select 1 of 12 individual men, women, or robot players. During play, you can make your team stronger with prizes earned from amazing catches.
+</desc>
+		<rating>0.6</rating>
+		<releasedate>19911025T000000</releasedate>
+		<developer>Pallas</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Baseball</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>198</playtime>
+		<lastplayed>20260619T132439</lastplayed>
+	</game>
+	<game>
+		<path>./bstars2.zip</path>
+		<name>Baseball Stars 2</name>
+		<desc>This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.
+
+The standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920428T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Baseball</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>607</playtime>
+		<lastplayed>20260619T133518</lastplayed>
+	</game>
+	<game>
+		<path>./pkunwar.zip</path>
+		<name>Penguin-kun Wars</name>
+		<desc>A timed game where a penguin rolls spheres across a table attempting to hit its opponent for points. The character with the fewest spheres on its side of the table at the end of the match is the winner.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>UPL</developer>
+		<publisher>UPL</publisher>
+		<genre>Altr • Sports / Dodgeball</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>177</playtime>
+		<lastplayed>20260619T133618</lastplayed>
+	</game>
+	<game>
+		<path>./crshrace.zip</path>
+		<name>Lethal Crash Race</name>
+		<desc>Lethal Crash Race is, as the title suggests, a racing game. The player chooses one of eight international characters then races one-on-one against the other characters (and the recolor of her/his own). Each race takes place in a different location around the world, and each character has her or his own ending, making the character interaction rather similar to that of Sonic Wings.
+
+Lethal Crash Race marks the first appearance of Ellen and Cincia, who later feature in most of the Sonic Wings games.</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Comp • Racing</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>184</playtime>
+		<lastplayed>20260619T133945</lastplayed>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Basketball</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>3726</playtime>
+		<lastplayed>20260619T144509</lastplayed>
+	</game>
+	<game>
+		<path>./numanath.zip</path>
+		<name>Numan Athletics</name>
+		<desc>An athletics game featuring 8 tournaments:
+
+Interceptor
+A real life missile defense style-contest as missiles are being launched from a ship, and you must use your mystical powers to stop the oncoming missiles. The outside buttons (1 &amp; 3) make you step to the left or right, and the middle button is fire. Failure to hit the missile results in you being blown up. If you select Sharon from France, most of her clothes would disappear except for the bottom part of her suit.
+
+Niagara Jumps
+The final competition in the tournament. It is also considered to be the most difficult competition in the game. Very similar to the Triple Jump competition in the Olympics. The object is this contest is to make it across the falls. Alternately press buttons 1 and 3 to build up speed, then press button 2 three times. If you don't time yourself properly, you will sink and drown and you will go down the steep falls.
+
+Nonstop Rock Chop
+You must smash as many rocks as you can before time runs out. Rapidly press buttons 1 and 3 alternately until the gauge is full, then press button 2 to smash the rock.
+
+Numan Sniper
+In this contest, monsters will jump out of the sea from three different locations. Your object, destroy them. Press buttons 1, 2 or 3 varying by their location to shoot.
+
+Scud Toss
+Just as in the Javelin competition in the Olympics. Played on a "Track and Field"-like field with an only exception -- a missile. Rapidly and continuously press the two run buttons and then push and hold the middle button to set the angle of which you would throw the missile. Again, like Interceptor, if you select Sharon -- then again if she is faulted, she will be missing most of her clothes.
+
+Tower Topper
+Here you are expected to climb up to the building rooftop with the fastest time possible. Press button 2 repeatedly to scale the side of a building. If you press it too early -- you won't move, but if you press it too late -- you will fall off.
+
+Turbo Dash
+Much like the 100m Dash in the Olympics -- only the core elements have slightly changed. You are racing against a drag racer and another player. Press the two outside buttons (1 &amp; 3) in alternate fashion until your RSI (or 'special speed') sets in.
+
+VS. Express
+Very similar to a familiar scene in the Superman comic books. You must stop the oncoming train using your magical powers and send it in the opposite direction backwards. Press button 2 to stop the train, then hammer the outside buttons to build up power before bunging it back down the track. If you don't time this right -- the train will run you over.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Sports / Olympics</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>12</playcount>
+		<playtime>279</playtime>
+		<lastplayed>20260619T145125</lastplayed>
+	</game>
+	<game>
+		<path>./gtmr.zip</path>
+		<name>1000 Miglia: Great 1000 Miles Rally</name>
+		<desc>Great 1000 Miles Rally © 1994 Kaneko.
+
+A racing game featuring classic cars from Ferrari, Alfa Romeo, Mercedes Benz and more.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Altr • Racing</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>1100</playtime>
+		<lastplayed>20260619T151010</lastplayed>
+	</game>
+	<game>
+		<path>./nbajamte.zip</path>
+		<name>NBA Jam Tournament Edition</name>
+		<desc>An update of the classic 'NBA JAM'. New players, new features but still the same classic gameplay.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Basketball</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>247</playtime>
+		<lastplayed>20260619T151505</lastplayed>
+	</game>
+	<game>
+		<path>./wjammers.zip</path>
+		<name>Windjammers</name>
+		<desc>Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly. There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds. The game is won after two winning sets or sudden death after two draws.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Frisbee</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>106</playtime>
+		<lastplayed>20260619T151705</lastplayed>
+	</game>
+	<game>
+		<path>./openice.zip</path>
+		<name>2 On 2 Open Ice Challenge</name>
+		<desc>A four-player hockey game with 1995 NHL players and teams. Just imagine NBA Jam, then replace basketball with hockey. You pick a team and then play for the Stanley Cup.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Hockey</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>262</playtime>
+		<lastplayed>20260619T152151</lastplayed>
+	</game>
+	<game>
+		<path>./machbrkr.zip</path>
+		<name>Mach Breakers</name>
+		<desc>Futuristic Competitions sports game with seven selectable characters and fun challenge.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Sports / Olympics</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>148</playtime>
+		<lastplayed>20260619T152542</lastplayed>
+	</game>
+	<game>
+		<path>./gt3d.zip</path>
+		<name>Golden Tee 3d Golf</name>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>482</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260621T134159</lastplayed>
+	</game>
+	<game>
+		<path>./wwfmania.zip</path>
+		<name>WWF: Wrestlemania</name>
+		<desc>8 selectable wrestlers fights in mayhem with punishing head-to-head and team match-ups and gruelling WWF and Intercontinental title bouts. Features in-ring commentary by Vince McMahon and Jerry 'The King' Lawler.</desc>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Coop • Sports / Wrestling</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>265</playtime>
+		<lastplayed>20260621T134727</lastplayed>
+	</game>
+	<game>
+		<path>./nbahangt.zip</path>
+		<name>Nba Hangtime</name>
+		<desc>NBA Hang Time is a 2-on-2 arcade basketball action game following in the footsteps of NBA Jam. All NBA teams, each featuring 4 players to choose from, are included along with fast paced, over-the-top basketball, disregarding the normal rules of the game but including fouls and out of bounds.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Basketball</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>159</playtime>
+		<lastplayed>20260621T135250</lastplayed>
+	</game>
+	<game>
+		<path>./neodrift.zip</path>
+		<name>Neo Drift Out - New Technology</name>
+		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Solo • Racing</genre>
+		<players>1</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>420</playtime>
+		<lastplayed>20260621T140005</lastplayed>
+	</game>
+	<game>
+		<path>./turfmast.zip</path>
+		<name>Neo Turf Masters</name>
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>139</playtime>
+		<lastplayed>20260621T140318</lastplayed>
+	</game>
+	<game>
+		<path>./gt97.zip</path>
+		<name>Golden Tee '97</name>
+		<desc>Golden Tee '97 is a 1997 arcade golf sports video game developed and released by Incredible Technologies in the USA on March 1, 1997.
+
+Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Incredible Technologies, Inc.</developer>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>131</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260621T142947</lastplayed>
+	</game>
+	<game>
+		<path>./blitz.zip</path>
+		<name>Nfl Blitz</name>
+		<desc>NFL Blitz is an amplified, exaggerated version of NFL football.</desc>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Football</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>296</playtime>
+		<lastplayed>20260621T144116</lastplayed>
+	</game>
+	<game>
+		<path>./gt98.zip</path>
+		<name>Golden Tee '98</name>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<publisher>Incredible Technologies Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>104</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260621T144325</lastplayed>
+	</game>
+	<game>
+		<path>./blitz99.zip</path>
+		<name>Nfl Blitz '99</name>
+		<desc>The second arcade installment of NFL Blitz added support for up to four players, additional plays, and 1998 NFL rosters.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<publisher>Midway</publisher>
+		<genre>Comp • Sports / Football</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>250</playtime>
+		<lastplayed>20260622T090357</lastplayed>
+	</game>
+	<game>
+		<path>./flipshot.zip</path>
+		<name>Battle Flip Shot</name>
+		<desc>Battle Flip Shot is an arcade game that mixes elements of Pong with Japanese character design.</desc>
+		<rating>0.6</rating>
+		<releasedate>19981208T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Sports / Pong</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>303</playtime>
+		<lastplayed>20260622T090916</lastplayed>
+	</game>
+	<game>
+		<path>./gt99.zip</path>
+		<name>Golden Tee '99</name>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>2559</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T095214</lastplayed>
+	</game>
+	<game>
+		<path>./gt2k.zip</path>
+		<name>Golden Tee 2k</name>
+		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>283</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T095718</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore01.zip</path>
+		<name>Golden Tee Fore!</name>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>2221</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T103748</lastplayed>
+	</game>
+	<game>
+		<path>./simpbowl.zip</path>
+		<name>Simpsons Bowling</name>
+		<desc>The Simpsons Bowling places the Simpson universe into an arcade bowling video game. It plays like standard bowling game, but with a little Simpson charm.</desc>
+		<rating>0.5</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Comp • Sports / Bowling</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>1053</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T113115</lastplayed>
+	</game>
+	<game>
+		<path>./gtclassc.zip</path>
+		<name>Golden Tee Classic</name>
+		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies. It has been extremely popular across bars and pubs. Players use a trackball to hit the golf ball over a wide range of challenging courses. The game also has online leaderboards and tournaments.</desc>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>175</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T113423</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore02.zip</path>
+		<name>Golden Tee Fore! 2002</name>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>259</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T114011</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore03.zip</path>
+		<name>Golden Tee Fore! 2003</name>
+		<rating>0.8</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>273</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T115125</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore04.zip</path>
+		<name>Golden Tee Fore! 2004</name>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<playcount>3</playcount>
+		<playtime>275</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T115649</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore05.zip</path>
+		<name>Golden Tee Fore! 2005</name>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<playcount>5</playcount>
+		<playtime>420</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T120356</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore06.zip</path>
+		<name>Golden Tee Fore! 2006 Complete</name>
+		<desc>Golden Tee Fore! Complete is a golf game and part on a long series, whose signature feature is the use of a trackball to determine the power, direction and curve of the player's golf shot. Play modes include casual 18-hole golf, closest to the pin, and online tournaments.
+
+As with most golfing games, players have a full selection of clubs from which to choose, although the game will always suggest a club for each shot. Wind strength and direction must be accounted for when choosing the club and making the shot. The game also has dynamic weather in the form of light rain showers, these affect both the way the courses play and visibility. An on-screen indicator shows both the direction and strength of the wind during open play, with another indictor showing the angle and elevation of the putting green once the player has reached it.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>401</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T121054</lastplayed>
+	</game>
+	<game>
+		<path>./shuuz.zip</path>
+		<name>Shuuz</name>
+		<desc>A horseshoes game.</desc>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Comp • Sports / Horseshoes</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>130</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260619T125306</lastplayed>
 	</game>
 </gameList>
