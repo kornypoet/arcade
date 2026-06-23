@@ -5060,7 +5060,7 @@ Fatal Fury is a 2D fighter and is the first game in a series of one-on-one fight
 		<releasedate>19911220T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
+		<genre>Comp • Fighting</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>1</playcount>
@@ -5119,7 +5119,7 @@ Geese Howard may have been defeated, but that doesn't mean all is peaceful. A ne
 		<releasedate>19930305T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
+		<genre>Comp • Fighting</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>1</playcount>
@@ -5257,7 +5257,7 @@ The unimaginable secret power of the dark is unleashed!</desc>
 		<releasedate>19941001T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
+		<genre>Comp • Fighting / Team</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>1</playcount>
@@ -5384,7 +5384,7 @@ The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
 		<releasedate>19950421T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
+		<genre>Comp • Fighting</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>1</playcount>
@@ -5399,7 +5399,7 @@ The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
 		<releasedate>19951106T000000</releasedate>
 		<developer>Midway</developer>
 		<publisher>Midway</publisher>
-		<genre>Comp • Fighting / Tag</genre>
+		<genre>Comp • Fighting / Team</genre>
 		<players>1-8</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>10</playcount>
@@ -5467,56 +5467,6 @@ The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who
 		<lastplayed>20260622T161348</lastplayed>
 	</game>
 	<game>
-		<path>./xmvsf.zip</path>
-		<name>X-Men vs. Street Fighter</name>
-		<desc>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<playtime>206</playtime>
-		<lastplayed>20260622T161737</lastplayed>
-	</game>
-	<game>
-		<path>./mshvsf.zip</path>
-		<name>Marvel Super Heroes vs. Street Fighter</name>
-		<desc>Marvel Super Heroes vs. Street Fighter is the fourth Marvel Comics-licensed fighting game produced by Capcom and the second installment in the Marvel vs. Capcom series. It is a sequel to X-Men vs. Street Fighter which replaces most of the X-Men characters with characters from Marvel Super Heroes. In an attempt to balance the previous game's problems, the game engine was altered, although it remained aesthetically the same which is what the game was criticized for. The game was released for the arcade in 1997
-
-Marvel Super Heroes vs. Street Fighter features a roster of 17 playable fighters, with nine characters from the Street Fighter universe and eight heroes from the Marvel Universe, It utilizes the same one-on-one tag team format previously employed in X-Men vs. Street Fighter. 
-The player chooses a team of two fighters, each sporting their own life gauge; at the start of the match, the first selected character is controlled by the player, while the second character remains off-screen and acts as support.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<playtime>195</playtime>
-		<lastplayed>20260622T164042</lastplayed>
-	</game>
-	<game>
-		<path>./rvschool.zip</path>
-		<name>Rival Schools: United By Fate</name>
-		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
-		<rating>0.5</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<playtime>441</playtime>
-		<lastplayed>20260622T164334</lastplayed>
-	</game>
-	<game>
 		<path>./sgemf.zip</path>
 		<name>Super Gem Fighter: Mini Mix</name>
 		<desc>Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary "Street Fighter" series, as well as "Darkstalkers" and the little-known "Red Earth".
@@ -5557,7 +5507,7 @@ The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in or
 		<releasedate>19970320T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Fighting / 2.5D</genre>
+		<genre>Comp • Fighting / 3D</genre>
 		<players>1-2</players>
 		<broken>true</broken>
 		<nomultiscrape>true</nomultiscrape>
@@ -5574,7 +5524,7 @@ The Arcade mode offers a no-frills competition against the computerized AI. If p
 		<releasedate>19980101T000000</releasedate>
 		<developer>Eighting</developer>
 		<publisher>Eighting</publisher>
-		<genre>Comp • Fighting</genre>
+		<genre>Comp • Fighting / 3D</genre>
 		<players>1-2</players>
 		<broken>true</broken>
 		<nomultiscrape>true</nomultiscrape>
@@ -5590,7 +5540,7 @@ The Arcade mode offers a no-frills competition against the computerized AI. If p
 		<releasedate>19980101T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
+		<genre>Comp • Fighting / Tag</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
@@ -5620,7 +5570,7 @@ The Arcade mode offers a no-frills competition against the computerized AI. If p
 		<releasedate>19980923T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
+		<genre>Comp • Fighting / Team</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>1</playcount>
@@ -5686,7 +5636,7 @@ One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry,
 		<releasedate>19990701T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Team</genre>
+		<genre>Comp • Fighting / Tag</genre>
 		<players>1-2</players>
 		<broken>true</broken>
 		<nomultiscrape>true</nomultiscrape>
@@ -5705,7 +5655,7 @@ The gameplay system has also changed. The striker system and four-character team
 		<releasedate>20021218T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
+		<genre>Comp • Fighting / Team</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
@@ -5737,7 +5687,7 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<releasedate>19950101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
-		<genre>Fighting / 3D</genre>
+		<genre>Comp • Fighting / 3D</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>2</playcount>
@@ -5774,13 +5724,13 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<releasedate>20000713T000000</releasedate>
 		<developer>Arc System Works</developer>
 		<publisher>SEGA</publisher>
-		<genre>Fighting / Versus</genre>
+		<genre>Comp • Fighting / Weapon</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>17</playcount>
-		<playtime>657</playtime>
+		<playcount>18</playcount>
+		<playtime>683</playtime>
 		<altemulator>Flycast</altemulator>
-		<lastplayed>20260623T084708</lastplayed>
+		<lastplayed>20260623T174908</lastplayed>
 	</game>
 	<game>
 		<path>./ggxx.zip</path>
@@ -5793,9 +5743,59 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<genre>Comp • Fighting / Weapon</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
-		<playcount>13</playcount>
-		<playtime>351</playtime>
+		<playcount>14</playcount>
+		<playtime>485</playtime>
 		<altemulator>Flycast</altemulator>
-		<lastplayed>20260623T084946</lastplayed>
+		<lastplayed>20260623T175153</lastplayed>
+	</game>
+	<game>
+		<path>./xmvsf.zip</path>
+		<name>X-Men vs. Street Fighter</name>
+		<desc>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Tag</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>368</playtime>
+		<lastplayed>20260623T182154</lastplayed>
+	</game>
+	<game>
+		<path>./mshvsf.zip</path>
+		<name>Marvel Super Heroes vs. Street Fighter</name>
+		<desc>Marvel Super Heroes vs. Street Fighter is the fourth Marvel Comics-licensed fighting game produced by Capcom and the second installment in the Marvel vs. Capcom series. It is a sequel to X-Men vs. Street Fighter which replaces most of the X-Men characters with characters from Marvel Super Heroes. In an attempt to balance the previous game's problems, the game engine was altered, although it remained aesthetically the same which is what the game was criticized for. The game was released for the arcade in 1997
+
+Marvel Super Heroes vs. Street Fighter features a roster of 17 playable fighters, with nine characters from the Street Fighter universe and eight heroes from the Marvel Universe, It utilizes the same one-on-one tag team format previously employed in X-Men vs. Street Fighter. 
+The player chooses a team of two fighters, each sporting their own life gauge; at the start of the match, the first selected character is controlled by the player, while the second character remains off-screen and acts as support.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Tag</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>326</playtime>
+		<lastplayed>20260623T182411</lastplayed>
+	</game>
+	<game>
+		<path>./rvschool.zip</path>
+		<name>Rival Schools: United By Fate</name>
+		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
+		<rating>0.5</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Tag</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>588</playtime>
+		<lastplayed>20260623T182654</lastplayed>
 	</game>
 </gameList>
