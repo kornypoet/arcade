@@ -62,6 +62,7 @@ mono lightgun.exe joystick sometimes fails the first couple tries
 
 turn off monodoc
 
+# deprecated, just use the flycast core in retroarch
 flycast
 https://github.com/flyinghead/flycast
 
