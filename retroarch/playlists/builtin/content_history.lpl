@@ -9,6 +9,30 @@
   "sort_mode": 2,
   "items": [
     {
+      "path": "/home/travis/mame/roms/ggxx.zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/mame/roms/ggx.zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/travis/mame/roms/cvs2.zip",
+      "label": "",
+      "core_path": "/home/travis/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
       "path": "/home/travis/ROMs/snes/Tetris Attack (U) [!].smc",
       "label": "",
       "core_path": "/home/travis/.config/retroarch/cores/snes9x_libretro.so",

@@ -9,9 +9,10 @@
 		<publisher>Ryan Foster</publisher>
 		<genre>Comp • Rhythm / Band</genre>
 		<players>1-4</players>
-		<playcount>77</playcount>
-		<playtime>3755</playtime>
-		<lastplayed>20260605T104853</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>78</playcount>
+		<playtime>3839</playtime>
+		<lastplayed>20260623T081938</lastplayed>
 	</game>
 	<game>
 		<path>./outfox.AppImage</path>
@@ -20,12 +21,13 @@
 
 StepMania can also be used with dance game cabinets, and has been used as the basis for several major commercial products including Pump it Up Infinity and StepManiaX.</desc>
 		<rating>1</rating>
-		<releasedate>20180000T000000</releasedate>
+		<releasedate>20171231T000000</releasedate>
 		<publisher>Project Outfox</publisher>
 		<genre>Comp • Rhythm / Dance</genre>
 		<players>1-2</players>
-		<playcount>8</playcount>
-		<playtime>158</playtime>
-		<lastplayed>20260617T143600</lastplayed>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>497</playtime>
+		<lastplayed>20260623T082527</lastplayed>
 	</game>
 </gameList>

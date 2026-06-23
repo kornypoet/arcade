@@ -106,356 +106,6 @@ Players can hinder their opponent by forming Puyo combinations; a successfully f
 		<lastplayed>20240806T143519</lastplayed>
 	</game>
 	<game>
-		<path>./samsho.zip</path>
-		<name>Samurai Shodown</name>
-		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
-Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
-		<rating>0.6</rating>
-		<releasedate>19930811T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T081754</lastplayed>
-	</game>
-	<game>
-		<path>./mmaulers.zip</path>
-		<name>Monster Maulers</name>
-		<desc>A trio of supervillains unleashes an army of gross mutants on earth in order to start an alien invasion. Our only hope is the trio of superheroes known as the 'Ultimate Task Force'. Squash the evil mutants and put an end to the alien menace. Features excellent graphics &amp; sound as well as plenty of moves to find!</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Coop • Fighting / Boss</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240822T222744</lastplayed>
-	</game>
-	<game>
-		<path>./mk.zip</path>
-		<name>Mortal Kombat</name>
-		<desc>Mortal Kombat, first in the Mortal Kombat series, is a 1-on-1 fighting game featuring a cast of seven different characters. Mortal Kombat took ideas from Capcom's seminal Street Fighter II, such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. 
-
-Mortal Kombat characters list:
-JOHNNY CAGE
-KANO
-RAIDEN
-LIU KANG
-SCORPION
-SUB-ZERO
-SONYA BLADE
-
-Battles are fought over the best of three rounds. At the end of a battle, a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.</desc>
-		<rating>0.6</rating>
-		<releasedate>19921008T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240822T224025</lastplayed>
-	</game>
-	<game>
-		<path>./xmcota.zip</path>
-		<name>X-Men: Children of the Atom</name>
-		<desc>X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!</desc>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240823T085353</lastplayed>
-	</game>
-	<game>
-		<path>./dstlk.zip</path>
-		<name>Darkstalkers: The Night Warriors</name>
-		<desc>People tremble in fear of these monsters. A mysterious force awakens them from their long slumber. 'Arise and show your fangs!' The silence of the night is broken by the growls and roars of these evil spirits which have been summoned from beyond. They are coming... tonight! DarkStalkers - the warriors of the night!
-
-DarkStalkers features spectacular fighting between supernatural monsters with 4 TIMES the graphics of SFII (its 15,000 animation patterns put it way out in front of SSFII Turbo, resulting in realistic movement with smooth animation). With endless playability you'll never tire of, make sport of your opponent with incredible moves like the Special Attack and Death Blow which are humanly impossible. We're talking about unlimited varieties of attack!
-
-The unimaginable secret power of the dark is unleashed!</desc>
-		<rating>0.7</rating>
-		<releasedate>19940712T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240823T090252</lastplayed>
-	</game>
-	<game>
-		<path>./kinst2.zip</path>
-		<name>Killer Instinct 2</name>
-		<desc>A great sequel of the previous game include new features and new characters. 
-
-The plot follows on where the first installment left off. Eyedol's death at the hands of Orchid accidentally sets off a time warp, transporting some of the combatants back in time and allowing the Demon Lord Gargos to escape from Limbo.
-
-Now, trapped 2000 years in the past, the warriors that survived Killer Instinct, along with several new faces, fight for the right to face Gargos in combat. Each character that survived the journey from the first game has a corresponding background story, while new characters on this installment are native inhabitants of this past time period. Some fighters, like T.J. Combo who survives from the original, just want to get home. Others, like new character Tusk, want to bring an end to Gargos and his reign of evil. This time there is no tournament or prize money, just a fight to the finish with the fate of the future hanging in the balance.</desc>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240823T090954</lastplayed>
-	</game>
-	<game>
-		<path>./msh.zip</path>
-		<name>Marvel Super Heroes</name>
-		<desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240823T132052</lastplayed>
-	</game>
-	<game>
-		<path>./nwarr.zip</path>
-		<name>Night Warriors: Darkstalkers' Revenge</name>
-		<desc>Night Warriors: Darkstalkers' Revenge is the second game in the Darkstalkers series of gothic horror fighting games. Released in 1995, it is the upgraded version of the original game which introduced several gameplay changes to the game.
-
-The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who were out to hunt the other Darkstalkers (hence the Japanese title, Vampire Hunter). The two bosses from the first game, Huitzil and Pyron, were now playable characters as well. The game was first released for arcades and later ported to the Sega Saturn. Character art was done by Ikeno.</desc>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240823T133442</lastplayed>
-	</game>
-	<game>
-		<path>./sfa.zip</path>
-		<name>Street Fighter Alpha : Warriors' Dreams</name>
-		<desc>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</desc>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T141300</lastplayed>
-	</game>
-	<game>
-		<path>./mk3.zip</path>
-		<name>Mortal Kombat 3</name>
-		<desc>Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.</desc>
-		<rating>0.8</rating>
-		<releasedate>19950401T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240823T142144</lastplayed>
-	</game>
-	<game>
-		<path>./megaman2.zip</path>
-		<name>Mega Man 2: The Power Fighters</name>
-		<desc>Building upon the previous game, you must battle Dr. Wily's evil robot criminals with the help of Megaman, Protoman, Bass &amp; Duo. Features cool 2-D graphics and the same tried &amp; true Mega Man controls. Pay attention to Dr. Light's advice and you may reach Dr. Wily's fortress and come out victorious!</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Coop • Fighting / Boss</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T144328</lastplayed>
-	</game>
-	<game>
-		<path>./redearth.zip</path>
-		<name>Red Earth</name>
-		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Boss</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240823T151204</lastplayed>
-	</game>
-	<game>
-		<path>./megaman.zip</path>
-		<name>Mega Man: The Power Battle</name>
-		<desc>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</desc>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Coop • Fighting / Boss</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T132534</lastplayed>
-	</game>
-	<game>
-		<path>./xmvsf.zip</path>
-		<name>X-Men vs. Street Fighter</name>
-		<desc>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240823T190127</lastplayed>
-	</game>
-	<game>
-		<path>./mshvsf.zip</path>
-		<name>Marvel Super Heroes vs. Street Fighter</name>
-		<desc>Marvel Super Heroes vs. Street Fighter is the fourth Marvel Comics-licensed fighting game produced by Capcom and the second installment in the Marvel vs. Capcom series. It is a sequel to X-Men vs. Street Fighter which replaces most of the X-Men characters with characters from Marvel Super Heroes. In an attempt to balance the previous game's problems, the game engine was altered, although it remained aesthetically the same which is what the game was criticized for. The game was released for the arcade in 1997
-
-Marvel Super Heroes vs. Street Fighter features a roster of 17 playable fighters, with nine characters from the Street Fighter universe and eight heroes from the Marvel Universe, It utilizes the same one-on-one tag team format previously employed in X-Men vs. Street Fighter. 
-The player chooses a team of two fighters, each sporting their own life gauge; at the start of the match, the first selected character is controlled by the player, while the second character remains off-screen and acts as support.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T190515</lastplayed>
-	</game>
-	<game>
-		<path>./sgemf.zip</path>
-		<name>Super Gem Fighter: Mini Mix</name>
-		<desc>Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary "Street Fighter" series, as well as "Darkstalkers" and the little-known "Red Earth".
-
-During a bout, players will be able to release coloured gems from successful attacks against their opponent, as well as from wooden chests that regularly appear. Collecting these gems will 'power-up' the player's character, giving them more powerful attacks. There are two bars and three sub-bars in the interface. The two main bars are the life bar and the super bar; the first indicates the player's health and the second their ability to throw super combos. The Super Bar itself can be filled up to nine levels, allowing players to execute more super combos. Each super combo has a level assigned to it, and it uses Super Bars depending on it.</desc>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Cute</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T191812</lastplayed>
-	</game>
-	<game>
-		<path>./mvsc.zip</path>
-		<name>Marvel vs. Capcom : Clash of Super Heroes</name>
-		<desc>Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs. Capcom series. In contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters. The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss. The game was developed in late 1997 and first released in January 1998.</desc>
-		<rating>0.9</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T193657</lastplayed>
-	</game>
-	<game>
-		<path>./garou.zip</path>
-		<name>Garou: Mark of the Wolves</name>
-		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
-
-Now Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240824T114355</lastplayed>
-	</game>
-	<game>
-		<path>./lastbld2.zip</path>
-		<name>The Last Blade 2</name>
-		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19990128T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240824T122754</lastplayed>
-	</game>
-	<game>
-		<path>./bldyror2.zip</path>
-		<name>Bloody Roar 2: Bringer of the New Age</name>
-		<desc>Bloody Roar is back with this sequel. Among the new and improved features are seven new characters (along with four original fighters) complete with new moves and looks. Like the original, each character has an inner-beast; Yugo morphs into a ravenous wolf and the vampire-like Jenny turns into a bat. There are nine initially selectable characters with two more waiting to be found.
-The Arcade mode offers a no-frills competition against the computerized AI. If players get bored with the Arcade mode, a second player can join in the action or select the Versus option -- a two-player brawl. Survival mode tests to see how many opponents a player can beat without getting knocked out. In the Story mode, the real draw of Bloody Roar II, each character comes with his or her own unique scenario. By winning rounds, the story unfurls and resolves after the final conflict.</desc>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Eighting</developer>
-		<publisher>Eighting</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20240824T113156</lastplayed>
-	</game>
-	<game>
-		<path>./vsav.zip</path>
-		<name>Vampire Savior: The Lord of Vampire</name>
-		<desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20240825T143445</lastplayed>
-	</game>
-	<game>
-		<path>./cvs2.zip</path>
-		<name>Capcom vs. SNK 2: Mark of the Millennium 2001</name>
-		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters seriesthough elements are also borrowed from the Fatal Fury and Samurai Shodown series.
-
-In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. In console versions of the game, players can also choose a 1-on-1 game or a 3-on-3 game in arcade mode with the ratio system removed.
-
-Unlike the first game, which was based on the King of Fighters-style two-strength, four button system of punches and kicks, Capcom vs. SNK 2 is based on the three strength, six-button system of punches and kicks, native to the Street Fighter series, with the SNK characters being tweaked to fit the 6-button style. The overall system is derivative of Street Fighter Alpha, however, a number of different fighting styles called "grooves", which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems".
-
-There are six grooves in total, each designtated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.</desc>
-		<rating>0.7</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<altemulator>Naomi</altemulator>
-		<lastplayed>20240825T175932</lastplayed>
-	</game>
-	<game>
 		<path>./pbobble2.zip</path>
 		<name>Puzzle Bobble 2</name>
 		<desc>Bub and Bob are back! Like in Tetris in reverse, you shoot bubbles at an array of different-colored bubbles stuck in an ever descending ceiling, attempting to match them up three by three to make them disappear. This edition contains both puzzle challenges, multiplayer and normal progressive stages.</desc>
@@ -485,134 +135,6 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<lastplayed>20240902T143108</lastplayed>
 	</game>
 	<game>
-		<path>./sfiii3.zip</path>
-		<name>Street Fighter III 3rd Strike : Fight for the Future</name>
-		<desc>3rd Strike increased the character roster by adding five new characters, notably including the legendary Chun-Li. New characters Remy, Makoto, Q, and Twelve were also added, bringing the total number of playable fighters to twenty. Also re-introduced was the fan-favourite 'Destroy the Car' bonus stage. 
-
-One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry, also known as the 'Red Parry', which allows players to parry during guard stun, providing the timing is correct. Another new feature is after-match player evaluations in which the winner of a two-person match is graded in Offense, Defence, Tech and Extra. In single-player Arcade mode the player will always be evaluated, even in event of a loss. The grades range from E (lowest) to MSF, or Master Street Fighter (highest).</desc>
-		<rating>0.9</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20241123T173345</lastplayed>
-	</game>
-	<game>
-		<path>./primrage.zip</path>
-		<name>Primal Rage</name>
-		<desc>Seven ferocious dinosaurs gnaw, gore and bite each other until they become the winner's dinner. Eat cavemen to regain health! Feature digitized stop-motion animation. Each of the seven characters has an arsenal of nearly seventy moves, including special and finishing moves. Each character has its own ending.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<lastplayed>20241123T181401</lastplayed>
-	</game>
-	<game>
-		<path>./lastblad.zip</path>
-		<name>The Last Blade</name>
-		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
-		<rating>0.7</rating>
-		<releasedate>19980129T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20241123T183310</lastplayed>
-	</game>
-	<game>
-		<path>./ggxx.zip</path>
-		<name>Guilty Gear Xx</name>
-		<desc>Guilty Gear X2 is the sequel to Arc System Works' high-resolution fighter, Guilty Gear X. Similar to its predecessor, Guilty Gear X2 offers various tweaks and improvements, along with more tangible additions such as new fighters and extra modes. Gameplay is governed by a multitude of powerful special moves such as Psych Bursts, Roman Cancels, Overdrives, Faultless Defense, Dead Angles, and One-Hit Kills (Sammy Studios nomenclature for a stock selection of, cancels, air juggles and counters). A roster of 23 playable characters (some hidden) awaits players, and features an indiscriminate collection of old and new, though no less quirky, faces. Among the new arrivals are the androgynous, yo-yo wielding Bridget and I-No, a leather-clad woman armed with a guitar.</desc>
-		<rating>0.9</rating>
-		<releasedate>20020523T000000</releasedate>
-		<developer>Arc System Works</developer>
-		<publisher>Sammy Corporation</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>11</playcount>
-		<altemulator>Naomi</altemulator>
-		<lastplayed>20241208T162251</lastplayed>
-	</game>
-	<game>
-		<path>./sf.zip</path>
-		<name>Street Fighter</name>
-		<desc>Martial arts masters Ryu and Ken enter a worldwide martial arts tournament spanning 5 nations as they face 10 of the world's greatest fighters. The game can be played alone or with 2 players competing, with Player 1 taking the role of Ryu and Player 2 as Ken. The predecessor to the ultra-popular "Street Fighter II - The World Warrior".</desc>
-		<rating>0.4</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>5</playcount>
-		<lastplayed>20241208T163119</lastplayed>
-	</game>
-	<game>
-		<path>./samsho3.zip</path>
-		<name>Samurai Shodown III</name>
-		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The "Slash" techniques are the original moves of the most of the characters whereas the "Bust" techniques maybe the "darker" version of each character.</desc>
-		<rating>0.8</rating>
-		<releasedate>19951201T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20241208T202719</lastplayed>
-	</game>
-	<game>
-		<path>./sf2.zip</path>
-		<name>Street Fighter II : The World Warrior</name>
-		<desc>GET READY TO RUMBLE!
-
-From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
-
-Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20250606T174739</lastplayed>
-	</game>
-	<game>
-		<path>./mk2.zip</path>
-		<name>Mortal Kombat 2</name>
-		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
-
-As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'. 
-
-Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked. 
-
-Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background). 
-
-Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930625T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<lastplayed>20250606T214600</lastplayed>
-	</game>
-	<game>
 		<path>./ncv1.zip</path>
 		<name>Namco Classic Collection Vol.1</name>
 		<playcount>1</playcount>
@@ -623,24 +145,6 @@ Each character still shares generic attributes - speed, power, jump height and a
 		<name>Namco Classic Collection Vol.2</name>
 		<playcount>1</playcount>
 		<lastplayed>20250620T223230</lastplayed>
-	</game>
-	<game>
-		<path>./kinst.zip</path>
-		<name>Killer Instinct</name>
-		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.
-
-Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.
-
-Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>10</playcount>
-		<lastplayed>20250622T202453</lastplayed>
 	</game>
 	<game>
 		<path>./ssf2t.zip</path>
@@ -673,35 +177,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<lastplayed>20250921T105540</lastplayed>
 	</game>
 	<game>
-		<path>./tektagt.zip</path>
-		<name>Tekken Tag Tournament</name>
-		<desc>Tekken Tag Tournament is a 'Dream Match' Iron Fist Tournament, and it does not have a plot fitting within the Tekken story timeline. The game is an enhanced version of Tekken 3 including a new Tag feature - where the player selects two fighters and can change between characters during gameplay, and perform tag-team combos. The first side to have a character to be knocked out is the loser. The character list includes almost (if not all) characters from all 3 previous games.</desc>
-		<rating>0.8</rating>
-		<releasedate>19990701T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<lastplayed>20251025T185950</lastplayed>
-	</game>
-	<game>
-		<path>./umk3.zip</path>
-		<name>Ultimate Mortal Kombat 3</name>
-		<desc>This game is the same as Mortal Kombat 3 except for the inclusion of new backgrounds and more charactors (22 playable in all). This version marks the return of Scorpion, Reptile, Kitana and Jade (not to mention the endurance rounds). Hidden characters include Human Smoke, Classic Sub-Zero, Mileena, Ermac, Rain and Noob Saibot (Rain and Noob Saibot are not selectable in any way).</desc>
-		<rating>0.9</rating>
-		<releasedate>19951106T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Comp • Fighting / Tag</genre>
-		<players>1-8</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>8</playcount>
-		<lastplayed>20251025T190446</lastplayed>
-	</game>
-	<game>
 		<path>./blockhl.zip</path>
 		<name>Block Hole</name>
 		<desc>A puzzle game that is a combination of Tetris-style gameplay and a fixed shooter in the Space Invaders tradition. Rather than arranging the blocks together to make a row of disappearing blocks, a spaceship positioned at the bottom of the screen shoots blocks upwards to make the falling block pattern into squares or rectangles. Once the blocks have been arranged properly, the shape is destroyed and the player is awarded points based on the shape's size. The blocks continue to drop from the top of the screen in various incomplete shapes.</desc>
@@ -728,22 +203,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./ggx.zip</path>
-		<name>Guilty Gear X</name>
-		<desc>Guilty Gear X is an outstanding 2-D fighting game developed for Sega's Naomi hardware. The game features an intense fighting experience featuring a pulse pounding heavy metal soundtrack, amazingly detailed high resolution graphics, and smooth gameplay.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000713T000000</releasedate>
-		<developer>Arc System Works</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fighting / Versus</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>12</playcount>
-		<playtime>51</playtime>
-		<altemulator>Naomi</altemulator>
-		<lastplayed>20260522T182123</lastplayed>
-	</game>
-	<game>
 		<path>./jpark.zip</path>
 		<name>Jurassic Park</name>
 		<desc>Jurassic Park is an on-the-rails lightgun game for 1 or 2 players, based on the groundbreaking Steven Spielberg movie of the same name.
@@ -758,23 +217,6 @@ Jurassic Park features Sega's often-used and highly effective sprite scaled grap
 		<playcount>1</playcount>
 		<playtime>16</playtime>
 		<lastplayed>20260531T143946</lastplayed>
-	</game>
-	<game>
-		<path>./tekken3.zip</path>
-		<name>Tekken 3</name>
-		<desc>
-The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
-		<rating>0.9</rating>
-		<releasedate>19970320T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting / 2.5D</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>9</playcount>
-		<playtime>198</playtime>
-		<lastplayed>20260601T222024</lastplayed>
 	</game>
 	<game>
 		<path>./invaders.zip</path>
@@ -2479,63 +1921,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<playcount>3</playcount>
 		<playtime>77</playtime>
 		<lastplayed>20260606T135334</lastplayed>
-	</game>
-	<game>
-		<path>./outfxies.zip</path>
-		<name>The Outfoxies</name>
-		<desc>A platform 'versus' shoot'em up in which either one player (playing against the computer) or two players (playing against each other) attempt to destroy each other by any means necessary. The levels themselves are interesting and varied, with airships, planes etc. providing a detailed and highly interactive backdrop in which the players do battle. That interactivity is increased further with the introduction of destructible sections which, when blown up, can often open up new areas or rooms. Each level is littered with a variety of weapons that can be picked up and utilized by the player(s). Graphically, Outfoxies employed superb sprite scale and rotation techniques that elevated the already fun gameplay still further. The aeroplane level, for instance, dips and sways, bringing problems of inertia and gravity to the platform action. Also; the in-game camera zooms in and out of the level, depending on how far away the two opponents are from each other. Playable characters range from a monkey to a pair of psychotic school children, with each character choice offering the player different aptitudes (the monkey can jump higher, for example). A fun enough game in one-player mode, Outfoxies really came into its own when two human protagonists took part.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Brawl</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240823T085010</lastplayed>
-	</game>
-	<game>
-		<path>./samsho2.zip</path>
-		<name>Samurai Shodown II</name>
-		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
-		<rating>0.7</rating>
-		<releasedate>19941202T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<lastplayed>20240823T144045</lastplayed>
-	</game>
-	<game>
-		<path>./rvschool.zip</path>
-		<name>Rival Schools: United By Fate</name>
-		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
-		<rating>0.5</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>2</playcount>
-		<lastplayed>20240823T191143</lastplayed>
-	</game>
-	<game>
-		<path>./sfa2.zip</path>
-		<name>Street Fighter Alpha 2</name>
-		<desc>Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South America, is a 1996 fighting game originally released for the CPS II arcade hardware by Capcom. The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting</desc>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Comp • Fighting</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<lastplayed>20240823T151431</lastplayed>
 	</game>
 	<game>
 		<path>./puzzloop.zip</path>
@@ -4953,30 +4338,6 @@ The game centers on a player's ability to shoot up to three bucks a stage withou
 		<lastplayed>20260614T220813</lastplayed>
 	</game>
 	<game>
-		<path>./kof94.zip</path>
-		<name>The King of Fighters '94</name>
-		<desc>The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up "Art of Fighting" style in order to gain access to "Desperation Moves", or "DMs" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.</desc>
-		<rating>0.8</rating>
-		<releasedate>19941001T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./vf2.zip</path>
-		<name>Virtua Fighter 2</name>
-		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
-
-The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fighting / 3D</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./vcop.zip</path>
 		<name>Virtua Cop</name>
 		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
@@ -4991,73 +4352,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<playcount>2</playcount>
 		<playtime>173</playtime>
 		<lastplayed>20260614T212111</lastplayed>
-	</game>
-	<game>
-		<path>./fatfury1.zip</path>
-		<name>Fatal Fury : King of Fighters</name>
-		<desc>Southtown City plays host to the King of Fighters Tournament. Andy &amp; Terry Bogard take part in the tournament cause winning the tournament is the only way they can defeat Geese Howard. Geese Howard controls Southtown City and killed their father several years ago. Also taking part is Joe Higashi, a Japanese kickboxer. Select either Joe, Andy or Terry, visit several locations in Southtown City and win that tournament!
-
-Fatal Fury is a 2D fighter and is the first game in a series of one-on-one fighting games by SNK. It's a conversion of the original Fatal Fury arcade game. This first game does not yet feature the series' trademark pseudo 3D mode (which allows you to move between the foreground &amp; background while fighting). Includes a two-player vs. mode.
-</desc>
-		<rating>0.5</rating>
-		<releasedate>19911220T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./fatfury2.zip</path>
-		<name>Fatal Fury 2</name>
-		<desc>Again, the Lone Wolves return!
-
-Geese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930305T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./fatfury3.zip</path>
-		<name>Fatal Fury 3: Road to the Final Victory</name>
-		<desc>An adaptation of the Neo-Geo fighting game.  2-D scrolling one-on-one fighter with pseudo-3D aspects (that allows for players to "escape" holds, throws, and other attacks.)  Part of the incestuously-popular SNK fighting game pantheon...
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19950421T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./kof98.zip</path>
-		<name>The King of Fighters '98 : The Slugfest</name>
-		<desc>For all you King of Fighters fans, SNK offers the ultimate KOF installment! A total of 38 of your favorite fighters from all the characters appearing in the '94 to '97 versions. The nostalgic American Sports team, Lugal, as well as Heidern, Takuma, Saishu Kusanagi and other long-awaited characters are back! The ultimate reunion is about to begin in The King of Fighters '98!</desc>
-		<rating>0.9</rating>
-		<releasedate>19980923T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./kof2002.zip</path>
-		<name>The King of Fighters 2002</name>
-		<desc>The second plotless "dream match" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms.
-
-The gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed. In their place are the old-school three man teams and the "Advanced system" from The King of Fighters '97 and The King of Fighters '98.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>20021218T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting / Versus</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<playtime>13</playtime>
-		<lastplayed>20260615T223154</lastplayed>
 	</game>
 	<game>
 		<path>./hyperspt.zip</path>
@@ -5672,34 +4966,6 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
 		<lastplayed>20260622T115125</lastplayed>
 	</game>
 	<game>
-		<path>./gtfore04.zip</path>
-		<name>Golden Tee Fore! 2004</name>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<playcount>3</playcount>
-		<playtime>275</playtime>
-		<controller>trackball_generic</controller>
-		<lastplayed>20260622T115649</lastplayed>
-	</game>
-	<game>
-		<path>./gtfore05.zip</path>
-		<name>Golden Tee Fore! 2005</name>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<publisher>Incredible Technologies, Inc.</publisher>
-		<genre>Comp • Sports / Golf</genre>
-		<players>1-4</players>
-		<broken>true</broken>
-		<playcount>5</playcount>
-		<playtime>420</playtime>
-		<controller>trackball_generic</controller>
-		<lastplayed>20260622T120356</lastplayed>
-	</game>
-	<game>
 		<path>./gtfore06.zip</path>
 		<name>Golden Tee Fore! 2006 Complete</name>
 		<desc>Golden Tee Fore! Complete is a golf game and part on a long series, whose signature feature is the use of a trackball to determine the power, direction and curve of the player's golf shot. Play modes include casual 18-hole golf, closest to the pin, and online tournaments.
@@ -5733,5 +4999,803 @@ As with most golfing games, players have a full selection of clubs from which to
 		<playtime>130</playtime>
 		<controller>trackball_generic</controller>
 		<lastplayed>20260619T125306</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore04.zip</path>
+		<name>Golden Tee Fore! 2004</name>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>275</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T115649</lastplayed>
+	</game>
+	<game>
+		<path>./sf.zip</path>
+		<name>Street Fighter</name>
+		<desc>Martial arts masters Ryu and Ken enter a worldwide martial arts tournament spanning 5 nations as they face 10 of the world's greatest fighters. The game can be played alone or with 2 players competing, with Player 1 taking the role of Ryu and Player 2 as Ken. The predecessor to the ultra-popular "Street Fighter II - The World Warrior".</desc>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>119</playtime>
+		<lastplayed>20260622T123756</lastplayed>
+	</game>
+	<game>
+		<path>./sf2.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>330</playtime>
+		<lastplayed>20260622T124355</lastplayed>
+	</game>
+	<game>
+		<path>./fatfury1.zip</path>
+		<name>Fatal Fury : King of Fighters</name>
+		<desc>Southtown City plays host to the King of Fighters Tournament. Andy &amp; Terry Bogard take part in the tournament cause winning the tournament is the only way they can defeat Geese Howard. Geese Howard controls Southtown City and killed their father several years ago. Also taking part is Joe Higashi, a Japanese kickboxer. Select either Joe, Andy or Terry, visit several locations in Southtown City and win that tournament!
+
+Fatal Fury is a 2D fighter and is the first game in a series of one-on-one fighting games by SNK. It's a conversion of the original Fatal Fury arcade game. This first game does not yet feature the series' trademark pseudo 3D mode (which allows you to move between the foreground &amp; background while fighting). Includes a two-player vs. mode.
+</desc>
+		<rating>0.5</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>89</playtime>
+		<lastplayed>20260622T124547</lastplayed>
+	</game>
+	<game>
+		<path>./mk.zip</path>
+		<name>Mortal Kombat</name>
+		<desc>Mortal Kombat, first in the Mortal Kombat series, is a 1-on-1 fighting game featuring a cast of seven different characters. Mortal Kombat took ideas from Capcom's seminal Street Fighter II, such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. 
+
+Mortal Kombat characters list:
+JOHNNY CAGE
+KANO
+RAIDEN
+LIU KANG
+SCORPION
+SUB-ZERO
+SONYA BLADE
+
+Battles are fought over the best of three rounds. At the end of a battle, a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.</desc>
+		<rating>0.6</rating>
+		<releasedate>19921008T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>161</playtime>
+		<lastplayed>20260622T124856</lastplayed>
+	</game>
+	<game>
+		<path>./mmaulers.zip</path>
+		<name>Monster Maulers</name>
+		<desc>A trio of supervillains unleashes an army of gross mutants on earth in order to start an alien invasion. Our only hope is the trio of superheroes known as the 'Ultimate Task Force'. Squash the evil mutants and put an end to the alien menace. Features excellent graphics &amp; sound as well as plenty of moves to find!</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Coop • Fighting / Boss</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>204</playtime>
+		<lastplayed>20260622T140033</lastplayed>
+	</game>
+	<game>
+		<path>./fatfury2.zip</path>
+		<name>Fatal Fury 2</name>
+		<desc>Again, the Lone Wolves return!
+
+Geese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930305T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>195</playtime>
+		<lastplayed>20260622T140402</lastplayed>
+	</game>
+	<game>
+		<path>./mk2.zip</path>
+		<name>Mortal Kombat 2</name>
+		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
+
+As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'. 
+
+Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked. 
+
+Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background). 
+
+Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.</desc>
+		<rating>0.8</rating>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>179</playtime>
+		<lastplayed>20260622T140716</lastplayed>
+	</game>
+	<game>
+		<path>./samsho.zip</path>
+		<name>Samurai Shodown</name>
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
+Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<rating>0.6</rating>
+		<releasedate>19930811T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>330</playtime>
+		<lastplayed>20260622T141258</lastplayed>
+	</game>
+	<game>
+		<path>./kinst.zip</path>
+		<name>Killer Instinct</name>
+		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.
+
+Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.
+
+Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>11</playcount>
+		<playtime>177</playtime>
+		<lastplayed>20260622T141621</lastplayed>
+	</game>
+	<game>
+		<path>./primrage.zip</path>
+		<name>Primal Rage</name>
+		<desc>Seven ferocious dinosaurs gnaw, gore and bite each other until they become the winner's dinner. Eat cavemen to regain health! Feature digitized stop-motion animation. Each of the seven characters has an arsenal of nearly seventy moves, including special and finishing moves. Each character has its own ending.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>398</playtime>
+		<lastplayed>20260622T142314</lastplayed>
+	</game>
+	<game>
+		<path>./outfxies.zip</path>
+		<name>The Outfoxies</name>
+		<desc>A platform 'versus' shoot'em up in which either one player (playing against the computer) or two players (playing against each other) attempt to destroy each other by any means necessary. The levels themselves are interesting and varied, with airships, planes etc. providing a detailed and highly interactive backdrop in which the players do battle. That interactivity is increased further with the introduction of destructible sections which, when blown up, can often open up new areas or rooms. Each level is littered with a variety of weapons that can be picked up and utilized by the player(s). Graphically, Outfoxies employed superb sprite scale and rotation techniques that elevated the already fun gameplay still further. The aeroplane level, for instance, dips and sways, bringing problems of inertia and gravity to the platform action. Also; the in-game camera zooms in and out of the level, depending on how far away the two opponents are from each other. Playable characters range from a monkey to a pair of psychotic school children, with each character choice offering the player different aptitudes (the monkey can jump higher, for example). A fun enough game in one-player mode, Outfoxies really came into its own when two human protagonists took part.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Fighting / Brawl</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>112</playtime>
+		<lastplayed>20260622T142943</lastplayed>
+	</game>
+	<game>
+		<path>./xmcota.zip</path>
+		<name>X-Men: Children of the Atom</name>
+		<desc>X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!</desc>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>588</playtime>
+		<lastplayed>20260622T143949</lastplayed>
+	</game>
+	<game>
+		<path>./dstlk.zip</path>
+		<name>Darkstalkers: The Night Warriors</name>
+		<desc>People tremble in fear of these monsters. A mysterious force awakens them from their long slumber. 'Arise and show your fangs!' The silence of the night is broken by the growls and roars of these evil spirits which have been summoned from beyond. They are coming... tonight! DarkStalkers - the warriors of the night!
+
+DarkStalkers features spectacular fighting between supernatural monsters with 4 TIMES the graphics of SFII (its 15,000 animation patterns put it way out in front of SSFII Turbo, resulting in realistic movement with smooth animation). With endless playability you'll never tire of, make sport of your opponent with incredible moves like the Special Attack and Death Blow which are humanly impossible. We're talking about unlimited varieties of attack!
+
+The unimaginable secret power of the dark is unleashed!</desc>
+		<rating>0.7</rating>
+		<releasedate>19940712T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>93</playtime>
+		<lastplayed>20260622T144239</lastplayed>
+	</game>
+	<game>
+		<path>./kof94.zip</path>
+		<name>The King of Fighters '94</name>
+		<desc>The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up "Art of Fighting" style in order to gain access to "Desperation Moves", or "DMs" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.</desc>
+		<rating>0.8</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>185</playtime>
+		<lastplayed>20260622T144608</lastplayed>
+	</game>
+	<game>
+		<path>./samsho2.zip</path>
+		<name>Samurai Shodown II</name>
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
+		<rating>0.7</rating>
+		<releasedate>19941202T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>168</playtime>
+		<lastplayed>20260622T144914</lastplayed>
+	</game>
+	<game>
+		<path>./kinst2.zip</path>
+		<name>Killer Instinct 2</name>
+		<desc>A great sequel of the previous game include new features and new characters. 
+
+The plot follows on where the first installment left off. Eyedol's death at the hands of Orchid accidentally sets off a time warp, transporting some of the combatants back in time and allowing the Demon Lord Gargos to escape from Limbo.
+
+Now, trapped 2000 years in the past, the warriors that survived Killer Instinct, along with several new faces, fight for the right to face Gargos in combat. Each character that survived the journey from the first game has a corresponding background story, while new characters on this installment are native inhabitants of this past time period. Some fighters, like T.J. Combo who survives from the original, just want to get home. Others, like new character Tusk, want to bring an end to Gargos and his reign of evil. This time there is no tournament or prize money, just a fight to the finish with the fate of the future hanging in the balance.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>382</playtime>
+		<lastplayed>20260622T145552</lastplayed>
+	</game>
+	<game>
+		<path>./msh.zip</path>
+		<name>Marvel Super Heroes</name>
+		<desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>373</playtime>
+		<lastplayed>20260622T150223</lastplayed>
+	</game>
+	<game>
+		<path>./megaman.zip</path>
+		<name>Mega Man: The Power Battle</name>
+		<desc>Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).</desc>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Fighting / Boss</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>579</playtime>
+		<lastplayed>20260622T151225</lastplayed>
+	</game>
+	<game>
+		<path>./nwarr.zip</path>
+		<name>Night Warriors: Darkstalkers' Revenge</name>
+		<desc>Night Warriors: Darkstalkers' Revenge is the second game in the Darkstalkers series of gothic horror fighting games. Released in 1995, it is the upgraded version of the original game which introduced several gameplay changes to the game.
+
+The game introduced two new playable characters, Donovan Baine and Hsien-Ko, who were out to hunt the other Darkstalkers (hence the Japanese title, Vampire Hunter). The two bosses from the first game, Huitzil and Pyron, were now playable characters as well. The game was first released for arcades and later ported to the Sega Saturn. Character art was done by Ikeno.</desc>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>77</playtime>
+		<lastplayed>20260622T151407</lastplayed>
+	</game>
+	<game>
+		<path>./sfa.zip</path>
+		<name>Street Fighter Alpha : Warriors' Dreams</name>
+		<desc>The game introduces several new features, expanding on the Super Combo system previously featured in Super Street Fighter II Turbo, with graphics drawn in the same cartoonish style Capcom employed in Darkstalkers and X-Men: Children of the Atom.[2][3] The plot of Street Fighter Alpha is set after the original Street Fighter but before Street Fighter II and thus the game features younger versions of established characters, as well as characters from the original Street Fighter and Final Fight, and a few who are new to the series.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>154</playtime>
+		<lastplayed>20260622T151705</lastplayed>
+	</game>
+	<game>
+		<path>./mk3.zip</path>
+		<name>Mortal Kombat 3</name>
+		<desc>Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950401T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>405</playtime>
+		<lastplayed>20260622T152413</lastplayed>
+	</game>
+	<game>
+		<path>./fatfury3.zip</path>
+		<name>Fatal Fury 3: Road to the Final Victory</name>
+		<desc>An adaptation of the Neo-Geo fighting game.  2-D scrolling one-on-one fighter with pseudo-3D aspects (that allows for players to "escape" holds, throws, and other attacks.)  Part of the incestuously-popular SNK fighting game pantheon...
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>179</playtime>
+		<lastplayed>20260622T152729</lastplayed>
+	</game>
+	<game>
+		<path>./umk3.zip</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<desc>This game is the same as Mortal Kombat 3 except for the inclusion of new backgrounds and more charactors (22 playable in all). This version marks the return of Scorpion, Reptile, Kitana and Jade (not to mention the endurance rounds). Hidden characters include Human Smoke, Classic Sub-Zero, Mileena, Ermac, Rain and Noob Saibot (Rain and Noob Saibot are not selectable in any way).</desc>
+		<rating>0.9</rating>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Comp • Fighting / Tag</genre>
+		<players>1-8</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>226</playtime>
+		<lastplayed>20260622T153140</lastplayed>
+	</game>
+	<game>
+		<path>./samsho3.zip</path>
+		<name>Samurai Shodown III</name>
+		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The "Slash" techniques are the original moves of the most of the characters whereas the "Bust" techniques maybe the "darker" version of each character.</desc>
+		<rating>0.8</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>441</playtime>
+		<lastplayed>20260622T153932</lastplayed>
+	</game>
+	<game>
+		<path>./megaman2.zip</path>
+		<name>Mega Man 2: The Power Fighters</name>
+		<desc>Building upon the previous game, you must battle Dr. Wily's evil robot criminals with the help of Megaman, Protoman, Bass &amp; Duo. Features cool 2-D graphics and the same tried &amp; true Mega Man controls. Pay attention to Dr. Light's advice and you may reach Dr. Wily's fortress and come out victorious!</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Coop • Fighting / Boss</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>227</playtime>
+		<lastplayed>20260622T154332</lastplayed>
+	</game>
+	<game>
+		<path>./redearth.zip</path>
+		<name>Red Earth</name>
+		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Boss</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>977</playtime>
+		<lastplayed>20260622T160017</lastplayed>
+	</game>
+	<game>
+		<path>./sfa2.zip</path>
+		<name>Street Fighter Alpha 2</name>
+		<desc>Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South America, is a 1996 fighting game originally released for the CPS II arcade hardware by Capcom. The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>794</playtime>
+		<lastplayed>20260622T161348</lastplayed>
+	</game>
+	<game>
+		<path>./xmvsf.zip</path>
+		<name>X-Men vs. Street Fighter</name>
+		<desc>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>206</playtime>
+		<lastplayed>20260622T161737</lastplayed>
+	</game>
+	<game>
+		<path>./mshvsf.zip</path>
+		<name>Marvel Super Heroes vs. Street Fighter</name>
+		<desc>Marvel Super Heroes vs. Street Fighter is the fourth Marvel Comics-licensed fighting game produced by Capcom and the second installment in the Marvel vs. Capcom series. It is a sequel to X-Men vs. Street Fighter which replaces most of the X-Men characters with characters from Marvel Super Heroes. In an attempt to balance the previous game's problems, the game engine was altered, although it remained aesthetically the same which is what the game was criticized for. The game was released for the arcade in 1997
+
+Marvel Super Heroes vs. Street Fighter features a roster of 17 playable fighters, with nine characters from the Street Fighter universe and eight heroes from the Marvel Universe, It utilizes the same one-on-one tag team format previously employed in X-Men vs. Street Fighter. 
+The player chooses a team of two fighters, each sporting their own life gauge; at the start of the match, the first selected character is controlled by the player, while the second character remains off-screen and acts as support.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>195</playtime>
+		<lastplayed>20260622T164042</lastplayed>
+	</game>
+	<game>
+		<path>./rvschool.zip</path>
+		<name>Rival Schools: United By Fate</name>
+		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
+		<rating>0.5</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>441</playtime>
+		<lastplayed>20260622T164334</lastplayed>
+	</game>
+	<game>
+		<path>./sgemf.zip</path>
+		<name>Super Gem Fighter: Mini Mix</name>
+		<desc>Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary "Street Fighter" series, as well as "Darkstalkers" and the little-known "Red Earth".
+
+During a bout, players will be able to release coloured gems from successful attacks against their opponent, as well as from wooden chests that regularly appear. Collecting these gems will 'power-up' the player's character, giving them more powerful attacks. There are two bars and three sub-bars in the interface. The two main bars are the life bar and the super bar; the first indicates the player's health and the second their ability to throw super combos. The Super Bar itself can be filled up to nine levels, allowing players to execute more super combos. Each super combo has a level assigned to it, and it uses Super Bars depending on it.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Cute</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>148</playtime>
+		<lastplayed>20260622T164900</lastplayed>
+	</game>
+	<game>
+		<path>./vsav.zip</path>
+		<name>Vampire Savior: The Lord of Vampire</name>
+		<desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>180</playtime>
+		<lastplayed>20260622T165217</lastplayed>
+	</game>
+	<game>
+		<path>./tekken3.zip</path>
+		<name>Tekken 3</name>
+		<desc>
+The world's 19 toughest fighters enter The King of Iron Fist Tournament 3, in order to defeat Heihachi, and Ogre, who has taken the souls of many of the world's greatest fighters to adopt its own fighting style. Every character has his own ambition of winning the tournament. A fully 3-D game with one on one concept of fighting.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970320T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting / 2.5D</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>10</playcount>
+		<playtime>324</playtime>
+		<lastplayed>20260622T165442</lastplayed>
+	</game>
+	<game>
+		<path>./bldyror2.zip</path>
+		<name>Bloody Roar 2: Bringer of the New Age</name>
+		<desc>Bloody Roar is back with this sequel. Among the new and improved features are seven new characters (along with four original fighters) complete with new moves and looks. Like the original, each character has an inner-beast; Yugo morphs into a ravenous wolf and the vampire-like Jenny turns into a bat. There are nine initially selectable characters with two more waiting to be found.
+The Arcade mode offers a no-frills competition against the computerized AI. If players get bored with the Arcade mode, a second player can join in the action or select the Versus option -- a two-player brawl. Survival mode tests to see how many opponents a player can beat without getting knocked out. In the Story mode, the real draw of Bloody Roar II, each character comes with his or her own unique scenario. By winning rounds, the story unfurls and resolves after the final conflict.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Eighting</developer>
+		<publisher>Eighting</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>7</playcount>
+		<playtime>438</playtime>
+		<lastplayed>20260622T170219</lastplayed>
+	</game>
+	<game>
+		<path>./mvsc.zip</path>
+		<name>Marvel vs. Capcom : Clash of Super Heroes</name>
+		<desc>Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs. Capcom series. In contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters. The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss. The game was developed in late 1997 and first released in January 1998.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>146</playtime>
+		<lastplayed>20260622T170513</lastplayed>
+	</game>
+	<game>
+		<path>./lastblad.zip</path>
+		<name>The Last Blade</name>
+		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980129T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>154</playtime>
+		<lastplayed>20260622T170813</lastplayed>
+	</game>
+	<game>
+		<path>./kof98.zip</path>
+		<name>The King of Fighters '98 : The Slugfest</name>
+		<desc>For all you King of Fighters fans, SNK offers the ultimate KOF installment! A total of 38 of your favorite fighters from all the characters appearing in the '94 to '97 versions. The nostalgic American Sports team, Lugal, as well as Heidern, Takuma, Saishu Kusanagi and other long-awaited characters are back! The ultimate reunion is about to begin in The King of Fighters '98!</desc>
+		<rating>0.9</rating>
+		<releasedate>19980923T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>1</playcount>
+		<playtime>131</playtime>
+		<lastplayed>20260622T171049</lastplayed>
+	</game>
+	<game>
+		<path>./garou.zip</path>
+		<name>Garou: Mark of the Wolves</name>
+		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
+
+Now Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!
+</desc>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>137</playtime>
+		<lastplayed>20260622T171336</lastplayed>
+	</game>
+	<game>
+		<path>./sfiii3.zip</path>
+		<name>Street Fighter III 3rd Strike : Fight for the Future</name>
+		<desc>3rd Strike increased the character roster by adding five new characters, notably including the legendary Chun-Li. New characters Remy, Makoto, Q, and Twelve were also added, bringing the total number of playable fighters to twenty. Also re-introduced was the fan-favourite 'Destroy the Car' bonus stage. 
+
+One of the new gameplay mechanics introduced in "3rd Strike" is the Guard Parry, also known as the 'Red Parry', which allows players to parry during guard stun, providing the timing is correct. Another new feature is after-match player evaluations in which the winner of a two-person match is graded in Offense, Defence, Tech and Extra. In single-player Arcade mode the player will always be evaluated, even in event of a loss. The grades range from E (lowest) to MSF, or Master Street Fighter (highest).</desc>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>1790</playtime>
+		<lastplayed>20260622T174345</lastplayed>
+	</game>
+	<game>
+		<path>./lastbld2.zip</path>
+		<name>The Last Blade 2</name>
+		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19990128T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>3</playcount>
+		<playtime>303</playtime>
+		<lastplayed>20260622T174905</lastplayed>
+	</game>
+	<game>
+		<path>./tektagt.zip</path>
+		<name>Tekken Tag Tournament</name>
+		<desc>Tekken Tag Tournament is a 'Dream Match' Iron Fist Tournament, and it does not have a plot fitting within the Tekken story timeline. The game is an enhanced version of Tekken 3 including a new Tag feature - where the player selects two fighters and can change between characters during gameplay, and perform tag-team combos. The first side to have a character to be knocked out is the loser. The character list includes almost (if not all) characters from all 3 previous games.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>354</playtime>
+		<lastplayed>20260623T074926</lastplayed>
+	</game>
+	<game>
+		<path>./kof2002.zip</path>
+		<name>The King of Fighters 2002</name>
+		<desc>The second plotless "dream match" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, "Riot of the Blood" Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms.
+
+The gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed. In their place are the old-school three man teams and the "Advanced system" from The King of Fighters '97 and The King of Fighters '98.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>20021218T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>186</playtime>
+		<lastplayed>20260623T075239</lastplayed>
+	</game>
+	<game>
+		<path>./gtfore05.zip</path>
+		<name>Golden Tee Fore! 2005</name>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<publisher>Incredible Technologies, Inc.</publisher>
+		<genre>Comp • Sports / Golf</genre>
+		<players>1-4</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>420</playtime>
+		<controller>trackball_generic</controller>
+		<lastplayed>20260622T120356</lastplayed>
+	</game>
+	<game>
+		<path>./vf2.zip</path>
+		<name>Virtua Fighter 2</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting / 3D</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>2</playcount>
+		<playtime>87</playtime>
+		<lastplayed>20260623T082920</lastplayed>
+	</game>
+	<game>
+		<path>./cvs2.zip</path>
+		<name>Capcom vs. SNK 2: Mark of the Millennium 2001</name>
+		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters seriesthough elements are also borrowed from the Fatal Fury and Samurai Shodown series.
+
+In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. In console versions of the game, players can also choose a 1-on-1 game or a 3-on-3 game in arcade mode with the ratio system removed.
+
+Unlike the first game, which was based on the King of Fighters-style two-strength, four button system of punches and kicks, Capcom vs. SNK 2 is based on the three strength, six-button system of punches and kicks, native to the Street Fighter series, with the SNK characters being tweaked to fit the 6-button style. The overall system is derivative of Street Fighter Alpha, however, a number of different fighting styles called "grooves", which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems".
+
+There are six grooves in total, each designtated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.</desc>
+		<rating>0.7</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Comp • Fighting / Team</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>6</playcount>
+		<playtime>484</playtime>
+		<altemulator>Flycast</altemulator>
+		<lastplayed>20260623T083954</lastplayed>
+	</game>
+	<game>
+		<path>./ggx.zip</path>
+		<name>Guilty Gear X</name>
+		<desc>Guilty Gear X is an outstanding 2-D fighting game developed for Sega's Naomi hardware. The game features an intense fighting experience featuring a pulse pounding heavy metal soundtrack, amazingly detailed high resolution graphics, and smooth gameplay.</desc>
+		<rating>0.8</rating>
+		<releasedate>20000713T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting / Versus</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>17</playcount>
+		<playtime>657</playtime>
+		<altemulator>Flycast</altemulator>
+		<lastplayed>20260623T084708</lastplayed>
+	</game>
+	<game>
+		<path>./ggxx.zip</path>
+		<name>Guilty Gear Xx</name>
+		<desc>Guilty Gear X2 is the sequel to Arc System Works' high-resolution fighter, Guilty Gear X. Similar to its predecessor, Guilty Gear X2 offers various tweaks and improvements, along with more tangible additions such as new fighters and extra modes. Gameplay is governed by a multitude of powerful special moves such as Psych Bursts, Roman Cancels, Overdrives, Faultless Defense, Dead Angles, and One-Hit Kills (Sammy Studios nomenclature for a stock selection of, cancels, air juggles and counters). A roster of 23 playable characters (some hidden) awaits players, and features an indiscriminate collection of old and new, though no less quirky, faces. Among the new arrivals are the androgynous, yo-yo wielding Bridget and I-No, a leather-clad woman armed with a guitar.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020523T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>13</playcount>
+		<playtime>351</playtime>
+		<altemulator>Flycast</altemulator>
+		<lastplayed>20260623T084946</lastplayed>
 	</game>
 </gameList>

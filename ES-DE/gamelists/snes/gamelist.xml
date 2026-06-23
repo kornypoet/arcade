@@ -16,20 +16,6 @@
 		<lastplayed>20260427T202442</lastplayed>
 	</game>
 	<game>
-		<path>./WeaponLord (USA).sfc</path>
-		<name>WeaponLord</name>
-		<desc>A barbarian battleground. Seven different warriors, eached armed with a unique weapon set forth on a fighting game quest where they will clash and conflict with one another in this fighting game from Namco. Their ultimate foe is the mysterious Demonlord. An early relative of the popular Soul Calibur series, the main claim to fame of this game is the weapon play. Blocking and combos are present along with special "frenzies" of increased attack and death combos. The backgrounds are all hand drawn and meticulously detailed. Each character carries their own storyline with them between arenas, jungles and firey mountains on a quest to oppose the Demonlord.</desc>
-		<rating>0.8</rating>
-		<releasedate>19950901T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / Weapon</genre>
-		<players>1-2</players>
-		<playcount>4</playcount>
-		<playtime>199</playtime>
-		<lastplayed>20260427T203112</lastplayed>
-	</game>
-	<game>
 		<path>./Super Mario Kart (U) [!].smc</path>
 		<name>Super Mario Kart</name>
 		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
@@ -118,6 +104,21 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<lastplayed>20260615T175047</lastplayed>
 	</game>
 	<game>
+		<path>./WeaponLord (USA).sfc</path>
+		<name>WeaponLord</name>
+		<desc>A barbarian battleground. Seven different warriors, eached armed with a unique weapon set forth on a fighting game quest where they will clash and conflict with one another in this fighting game from Namco. Their ultimate foe is the mysterious Demonlord. An early relative of the popular Soul Calibur series, the main claim to fame of this game is the weapon play. Blocking and combos are present along with special "frenzies" of increased attack and death combos. The backgrounds are all hand drawn and meticulously detailed. Each character carries their own storyline with them between arenas, jungles and firey mountains on a quest to oppose the Demonlord.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Comp • Fighting / Weapon</genre>
+		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>4</playcount>
+		<playtime>199</playtime>
+		<lastplayed>20260427T203112</lastplayed>
+	</game>
+	<game>
 		<path>./Tetris Attack (U) [!].smc</path>
 		<name>Tetris Attack</name>
 		<desc>Tetris Attack throws Yoshi's Island into turmoil – King Bowser has cast a dark spell, turning nearly all its inhabitants into mindless servants. Only Yoshi has escaped, and he must set out to rescue his friends and defeat Bowser. The game blends fast-paced puzzle action with colorful Yoshi's Island charm, as you swap blocks to create rows, trigger combos, and unleash massive garbage blocks on your opponents. Alongside the story mode, you'll find two-player battles, endless play, time trials, and tricky puzzles. Beneath its Western name lies the Japanese original Panel de Pon – now starring Yoshi and his vibrant island crew.</desc>
@@ -127,6 +128,7 @@ The real innovation of the game was in the multiplayer modes. You started with 4
 		<publisher>Nintendo</publisher>
 		<genre>Comp • Puzzle / Matching</genre>
 		<players>1-2</players>
+		<nomultiscrape>true</nomultiscrape>
 		<playcount>3</playcount>
 		<playtime>158</playtime>
 		<lastplayed>20260615T221609</lastplayed>
