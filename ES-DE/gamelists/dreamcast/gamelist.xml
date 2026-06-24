@@ -1,155 +1,155 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
-	<game>
-		<path>./puyo-puyo-4.gdi</path>
-		<name>Puyo Puyo~n</name>
-		<desc>Puyo Puyo~n (also called Puyo Puyo 4, based on a Japanese playword), is the fourth installment of the Puyo Puyo puzzle game series. It features a three-stage beginner mode and a single player story mode, where the main character (Arle) and (in console versions) the allies she meets along the way encounter different characters in a circus setting, and engage them in a Puyo Puyo puzzle battle.
+    <game>
+        <path>./puyo-puyo-4.gdi</path>
+        <name>Puyo Puyo~n</name>
+        <desc>Puyo Puyo~n (also called Puyo Puyo 4, based on a Japanese playword), is the fourth installment of the Puyo Puyo puzzle game series. It features a three-stage beginner mode and a single player story mode, where the main character (Arle) and (in console versions) the allies she meets along the way encounter different characters in a circus setting, and engage them in a Puyo Puyo puzzle battle.
 
 Story Mode features different rules per level (ex. Point Puyo can drop instead of Nuisance Puyo, a certain number of colors can be used, etc.) and special attacks that can be engaged with multiple chains.
 Other modes include classic Puyo Puyo and a battle mode for up to four players.</desc>
-		<rating>0.8</rating>
-		<releasedate>19990304T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>SEGA</publisher>
-		<genre>Comp • Puzzle / Falling Block</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<playtime>250</playtime>
-		<lastplayed>20260428T203838</lastplayed>
-	</game>
-	<game>
-		<path>./Power Stone 2 (USA).cue</path>
-		<name>Power Stone 2</name>
-		<desc>The world's most revolutionary fighting game does it again! Power Stone 2 takes go-anywhere, grab-anything combat, and introduces awesome new innovations to the hit arcade fighting series. Now, up to four players wage insane battles in fully interactive, multi-level stages. Master over 120 different items used in battle - weapons, vehicles traps, power-upsand more! As if chaotic swashbuckling battles weren't enough, combine forces with other players to battle monstrous bosses to win the game!</desc>
-		<rating>0.8</rating>
-		<releasedate>20000824T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Eidos Interactive</publisher>
-		<genre>Comp • Fighting / Brawl</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>337</playtime>
-		<lastplayed>20260428T204912</lastplayed>
-	</game>
-	<game>
-		<path>./Virtua Tennis (USA).cue</path>
-		<name>Virtua Tennis : Sega Professional Tennis</name>
-		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes... Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.
+        <rating>0.8</rating>
+        <releasedate>19990304T000000</releasedate>
+        <developer>Compile</developer>
+        <publisher>SEGA</publisher>
+        <genre>Puzzle / Falling Block</genre>
+        <players>1-4 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>7</playcount>
+        <playtime>250</playtime>
+        <lastplayed>20260428T203838</lastplayed>
+    </game>
+    <game>
+        <path>./Power Stone 2 (USA).cue</path>
+        <name>Power Stone 2</name>
+        <desc>The world's most revolutionary fighting game does it again! Power Stone 2 takes go-anywhere, grab-anything combat, and introduces awesome new innovations to the hit arcade fighting series. Now, up to four players wage insane battles in fully interactive, multi-level stages. Master over 120 different items used in battle - weapons, vehicles traps, power-upsand more! As if chaotic swashbuckling battles weren't enough, combine forces with other players to battle monstrous bosses to win the game!</desc>
+        <rating>0.8</rating>
+        <releasedate>20000824T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Eidos Interactive</publisher>
+        <genre>Fighting / Brawl</genre>
+        <players>1-4 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>3</playcount>
+        <playtime>337</playtime>
+        <lastplayed>20260428T204912</lastplayed>
+    </game>
+    <game>
+        <path>./Virtua Tennis (USA).cue</path>
+        <name>Virtua Tennis : Sega Professional Tennis</name>
+        <desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes... Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.
 
 Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners. 
 Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000908T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>SEGA</publisher>
-		<genre>Comp • Sports / Tennis</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>4</playcount>
-		<playtime>494</playtime>
-		<lastplayed>20260614T152002</lastplayed>
-	</game>
-	<game>
-		<path>./Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da).cue</path>
-		<name>Worms World Party</name>
-		<desc>The Worms are back, deadlier than ever.
+        <rating>0.8</rating>
+        <releasedate>20000908T000000</releasedate>
+        <developer>Hitmaker</developer>
+        <publisher>SEGA</publisher>
+        <genre>Sports / Tennis</genre>
+        <players>1-4 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>4</playcount>
+        <playtime>494</playtime>
+        <lastplayed>20260614T152002</lastplayed>
+    </game>
+    <game>
+        <path>./Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da).cue</path>
+        <name>Worms World Party</name>
+        <desc>The Worms are back, deadlier than ever.
 You're going to learn that there's nothing more dangerous than a Worm with a bazooka or a shotgun...
 
 At first sight, Worms World Party may seem very similar to Worms Armageddon. However, this time the game has been specially designed with multiplayer in mind. Up to 6 players can battle out at the same time on local networks or on the internet, using Team17 own matchmaking service, called Wormnet.
 
 Other welcomed additions are the Wormpot, which can provide 400 gameplay variations from "Goliath Mode" to "Bleeding Worms", hundreds of new landscapes, flags and fanfares, and a load of single player missions.</desc>
-		<rating>0.6</rating>
-		<releasedate>20010427T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Titus</publisher>
-		<genre>Comp • Strategy / Artillery</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>494</playtime>
-		<lastplayed>20260428T214300</lastplayed>
-	</game>
-	<game>
-		<path>./GigaWing 2 (USA).cue</path>
-		<name>GigaWing 2</name>
-		<desc>The third game in the Takumi/Capcom arcade shooter trilogy, Giga Wing 2 was originally designed for the Naomi arcade system and later ported to the Dreamcast. It is a top-down, vertical-scrolling shoot-em-up featuring four-player simultaneous action, high-res 3D graphics, and an orchestral score. There are four characters to choose from, each with his own storyline and fighter/spaceship. Each ship has its own weapon type and speed. Like the previous Giga Wing and Mars Matrix games, gameplay is designed around bullet absorption/reflection mechanics, large numbers of enemies, and giant boss fights. Giga Wing 2 adds the ability to choose from two different bullet reflection powers: reflect force and reflect laser. The reflect force repulses enemy shots, while the reflect laser uses them to charge up a beam weapon.</desc>
-		<rating>0.9</rating>
-		<releasedate>20010516T000000</releasedate>
-		<developer>Takumi</developer>
-		<publisher>Capcom</publisher>
-		<genre>Coop • Shooter / Vertical</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>150</playtime>
-		<lastplayed>20260614T151621</lastplayed>
-	</game>
-	<game>
-		<path>./Power Stone (USA).cue</path>
-		<name>Power Stone</name>
-		<desc>The creators of Street Fighter add a new dimension to 3D fighting. In Power Stone, 2 fighters take to multi-level arenas with Power Stones and other weapons lying around for use.
+        <rating>0.6</rating>
+        <releasedate>20010427T000000</releasedate>
+        <developer>Team 17</developer>
+        <publisher>Titus</publisher>
+        <genre>Strategy / Artillery</genre>
+        <players>1-4 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>1</playcount>
+        <playtime>494</playtime>
+        <lastplayed>20260428T214300</lastplayed>
+    </game>
+    <game>
+        <path>./GigaWing 2 (USA).cue</path>
+        <name>GigaWing 2</name>
+        <desc>The third game in the Takumi/Capcom arcade shooter trilogy, Giga Wing 2 was originally designed for the Naomi arcade system and later ported to the Dreamcast. It is a top-down, vertical-scrolling shoot-em-up featuring four-player simultaneous action, high-res 3D graphics, and an orchestral score. There are four characters to choose from, each with his own storyline and fighter/spaceship. Each ship has its own weapon type and speed. Like the previous Giga Wing and Mars Matrix games, gameplay is designed around bullet absorption/reflection mechanics, large numbers of enemies, and giant boss fights. Giga Wing 2 adds the ability to choose from two different bullet reflection powers: reflect force and reflect laser. The reflect force repulses enemy shots, while the reflect laser uses them to charge up a beam weapon.</desc>
+        <rating>0.9</rating>
+        <releasedate>20010516T000000</releasedate>
+        <developer>Takumi</developer>
+        <publisher>Capcom</publisher>
+        <genre>Shooter / Vertical</genre>
+        <players>1-4 Coop</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>1</playcount>
+        <playtime>150</playtime>
+        <lastplayed>20260614T151621</lastplayed>
+    </game>
+    <game>
+        <path>./Power Stone (USA).cue</path>
+        <name>Power Stone</name>
+        <desc>The creators of Street Fighter add a new dimension to 3D fighting. In Power Stone, 2 fighters take to multi-level arenas with Power Stones and other weapons lying around for use.
 
 Each game contains Power Stones. When you have enough stones (between three to five), your character transforms into an almost unbeatable warrior, with an all-new range of moves (although this does not last for long).</desc>
-		<rating>0.8</rating>
-		<releasedate>19991014T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Eidos Interactive</publisher>
-		<genre>Comp • Fighting / Brawl</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>297</playtime>
-		<lastplayed>20260518T144312</lastplayed>
-	</game>
-	<game>
-		<path>./Soulcalibur (USA).cue</path>
-		<name>SoulCalibur</name>
-		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
+        <rating>0.8</rating>
+        <releasedate>19991014T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Eidos Interactive</publisher>
+        <genre>Fighting / Brawl</genre>
+        <players>1-2 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>3</playcount>
+        <playtime>297</playtime>
+        <lastplayed>20260518T144312</lastplayed>
+    </game>
+    <game>
+        <path>./Soulcalibur (USA).cue</path>
+        <name>SoulCalibur</name>
+        <desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
 
 All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
 
 In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
-		<rating>0.8</rating>
-		<releasedate>19991126T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Comp • Fighting / 3D</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<playtime>446</playtime>
-		<lastplayed>20260427T213141</lastplayed>
-	</game>
-	<game>
-		<path>./ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).cue</path>
-		<name>ChuChu Rocket!</name>
-		<desc>ChuChu Rocket is an action puzzler, designed predominantly as a multi-player game. You have indirect control over mice, and must guide them to the safety of a rocket, and away from a cat. You do this by placing arrows on the ground, which they will follow. The multi-player game is a frantic all-against-all duel, in which each player's mice will only follow instructions of their own colour. You can play this mode on your own against CPU opponents, or take on a series of predefined puzzles</desc>
-		<rating>0.8</rating>
-		<releasedate>20000307T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<genre>Comp • Puzzle / Labyrinth</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>1</playcount>
-		<playtime>265</playtime>
-		<lastplayed>20260614T151325</lastplayed>
-	</game>
-	<game>
-		<path>./Dead or Alive 2 (USA).cue</path>
-		<name>Dead or Alive 2</name>
-		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000229T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Comp • Fighting / Team</genre>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>6</playcount>
-		<playtime>464</playtime>
-		<lastplayed>20260427T214053</lastplayed>
-	</game>
+        <rating>0.8</rating>
+        <releasedate>19991126T000000</releasedate>
+        <developer>Namco</developer>
+        <publisher>Namco</publisher>
+        <genre>Fighting / 3D</genre>
+        <players>1-2 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>6</playcount>
+        <playtime>446</playtime>
+        <lastplayed>20260427T213141</lastplayed>
+    </game>
+    <game>
+        <path>./ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).cue</path>
+        <name>ChuChu Rocket!</name>
+        <desc>ChuChu Rocket is an action puzzler, designed predominantly as a multi-player game. You have indirect control over mice, and must guide them to the safety of a rocket, and away from a cat. You do this by placing arrows on the ground, which they will follow. The multi-player game is a frantic all-against-all duel, in which each player's mice will only follow instructions of their own colour. You can play this mode on your own against CPU opponents, or take on a series of predefined puzzles</desc>
+        <rating>0.8</rating>
+        <releasedate>20000307T000000</releasedate>
+        <developer>Sonic Team</developer>
+        <publisher>SEGA</publisher>
+        <genre>Puzzle / Labyrinth</genre>
+        <players>1-4 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>1</playcount>
+        <playtime>265</playtime>
+        <lastplayed>20260614T151325</lastplayed>
+    </game>
+    <game>
+        <path>./Dead or Alive 2 (USA).cue</path>
+        <name>Dead or Alive 2</name>
+        <desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
+        <rating>0.8</rating>
+        <releasedate>20000229T000000</releasedate>
+        <developer>Tecmo</developer>
+        <publisher>Acclaim Entertainment</publisher>
+        <genre>Fighting / Team</genre>
+        <players>1-4 Comp</players>
+        <nomultiscrape>true</nomultiscrape>
+        <playcount>6</playcount>
+        <playtime>464</playtime>
+        <lastplayed>20260427T214053</lastplayed>
+    </game>
 </gameList>

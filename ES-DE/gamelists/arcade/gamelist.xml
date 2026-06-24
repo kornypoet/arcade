@@ -4296,8 +4296,8 @@ The game centers on a player's ability to shoot up to three bucks a stage withou
         <releasedate>19940101T000000</releasedate>
         <developer>SEGA</developer>
         <publisher>SEGA</publisher>
-        <genre>Shoot'em Up</genre>
-        <players>1-2</players>
+        <genre>Lightgun / Rail</genre>
+        <players>1-2 Coop</players>
         <broken>true</broken>
         <nomultiscrape>true</nomultiscrape>
         <playcount>2</playcount>
@@ -4670,7 +4670,7 @@ A racing game featuring classic cars from Ferrari, Alfa Romeo, Mercedes Benz and
         <releasedate>19950101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>3</playcount>
         <playtime>482</playtime>
@@ -4748,7 +4748,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <developer>Incredible Technologies, Inc.</developer>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>6</playcount>
         <playtime>131</playtime>
@@ -4777,7 +4777,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>19980101T000000</releasedate>
         <publisher>Incredible Technologies Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>3</playcount>
         <playtime>104</playtime>
@@ -4820,7 +4820,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>19990101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>6</playcount>
         <playtime>2559</playtime>
@@ -4835,7 +4835,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>20000101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>5</playcount>
         <playtime>283</playtime>
@@ -4849,7 +4849,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>20000101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>4</playcount>
         <playtime>2221</playtime>
@@ -4881,7 +4881,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>20010101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>3</playcount>
         <playtime>175</playtime>
@@ -4895,7 +4895,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>20010101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>3</playcount>
         <playtime>259</playtime>
@@ -4909,7 +4909,7 @@ Golden Tee '97 is the fourth game in the Golden Tee Golf series.</desc>
         <releasedate>20020101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <nomultiscrape>true</nomultiscrape>
         <playcount>2</playcount>
         <playtime>273</playtime>
@@ -4926,7 +4926,7 @@ As with most golfing games, players have a full selection of clubs from which to
         <releasedate>20050101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <broken>true</broken>
         <nomultiscrape>true</nomultiscrape>
         <playcount>7</playcount>
@@ -4958,7 +4958,7 @@ As with most golfing games, players have a full selection of clubs from which to
         <releasedate>20030101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <broken>true</broken>
         <nomultiscrape>true</nomultiscrape>
         <playcount>3</playcount>
@@ -5620,7 +5620,7 @@ The gameplay system has also changed. The striker system and four-character team
         <releasedate>20040101T000000</releasedate>
         <publisher>Incredible Technologies, Inc.</publisher>
         <genre>Sports / Golf</genre>
-        <players>1-4 Comp</players>
+        <players>1-4 Altr</players>
         <broken>true</broken>
         <nomultiscrape>true</nomultiscrape>
         <playcount>5</playcount>
