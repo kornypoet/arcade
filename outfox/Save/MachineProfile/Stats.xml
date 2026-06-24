@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>29</TotalSessions>
+<TotalSessions>123</TotalSessions>
 <TotalSessionSeconds>0</TotalSessionSeconds>
 <TotalGameplaySeconds>0</TotalGameplaySeconds>
 <TotalCaloriesBurned>0.000000</TotalCaloriesBurned>
@@ -50,11 +50,25 @@
 <NumStagesPassedByGrade/>
 </GeneralData>
 <SongScores>
+<Song Dir='Songs/DDRMax2/IN THE NAVY &apos;99 (XXL Disaster Remix)/'>
+<Steps ChartType='dance_single' Difficulty='Beginner' MD5Hash='067892d21d6ee5280dec9101564dc824' StepsType='StepsType_Dance_Single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-06-23</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/Outfox/Credits/'>
 <Steps ChartType='dance_single' Difficulty='Beginner' MD5Hash='6b7e6239a342517afe7241f58e068ec7' StepsType='StepsType_Dance_Single'>
 <HighScoreList>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-06-23</LastPlayed>
+</HighScoreList>
+</Steps>
+<Steps ChartType='dance_single' Difficulty='Easy' MD5Hash='3586ab657259b864c449600e567e22cd' StepsType='StepsType_Dance_Single'>
+<HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-04-24</LastPlayed>
+<LastPlayed>2026-06-23</LastPlayed>
 </HighScoreList>
 </Steps>
 </Song>

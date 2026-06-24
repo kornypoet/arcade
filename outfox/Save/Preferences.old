@@ -64,7 +64,7 @@ DebounceCoinInputTime=0.000000
 DebugLights=0
 DefaultLocalProfileIDP1=
 DefaultLocalProfileIDP2=
-DefaultModifiers=FailImmediate, Overhead
+DefaultModifiers=FailImmediate, Overhead, Outfox-note-3d+
 DefaultRecordLength=4.000000
 DefaultTheme=default
 DelayedBack=1
@@ -251,7 +251,7 @@ SextetStreamInputFilename=Data/StepMania-Input-SextetStream.in
 SextetStreamOutputFilename=Data/StepMania-Lights-SextetStream.out
 ShowBanners=1
 ShowBeginnerHelper=0
-ShowCaution=1
+ShowCaution=0
 ShowDancingCharacters=Off
 ShowDanger=1
 ShowDeltaClock=0
@@ -402,6 +402,6 @@ Theme=default
 
 [Game-dance]
 Announcer=
-DefaultModifiers=FailImmediate, Overhead
+DefaultModifiers=FailImmediate, Overhead, Outfox-note-3d+
 Theme=XX--STARLiGHT--twopointzero
 

@@ -219,23 +219,6 @@ Jurassic Park features Sega's often-used and highly effective sprite scaled grap
 		<lastplayed>20260531T143946</lastplayed>
 	</game>
 	<game>
-		<path>./invaders.zip</path>
-		<name>Space Invaders</name>
-		<desc>The most influential video game of all time. A single player moves an armed 'base' to the left or right along the bottom of the screen and fires at the endless waves of aliens that tirelessly parade across the screen towards earth.
-There are 4 buildings (shields) at the bottom of the screen behind which the player can hide, but these will eventually be destroyed by enemy missiles or by direct contact with the invaders themselves. Player shots will also destroy shields.
-The descent of the aliens accelerates as they are eliminated, making them more difficult to hit. A flying saucer will fly across the top of the screen at regular intervals and can be fired for extra points.</desc>
-		<rating>0.8</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Altr • Shooter / Fixed</genre>
-		<players>1-2</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>23</playcount>
-		<playtime>138</playtime>
-		<lastplayed>20260603T175028</lastplayed>
-	</game>
-	<game>
 		<path>./galaxian.zip</path>
 		<name>Galaxian</name>
 		<desc>Galaxian is a legendary single-screen shoot-em-up that took everything that made Taito's ground-breaking "Space Invaders" so good, and improved upon it on every level. Each screen starts with a wave of multi-colored aliens moving left and right at the top of the screen; the aliens quickly break ranks and start dive-bombing the Galaxip (player's ship) - either in single units or in groups of 3 - dropping multiple missiles as they descend. All of the aliens need to be destroyed before the player can progress to the next wave. </desc>
@@ -1872,24 +1855,6 @@ The two-player simultaneous mode can be played either competitively or cooperati
 		<lastplayed>20260606T122410</lastplayed>
 	</game>
 	<game>
-		<path>./digdug2.zip</path>
-		<name>Dig Dug II</name>
-		<desc>For this sequel to the 1982 classic, "Dig Dug", Namco changed the game's perspective from a cutaway side-on viewpoint to an overhead one. The action now takes place on a series of small islands, the gameplay itself retains much from its predecessor, with Dig Dug still being chased by the 'Pookas' (round, goggle-wearing red enemies) and the 'Fygers' (green, fire-breathing dragons).
-
-As with the first game, Dig Dug is still armed with a pump that allows him to inflate and burst the enemies. For the sequel, however, he is also armed with a jackhammer. This can be used at the round ground-pegs scattered around each island to create and connect up fault lines in the ground. If both ends of a system of faults reaches the water, the ground surrounded by them will sink into the ocean killing all creatures on it, including Dig Dug himself if he is standing on the destroyed section of land.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Altr • Action / Labyrinth</genre>
-		<players>1-2</players>
-		<broken>true</broken>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>3</playcount>
-		<playtime>90</playtime>
-		<lastplayed>20260606T122559</lastplayed>
-	</game>
-	<game>
 		<path>./bublbobl.zip</path>
 		<name>Bubble Bobble</name>
 		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
@@ -1943,20 +1908,6 @@ All marbles must be destroyed to complete a level. The game is over once the mar
 		<playcount>4</playcount>
 		<playtime>66</playtime>
 		<lastplayed>20260610T211156</lastplayed>
-	</game>
-	<game>
-		<path>./pacmanbr.zip</path>
-		<name>Pac-Man Battle Royale</name>
-		<desc>Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.</desc>
-		<releasedate>20110101T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<players>1-4</players>
-		<nomultiscrape>true</nomultiscrape>
-		<playcount>7</playcount>
-		<playtime>456</playtime>
-		<altemulator>Play!</altemulator>
-		<lastplayed>20260602T084044</lastplayed>
 	</game>
 	<game>
 		<path>./commando.zip</path>
@@ -2432,7 +2383,7 @@ As with "Smash TV", Total Carnage features the infamous 'Pleasuredome'; accessib
 		<releasedate>19850101T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
-		<genre>Altr • Shooting / Horizontal</genre>
+		<genre>Altr • Shooters / Horizontal</genre>
 		<players>1-2</players>
 		<nomultiscrape>true</nomultiscrape>
 		<playcount>10</playcount>
@@ -5797,5 +5748,56 @@ The player chooses a team of two fighters, each sporting their own life gauge; a
 		<playcount>6</playcount>
 		<playtime>588</playtime>
 		<lastplayed>20260623T182654</lastplayed>
+	</game>
+	<game>
+		<path>./digdug2.zip</path>
+		<name>Dig Dug II</name>
+		<desc>For this sequel to the 1982 classic, "Dig Dug", Namco changed the game's perspective from a cutaway side-on viewpoint to an overhead one. The action now takes place on a series of small islands, the gameplay itself retains much from its predecessor, with Dig Dug still being chased by the 'Pookas' (round, goggle-wearing red enemies) and the 'Fygers' (green, fire-breathing dragons).
+
+As with the first game, Dig Dug is still armed with a pump that allows him to inflate and burst the enemies. For the sequel, however, he is also armed with a jackhammer. This can be used at the round ground-pegs scattered around each island to create and connect up fault lines in the ground. If both ends of a system of faults reaches the water, the ground surrounded by them will sink into the ocean killing all creatures on it, including Dig Dug himself if he is standing on the destroyed section of land.</desc>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Altr • Action / Labyrinth</genre>
+		<players>1-2</players>
+		<broken>true</broken>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>5</playcount>
+		<playtime>100</playtime>
+		<lastplayed>20260623T213402</lastplayed>
+	</game>
+	<game>
+		<path>./pacmanbr.zip</path>
+		<name>Pac-Man Battle Royale</name>
+		<desc>Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.</desc>
+		<releasedate>20110101T000000</releasedate>
+		<rating>0.8</rating>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Comp • Action / Labyrinth</genre>
+		<players>1-4</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>8</playcount>
+		<playtime>700</playtime>
+		<altemulator>Play!</altemulator>
+		<lastplayed>20260624T140001</lastplayed>
+	</game>
+	<game>
+		<path>./invaders.zip</path>
+		<name>Space Invaders</name>
+		<desc>The most influential video game of all time. A single player moves an armed 'base' to the left or right along the bottom of the screen and fires at the endless waves of aliens that tirelessly parade across the screen towards earth.
+There are 4 buildings (shields) at the bottom of the screen behind which the player can hide, but these will eventually be destroyed by enemy missiles or by direct contact with the invaders themselves. Player shots will also destroy shields.
+The descent of the aliens accelerates as they are eliminated, making them more difficult to hit. A flying saucer will fly across the top of the screen at regular intervals and can be fired for extra points.</desc>
+		<rating>0.8</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter / Fixed</genre>
+		<players>1-2 Altr</players>
+		<nomultiscrape>true</nomultiscrape>
+		<playcount>26</playcount>
+		<playtime>149</playtime>
+		<lastplayed>20260624T164303</lastplayed>
 	</game>
 </gameList>
